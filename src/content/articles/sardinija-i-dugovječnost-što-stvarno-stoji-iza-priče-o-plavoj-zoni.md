@@ -13,6 +13,8 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags: []
+related_articles:
+  - 5-mjesta-5-načina-život-kako-su-plave-zone-postale-globalni-fenomen
 noindex: false
 ---
 Na kamenim stazama između sela, vrtova i kuća lako je povjerovati da je Sardinija pronašla tajnu dugog života. U popularnim pričama brzo se pojave [pecorino](https://www.pecorinoromano.com/en/), domaći kruh, mahunarke, planinski zrak i vino. Takav popis dobro zvuči, ali skriva važan dio priče.
