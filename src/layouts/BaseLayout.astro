@@ -147,5 +147,40 @@ const jsonLdData = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [defau
   </main>
   <Footer />
   <CookieBanner />
+
+  <!-- ChatGPT 50% Scroll Tracking Event for Articles -->
+  {article && (
+    <script is:inline>
+      document.addEventListener("DOMContentLoaded", function() {
+        let scrollEventFired = false;
+        
+        window.addEventListener("scroll", function() {
+          if (scrollEventFired) return;
+          
+          let scrollTop = window.scrollY || document.documentElement.scrollTop;
+          let docHeight = Math.max(
+            document.body.scrollHeight, document.documentElement.scrollHeight,
+            document.body.offsetHeight, document.documentElement.offsetHeight,
+            document.body.clientHeight, document.documentElement.clientHeight
+          );
+          let winHeight = window.innerHeight || document.documentElement.clientHeight;
+          
+          let scrollDepth = scrollTop / (docHeight - winHeight);
+          
+          if (scrollDepth >= 0.5) {
+            scrollEventFired = true; 
+            if (typeof oaiq === "function") {
+              oaiq(
+                "measure",
+                "custom",
+                { type: "custom" },
+                { custom_event_name: "article_read_50" }
+              );
+            }
+          }
+        });
+      });
+    </script>
+  )}
 </body>
 </html>
