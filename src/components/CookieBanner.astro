@@ -4,7 +4,7 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
 <div
   id="cookie-banner"
-  class="hidden fixed bottom-0 left-0 right-0 z-[100] bg-dark text-white shadow-2xl border-t border-white/10"
+  class="hidden fixed bottom-0 left-0 right-0 z-[100] bg-dark text-white shadow-2xl border-t-4 border-[#5ea98a]"
   role="region"
   aria-label="Obavijest o kolačićima"
 >
@@ -12,30 +12,36 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     <div class="flex flex-col lg:flex-row items-start lg:items-center gap-4">
       <!-- Text -->
       <div class="flex-1">
-        <p class="text-sm text-white/90 leading-relaxed">
+        <p class="text-white font-bold mb-1" style="font-family: Merriweather, Georgia, serif;">
+          🌿 Kolačići na Cultiviasu
+        </p>
+        <p class="text-sm text-white/80 leading-relaxed font-body">
           Koristimo kolačiće kako bismo poboljšali vaše iskustvo na stranici. Nužni kolačići su uvijek aktivni.
           Analitičke i marketinške kolačiće koristimo samo uz vašu privolu.
-          <a href={`${base}kolacici/`} class="underline text-primary hover:text-primary-dark ml-1">Saznajte više</a>
+          <a href={`${base}kolacici/`} class="underline text-[#5ea98a] hover:text-white ml-1">Saznajte više</a>
         </p>
       </div>
 
       <!-- Actions -->
-      <div class="flex flex-wrap items-center gap-2 flex-shrink-0">
+      <div class="flex flex-wrap items-center gap-2 flex-shrink-0 w-full lg:w-auto">
         <button
           id="cookie-settings-btn"
-          class="px-4 py-2 text-sm rounded-lg border border-white/30 text-white hover:border-white/60 transition-colors font-body"
+          type="button"
+          class="px-4 py-2.5 text-sm rounded-lg text-white/80 hover:text-white underline underline-offset-4 transition-colors font-body"
         >
           Postavke
         </button>
         <button
           id="cookie-necessary-btn"
-          class="px-4 py-2 text-sm rounded-lg border border-white/30 text-white hover:border-white/60 transition-colors font-body"
+          type="button"
+          class="flex-1 lg:flex-none px-5 py-2.5 text-sm font-semibold rounded-lg border-2 border-[#5ea98a] text-white hover:bg-[#5ea98a]/15 transition-colors font-body"
         >
           Samo nužni
         </button>
         <button
           id="cookie-accept-btn"
-          class="btn-accent px-5 py-2 text-sm rounded-lg"
+          type="button"
+          class="flex-1 lg:flex-none px-5 py-2.5 text-sm font-semibold rounded-lg border-2 border-[#5ea98a] bg-[#5ea98a] text-white hover:bg-[#4a8f72] hover:border-[#4a8f72] transition-colors font-body"
         >
           Prihvati sve
         </button>
@@ -44,32 +50,33 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
     <!-- Settings panel (hidden by default) -->
     <div id="cookie-settings-panel" class="hidden mt-4 pt-4 border-t border-white/10">
-      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        <label class="flex items-center gap-3 cursor-not-allowed opacity-60">
-          <input type="checkbox" checked disabled class="w-4 h-4 accent-primary" />
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <label class="flex items-start gap-3 p-3 rounded-lg bg-white/5 cursor-not-allowed opacity-70">
+          <input type="checkbox" checked disabled class="mt-0.5 w-4 h-4 accent-[#5ea98a]" />
           <div>
             <span class="text-sm font-semibold block">Nužni kolačići</span>
-            <span class="text-xs text-white/50">Uvijek aktivni</span>
+            <span class="text-xs text-white/50">Uvijek aktivni – potrebni za rad stranice</span>
           </div>
         </label>
-        <label class="flex items-center gap-3 cursor-pointer">
-          <input type="checkbox" id="analytics-toggle" class="w-4 h-4 accent-primary" />
+        <label class="flex items-start gap-3 p-3 rounded-lg bg-white/5 hover:bg-white/10 cursor-pointer transition-colors">
+          <input type="checkbox" id="analytics-toggle" class="mt-0.5 w-4 h-4 accent-[#5ea98a]" />
           <div>
             <span class="text-sm font-semibold block">Analitički kolačići</span>
-            <span class="text-xs text-white/50">Google Analytics</span>
+            <span class="text-xs text-white/50">Google Analytics – anonimna statistika posjeta</span>
           </div>
         </label>
-        <label class="flex items-center gap-3 cursor-pointer">
-          <input type="checkbox" id="marketing-toggle" class="w-4 h-4 accent-primary" />
+        <label class="flex items-start gap-3 p-3 rounded-lg bg-white/5 hover:bg-white/10 cursor-pointer transition-colors">
+          <input type="checkbox" id="marketing-toggle" class="mt-0.5 w-4 h-4 accent-[#5ea98a]" />
           <div>
             <span class="text-sm font-semibold block">Marketinški kolačići</span>
-            <span class="text-xs text-white/50">Personalizacija oglasa</span>
+            <span class="text-xs text-white/50">Google Ads, ChatGPT pixel – mjerenje i personalizacija oglasa</span>
           </div>
         </label>
       </div>
       <button
         id="cookie-save-btn"
-        class="mt-4 btn-accent px-5 py-2 text-sm rounded-lg"
+        type="button"
+        class="mt-4 px-5 py-2.5 text-sm font-semibold rounded-lg bg-[#5ea98a] text-white hover:bg-[#4a8f72] transition-colors font-body"
       >
         Spremi postavke
       </button>
@@ -78,9 +85,12 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 </div>
 
 <script>
-  const CONSENT_KEY = 'cookie_consent';
+  type Consent = { necessary: boolean; analytics: boolean; marketing: boolean };
 
-  function getConsent() {
+  const CONSENT_KEY = 'cookie_consent';
+  const w = window as any;
+
+  function getConsent(): Consent | null {
     try {
       const raw = localStorage.getItem(CONSENT_KEY);
       return raw ? JSON.parse(raw) : null;
@@ -89,10 +99,44 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     }
   }
 
-  function saveConsent(data: object) {
-    localStorage.setItem(CONSENT_KEY, JSON.stringify({ ...data, date: new Date().toISOString() }));
-    document.cookie = `cookie_consent=${JSON.stringify(data)}; path=/; max-age=31536000; SameSite=Lax`;
+  // Šalje odabir u Google Consent Mode v2 (GA4 + Google Ads preko GTM-a)
+  function updateGoogleConsent(c: Consent) {
+    const v = (x: boolean) => (x ? 'granted' : 'denied');
+    if (typeof w.gtag === 'function') {
+      w.gtag('consent', 'update', {
+        analytics_storage: v(c.analytics),
+        ad_storage: v(c.marketing),
+        ad_user_data: v(c.marketing),
+        ad_personalization: v(c.marketing),
+      });
+    }
+    w.dataLayer = w.dataLayer || [];
+    w.dataLayer.push({
+      event: 'cookie_consent_update',
+      consent_analytics: c.analytics,
+      consent_marketing: c.marketing,
+    });
+  }
+
+  function saveConsent(data: Consent) {
+    const previous = getConsent();
+    try {
+      localStorage.setItem(CONSENT_KEY, JSON.stringify({ ...data, date: new Date().toISOString() }));
+    } catch {}
+    document.cookie = `cookie_consent=${encodeURIComponent(JSON.stringify(data))}; path=/; max-age=31536000; SameSite=Lax`;
+
+    updateGoogleConsent(data);
+
+    if (data.marketing && typeof w.cvLoadMarketing === 'function') {
+      w.cvLoadMarketing();
+    }
+
     hideBanner();
+
+    // Povlačenje marketinške privole – osvježi da se pixel više ne učitava
+    if (previous?.marketing && !data.marketing) {
+      location.reload();
+    }
   }
 
   function hideBanner() {
@@ -103,30 +147,46 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     document.getElementById('cookie-banner')?.classList.remove('hidden');
   }
 
-  // Show banner if no consent yet
+  function openSettings() {
+    const c = getConsent();
+    const a = document.getElementById('analytics-toggle') as HTMLInputElement | null;
+    const m = document.getElementById('marketing-toggle') as HTMLInputElement | null;
+    if (a) a.checked = !!c?.analytics;
+    if (m) m.checked = !!c?.marketing;
+    document.getElementById('cookie-settings-panel')?.classList.remove('hidden');
+    showBanner();
+  }
+
+  w.openCookieSettings = openSettings;
+
+  // Prikaži banner ako još nema odabira
   if (!getConsent()) {
     showBanner();
   }
 
-  // Accept all
   document.getElementById('cookie-accept-btn')?.addEventListener('click', () => {
     saveConsent({ necessary: true, analytics: true, marketing: true });
   });
 
-  // Necessary only
   document.getElementById('cookie-necessary-btn')?.addEventListener('click', () => {
     saveConsent({ necessary: true, analytics: false, marketing: false });
   });
 
-  // Toggle settings panel
   document.getElementById('cookie-settings-btn')?.addEventListener('click', () => {
     document.getElementById('cookie-settings-panel')?.classList.toggle('hidden');
   });
 
-  // Save custom settings
   document.getElementById('cookie-save-btn')?.addEventListener('click', () => {
     const analytics = (document.getElementById('analytics-toggle') as HTMLInputElement)?.checked ?? false;
     const marketing = (document.getElementById('marketing-toggle') as HTMLInputElement)?.checked ?? false;
     saveConsent({ necessary: true, analytics, marketing });
+  });
+
+  // Link "Postavke kolačića" (npr. u footeru)
+  document.querySelectorAll('[data-cookie-settings]').forEach((el) => {
+    el.addEventListener('click', (e) => {
+      e.preventDefault();
+      openSettings();
+    });
   });
 </script>
