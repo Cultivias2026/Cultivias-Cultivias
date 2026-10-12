@@ -206,6 +206,9 @@ const jsonLdData = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [defau
           
           if (scrollDepth >= 0.5) {
             scrollEventFired = true; 
+            // GTM: GA4 + Google Ads konverzija (poštuje Consent Mode)
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({ event: "article_read_50", page_path: location.pathname });
             if (typeof oaiq === "function") {
               oaiq(
                 "measure",
