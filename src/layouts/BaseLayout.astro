@@ -55,6 +55,44 @@ const jsonLdData = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [defau
 <!DOCTYPE html>
 <html lang="hr">
 <head>
+  <!-- Consent Mode v2 – zadano stanje MORA biti prije GTM-a -->
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied',
+      functionality_storage: 'granted',
+      security_storage: 'granted',
+      wait_for_update: 500
+    });
+    gtag('set', 'ads_data_redaction', true);
+
+    // Marketinške skripte (ChatGPT pixel) – pokreću se samo uz privolu
+    window.cvLoadMarketing = function(){
+      !function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
+      oaiq("init",{pixelId:"4yYmcihnV9ymxzKFWkVXDX",debug:true});
+    };
+
+    // Vraćanje ranije spremljenog odabira posjetitelja
+    (function(){
+      try {
+        var c = JSON.parse(localStorage.getItem('cookie_consent'));
+        if (!c) return;
+        var v = function(x){ return x ? 'granted' : 'denied'; };
+        gtag('consent', 'update', {
+          analytics_storage: v(c.analytics),
+          ad_storage: v(c.marketing),
+          ad_user_data: v(c.marketing),
+          ad_personalization: v(c.marketing)
+        });
+        if (c.marketing) window.cvLoadMarketing();
+      } catch (e) {}
+    })();
+  </script>
+
   <!-- Google Tag Manager -->
   <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -62,8 +100,7 @@ const jsonLdData = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [defau
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KSPFCXPB');</script>
   
-  <!-- ChatGPT Pixel -->
-  <script is:inline>!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");oaiq("init",{pixelId:"4yYmcihnV9ymxzKFWkVXDX",debug:true});</script>
+  <!-- ChatGPT Pixel – učitava se samo uz marketinšku privolu (vidi Consent Mode skriptu iznad) -->
   
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
