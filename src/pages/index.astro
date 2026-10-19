@@ -412,48 +412,6 @@ const jsonLd = {
     </div>
   </section>
 
-  <!-- ===== NEWSLETTER CTA ===== -->
-  <section
-    id="newsletter"
-    class="my-8 mx-4 sm:mx-6 lg:mx-8 xl:mx-auto xl:max-w-7xl rounded-2xl overflow-hidden"
-    style="background-color: var(--color-dark);"
-  >
-    <div class="px-6 sm:px-16 py-14 flex flex-col lg:flex-row items-center gap-10">
-
-      <!-- Left: tekst -->
-      <div class="flex-1 text-center lg:text-left">
-        <span class="inline-block text-xs font-bold uppercase tracking-widest mb-4 px-4 py-1.5 rounded-full"
-              style="background: rgba(92,171,136,0.15); color: #5cab88; border: 1px solid rgba(92,171,136,0.35);">
-          Newsletter
-        </span>
-        <h2 class="text-2xl sm:text-3xl font-bold text-white font-heading leading-tight mb-3" set:html={site.newsletterHeading.replace('\n', '<br class="hidden sm:block" />')}></h2>
-        <p class="text-white/70 text-sm font-body max-w-sm mx-auto lg:mx-0">{site.newsletterSubtext}</p>
-        <p class="text-white/40 text-xs mt-3 font-body">{site.newsletterNote}</p>
-      </div>
-
-      <!-- Right: forma -->
-      <form id="hero-newsletter" class="flex flex-col gap-3 w-full lg:w-auto lg:min-w-[320px]" onsubmit="return false;">
-        <input
-          type="text"
-          placeholder="Vaše ime"
-          class="w-full px-5 py-3 rounded-xl text-white text-sm font-body focus:outline-none focus:border-primary transition-colors"
-          style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);"
-        />
-        <input
-          type="email"
-          placeholder="Vaša e-mail adresa"
-          class="w-full px-5 py-3 rounded-xl text-white text-sm font-body focus:outline-none focus:border-primary transition-colors"
-          style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);"
-          required
-        />
-        <button type="submit" class="btn-accent px-6 py-3 rounded-xl font-semibold text-sm w-full">
-          Pretplati se →
-        </button>
-      </form>
-
-    </div>
-  </section>
-
 </BaseLayout>
 
 <script>
@@ -474,42 +432,5 @@ const jsonLd = {
       const panel = document.getElementById(`panel-${target}`);
       if (panel) panel.classList.remove('hidden');
     });
-  });
-
-  // Newsletter
-  async function handleNewsletter(form: HTMLFormElement) {
-    const emailInput = form.querySelector<HTMLInputElement>('input[type="email"]')!;
-    const nameInput  = form.querySelector<HTMLInputElement>('input[type="text"]');
-    const btn        = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
-
-    const origText = btn.textContent || '';
-    btn.disabled  = true;
-    btn.textContent = 'Slanje...';
-
-    try {
-      const res = await fetch('https://cultivias-newsletter.culti-info.workers.dev', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email: emailInput.value, name: nameInput?.value || '' }),
-      });
-      const data = await res.json() as { success?: boolean; error?: string };
-      if (data.success) {
-        emailInput.value = '';
-        if (nameInput) nameInput.value = '';
-        btn.textContent = 'Hvala! ✓';
-        setTimeout(() => { btn.textContent = origText; btn.disabled = false; }, 3000);
-      } else {
-        btn.textContent = data.error || 'Greška';
-        setTimeout(() => { btn.textContent = origText; btn.disabled = false; }, 3000);
-      }
-    } catch {
-      btn.textContent = 'Greška veze';
-      setTimeout(() => { btn.textContent = origText; btn.disabled = false; }, 3000);
-    }
-  }
-
-  document.getElementById('hero-newsletter')?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    handleNewsletter(e.target as HTMLFormElement);
   });
 </script>

@@ -49,12 +49,6 @@ const pathname = Astro.url.pathname;
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M16.5 10.5a6 6 0 11-12 0 6 6 0 0112 0z"/>
           </svg>
         </button>
-        <a
-          href={`${base}#newsletter`}
-          class="btn-accent text-sm px-4 py-2 rounded-lg"
-        >
-          Newsletter
-        </a>
       </div>
 
       <button
@@ -141,13 +135,6 @@ const pathname = Astro.url.pathname;
         {link.label}
       </a>
     ))}
-    <a
-      href={`${base}#newsletter`}
-      class="mt-8 btn-accent text-center text-lg py-4 rounded-xl"
-      onclick="document.getElementById('mobile-menu').classList.add('hidden'); document.getElementById('hamburger-icon').classList.remove('hidden'); document.getElementById('close-icon').classList.add('hidden');"
-    >
-      Newsletter
-    </a>
   </nav>
 
   <div class="px-8 pb-8 text-white/40 text-sm">
