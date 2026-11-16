@@ -1,6 +1,7 @@
 ---
 import { getEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildGraph, webPageNode, breadcrumbNode, ORG_ID } from '../lib/schema';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 
@@ -11,12 +12,28 @@ if (!entry) {
 }
 
 const { Content } = await entry.render();
+
+const jsonLd = await buildGraph([
+  webPageNode({
+    type: 'AboutPage',
+    path: '/o-nama/',
+    name: entry.data.title + " | Cultivias",
+    description: entry.data.description,
+    hasBreadcrumb: true,
+    extra: { about: { '@id': ORG_ID } },
+  }),
+  breadcrumbNode('/o-nama/', [
+    { name: 'Naslovnica', path: '/' },
+    { name: entry.data.title, path: '/o-nama/' },
+  ]),
+]);
 ---
 
 <BaseLayout
   title={entry.data.title + " | Cultivias"}
   description={entry.data.description}
   canonical="/o-nama/"
+  jsonLd={jsonLd}
 >
   <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <nav class="mb-6" aria-label="Navigacijska staza">
