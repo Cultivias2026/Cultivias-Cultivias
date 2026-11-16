@@ -1,18 +1,15 @@
 ---
-title: "Kalorije u rajčici: Usporedba svježe rajčice, passate, koncentrata i umaka"
+title: "Rajčica: kalorije u svježem plodu, passati, koncentratu i umaku"
 category: povrce
 author: redakcija
 image: /images/articles/rajčice-crvene.webp
-perex: >+
-  Svježa, zrela rajčica ima 18 kcal na 100 g, prema zapisu za sirovu crvenu
-  rajčicu u USDA FoodData Centralu. Passata, koncentrat rajčice i gotovi umaci
-  nemaju jednu zajedničku kalorijsku vrijednost: broj ovisi o udjelu vode,
-  načinu prerade i sastojcima u pojedinom proizvodu.
+perex: >-
+  Svježa rajčica ima 18 kcal na 100 g, prema USDA zapisu za crvenu, zrelu i sirovu rajčicu. Jedan srednji plod od 123 g daje približno 22 kcal, a 250 g narezane rajčice 45 kcal.
 
-  Za svježu rajčicu uzmite USDA podatak od 18 kcal na 100 g. Za passatu, koncentrat i umak otvorite deklaraciju te usporedite vrijednosti iskazane na 100 g.
-
-readTime: 3
+  Passata, koncentrat i gotovi umak nisu ista namirnica u drukčijoj ambalaži. Razlikuju se po preradi, količini vode i sastojcima, pa za njih treba računati prema konkretnom proizvodu i količini koju dodajete jelu.
+readTime: 6
 publishedAt: 2026-08-27
+updatedAt: 2026-11-17
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -23,87 +20,97 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
   - sve-što-trebate-znati-o-rajčici-od-sadnje-do-zdravstvenih-benefita
+metaTitle: "Rajčica kalorije: svježa, passata, koncentrat i umak"
+metaDescription: "Koliko kalorija ima jedna rajčica, porcija passate ili žlica koncentrata? Pogledajte konkretne deklaracije, tablice porcija i račun za domaći umak."
 noindex: false
 ---
-## Koliko kalorija ima svježa rajčica?
+## Koliko kalorija ima jedna rajčica ili zdjelica salate?
 
-Svježa crvena, zrela i sirova rajčica sadrži **18 kcal na 100 g**.[1](https://fdc.nal.usda.gov/food-details/170457/nutrients "USDA FoodData Central — Tomato, red, ripe, raw, year-round (FDC ID 170457)") To je referentna vrijednost za cijeli svježi plod bez ulja, šećera, soli ili drugih dodataka.
+Jedna rajčica ima onoliko kalorija koliko odgovara njezinoj masi: mali plod od 91 g približno 16 kcal, a veliki od 182 g približno 33 kcal. USDA zapis FDC 170457 navodi te primjere veličina, ali vaš plod može biti lakši ili teži.
 
-U svakodnevnoj pripremi nije presudno režete li rajčicu na kriške ili kockice. Bitno je izvagati količinu koju stvarno koristite i računati iz podatka na 100 g. Tako 200 g svježe rajčice daje 36 kcal, a 50 g daje 9 kcal.
+| Primjer svježe rajčice | Jestiva masa | Kalorije |
+| :-- | --: | --: |
+| Nekoliko kriški | 50 g | 9 kcal |
+| Mali plod, USDA primjer | 91 g | 16 kcal |
+| Referentna količina | 100 g | 18 kcal |
+| Srednji plod, USDA primjer | 123 g | 22 kcal |
+| Veliki plod, USDA primjer | 182 g | 33 kcal |
+| Zdjelica narezane rajčice | 250 g | 45 kcal |
 
-## Koliko kalorija imaju passata, koncentrat i gotovi umak?
+Izračun se temelji na 18 kcal/100 g iz navedenog USDA zapisa, a rezultati su zaokruženi na najbližu cijelu kilokaloriju. Porcije su primjeri, ne preporučeni dnevni unos; riječ je o rajčici bez ulja, sira ili drugih dodataka.
 
-Passata, koncentrat i gotovi umak mogu imati različite kalorijske vrijednosti i kada su svi proizvodi od rajčice. Ne postoji broj koji pošteno opisuje svaku bocu passate, tubu koncentrata ili staklenku umaka.
+Vagajte dio koji ćete pojesti, bez peteljke. Razlike u veličinama i namjeni plodova opisuje naš [vodič kroz sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), no naziv sorte sam po sebi nije kalorijska vrijednost.
 
-Razlog je jednostavan. Passata je tekući proizvod s većim udjelom vode, koncentrat je gušći jer je dio vode uklonjen, a gotovi umak često sadrži dodatke poput ulja, šećera, povrća, škroba ili začina. Zato se vrijednost za svježu rajčicu ne smije prepisati na prerađevine.
+## Koliko kalorija imaju passata, koncentrat i umak?
 
-| Oblik proizvoda        | Što možete pouzdano navesti                                                       | Što određuje kalorije          | Gdje provjeriti                   |
-| ---------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------------------------- |
-| Svježa rajčica         | [**`18 kcal na 100 g`** ](https://fdc.nal.usda.gov/food-details/170457/nutrients) | Sirovi plod bez dodataka       | USDA FoodData Central             |
-| Passata                | Nema jedinstvenu vrijednost                                                       | Udio vode i eventualni dodaci  | Deklaracija na boci ili pakiranju |
-| Koncentrat rajčice     | Nema jedinstvenu vrijednost                                                       | Stupanj koncentracije i sastav | Deklaracija na tubi ili staklenci |
-| Gotovi umak od rajčice | Nema jedinstvenu vrijednost                                                       | Cijela receptura proizvoda     | Deklaracija i popis sastojaka     |
+U otvorenim primjerima proizvođača Mutti passata ima 36 kcal, dvostruki koncentrat 96 kcal, a umak s genovskim bosiljkom 56 kcal na 100 g. **To su vrijednosti konkretnih proizvoda, ne svih passata, koncentrata i umaka.**
 
-## Zašto koncentrat obično nije usporediv sa svježom rajčicom?
+| Oblik i konkretan primjer | kcal na 100 g | Primjer odvagane količine | kcal u toj količini |
+| :-- | --: | --: | --: |
+| Mutti Passata | 36 | 150 g | 54 |
+| Mutti dvostruki koncentrat | 96 | 15 g | 14 |
+| Mutti umak s genovskim bosiljkom PDO | 56 | 125 g | 70 |
 
-Koncentrat rajčice nije isto što i svježa rajčica u manjem pakiranju. Riječ je o gušćem proizvodu u kojem je tijekom prerade smanjen udio vode, pa se sastav i energija ne čitaju na isti način kao kod svježeg ploda.
+Osnovne vrijednosti preuzete su iz službenih deklaracija [Mutti passate](https://www.mutti.com/products/passata/), [dvostrukog koncentrata rajčice](https://www.mutti.com/products/double-concentrated-tomato-paste/) i [umaka s genovskim bosiljkom](https://www.mutti.com/products/pasta-sauce-with-genovese-basil-pdo/). Kalorije porcija zaokružene su na cijeli broj; za drugi proizvod vrijedi njegova deklaracija jer se koncentracija i receptura mogu razlikovati.
 
-To ne znači da se koncentrat treba promatrati kao „lošija” ili „bolja” namirnica. On se u receptima uglavnom koristi u manjim količinama, dok se svježa rajčica češće jede u većoj porciji. Usporedba na 100 g korisna je za deklaracije, ali sama po sebi ne govori koliko ćete proizvoda staviti u tanjur.
+Račun za vlastitu količinu glasi: **kcal porcije = kcal na 100 g × masa porcije u gramima ÷ 100**. Usporedba na 100 g pokazuje razliku u energetskoj gustoći, a stupac porcija pokazuje koliko se stvarno dodaje jelu.
 
-## Kako čitati kalorije na deklaraciji passate i umaka?
+## Što je passata i zašto nema iste kalorije kao svježa rajčica?
 
-Kod kupljenih proizvoda deklaracija je polazište. [Pravila EU propisuju](https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en) da većina pretpakiranih namirnica mora navesti energetsku vrijednost, a podaci se iskazuju na 100 g ili 100 ml; mogu se dodatno navesti i po porciji.
+Passata je pasirana rajčica, najčešće glatka, bez kožice i sjemenki, koja služi kao baza za umake i juhe. Njezina kalorijska vrijednost ne može se jednostavno preuzeti iz podatka za svježi plod jer je riječ o prerađenom proizvodu.
 
-Za rajčicu, passatu, koncentrat i gotove umake najjednostavnije je uspoređivati **kcal na 100 g**. Porcija može biti koristan dodatak, ali nije dobar zajednički nazivnik kada uspoređujete proizvode različitih brendova ili gustoće.
+Primjer Mutti passate sadrži rajčicu i sol te nema dodanog šećera, a ipak ima 36 kcal na 100 g. Proizvođač opisuje uklanjanje kožice i sjemenki tijekom prerade; sol ne dodaje kalorije, a šećeri navedeni u nutritivnoj tablici prirodno su prisutni u rajčici.
 
-| Na deklaraciji potražite | Kako to tumačiti                                    | Zašto pomaže u usporedbi                                                                                                                                                                                             |
-| ------------------------ | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Energetska vrijednost    | Podatak u kJ i kcal                                 | Daje broj kalorija za navedenu osnovicu [2](https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en "European Commission — Nutrition labelling") |
-| Osnovica „na 100 g”      | Standard za usporedbu s drugim proizvodima          | Omogućuje usporedbu dvije pasate ili dva umaka                                                                                                                                                                       |
-| Veličina porcije         | Dodatni prikaz za količinu koju predlaže proizvođač | Koristan je tek kad znate koliku porciju stvarno koristite                                                                                                                                                           |
-| Popis sastojaka          | Pregled onoga što je u proizvodu                    | Objašnjava razliku između obične pasate i recepture s uljem ili šećerom                                                                                                                                              |
-| Naziv proizvoda          | Passata, koncentrat ili umak                        | Sprječava usporedbu različitih oblika kao da su ista namirnica                                                                                                                                                       |
+## Koliko kalorija ima žlica koncentrata rajčice?
 
-## Kako izračunati kalorije za količinu koju ste stvarno upotrijebili?
+Odvaganih 15 g koncentrata iz tablice daje približno **14 kcal**, dok 30 g daje približno 29 kcal. Žlica nije pouzdana jedinica mase: ravna i puna žlica ne sadrže jednaku količinu gustog proizvoda.
 
-Kalorije za vlastitu porciju izračunavaju se razmjerno podatku na 100 g. Ako deklaracija navodi 40 kcal na 100 g, a u jelo ste stavili 25 g proizvoda, račun je: **40 × 25 ÷ 100 = 10 kcal**.
+Koncentrat nastaje uklanjanjem velikog dijela vode iz rajčice, pa je gušći od passate i ima više energije na 100 g. Ipak, manja količina koncentrata u receptu može dati manje kalorija nego velika porcija passate, što se vidi u tablici.
 
-Najpreciznije je koristiti kuhinjsku vagu. Posudu stavite na vagu, poništite masu posude i dodajte rajčicu, passatu, koncentrat ili umak. Kod koncentrata je korisno staviti žlicu na vagu pa poništiti njezinu masu prije dodavanja proizvoda.
+## Zašto gotovi umak može imati više kalorija od passate?
 
-> **Formula:** kcal za izmjerenu količinu = (kcal na 100 g × izmjerena masa u g) ÷ 100.
+Gotovi umak može imati više kalorija zato što uz rajčicu sadrži ulje i druge energetske sastojke. U odabranom umaku s bosiljkom nalaze se pulpa rajčice, pasirana rajčica, koncentrat, maslinovo ulje, luk i mrkva, a 150 g tog proizvoda daje 84 kcal.
 
-Ako umak miješate s uljem, sirom, mesom ili drugim sastojcima, svaki sastojak računa se zasebno. Kalorije iz same rajčice tada više nisu cijela priča o jelu.
+Umak nema dodanog šećera, ali nije bez kalorija. Ako računate cijeli obrok, kalorijama umaka zasebno dodajte tjesteninu, sir ili druge sastojke na tanjuru.
 
-## Kako izračunati kalorije domaće passate ili umaka?
+## Kako izračunati kalorije domaćeg umaka od rajčice?
 
-Domaća passata i domaći umak nemaju deklaraciju, pa ih treba računati iz recepta. Zbrojite kalorije svakog sastojka u količini koju ste stvarno upotrijebili, a zatim izmjerite ukupnu masu gotovog proizvoda nakon pripreme.
+Kalorije domaćeg umaka približno se računaju iz energije sastojaka i završne mase, ako svi jestivi sastojci ostanu u umaku. Manja masa nakon kuhanja znači više kalorija na 100 g jer je ispario dio vode.
 
-Primijenite istu formulu kao za kupovni proizvod: ukupne kalorije recepta podijelite s ukupnom masom gotovog umaka, a zatim rezultat pomnožite sa 100. Tako dobivate kalorije na 100 g domaće passate ili umaka koje možete ponovno koristiti pri svakom kuhanju.
+Hipotetski primjer jednostavnog umaka koristi 1.000 g svježe rajčice i 20 g maslinova ulja, bez drugih energetskih sastojaka. Rajčica daje 180 kcal, a ulje 176,8 kcal, prema [USDA podatku za maslinovo ulje](https://fdc.nal.usda.gov/food-details/171413/nutrients) od 884 kcal/100 g; ukupno je to 356,8 kcal.
 
-| Korak                             | Što napraviti                                                 | Rezultat                                      |
-| --------------------------------- | ------------------------------------------------------------- | --------------------------------------------- |
-| 1. Zapišite sastojke              | Uključite rajčicu, ulje, šećer i sve ostalo što ulazi u lonac | Imate potpunu osnovu za račun                 |
-| 2. Izračunajte kalorije sastojaka | Za svaki sastojak upotrijebite njegov podatak na 100 g        | Dobivate ukupne kalorije recepta              |
-| 3. Izvažite gotov proizvod        | Mjerite masu nakon kuhanja i hlađenja                         | Znate stvarnu količinu umaka                  |
-| 4. Preračunajte na 100 g          | Ukupne kalorije podijelite s ukupnom masom i pomnožite sa 100 | Dobivate usporediv podatak za domaći proizvod |
+Ako nakon kuhanja i hlađenja ostane 800 g dobro izmiješanog umaka, dobivate približno 45 kcal na 100 g i 67 kcal u porciji od 150 g. Ako isti sastojci završe u 600 g umaka, vrijednost raste na približno 59 kcal na 100 g.
 
-## Može li se passata usporediti s koncentratom rajčice?
+**Taj račun nije pouzdan za passatu koju cijedite i iz koje odbacujete kožicu, sjemenke ili pulpu.** Tada dio energije odlazi s odbačenim sastojcima, pa zbroj svih početnih rajčica nije točna energija preostalog proizvoda.
 
-Može, ali samo ako znate što uspoređujete. Pogledajte kalorije na 100 g na obje deklaracije, a zatim imajte na umu da ih u kuhanju vjerojatno nećete koristiti u istoj količini.
+Za pripremu iz vlastitog uroda uzgojne pojedinosti potražite u [vodiču za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/). Kalorijski račun i dalje ovisi o sastojcima koji ostaju u vašem loncu.
 
-Passata obično služi kao veća, tekuća baza za juhu ili umak, dok koncentrat dodaje intenzitet u maloj žlici. Usporedba na 100 g odgovara na pitanje o gustoći proizvoda, a vaganje odgovara na pitanje koliko ste kalorija zaista dodali jelu.
+## Koje se nedoumice često javljaju pri računanju kalorija?
 
-## Zašto se kalorije gotovih umaka razlikuju među brendovima?
+Najčešće nedoumice odnose se na razrjeđivanje, mjerenje volumena i dodatke salati. Evo kako ih razlikovati bez zamjene kalorija cijelog jela kalorijama same rajčice.
 
-Gotovi umaci razlikuju se jer nisu ista receptura. Jedan može biti gotovo isključivo na bazi rajčice, a drugi može sadržavati više ulja, šećera, sira, povrća ili zgušnjivača.
+### Smanjuje li razrjeđivanje koncentrata njegove ukupne kalorije?
 
-Zato je korisno čitati dvije stvari zajedno: energetsku vrijednost na 100 g i popis sastojaka. Broj kalorija govori o energetskom sadržaju, dok sastojci objašnjavaju zašto je jedan umak drukčiji od drugoga.
+Ne, voda ne smanjuje ukupnu energiju dodanog koncentrata, nego energiju na 100 g mješavine. U hipotetskom primjeru 20 g odabranog koncentrata i 80 g vode daju 100 g mješavine s 19,2 kcal, koliko je imao sam koncentrat.
 
-## Najčešće pogreške pri usporedbi kalorija u rajčici
+### Mogu li 100 ml passate računati kao 100 g?
 
-Najčešća pogreška je poistovjetiti svježu rajčicu i prerađevine od rajčice. Podatak od 18 kcal odnosi se na svježi plod, ne na koncentrat, passatu ni umak.[1](https://fdc.nal.usda.gov/food-details/170457/nutrients "USDA FoodData Central — Tomato, red, ripe, raw, year-round (FDC ID 170457)")
+Ne bez podatka o gustoći ili vaganja, jer mililitri mjere volumen, a grami masu. Za deklaraciju na 100 g najjednostavnije je odvagati passatu umjesto pretpostaviti da je gustoće vode.
 
-Česta je i usporedba „po porciji” bez provjere koliko porcija iznosi. Za usporedbu proizvoda držite se 100 g, a za vlastiti tanjur upotrijebite vagu i razmjerni preračun. Tako izbjegavate procjene koje se lako pretvore u netočan rezultat.
+### Ima li salata od rajčice uvijek malo kalorija?
 
-1. U.S. Department of Agriculture, Agricultural Research Service. [USDA FoodData Central — *Tomato, red, ripe, raw, year-round* (FDC ID 170457)](https://fdc.nal.usda.gov/food-details/170457/nutrients "USDA FoodData Central — Tomato, red, ripe, raw, year-round (FDC ID 170457)").
-2. European Commission. [Nutrition labelling: nutrition declaration for prepacked food](https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en "European Commission — Nutrition labelling").
+Sama rajčica ima 45 kcal u 250 g, ali dodaci mijenjaju ukupan račun. Ulje, sir i preljevi računaju se zasebno, pa podatak za rajčicu ne opisuje automatski cijelu zdjelicu salate.
+
+## Koju brojku koristiti za svoj tanjur?
+
+Za svježu rajčicu računajte od 18 kcal na 100 g jestivog dijela. Za passatu, koncentrat i umak uzmite brojku svog proizvoda i odvaganu količinu: visoka vrijednost na 100 g ne znači nužno mnogo kalorija u maloj porciji.
+
+## Izvori
+
+- [USDA FoodData Central: službeni podaci za sirovu crvenu rajčicu, FDC 170457](https://fdc.nal.usda.gov/food-details/170457/nutrients)
+- [Mutti Passata: sastav, način prerade i nutritivne vrijednosti](https://www.mutti.com/products/passata/)
+- [Mutti dvostruki koncentrat: sastav i nutritivne vrijednosti](https://www.mutti.com/products/double-concentrated-tomato-paste/)
+- [Mutti umak s genovskim bosiljkom PDO: sastav i nutritivne vrijednosti](https://www.mutti.com/products/pasta-sauce-with-genovese-basil-pdo/)
+- [USDA FoodData Central: službeni podaci za maslinovo ulje, FDC 171413](https://fdc.nal.usda.gov/food-details/171413/nutrients)
+
+> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
