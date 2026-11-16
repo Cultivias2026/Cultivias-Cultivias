@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, getEntry } from 'astro:content';
+import { buildGraph, webPageNode, breadcrumbNode, authorRef, abs, webPageId, ORG_ID } from '../../lib/schema';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -65,55 +66,49 @@ const showExpertBadge = article.data.expert_reviewed && author?.role === 'expert
 // ==========================================
 // JSON-LD: BlogPosting
 // ==========================================
+const articlePath = `/${article.data.category}/${articleSlug}/`;
+const articleUrl = abs(articlePath);
+
 const articleJsonLd = {
-  '@context': 'https://schema.org',
   '@type': 'BlogPosting',
+  '@id': `${articleUrl}#article`,
   headline: article.data.title,
   description: article.data.metaDescription || article.data.perex,
   image: [
-    `https://cultivias.com${article.data.image}`,
+    abs(article.data.image),
   ],
   datePublished: new Date(article.data.publishedAt).toISOString(),
   dateModified: new Date(article.data.updatedAt || article.data.publishedAt).toISOString(),
-  author: {
-    '@type': 'Person',
-    name: author?.name || article.data.author,
-    url: `https://cultivias.com/autor/${article.data.author}/`,
-  },
-  publisher: {
-    '@type': 'Organization',
-    name: 'Cultivias',
-    url: 'https://cultivias.com',
-    logo: {
-      '@type': 'ImageObject',
-      url: 'https://cultivias.com/logo.svg',
-      width: 600,
-      height: 60,
-    },
-  },
-  mainEntityOfPage: {
-    '@type': 'WebPage',
-    '@id': `https://cultivias.com/${article.data.category}/${articleSlug}/`,
-  },
-  url: `https://cultivias.com/${article.data.category}/${articleSlug}/`,
+  author: authorRef(article.data.author, author),
+  publisher: { '@id': ORG_ID },
+  mainEntityOfPage: { '@id': webPageId(articlePath) },
+  url: articleUrl,
   inLanguage: 'hr',
-  keywords: article.data.tags?.join(', ') || '',
+  ...(article.data.tags?.length ? { keywords: article.data.tags.join(', ') } : {}),
   articleSection: categoryLabel,
   timeRequired: `PT${article.data.readTime || 5}M`,
 };
 
 // ==========================================
-// JSON-LD: BreadcrumbList
+// JSON-LD: WebPage + BreadcrumbList
 // ==========================================
-const breadcrumbJsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Naslovnica', item: 'https://cultivias.com/' },
-    { '@type': 'ListItem', position: 2, name: categoryLabel, item: `https://cultivias.com/${article.data.category}/` },
-    { '@type': 'ListItem', position: 3, name: article.data.title, item: `https://cultivias.com/${article.data.category}/${articleSlug}/` },
-  ],
-};
+const webPageJsonLd = webPageNode({
+  path: articlePath,
+  name: article.data.metaTitle || `${article.data.title} | Cultivias`,
+  description: article.data.metaDescription || article.data.perex,
+  hasBreadcrumb: true,
+  extra: {
+    primaryImageOfPage: { '@type': 'ImageObject', url: abs(article.data.image) },
+    datePublished: articleJsonLd.datePublished,
+    dateModified: articleJsonLd.dateModified,
+  },
+});
+
+const breadcrumbJsonLd = breadcrumbNode(articlePath, [
+  { name: 'Naslovnica', path: '/' },
+  { name: categoryLabel, path: `/${article.data.category}/` },
+  { name: article.data.title, path: articlePath },
+]);
 
 // ==========================================
 // JSON-LD: FAQPage (samo ako članak ima faq polje u frontmatteru)
@@ -122,8 +117,8 @@ let faqJsonLd = null;
 
 if (article.data.faq && article.data.faq.length > 0) {
   faqJsonLd = {
-    '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': `${articleUrl}#faq`,
     mainEntity: article.data.faq.map((faqItem: { question: string; answer: string }) => ({
       '@type': 'Question',
       name: faqItem.question,
@@ -135,10 +130,11 @@ if (article.data.faq && article.data.faq.length > 0) {
   };
 }
 
-const allJsonLd = [articleJsonLd, breadcrumbJsonLd];
+const graphNodes: Record<string, unknown>[] = [webPageJsonLd, articleJsonLd, breadcrumbJsonLd];
 if (faqJsonLd) {
-  allJsonLd.push(faqJsonLd);
+  graphNodes.push(faqJsonLd);
 }
+const allJsonLd = await buildGraph(graphNodes);
 
 // Sidebar: recent articles in same category
 const sidebarArticles = allArticles
