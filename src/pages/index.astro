@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection, getEntry } from 'astro:content';
+import { buildGraph, webPageNode, ORG_ID } from '../lib/schema';
 
 const site = (await getEntry('settings', 'site'))!.data;
 
@@ -56,13 +57,14 @@ function formatDate(d: string) {
   return new Date(d).toLocaleDateString('hr-HR', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: 'Cultivias',
-  url: 'https://cultivias.com',
-  description: 'Cultivias.com – vaš izvor informacija o voću, povrću i ljekovitom bilju.',
-};
+const jsonLd = await buildGraph([
+  webPageNode({
+    path: '/',
+    name: 'Cultivias – Voće, Povrće i Ljekovito Bilje',
+    description: 'Cultivias.com – vaš pouzdani izvor informacija o voću, povrću i ljekovitom bilju. Stručni članci, savjeti za uzgoj i zdravlje za cijeli Balkan.',
+    extra: { about: { '@id': ORG_ID } },
+  }),
+]);
 ---
 
 <BaseLayout
