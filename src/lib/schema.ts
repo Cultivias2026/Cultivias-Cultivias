@@ -81,8 +81,8 @@ interface WebPageOptions {
   path: string;
   name: string;
   description?: string;
-  /** schema.org tip: WebPage, CollectionPage, AboutPage, ProfilePage ... */
-  type?: string;
+  /** schema.org tip: WebPage, CollectionPage, AboutPage, ProfilePage ... (ili popis tipova) */
+  type?: string | string[];
   /** Ako stranica ima BreadcrumbList čvor u grafu */
   hasBreadcrumb?: boolean;
   extra?: Node;
@@ -164,4 +164,111 @@ export function authorNode(slug: string, author: AuthorData): Node {
         ? { jobTitle: author.title }
         : {}),
   };
+}
+
+// ---------------------------------------------------------------------------
+// FAQ: pitanja iz teksta članka
+// ---------------------------------------------------------------------------
+// Pitanje je svaki naslov (## ... ######) koji završava znakom "?". Odgovor je
+// tekst odjeljka do sljedećeg naslova iste ili više razine, pretvoren u običan
+// tekst. Tako schema uvijek odgovara onome što posjetitelj vidi na stranici.
+
+// [tekst](url "naslov") — url smije imati jednu razinu zagrada, naslov bilo što
+const LINK_TAIL = String.raw`\((?:[^()"'\s]|\([^()]*\))*(?:\s+(?:"[^"]*"|'[^']*'))?\s*\)`;
+const IMAGE_RE = new RegExp(String.raw`!\[[^\]]*\]` + LINK_TAIL, 'g');
+const LINK_RE = new RegExp(String.raw`\[([^\]]*)\]` + LINK_TAIL, 'g');
+
+/** Inline markdown -> običan tekst. */
+function inlineToText(s: string): string {
+  return s
+    .replace(IMAGE_RE, '')
+    .replace(LINK_RE, '$1')
+    .replace(/\*\*(.+?)\*\*/g, '$1')
+    .replace(/\*([^*\s][^*]*?)\*/g, '$1')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/** Markdown blok (odlomci, popisi, tablice, citati) -> običan tekst, jedan red po bloku. */
+function sectionToText(lines: string[]): string {
+  const out: string[] = [];
+  let para: string[] = [];
+  const flush = () => {
+    if (para.length) {
+      const t = inlineToText(para.join(' '));
+      if (t) out.push(t);
+      para = [];
+    }
+  };
+
+  for (const raw of lines) {
+    const line = raw.replace(/\s+$/, '');
+    if (!line.trim()) { flush(); continue; }
+    if (/^\s*(-{3,}|\*{3,}|_{3,})\s*$/.test(line)) { flush(); continue; }
+
+    // tablica: preskoči redak s razdjelnicima, ostale retke spoji s " | "
+    if (/^\s*\|/.test(line)) {
+      flush();
+      if (/^[\s|:-]+$/.test(line)) continue;
+      const cells = line.trim().replace(/^\||\|$/g, '').split('|').map(inlineToText).filter(Boolean);
+      if (cells.length) out.push(cells.join(' | '));
+      continue;
+    }
+
+    const heading = line.match(/^\s*#{1,6}\s+(.*?)\s*#*\s*$/);
+    if (heading) {
+      flush();
+      const t = inlineToText(heading[1]);
+      if (t) out.push(t);
+      continue;
+    }
+
+    const item = line.match(/^\s*(?:[-*+]|\d+[.)])\s+(.*)$/);
+    if (item) { flush(); para.push(item[1]); continue; }
+
+    para.push(line.replace(/^\s*>\s?/, '').trim());
+  }
+  flush();
+  return out.join('\n');
+}
+
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+/** Vadi pitanja i odgovore iz markdown teksta članka. */
+export function extractQuestions(markdown: string): FaqItem[] {
+  const lines = markdown.replace(/\r\n?/g, '\n').split('\n');
+
+  const heads: { i: number; level: number; text: string }[] = [];
+  let fenced = false;
+  lines.forEach((l, i) => {
+    if (/^\s*(```|~~~)/.test(l)) { fenced = !fenced; return; }
+    if (fenced) return;
+    const m = l.match(/^(#{2,6})\s+(.+?)\s*#*\s*$/);
+    if (m) heads.push({ i, level: m[1].length, text: inlineToText(m[2]) });
+  });
+
+  const items: FaqItem[] = [];
+  const seen = new Set<string>();
+  heads.forEach((h, k) => {
+    if (!h.text.endsWith('?') || seen.has(h.text)) return;
+    const next = heads.slice(k + 1).find((x) => x.level <= h.level);
+    const answer = sectionToText(lines.slice(h.i + 1, next ? next.i : lines.length));
+    if (!answer) return;
+    seen.add(h.text);
+    items.push({ question: h.text, answer });
+  });
+  return items;
+}
+
+/** Question/Answer čvorovi za FAQPage.mainEntity. */
+export function faqQuestionNodes(items: FaqItem[]): Node[] {
+  return items.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: { '@type': 'Answer', text: answer },
+  }));
 }
