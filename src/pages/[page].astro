@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { buildGraph, webPageNode, breadcrumbNode } from '../lib/schema';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -13,6 +14,20 @@ export async function getStaticPaths() {
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { page } = Astro.props;
 const { Content } = await page.render();
+
+const pagePath = `/${page.slug}/`;
+const jsonLd = await buildGraph([
+  webPageNode({
+    path: pagePath,
+    name: `${page.data.title} | Cultivias`,
+    description: page.data.description,
+    hasBreadcrumb: true,
+  }),
+  breadcrumbNode(pagePath, [
+    { name: 'Naslovnica', path: '/' },
+    { name: page.data.title, path: pagePath },
+  ]),
+]);
 ---
 
 <BaseLayout
@@ -21,6 +36,7 @@ const { Content } = await page.render();
   image={page.data.ogImage}
   canonical={`/${page.slug}/`}
   noindex={page.data.noindex}
+  jsonLd={jsonLd}
 >
   <!-- Breadcrumbs -->
   <div class="bg-white border-b border-bg-pale">
