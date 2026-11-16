@@ -1,18 +1,15 @@
 ---
-title: Kalorije u aroniji! Koliko imaju svježe bobice, sok, prah i sušena aronija?
+title: "Aronija: kalorije u svježim bobicama, soku, prahu i sušenom obliku"
 category: voce
 author: redakcija
 image: /images/articles/aronija-kalorije.webp
 perex: >-
-  Svježa aronija ima 50 kcal na 100 g.
+  Svježe, sirove bobice aronije imaju 50 kcal na 100 g, prema norveškoj tablici sastava hrane. Porcija od 50 g zato daje 25 kcal, ali tu vrijednost ne treba prepisati soku, prahu ili sušenim bobicama.
 
-  Za sok, prah i sušene bobice ne postoji jedna brojka koja vrijedi za svaki proizvod, jer prerada, udio vode i eventualni dodani sastojci mijenjaju energetsku vrijednost.
-
-
-
-  Ako uspoređujete aroniju prema kalorijama, držite se jednostavnog pravila: svježe bobice računajte prema 50 kcal na 100 g, a prerađevine prema deklaraciji proizvoda koji imate pred sobom.
-readTime: 3
+  Najveću razliku u praksi čine oblik aronije i količina koju pojedete ili popijete. Sušena aronija ima više kalorija po gramu od svježe, no mali dodatak praha nije isto što i puna zdjelica bobica.
+readTime: 6
 publishedAt: 2026-09-06
+updatedAt: 2026-11-17
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -21,78 +18,93 @@ related_articles:
   - aronija-–-čudesna-biljka-za-podršku-zdravlja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - je-li-aronija-štetna-po-naše-zdravlje
+metaTitle: "Aronija kalorije: svježe bobice, sok, prah i sušene bobice"
+metaDescription: "Svježa aronija ima 50 kcal na 100 g. Usporedite konkretne porcije bobica, soka, praha i sušene aronije te izračunajte koliko dodaju vašem doručku."
 noindex: false
 ---
-## Koliko kalorija ima aronija na 100 g?
+## Koliko kalorija ima porcija svježe aronije?
 
-**100 g svježe, sirove aronije ima 50 kcal odnosno 210 kJ.** [Matvaretabellen](https://www.matvaretabellen.no/en/black-chokeberries-raw/) za istu količinu navodi 8,8 g ugljikohidrata, 6 g vlakana, 0,7 g bjelančevina i 0,1 g masti.
+Porcija svježe aronije od 30 g ima 15 kcal, a 100 g ima 50 kcal. Računajte masu samih bobica, bez peteljki i posude, osobito ako ih dodajete u jogurt ili smoothie.
 
-Ta se vrijednost odnosi na cijeli, svježi plod bez dodanog šećera, sokova ili drugih sastojaka. **Kalorije aronije ostaju niske dok gledate svježe bobice**, no količina na tanjuru i oblik proizvoda uvijek mijenjaju ukupan unos.
+Norveška vrijednost nije jedina dostupna: [češka baza sastava hrane za sirovu aroniju](https://www.nutridatabaze.cz/en/food/?id=651) navodi 56 kcal na 100 g. Za sve primjere svježih bobica ovdje koristimo norveških 50 kcal, kako se polazište ne bi mijenjalo između porcija.
 
-| Količina svježe aronije | Kalorije        | Kako je izračunato    |
-| ----------------------- | --------------- | --------------------- |
-| **25 g**                | oko **13 kcal** | 50 kcal × 0,25        |
-| **50 g**                | **25 kcal**     | 50 kcal × 0,5         |
-| **55 g**                | oko **28 kcal** | 50 kcal × 0,55        |
-| **100 g**               | **50 kcal**     | referentna vrijednost |
-| **150 g**               | **75 kcal**     | 50 kcal × 1,5         |
-| **200 g**               | **100 kcal**    | 50 kcal × 2           |
+Ako vas zanima sama biljka, [pregled podrijetla i botaničkih obilježja aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) donosi širi kontekst. Za kalorijski izračun dovoljno je razlikovati cijeli svježi plod od prerađevina.
 
-## Koliko kalorija ima jedna porcija aronije?
+## Koliko kalorija imaju sok, prah i sušene bobice u konkretnoj porciji?
 
-**Porcija aronije može imati od 25 do 75 kcal, ovisno o stvarnoj gramaturi.** Mala količina od oko 50 g donosi 25 kcal, dok 150 g svježih bobica ima 75 kcal. Najtočniji odgovor dobit ćete vaganjem, jer šaka bobica nema istu masu kod svake osobe.
+U provjerenim primjerima 50 ml soka ima 23 kcal, 10 g praha oko 27 kcal, a 20 g sušenih bobica oko 54 kcal. To su izračuni za određene proizvode, a ne brojke koje vrijede za svaki sok, prah ili sušenu aroniju.
 
-Sama [norveška baza hrane](https://www.matvaretabellen.no/en/black-chokeberries-raw/) kao volumen od 1 dl navodi približno 55 g svježe aronije. To je korisna orijentacija za recept, ali **vaga je bolji izbor kada želite precizan izračun kalorija**.
+| Oblik aronije | Polazište izračuna | Primjer porcije | Kalorije porcije |
+| --- | --- | --- | --- |
+| Svježe bobice | 50 kcal / 100 g | 30 g | 15 kcal |
+| Svježe bobice | 50 kcal / 100 g | 50 g | 25 kcal |
+| Svježe bobice | 50 kcal / 100 g | 100 g | 50 kcal |
+| Svježe bobice | 50 kcal / 100 g | 150 g | 75 kcal |
+| Aronia ORIGINAL, 100 % matični sok | 46 kcal / 100 ml | 50 ml | 23 kcal |
+| Aronia ORIGINAL, prah iz komine | 269 kcal / 100 g | 10 g | oko 27 kcal |
+| Aronia ORIGINAL, cijele sušene bobice | 271 kcal / 100 g | 20 g | oko 54 kcal |
 
-## Kako izračunati kalorije aronije prema gramima?
+Izvor za svježe bobice je norveška baza, a za prerađevine otvorene proizvođačke tablice [matičnog soka](https://www.aronia-original.de/en/products/aronia-not-from-concentrate-juice-100ml), [praha iz komine](https://www.aronia-original.de/en/products/organic-aronia-berry-powder-100-g-2) i [sušenih bobica](https://www.aronia-original.de/en/products/dried-aronia-berries-200g). Rezultati su zaokruženi na najbližu cijelu kilokaloriju; porcije su primjeri, ne preporučeni dnevni unos.
 
-**Kalorije aronije izračunavaju se množenjem grama s 0,5.** Budući da 100 g svježih bobica ima 50 kcal, svaki gram aronije ima približno 0,5 kcal.
+Za drugi proizvod vrijedi njegova deklarirana energija jer se sastav i količina preostale vode mogu razlikovati. Jednostavan račun glasi: kcal na 100 g × masa porcije ÷ 100; kada je sok označen na 100 ml, računajte s mililitrima, ne gramima.
 
-> **Formula:** grami aronije × 0,5 = kalorije
+## Je li matični sok isto što i koncentrat?
 
-Primjer: ako ste izvagali 80 g svježe aronije, račun je 80 × 0,5, što daje **40 kcal**. Za izračun nije potreban kalkulator kalorija ni procjena po šalici, dovoljno je imati masu bobica.
+Matični sok nije isto što i koncentrat: u prikazanom primjeru riječ je o 100 % soku dobivenom prešanjem, bez koncentriranja. Iz koncentrata se uklanja dio vode, dok konačan napitak nakon razrjeđivanja ima drukčiju energetsku vrijednost od samog koncentrata.
 
-## Koliko kalorija ima sok od aronije?
+**100 g bobica nije isto što i 100 ml soka.** Prešanjem dio ploda ostaje u komini, pa kalorije cijelog voća ne otkrivaju kalorije dobivenog soka.
 
-**Kalorije soka od aronije ovise o vrsti soka i sastavu, zato ih treba pročitati na deklaraciji.** Matični sok, koncentrat, nektar i napitak nisu ista kategorija proizvoda. Razlikuju se prema udjelu aronije, količini vode i dodanim sastojcima, pa se razlikuje i broj kcal na 100 ml.
+Razrjeđivanje običnom vodom smanjuje kalorije po gutljaju, ali ne uklanja energiju ulivenog soka. Primjerice, 50 ml navedenog soka i 150 ml vode daje približno 200 ml napitka s ukupno 23 kcal; ako popijete sve, unijeli ste svih 23 kcal.
 
-Na europskim deklaracijama energetska vrijednost za pakiranu hranu mora biti iskazana na **100 g ili 100 ml**, a proizvođač je može dodatno navesti i po porciji. To propisuju [pravila Europske komisije za nutritivno označavanje](https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en). Kod soka zato najprije pogledajte redak „energija”, zatim sastojke, a tek potom procijenite kalorije u čaši.
+## Zašto sušena aronija ima više kalorija na 100 g?
 
-| Oblik napitka          | Što provjeriti na etiketi                                      | Kako računati kalorije                                 |
-| ---------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
-| **Matični sok**        | energiju na 100 ml i popis sastojaka                           | pomnožite kcal na 100 ml s količinom koju ste natočili |
-| **Koncentrat**         | odnosi li se vrijednost na koncentrat ili pripremljeni napitak | držite se uputa proizvođača za razrjeđivanje           |
-| **Nektar ili napitak** | udio voća, šećere i druge sastojke                             | ne koristite brojku za svježe bobice kao zamjenu       |
+Sušena aronija ima više kalorija na 100 g zato što se uklanjanjem vode energija koncentrira u manjoj masi. [Utah State University objašnjava učinak sušenja na kalorijsku vrijednost](https://extension.usu.edu/preserve-the-harvest/research/home-drying-foods): samo sušenje ne dodaje kalorije, ali ih povećava po jedinici mase.
 
-**Primjer izračuna za sok:** ako deklaracija navodi 40 kcal na 100 ml, čaša od 200 ml ima 80 kcal. Ako na boci piše vrijednost po porciji, provjerite koliki je volumen te porcije prije usporedbe s drugim proizvodom.
+Zato 20 g sušenih bobica iz tablice daje oko 54 kcal, premda izgleda kao malen dodatak doručku. Uspoređujte izvagane porcije, a ne dvije šake različitog oblika aronije.
 
-## Koliko kalorija ima prah od aronije?
+## Je li prah samo samljevena sušena aronija?
 
-**Prah od aronije nema univerzalnu kalorijsku vrijednost, jer proizvođači koriste različitu sirovinu i recepturu.** Čisti prah od dehidriranih bobica, prah s dodatnim nosačem i mješavina za napitak mogu imati različitu energetsku vrijednost na 100 g.
+Prah može nastati mljevenjem cijelog osušenog ploda, ali može biti i od osušene komine nakon prešanja soka. Prah u našoj tablici pripada drugoj skupini: nastaje od ostatka bobica nakon izdvajanja soka, ponajprije kožica i sjemenki.
 
-Sušenjem se uklanja dio vode pa se sastojci iz svježeg ploda nalaze u manjoj masi proizvoda. Zato se **kalorije praha ne uspoređuju izravno s 50 kcal svježe aronije na 100 g**. Za prah pogledajte deklaraciju na 100 g, a zatim izvagajte stvarnu masu žličice ili mjerice koju koristite.
+Ta razlika mijenja sastav proizvoda, pa kalorije cijelih sušenih bobica nisu pouzdano polazište za svaki prah. Ako je prah mješavina, računajte energiju cijele mješavine, a ne samo udio aronije.
 
-| Ako na deklaraciji piše          | Što napraviti                                                                |
-| -------------------------------- | ---------------------------------------------------------------------------- |
-| kcal na 100 g                    | izvagajte količinu praha i računajte razmjerno                               |
-| kcal po mjerici                  | provjerite koliko grama sadržava jedna mjerica                               |
-| proizvod se priprema s vodom     | računajte prema vrijednosti za pripremljen napitak samo ako je tako navedeno |
-| proizvod sadržava više sastojaka | pročitajte popis sastojaka, jer to objašnjava razliku u kalorijama           |
+## Kako izračunati doručak s aronijom?
 
-## Koliko kalorija ima sušena aronija?
+Kalorije doručka dobivate zbrajanjem energije osnovne namirnice i stvarno dodane količine aronije. Kao **hipotetski primjer**, uzmimo 150 g jogurta koji na deklaraciji ima 60 kcal na 100 g: sam jogurt daje 90 kcal.
 
-**Sušena aronija također se provjerava prema deklaraciji, a ne prema vrijednosti svježih bobica.** Uklanjanjem vode mijenja se odnos mase i energije, a proizvođač može dodati šećer ili druge sastojke. Dva pakiranja sušenih bobica stoga mogu imati različit broj kalorija iako na prednjoj strani oba nose naziv „aronija”.
+S dodatkom 50 g svježih bobica ukupno dobivate 115 kcal. S 10 g praha iz tablice doručak ima oko 117 kcal, a s 20 g navedenih sušenih bobica oko 144 kcal.
 
-Kad uspoređujete dvije vrećice, gledajte iste tri stavke: energiju na 100 g, veličinu porcije i sastojke. **Usporedba na 100 g jedini je pošten način da vidite koji proizvod ima više kalorija.**
+Te porcije nisu jednake po masi ni sastavu, nego pokazuju kako zamjena oblika utječe na račun. Zobene pahuljice, med ili druge dodatke uračunajte zasebno; ovaj primjer ih ne uključuje.
 
-## Zašto se kalorije aronije razlikuju između proizvoda?
+## Što još treba znati o kalorijama aronije?
 
-**Kalorije se razlikuju zato što svježa aronija, sok, prah i sušene bobice nisu isti proizvod.** Svježi plod pretežno sadržava vodu, sok može biti razrijeđen ili zaslađen, a prah i sušeni plod imaju drukčiji udio vode po gramu.
+### Znači li trpak okus da aronija nema šećera ni kalorija?
 
-[Znanstveni pregled sastava i prerade aronije](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/) opisuje različite proizvode i nusproizvode dobivene od *Aronia melanocarpa*. To je razlog zašto opća brojka za „aroniju” nije dobra zamjena za brojku na pakiranju soka, praha ili sušenog voća.
+Ne, trpak okus nije mjera kalorija. I cijele bobice i čisti sok sadrže energiju, neovisno o tome koliko su slatki na okus.
 
-## Koju brojku koristiti za aroniju u receptu?
+### Ima li sušena aronija bez dodanog šećera kalorije?
 
-**Za recept sa svježom aronijom koristite 50 kcal na 100 g, a za prerađevine upotrijebite deklaraciju točno određenog proizvoda.** Ako recept navodi 120 g svježih bobica, to je 60 kcal. Ako navodi 120 ml soka ili 15 g praha, kalorije preuzmite s boce odnosno pakiranja.
+Da, ima kalorije iz samog voća. Sušene bobice u tablici nemaju dodani šećer, a njihov konkretan proizvod ipak navodi 271 kcal na 100 g.
 
-Za širu sliku o podrijetlu, sastavu i upotrebi ploda pročitajte [vodič o aroniji na Cultiviasu](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/). Ako vas zanima kako se ista logika primjenjuje na drugu vrstu bobičastog voća, pogledajte i [kalorije bazginih bobica u svježem plodu, soku i sirupu](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu/).
+### Koliko kalorija ima jedna žličica praha?
+
+To možete izračunati tek kada znate masu praha u žličici. Ravna i puna žličica ne sadrže jednaku količinu, pa je izvagani dodatak korisniji od procjene po volumenu.
+
+### Mogu li domaćem cijeđenom soku izračunati kalorije iz mase bobica?
+
+Ne pouzdano, jer dio jestivog ploda ostaje u odbačenoj komini. Za smoothie u kojem zadržavate sve bobice možete zbrojiti energiju sastojaka, ali isti postupak nije točan za procijeđeni sok.
+
+## Koju brojku koristiti za svoj obrok?
+
+Za svježe bobice računajte **50 kcal na 100 g** kao navedenu referencu. Za ostale oblike uzmite energiju konkretnog proizvoda i svoju porciju: mali dodatak praha, sušenih bobica ili soka tada dobiva jasan kalorijski iznos.
+
+## Izvori
+
+- [Norveška tablica sastava hrane: sirove bobice crnoplodne aronije](https://www.matvaretabellen.no/en/black-chokeberries-raw/)
+- [Češka baza sastava hrane: sirova aronija](https://www.nutridatabaze.cz/en/food/?id=651)
+- [Aronia ORIGINAL: sastav i nutritivna tablica 100 % matičnog soka](https://www.aronia-original.de/en/products/aronia-not-from-concentrate-juice-100ml)
+- [Aronia ORIGINAL: sastav i nutritivna tablica praha iz komine](https://www.aronia-original.de/en/products/organic-aronia-berry-powder-100-g-2)
+- [Aronia ORIGINAL: sastav i nutritivna tablica sušenih bobica](https://www.aronia-original.de/en/products/dried-aronia-berries-200g)
+- [Utah State University Extension: sušenje hrane i kalorije po jedinici mase](https://extension.usu.edu/preserve-the-harvest/research/home-drying-foods)
+
+> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
