@@ -14,6 +14,10 @@ editors_pick: true
 tags: []
 metaTitle: "Majčina Dušica: vodič kroz ljekovita svojstva i upotrebu"
 noindex: false
+related_articles:
+  - čaj-od-majčine-dušice-ljekovitost-djelovanje-i-pravilna-priprema
+  - kadulja--ljekovita-biljka-s-dugom-tradicijom
+  - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 [Majčina dušica (Thymus serpyllum) o](https://hr.wikipedia.org/wiki/Maj%C4%8Dina_du%C5%A1ica)d davnina je cijenjena zbog svoje sposobnosti da ublaži respiratorne tegobe i smiri probavne smetnje, moderna znanost danas potvrđuje njezinu vrijednost, otkrivajući snažna antimikrobna i antioksidativna djelovanja.
 
@@ -75,7 +79,7 @@ Zbog visoke učinkovitosti i potvrđene sigurnosti primjene, ekstrakti majčine 
 
 Tradicionalna medicina cijeni majčinu dušicu i kao pomoć kod probavnih tegoba. Njezino karminativno djelovanje pomaže u smanjenju nadutosti i izbacivanju plinova iz probavnog sustava.
 
-Spazmolitička svojstva, koja opuštaju glatke mišiće, mogu ublažiti grčeve i bolove u trbuhu. Čaj od majčine dušice, popijen nakon obroka, može potaknuti probavu i smanjiti osjećaj težine u želucu. Iako su potrebna dodatna klinička istraživanja, tradicionalno se koristi i kod ublažavanja simptoma sindroma iritabilnog crijeva (IBS).
+Spazmolitička svojstva, koja opuštaju glatke mišiće, mogu ublažiti grčeve i bolove u trbuhu. [Čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/), popijen nakon obroka, može potaknuti probavu i smanjiti osjećaj težine u želucu. Iako su potrebna dodatna klinička istraživanja, tradicionalno se koristi i kod ublažavanja simptoma sindroma iritabilnog crijeva (IBS).
 
 ## Majčina dušica za mentalno zdravlje
 

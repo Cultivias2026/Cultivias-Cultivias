@@ -13,10 +13,14 @@ editors_pick: false
 tags: []
 metaTitle: "Hladni oblozi od kamilice: Prirodno rješenje za opuštanje"
 noindex: false
+related_articles:
+  - čaj-od-kamilice
+  - kamilica-biljka-naših-baka
+  - kamilica-olakšanje-probave-nadutosti-i-grčeva
 ---
 
 
-Jedna od najučinkovitijih metoda korištenja kamilice je primjena **hladnih obloga**.
+Jedna od najučinkovitijih metoda korištenja [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) je primjena **hladnih obloga**.
 
 Ovi oblozi pružaju brzo olakšanje za različite probleme, od iritacija kože do umora očiju. U ovom članku istražit ćemo kako pravilno pripremiti i koristiti hladne obloge od kamilice te koje su njihove glavne prednosti.
 
@@ -76,7 +80,7 @@ Priprema hladnih obloga od kamilice jednostavna je i zahtijeva samo nekoliko kor
 
 Stavite cvjetove kamilice u posudu i prelijte ih kipućom vodom.Pokrijte i pustite da se čaj hladi 10-15 minuta.
 
-Procijedite[ čaj](https://www.catino.com.hr/caj-od-kamilice/) kako biste uklonili cvjetove.
+Procijedite[ čaj](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) kako biste uklonili cvjetove.
 
 **2.Hlađenje čaja**
 

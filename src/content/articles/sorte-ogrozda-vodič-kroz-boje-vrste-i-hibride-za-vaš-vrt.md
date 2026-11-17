@@ -14,8 +14,12 @@ editors_pick: true
 tags: []
 metaTitle: "Sorte ogrozda: Vodič kroz boje, vrste i hibride za vaš vrt"
 noindex: false
+related_articles:
+  - kako-posaditi-i-razmnožiti-ogrozd
+  - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
+  - ogrozd--zaboravljeno-supervoće
 ---
-Ovaj vodič će vam pomoći da se snađete u svijetu sorti [ogrozda](https://www.catino.com.hr/ogrozd/), od klasičnih boja do modernih hibrida, te razbiti neke uobičajene mitove o njima.
+Ovaj vodič će vam pomoći da se snađete u svijetu sorti [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/), od klasičnih boja do modernih hibrida, te razbiti neke uobičajene mitove o njima.
 
 ## Klasifikacija po bojama: Razlike u okusu i izgledu
 
@@ -65,7 +69,7 @@ Općenito pravilo je da su **tamniji plodovi slađi**, dok su **zeleniji i svjet
 
 Hinnonmaki Red se preporučuje za vrtlare koji žele pouzdanu sortu koja će godinama proizvoditi kvalitetne plodove.
 
-Sorta je otporna na bolesti, ali kao i većina ogrozda, trebala bi biti zaštićena od jakih vjetrova. Biljka dostiže normalnu veličinu grma i može se lako održavati rezidbom.
+Sorta je otporna na bolesti, ali kao i većina ogrozda, trebala bi biti zaštićena od jakih vjetrova. Biljka dostiže normalnu veličinu grma i može se lako održavati rezidbom. Za veći urod pogledajte i [vodič za pravilno orezivanje ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
 
 ### Hinnonmaki Yellow (Green)
 
@@ -113,7 +117,7 @@ Pixwell je poznata i po tome što je otporna na različite bolesti, što je čin
 
 ## Hibridi i posebne vrste: Josta
 
-**[Josta](https://en.wikipedia.org/wiki/Jostaberry)** je fascinantan hibrid nastao križanjem [crnog ribiza](https://www.catino.com.hr/crni-ribiz/) (Ribes nigrum) i [ogrozda](https://en.wikipedia.org/wiki/Jostaberry) (Ribes uva-crispa), a ponekad uključuje i američki obalni crni ogrozd (Ribes divaricatum).
+**[Josta](https://en.wikipedia.org/wiki/Jostaberry)** je fascinantan hibrid nastao križanjem [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (Ribes nigrum) i [ogrozda](https://en.wikipedia.org/wiki/Jostaberry) (Ribes uva-crispa), a ponekad uključuje i američki obalni crni ogrozd (Ribes divaricatum).
 
 Ime je dobila kombinacijom njemačkih naziva za crni ribiz (Johannisbeere) i ogrozd (Stachelbeere).
 

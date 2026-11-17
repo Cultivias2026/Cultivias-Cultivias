@@ -15,6 +15,10 @@ tags: []
 metaTitle: Ogrozd i zdravlje! Što kažu istraživanja?
 ogImage: /images/articles/zreli-plodovi-ogrozda.webp
 noindex: false
+related_articles:
+  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-kalorije-svjezi-plod-kompot-dzem
+  - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala
 ---
 No, osim njegove  nutritivne vrijednosti, imamo i istraživanja koja dokazuju ono što su naši preci znali i bez njih: ogrozd uistinu može pridonijeti našem zdravlju. U ovom članku pročitajte zbog čega je ovo voće nutritivna bomba za **očuvanje** našeg zdravlja.
 
@@ -36,7 +40,7 @@ Tvrdnje o ljekovitosti temelje se na odobrenim zdravstvenim tvrdnjama za vitamin
 
 ### 1. Podrška imunosnom sustavu
 
-[Ogrozd](https://www.catino.com.hr/ogrozd/) je izvanredan izvor vitamina C, koji prema odobrenim zdravstvenim tvrdnjama, doprinosi normalnoj funkciji imunosnog sustava i štiti stanice od oksidativnog stresa.
+[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) je izvanredan izvor vitamina C, koji prema odobrenim zdravstvenim tvrdnjama, doprinosi normalnoj funkciji imunosnog sustava i štiti stanice od oksidativnog stresa.
 
 **Svega 100g ogrozda sadrži 27.7 mg vitamina C, što je 31% dnevne preporučene vrijednosti.**
 
@@ -105,7 +109,7 @@ Zbog visokog udjela dijetalnih vlakana, ogrozd može usporiti apsorpciju šećer
 
 ## 6. Zdravlje srca i mozga
 
-Prisutnost flavonola i antocijana (posebno u tamnijim sortama) povezuje se s poboljšanom funkcijom krvnih žila i smanjenjem krvnog tlaka. Uz to, organske kiseline, poput limunske kiseline (11-14 mg na 100g voća), mogu pomoći u sprječavanju nakupljanja željeza u stanicama.
+Prisutnost flavonola i antocijana (posebno u tamnijim sortama) povezuje se s poboljšanom funkcijom krvnih žila i smanjenjem krvnog tlaka. Uz to, organske kiseline, poput limunske kiseline (11-14 mg na 100g voća), mogu pomoći u sprječavanju nakupljanja željeza u stanicama. Pregled boja, vrsta i hibrida donosi članak [sorte ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/).
 
 ## 7. Antivirusna svojstva
 

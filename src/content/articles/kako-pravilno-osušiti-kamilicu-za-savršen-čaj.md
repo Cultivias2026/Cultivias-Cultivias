@@ -13,12 +13,16 @@ editors_pick: false
 tags: []
 metaTitle: Kako pravilno osušiti kamilicu za savršen čaj!
 noindex: false
+related_articles:
+  - branje-kamilice-savjeti-za-uspješnu-berbu
+  - čaj-od-kamilice
+  - kamilica-biljka-naših-baka
 ---
 
 
-Pravilno **sušenje kamilice za čaj** bitno je za očuvanje arome, eteričnih ulja i [ljekovitih svojstava](https://www.catino.com.hr/kamilica-olaksanje-probave-nadutosti-i-grceva/).
+Pravilno **sušenje kamilice za čaj** bitno je za očuvanje arome, eteričnih ulja i [ljekovitih svojstava](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
 
-Pogrešan proces sušenja može rezultirati gubitkom mirisa, plijesni ili smanjenjem kvalitete vašeg [domaćeg čaja](https://www.catino.com.hr/caj-od-kamilice/).
+Pogrešan proces sušenja može rezultirati gubitkom mirisa, plijesni ili smanjenjem kvalitete vašeg [domaćeg čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/).
 
 
 
@@ -26,7 +30,7 @@ Pogrešan proces sušenja može rezultirati gubitkom mirisa, plijesni ili smanje
 
 
 
-[Kamilica](https://www.catino.com.hr/kamilica/) je bogata **eteričnim uljima** koja joj daju prepoznatljiv miris i opuštajuća svojstva.
+[Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) je bogata **eteričnim uljima** koja joj daju prepoznatljiv miris i opuštajuća svojstva.
 
 Ova su ulja osjetljiva na svjetlost i toplinu.
 
@@ -42,7 +46,7 @@ Pratite ove korake kako biste osigurali da vaša **kamilica sušenje** prođe 
 
 **1. Priprema cvjetova**
 
-Nakon berbe, cvjetove kamilice nježno protresite kako biste uklonili eventualne kukce ili nečistoće.
+Nakon berbe, cvjetove kamilice nježno protresite kako biste uklonili eventualne kukce ili nečistoće. Savjete za uspješnu berbu donosi članak [branje kamilice](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/).
 
 Nema potrebe za pranjem, jer dodatna vlaga samo produljuje proces sušenja i povećava rizik od plijesni. Odvojite samo cvijet, jer listovi i stabljike ne sadrže eterična ulja u dovoljnoj mjeri i mogu utjecati na okus čaja.
 

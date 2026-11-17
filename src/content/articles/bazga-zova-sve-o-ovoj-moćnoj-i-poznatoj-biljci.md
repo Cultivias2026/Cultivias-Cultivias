@@ -17,6 +17,10 @@ editors_pick: true
 tags: []
 metaTitle: "Bazga (zova): sve o ovoj moćnoj i poznatoj biljci"
 noindex: false
+related_articles:
+  - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
+  - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave
+  - aronija--čudesna-biljka-za-podršku-zdravlja
 ---
 
 
@@ -162,7 +166,7 @@ Svestranost bazge u kuhinji je nevjerojatna. Od osvježavajućih pića do slatki
 
 
 
-Sok od bazge, poznat i kao sirup od bazge, apsolutni je klasik koji se pripravlja potapanjem svježih cvjetova u ohlađenu šećernu otopinu s limunom i limunskom kiselinom. Priprema je jednostavna, a rezultat je osvježavajući napitak sa jedinstvenom aromom.
+Sok od bazge, poznat i kao sirup od bazge, apsolutni je klasik koji se pripravlja potapanjem svježih cvjetova u ohlađenu šećernu otopinu s limunom i limunskom kiselinom. Priprema je jednostavna, a rezultat je osvježavajući napitak sa jedinstvenom aromom. Brojke po obliku proizvoda donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/).
 
 Sok se obično čuva u staklenicama na hladnom mjestu i može se razrijediti vodom ili gaziranom vodom za osvježavajuće ljetne pića. Mnogi ga koriste i kao dodatak desertima ili kao sirup za palačinke.
 
@@ -170,7 +174,7 @@ Sok se obično čuva u staklenicama na hladnom mjestu i može se razrijediti vod
 
 
 
-Osušeni cvjetovi ili bobice bazge prelijevaju se vrućom vodom za pripremu ljekovitog čaja. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se koristi za ublažavanje simptoma prehlade i gripe.
+Osušeni cvjetovi ili bobice bazge prelijevaju se vrućom vodom za pripremu ljekovitog čaja. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se koristi za ublažavanje simptoma prehlade i gripe. Pripremu, ljekovitost i moguće nuspojave opisuje članak [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
 Čaj od bobica je bogatiji antioksidansima i ima dublje, voćnije okuse. Obično se čaj čuva 5-10 minuta prije konzumacije, a može se zasladiti medom ili limunom po želji.
 

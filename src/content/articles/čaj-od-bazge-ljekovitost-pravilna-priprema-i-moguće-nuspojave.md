@@ -25,7 +25,7 @@ noindex: false
 
 Čaj od bazge je biljni napitak koji se priprema od osušenih cvjetova **crne bazge** (*Sambucus nigra* L.), višegodišnjeg grma ili manjeg stabla iz porodice Adoxaceae. Biljka je u Europi poznata pod različitim imenima: **zova, zovika, bazgovina, aptika**, a njezina ljekovita primjena seže sve do antičke Grčke, kada je Hipokrat opisivao njezina diuretička i protuupalna svojstva. To potvrđuje i [sveobuhvatna studija o bioaktivnim komponentama cvijeta bazge](https://pmc.ncbi.nlm.nih.gov/articles/PMC11354468/) objavljena u časopisu *Foods* 2024. godine.
 
-Crna bazga prirodno raste diljem Europe, zapadne Azije i istočne Amerike. Može se pronaći uz rubove šuma, potoke, livade i prometnice. Stablo naraste do **10 metara visine**, a bijelo-žuti cvjetovi formiraju se u karakteristične "tanjure" i procvjetaju **od svibnja do srpnja**. Baš su ti cvjetovi, ubrani u punom cvatu, osnova su za pripremu čaja koji se koristi u ljekovite svrhe.
+Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike. Može se pronaći uz rubove šuma, potoke, livade i prometnice. Stablo naraste do **10 metara visine**, a bijelo-žuti cvjetovi formiraju se u karakteristične "tanjure" i procvjetaju **od svibnja do srpnja**. Baš su ti cvjetovi, ubrani u punom cvatu, osnova su za pripremu čaja koji se koristi u ljekovite svrhe.
 
 Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi** i termički obrađene **bobice**, dok su lišće, kora, korijen i stabljika bazge **toksični dijelovi biljke** koji se ne smiju konzumirati u sirovom stanju.
 
@@ -84,7 +84,7 @@ Ljekovitost cvijeta bazge temelji se na bogatom i raznovrsnom kemijskom sastavu.
 
 ## Kako se suši cvijet bazge za čaj?
 
-Pravilno sušenje cvjetova bazge ključno je za **očuvanje ljekovitih svojstava** i sprječavanje razvoja plijesni. Cvjetovi se beru u punom cvatu, kada je otvoreno oko 80% cvjetića na cvatu — u klimatskim uvjetima srednje Europe to odgovara razdoblju **od kraja svibnja do kraja lipnja**. Isti princip vrijedi i za sušenje kamilice, o čemu smo pisali u detaljnom vodiču [kako pravilno osušiti kamilicu za savršen čaj](https://www.cultivias.com/bilje/kako-pravilno-osušiti-kamilicu-za-savršen-čaj/).
+Pravilno sušenje cvjetova bazge ključno je za **očuvanje ljekovitih svojstava** i sprječavanje razvoja plijesni. Cvjetovi se beru u punom cvatu, kada je otvoreno oko 80% cvjetića na cvatu — u klimatskim uvjetima srednje Europe to odgovara razdoblju **od kraja svibnja do kraja lipnja**. Isti princip vrijedi i za sušenje kamilice, o čemu smo pisali u detaljnom vodiču [kako pravilno osušiti kamilicu za savršen čaj](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
 
 ### Tradicionalni domaći način sušenja i pripreme čaja u prahu- moj recept
 
@@ -137,7 +137,7 @@ Cvjetove bazge prelijte kipućom vodom i ostavite 2 minute. Dodajte naribani đu
 
 Prema analizi integrativnog medicine specijalista dr. Naoki Umede s [Cleveland Clinica](https://health.clevelandclinic.org/elderberry-for-kids), bazga pripremljena na pravilan način može biti siguran i zdrav dio djetetove prehrane — uz ključnu napomenu da se **ne smiju koristiti lišće, grančice ili sirove bobice** jer sadrže cijanogene glikozide koji su toksični. 
 
-Slično vrijedi i za druge biljne čajeve koji se daju djeci, poput [čaja od kamilice](https://www.cultivias.com/bilje/čaj-od-kamilice/), koji je zahvaljujući blagom djelovanju na probavu i živčani sustav jedan od najčešće preporučivanih biljnih napitaka za djecu.
+Slično vrijedi i za druge biljne čajeve koji se daju djeci, poput [čaja od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), koji je zahvaljujući blagom djelovanju na probavu i živčani sustav jedan od najčešće preporučivanih biljnih napitaka za djecu.
 
 **Doziranje za djecu** razlikuje se od doziranja za odrasle:
 
@@ -173,7 +173,7 @@ Kada je riječ o kontraindikacijama, posebno treba naglasiti sljedeće:
 
 ## Čaj od bazge i probava
 
-Čaj od bazge može pozitivno utjecati na probavni sustav na nekoliko načina. **Klorogenska kiselina** prisutna u cvijetu stimulira crijevnu peristaltiku i potiče lučenje žuči i klorovodične kiseline, što poboljšava probavu i može pomoći kod **zatvora**. Slično protuupalno djelovanje na probavni sustav ima i kamilica, o čemu detaljno pišemo u članku [kamilica za olakšanje probave, nadutosti i grčeva](https://www.cultivias.com/bilje/kamilica-olakšanje-probave-nadutosti-i-grčeva/).
+Čaj od bazge može pozitivno utjecati na probavni sustav na nekoliko načina. **Klorogenska kiselina** prisutna u cvijetu stimulira crijevnu peristaltiku i potiče lučenje žuči i klorovodične kiseline, što poboljšava probavu i može pomoći kod **zatvora**. Slično protuupalno djelovanje na probavni sustav ima i kamilica, o čemu detaljno pišemo u članku [kamilica za olakšanje probave, nadutosti i grčeva](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
 
 Istraživanja su pokazala da čajne mješavine koje sadrže bazgu, zajedno s **anisem, komoračem i cvjetom sene**, mogu značajno ubrzati prolazak sadržaja kroz probavni sustav i olakšati opstipaciju. Treba ipak napomenuti da je teško sa sigurnošću pripisati ovaj učinak isključivo bazgi, s obzirom da se radi o mješavini biljaka.
 
@@ -212,6 +212,6 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 
 
 
-Ako vas zanima kako slično pristupiti berbi i sušenju drugog ljekovitog bilja, pročitajte naš vodič o [berbi i sušenju mente](https://www.cultivias.com/bilje/vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja/) koji pokriva iste principe čuvanja bioaktivnih tvari.
+Ako vas zanima kako slično pristupiti berbi i sušenju drugog ljekovitog bilja, pročitajte naš vodič o [berbi i sušenju mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) koji pokriva iste principe čuvanja bioaktivnih tvari.
 
 > **Napomena:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.

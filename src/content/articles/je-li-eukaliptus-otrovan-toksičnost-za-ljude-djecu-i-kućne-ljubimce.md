@@ -169,7 +169,7 @@ Inhalacija razrijeđenih para u dobro prozračenoj prostoriji nije opasna za zdr
 Da. ASPCA navodi eukaliptus kao toksičan za pse. Simptomi uključuju povraćanje, proljev, slinjenje i letargiju. U slučaju gutanja, odmah kontaktirajte veterinara.
 
 **Može li mačka biti u sobi s eukaliptusom u tegli?**
-Živa biljka u tegli nosi manji rizik od eteričnog ulja, ali mačke koje žvaču listove mogu razviti GI simptome. Difuzer s eteričnim uljem eukaliptusa u zatvorenom prostoru s mačkama nije preporučen.
+Živa biljka u tegli nosi manji rizik od eteričnog ulja, ali mačke koje žvaču listove mogu razviti GI simptome. Difuzer s eteričnim uljem eukaliptusa u zatvorenom prostoru s mačkama nije preporučen. O riziku za ljubimce pišemo u članku [opasnost eukaliptusa za mačke i pse](https://www.cultivias.com/vijesti/popularna-mirisna-biljka-opasna-je-za-ma%C4%8Dke-i-pse-radi-se-o-eukaliptusu/).
 
 **Što ako dijete pojede list eukaliptusa?**
 Listovi sadrže manje koncentracije eteričnog ulja od čistog ulja. Gutanje jednog lista vjerojatno neće uzrokovati ozbiljne simptome, ali svakako kontaktirajte centar za kontrolu otrova ili pedijatra.

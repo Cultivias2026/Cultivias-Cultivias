@@ -13,10 +13,14 @@ featured: false
 editors_pick: true
 tags: []
 noindex: false
+related_articles:
+  - kadulja-i-ljekovitost-zašto-bi-mogla-biti-dobar-izbor
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 
 
-Jedna je od najstarijih i [najcjenjenijih ljekovitih biljaka](https://www.catino.com.hr/kadulja-zasto-bi-mogla-biti-dobra-za-vase-zdravlje/), čija upotreba u narodnoj medicini seže tisućama godina unatrag.
+Jedna je od najstarijih i [najcjenjenijih ljekovitih biljaka](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/), čija upotreba u narodnoj medicini seže tisućama godina unatrag.
 
 ## Izgled i opis biljke i njezina fascinantna povijest
 
@@ -180,7 +184,7 @@ Kadulja je znanstveno dokazano učinkovita u smanjenju valova vrućine (valunga)
 
 
 
-Kadulja je i [cijenjeni začin](https://www.catino.com.hr/kadulja-vise-od-zacina-otkrijte-prirodna-stanista-i-njenu-bogatu-povijest/), posebno u mediteranskoj kuhinji. Njezin intenzivan, blago papren i gorak okus odlično se slaže s masnijim jelima jer pomaže u njihovoj probavi. Evo nekih primjera.
+Kadulja je i cijenjeni začin, posebno u mediteranskoj kuhinji. Njezin intenzivan, blago papren i gorak okus odlično se slaže s masnijim jelima jer pomaže u njihovoj probavi. Evo nekih primjera.
 
 * **Meso:**
 

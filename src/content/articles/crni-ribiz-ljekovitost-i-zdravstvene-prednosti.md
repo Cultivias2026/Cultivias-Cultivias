@@ -13,10 +13,14 @@ editors_pick: false
 tags: []
 metaTitle: "Crni ribiz: ljekovitost i zdravstvene prednosti"
 noindex: false
+related_articles:
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
+  - kako-napraviti-kapi-od-crnog-ribiza-kod-kuće
 ---
 
 
-Moderna istraživanja potvrdila su da crni ribiz zaista posjeduje svojstva za podršku organizma zahvaljujući svojoj bogatoj kemijskoj kompoziciji.
+Moderna istraživanja potvrdila su da [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) zaista posjeduje svojstva za podršku organizma zahvaljujući svojoj bogatoj kemijskoj kompoziciji.
 
 Istražite koja su to!
 

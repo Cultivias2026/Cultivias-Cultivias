@@ -13,6 +13,10 @@ editors_pick: false
 tags: []
 metaTitle: "Sve što trebate znati o rajčici: od sadnje do zdravstvenih benefita"
 noindex: false
+related_articles:
+  - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
+  - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
+  - koje-su-najukusnije-sorte-paradajza-u-našim-krajevima
 ---
 
 
@@ -30,7 +34,7 @@ Danas je jedna od najrasprostranjenijih i najviše konzumiranih namirnica na svi
 
 Koristi se u svježem stanju, kao i u prerađenom obliku za pripremu sokova, umaka, kečapa i konzerviranih proizvoda.
 
- Zanimljivo je da, [iako je s **botaničkog stajališta voće**](https://www.catino.com.hr/je-li-rajcica-voce-ili-povrce/) jer se razvija iz cvijeta i sadrži sjemenke, u kulinarstvu se zbog svog okusa i načina primjene **tretira kao povrće.**
+ Zanimljivo je da, [iako je s **botaničkog stajališta voće**](https://www.cultivias.com/povrce/je-li-raj%C4%8Dica-vo%C4%87e-ili-povr%C4%87e-saznajte-odmah/) jer se razvija iz cvijeta i sadrži sjemenke, u kulinarstvu se zbog svog okusa i načina primjene **tretira kao povrće.**
 
 ## Sinonimi za rajčice
 
@@ -51,7 +55,7 @@ U različitim dijelovima svijeta, rajčica je poznata pod različitim imenima. N
 
 
 
-Postoji na tisuće sorti rajčica, a svaka ima svoje jedinstvene karakteristike. Ovdje su neke od najpopularnijih:
+Postoji na tisuće [sorti rajčica](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), a svaka ima svoje jedinstvene karakteristike. Ovdje su neke od najpopularnijih:
 
 **Cherry rajčica**
 
@@ -80,7 +84,7 @@ Domaće sorte, prilagođene su lokalnim uvjetima i rezultat su dugogodišnje sel
 
 
 
-Odabir [najukusnije sorte](https://www.catino.com.hr/najukusnije-sorte-paradajza/) ovisi o osobnim preferencijama, no neke sorte se posebno ističu zbog svog jedinstvenog okusa:
+Odabir [najukusnije sorte](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/) ovisi o osobnim preferencijama, no neke sorte se posebno ističu zbog svog jedinstvenog okusa:
 
 * **Brandywine:**
 
@@ -98,7 +102,7 @@ Odabir [najukusnije sorte](https://www.catino.com.hr/najukusnije-sorte-paradajz
 
 
 
-[Uspješan uzgoj](https://www.catino.com.hr/sadnja-rajcice/) rajčice započinje pravilnom pripremom. Ključni koraci uključuju odabir kvalitetnog sjemena, pripremu tla bogatog hranjivim tvarima i sijanje u kontroliranim uvjetima kako bi se osigurale zdrave i jake sadnice.
+[Uspješan uzgoj](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/) rajčice započinje pravilnom pripremom. Ključni koraci uključuju odabir kvalitetnog sjemena, pripremu tla bogatog hranjivim tvarima i sijanje u kontroliranim uvjetima kako bi se osigurale zdrave i jake sadnice.
 
 **Kalendar sadnje rajčica**
 
@@ -106,7 +110,7 @@ Pravovremena sadnja ključna je za uspješan uzgoj. Sjetva sjemena u zatvorenom 
 
 **Njega i održavanje**
 
-Rajčice zahtijevaju redovitu njegu kako bi dale obilan urod. To uključuje pravilno zalijevanje, odabir [dobrih susjeda u vrtu](https://www.catino.com.hr/rajcica/catino.com.hr/dobri-susjedi-rajcice/) i prevenciju bolesti.
+Rajčice zahtijevaju redovitu njegu kako bi dale obilan urod. To uključuje pravilno zalijevanje, odabir [dobrih susjeda u vrtu](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/) i prevenciju bolesti.
 
 **Zalijevanje rajčica**
 
@@ -152,7 +156,7 @@ Znanstvena zajednica posvetila je veliku pažnju istraživanju zdravstvenih bene
 
 Studija objavljena u časopisu [International Journal of Molecular Sciences (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8880080/) ističe da epidemiološke studije pokazuju snažnu vezu između konzumacije likopena i smanjenog rizika od kardiovaskularnih bolesti. Autori navode da likopen, osim svog antioksidativnog djelovanja, ima sposobnost modulacije upalnih procesa i stanične komunikacije.
 
-Istraživanja su također pokazala da se bioraspoloživost likopena značajno povećava toplinskom obradom. To znači da tijelo lakše apsorbira likopen iz kuhanih proizvoda od rajčice, poput umaka, juha i koncentrata, nego iz svježih plodova. Preporučeni dnevni unos likopena za postizanje kardiovaskularnih benefita kreće se od 5 do 30 mg.
+Istraživanja su također pokazala da se bioraspoloživost likopena značajno povećava toplinskom obradom. To znači da tijelo lakše apsorbira likopen iz kuhanih proizvoda od rajčice, poput umaka, juha i koncentrata, nego iz svježih plodova. Preporučeni dnevni unos likopena za postizanje kardiovaskularnih benefita kreće se od 5 do 30 mg. Usporedbu svježe rajčice, passate, koncentrata i umaka donosi članak [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
 
 Osim zdravlja srca, studije povezuju likopen i s drugim benefitima:
 

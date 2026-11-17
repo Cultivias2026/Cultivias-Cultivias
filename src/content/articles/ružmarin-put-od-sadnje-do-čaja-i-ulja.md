@@ -16,6 +16,10 @@ editors_pick: true
 tags: []
 metaTitle: "Ružmarin: put od sadnje do čaja i ulja"
 noindex: false
+related_articles:
+  - kadulja--ljekovita-biljka-s-dugom-tradicijom
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - menta-sve-važne-informacije-o-njoj
 ---
 
 
@@ -25,7 +29,7 @@ Stari Grci i Rimljani smatrali su ga svetom biljkom, simbolom ljubavi i sjećanj
 
 ## Što je ružmarin i kako izgleda?
 
-Ružmarin, latinskog naziva *Salvia rosmarinus (ranije Rosmarinus officinalis)*, zimzeleni je grm koji pripada obitelji usnača (Lamiaceae), u koju spadaju i menta, bosiljak i lavanda.
+Ružmarin, latinskog naziva *Salvia rosmarinus (ranije Rosmarinus officinalis)*, zimzeleni je grm koji pripada obitelji usnača (Lamiaceae), u koju spadaju i [menta](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/), bosiljak i lavanda.
 
 Porijeklom iz Mediterana, ovaj aromatični grm prepoznatljiv je po svojim drvenastim stabljikama i gustim, kožastim listovima koji podsjećaju na iglice bora.
 

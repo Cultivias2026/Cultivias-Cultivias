@@ -13,14 +13,18 @@ editors_pick: true
 tags: []
 metaTitle: Čaj od kamilice
 noindex: false
+related_articles:
+  - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
+  - kamilica-olakšanje-probave-nadutosti-i-grčeva
+  - kamilica-biljka-naših-baka
 ---
 
 
 Priprema se od **suhih cvjetova biljke kamilice**, koja je poznata po svojim ljekovitim svojstvima.
 
-Čaj od kamilice može pomoći u **smanjenju stresa**,[ **poboljšanju probave**](https://www.catino.com.hr/kamilica-olaksanje-probave-nadutosti-i-grceva/), **jačanju imunološkog sustav**a i **olakšavanju nesanice**.
+Čaj od kamilice može pomoći u **smanjenju stresa**,[ **poboljšanju probave**](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/), **jačanju imunološkog sustav**a i **olakšavanju nesanice**.
 
- Osim toga, lako se priprema i može se piti toplo ili hladno. Zbog svojih brojnih prednosti, čaj od kamilice se često koristi kao **podrška zdravlju** i ugodna alternativa tradicionalnim napicima koji sadrže kofein.
+ Osim toga, lako se priprema i može se piti toplo ili hladno. Zbog svojih brojnih prednosti, čaj od [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) se često koristi kao **podrška zdravlju** i ugodna alternativa tradicionalnim napicima koji sadrže kofein.
 
 
 

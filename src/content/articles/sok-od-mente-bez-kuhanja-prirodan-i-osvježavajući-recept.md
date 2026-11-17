@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - menta-sve-važne-informacije-o-njoj
+  - kako-uzgojiti-mentu-u-tegli-kod-kuće
+  - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
 ---
 
 
@@ -33,7 +37,7 @@ Sok predstavlja prirodnu alternativu industrijskim napicima, a njegova priprema 
 
 Za pripremu kvalitetnog soka od mente bez kuhanja trebat će vam:
 
-•Svježi listovi mlade [mente (metvice)](https://www.catino.com.hr/menta/)
+•Svježi listovi mlade [mente (metvice)](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)
 
 •Limunska kiselina ili svježi limun
 

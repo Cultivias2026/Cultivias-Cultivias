@@ -16,6 +16,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - čaj-od-kamilice
+  - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
 Jedan je od onih tradicionalnih napitaka koji su preživjeli test vremena, a danas njihovu vrijednost potvrđuju i moderna znanstvena [istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/). Bilo da ga kupujete u rinfuzi, berete sami ili tražite provjerene brendove poput **Subana** i **Siladija**, važno je znati kako ga pravilno pripremiti i kada ga je sigurno koristiti.
 
@@ -31,7 +35,7 @@ Zanimljivo je da **Europska agencija za lijekove (EMA)** [službeno priznaje pre
 
 ## Ljekovito djelovanje čaja od majčine dušice
 
-Čaj od majčine dušice najpoznatiji je kao prirodna potpora **dišnom sustavu**, no njegova primjena seže puno dalje. U nastavku navodimo glavna djelovanja za koja postoji znanstvena ili snažna tradicionalna potpora.
+Čaj od [majčine dušice](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) najpoznatiji je kao prirodna potpora **dišnom sustavu**, no njegova primjena seže puno dalje. U nastavku navodimo glavna djelovanja za koja postoji znanstvena ili snažna tradicionalna potpora.
 
 ### Potpora kod kašlja i bronhitisa
 

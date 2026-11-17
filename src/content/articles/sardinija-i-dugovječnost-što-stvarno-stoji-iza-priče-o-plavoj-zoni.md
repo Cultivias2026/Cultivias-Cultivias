@@ -35,7 +35,7 @@ Najvažnije je razlikovati tri stvari:
 * **Sardinska zona dugovječnosti** odnosi se na planinski klaster povijesno povezan s [Ogliastrom](https://www.sardegnaturismo.it/en/welcome-ogliastra), [Barbagijom](https://www.sardegnaturismo.it/en/places/centre/barbagia) i područjem [Nuora](https://www.sardegnaturismo.it/en/places/centre/nuoro).
 * **Plava zona** opisuje demografski obrazac u određenim kohortama, a nije dijeta, turistička marka ni medicinski program.
 
-Ako tek ulazite u temu, pročitajte i [uvod u serijal o pet plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/), gdje objašnjavamo zašto se Sardinija ne može uspoređivati s Okinawom, Nicoyom, Ikarijom ili Lomom Lindom po jednom istom obrascu.
+Ako tek ulazite u temu, pročitajte i [uvod u serijal o pet plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/), gdje objašnjavamo zašto se Sardinija ne može uspoređivati s [Okinawom](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoyom, Ikarijom ili Lomom Lindom po jednom istom obrascu.
 
 ## Gdje se točno nalazi sardinska plava zona?
 

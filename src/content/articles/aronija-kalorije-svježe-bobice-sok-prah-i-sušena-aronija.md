@@ -15,7 +15,7 @@ featured: true
 editors_pick: false
 tags: []
 related_articles:
-  - aronija-–-čudesna-biljka-za-podršku-zdravlja
+  - aronija--čudesna-biljka-za-podršku-zdravlja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - je-li-aronija-štetna-po-naše-zdravlje
 metaTitle: "Aronija kalorije: svježe bobice, sok, prah i sušene bobice"

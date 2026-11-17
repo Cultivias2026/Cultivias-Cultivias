@@ -26,7 +26,7 @@ Eukaliptus je zimzelena drvenasta biljka, najčešće stablo, čiji listovi sadr
 
 ## Najpopularnije vrste eukaliptusa: Od vrta do vaze
 
-Među stotinama vrsta eukaliptusa, nekoliko se ističe svojom popularnošću, bilo zbog otpornosti, estetske privlačnosti ili ljekovitih svojstava. Razlikujemo vrste koje su **primarno drveće u prirodi** od onih koje se uzgajaju kao **ukrasne sorte za bukete i vaze**.
+Među stotinama vrsta eukaliptusa, nekoliko se ističe svojom popularnošću, bilo zbog otpornosti, estetske privlačnosti ili ljekovitih svojstava. Razlikujemo vrste koje su **primarno drveće u prirodi** od onih koje se uzgajaju kao **ukrasne sorte za bukete i vaze**. Zašto je eukaliptus omiljen u suhim buketima, pročitajte u članku [eukaliptus u modernim suhim buketima](https://www.cultivias.com/vijesti/za%C5%A1to-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima/).
 
 ### Eucalyptus gunnii: Srebrni dragulj otporan na mraz
 
@@ -119,7 +119,7 @@ Za lakši odabir, evo sažete usporedbe najpopularnijih vrsta:
 ## Česta pitanja o vrstama eukaliptusa
 
 **Koja vrsta eukaliptusa ima najjači miris?**
-Eucalyptus globulus ima **najintenzivniji, medicinski miris** bogat 1,8-cineolom. Limunski eukaliptus (Corymbia citriodora) ima karakterističan miris limuna. Za ukrasne svrhe, Gunnii i Populus imaju blaži, ugodniji miris.
+Eucalyptus globulus ima **najintenzivniji, medicinski miris** bogat 1,8-cineolom. [Limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/) (Corymbia citriodora) ima karakterističan miris limuna. Za ukrasne svrhe, Gunnii i Populus imaju blaži, ugodniji miris.
 
 **Koja vrsta eukaliptusa je dobra za eterično ulje?**
 Eucalyptus globulus i Eucalyptus radiata su **primarne komercijalne vrste za proizvodnju eteričnog ulja**. Radiata se smatra blažom i prikladnijom za aromaterapiju, dok Globulus ima višu koncentraciju 1,8-cineola.
@@ -130,11 +130,11 @@ Teško. Eucalyptus deglupta je **tropska vrsta koja ne podnosi mraz**. Može se 
 **Koja vrsta eukaliptusa je najotpornija na mraz?**
 **Eucalyptus gunnii** je među najotpornijima, podnosi do -15°C. Slijedi ga E. pauciflora (Snow Gum). Za kontinentalnu Hrvatsku, **ove dvije vrste su najsigurniji izbor**.
 
-Za detaljniji vodič o uzgoju eukaliptusa u tegli, uključujući savjete o zalijevanju, supstratu i zimovanju, pogledajte naš vodič za uzgoj eukaliptusa kao sobne biljke u tegli.
+Za detaljniji vodič o uzgoju eukaliptusa u tegli, uključujući savjete o zalijevanju, supstratu i zimovanju, pogledajte naš vodič za uzgoj [eukaliptusa kao sobne biljke](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/) u tegli.
 
 ## Zaključak
 
-Eukaliptus je iznimno raznolik i koristan rod biljaka, čije se vrste kreću od monumentalnih stabala do elegantnih ukrasnih grana za bukete. Bilo da se radi o otpornom Eucalyptus gunnii, dekorativnom Eucalyptus polyanthemos, ljekovitom Eucalyptus radiata ili vizualno impresivnom Duginom eukaliptusu, **svaka vrsta nudi jedinstvene karakteristike i primjene**. Njegova eterična ulja, bogata 1,8-cineolom i citronelalom, pružaju antimikrobna i repelentna svojstva, čineći ga vrijednim u medicini i kao prirodni repelent. Pravilnim uzgojem i njegom, eukaliptus može obogatiti svaki dom i vrt, no uvijek je ključno biti svjestan **njegove potencijalne toksičnosti**.
+Eukaliptus je iznimno raznolik i koristan rod biljaka, čije se vrste kreću od monumentalnih stabala do elegantnih ukrasnih grana za bukete. Bilo da se radi o otpornom Eucalyptus gunnii, dekorativnom Eucalyptus polyanthemos, ljekovitom Eucalyptus radiata ili vizualno impresivnom Duginom eukaliptusu, **svaka vrsta nudi jedinstvene karakteristike i primjene**. Njegova eterična ulja, bogata 1,8-cineolom i citronelalom, pružaju antimikrobna i repelentna svojstva, čineći ga vrijednim u medicini i kao prirodni repelent. Pravilnim uzgojem i njegom, eukaliptus može obogatiti svaki dom i vrt, no uvijek je ključno biti svjestan **njegove potencijalne toksičnosti**. Sigurnosne napomene detaljnije obrađuje članak [toksičnost eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
 > **Medicinski disclaimer:** Informacije u ovom članku služe isključivo u edukativne svrhe i ne smiju se smatrati medicinskim savjetom. Eterično ulje eukaliptusa, posebno u koncentriranom obliku, toksično je ako se proguta i može izazvati ozbiljne zdravstvene probleme kod ljudi i kućnih ljubimaca (posebno pasa i mačaka). Simptomi trovanja mogu uključivati povraćanje, proljev, slabost, pa čak i napadaje. Uvijek se savjetujte s kvalificiranim zdravstvenim radnikom prije upotrebe eukaliptusa u medicinske svrhe. Držite eterična ulja eukaliptusa izvan dohvata djece i kućnih ljubimaca. U slučaju gutanja, odmah potražite medicinsku pomoć.
 

@@ -15,6 +15,10 @@ featured: true
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
+  - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
+  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
 ---
 
 
@@ -90,7 +94,7 @@ Bez dovoljno svjetlosti, biljka ne može provoditi fotosintezu dovoljno učinkov
 
 ## Temperatura i zimovanje
 
-Eukaliptus gunnii i srodne vrste podnose mraz do -15°C kada su posađeni u tlu. Međutim, eukaliptus u tegli je osjetljiviji jer su korijeni izloženi hladnoći sa svih strana, a ne samo odozgo.
+Eukaliptus gunnii i srodne vrste podnose mraz do -15°C kada su posađeni u tlu. Međutim, eukaliptus u tegli je osjetljiviji jer su korijeni izloženi hladnoći sa svih strana, a ne samo odozgo. Pregled vrsta, od drveta do buketa, donosi [vodič kroz vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
 
 Kada temperatura padne ispod 0°C, korijenje u tegli može se smrznuti i odumrijeti. Zaštitite teglu omotavanjem u agrotekstil ili jutenu vreću, ili unesite biljku u hladnu, ali nezamrznutu prostoriju (garaža, ostava, neogrijani hodnik). Temperatura od 5 do 10°C je idealna za zimovanje.
 
@@ -108,7 +112,7 @@ Eukaliptus dobro podnosi rezidbu i to je jedan od načina da ga zadržite u tegl
 
 Idealno vrijeme za rezidbu je kasno proljeće (travanj do svibanj). Nikada ne režite zimi, jer rane ne zarastaju dobro na hladnoći. Možete ukloniti do trećine biljke bez ozbiljnih posljedica. Redovitim pincirajanjem vrhova potičete gušći, kompaktniji rast.
 
-Mladi listovi eukaliptusa (koji niču nakon rezidbe) su okrugliji i plaviji od starijih, što je estetski privlačno i popularno u buketima.
+Mladi listovi eukaliptusa (koji niču nakon rezidbe) su okrugliji i plaviji od starijih, što je estetski privlačno i popularno u buketima. Zašto je eukaliptus omiljen u suhim buketima, pročitajte u članku [eukaliptus u modernim suhim buketima](https://www.cultivias.com/vijesti/za%C5%A1to-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima/).
 
 ## Najčešći problemi i rješenja
 
@@ -134,7 +138,7 @@ Miris eukaliptusa u prostoriji može djelovati osvježavajuće i poticati koncen
 
 ### Toksičnost: Što trebate znati
 
-Eukaliptus je toksičan za mačke, pse i konje. Američki ASPCA navodi eukaliptus na listi biljaka toksičnih za kućne ljubimce. Simptomi trovanja uključuju mučninu, povraćanje, proljev, slabost i tremor.
+Eukaliptus je toksičan za mačke, pse i konje. Američki ASPCA navodi eukaliptus na listi biljaka toksičnih za kućne ljubimce. Simptomi trovanja uključuju mučninu, povraćanje, proljev, slabost i tremor. Sigurnosne napomene detaljnije obrađuje članak [toksičnost eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
 Za ljude, listovi biljke u tegli nisu opasni pri normalnom kontaktu. Međutim, eterično ulje eukaliptusa je toksično ako se proguta čak i u malim količinama, posebno za djecu. Simptomi trovanja eteričnim uljem uključuju mučninu, povraćanje, vrtoglavicu i u težim slučajevima konvulzije.
 
@@ -148,7 +152,7 @@ Ako vas zanima uzgoj i njega majčine dušice, pročitajte naš vodič kroz ljek
 
 ## Eukaliptus kao ukrasna grana: Sušenje i aranžmani
 
-Listovi eukaliptusa ne moraju biti samo na živoj biljci. Rezane grane eukaliptusa mogu se sušiti i koristiti u trajnim aranžmanima, vijencima i dekoracijama. Grane se suše prirodno, obješene naopako u suhoj, prozračnoj prostoriji, slično kao i ostalo ljekovito bilje.
+Listovi eukaliptusa ne moraju biti samo na živoj biljci. Rezane grane eukaliptusa mogu se sušiti i koristiti u trajnim aranžmanima, vijencima i dekoracijama. Grane se suše prirodno, obješene naopako u suhoj, prozračnoj prostoriji, slično kao i ostalo ljekovito bilje. Kako suhi eukaliptus pretvoriti u dekoraciju, pročitajte u članku [ne bacajte suhi eukaliptus](https://www.cultivias.com/vijesti/ne-bacajte-suhi-eukaliptus-jednostavna-metoda-pretvara-ga-u-dekoraciju-koja-traje-mjesecima/).
 
 Suhe grane zadržavaju oblik i veći dio mirisa tjednima, a srebrno-zelena boja postaje nešto toplija. Popularne su u skandinavskim i minimalističkim interijerima, a sve češće se pojavljuju i u domaćim cvjećarnicama.
 

@@ -14,6 +14,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - zašto-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima
+  - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
+  - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
 ---
 Eukaliptus je posljednjih godina postao jedan od najtraženijih detalja za dom: izgleda elegantno, diskretno miriše i dobro se uklapa u gotovo svaki interijer. No mnogi se razočaraju kada se listovi već nakon nekoliko dana počnu sušiti, gubiti boju i otpadati.
 
@@ -25,7 +29,7 @@ Prije nego što eukaliptus stavite u vodu, odrežite donji dio svake stabljike p
 
 Zašto je to važno? Drvenaste stabljike eukaliptusa na zraku mogu slabije upijati vodu. Kosi rez povećava površinu preko koje biljka pije vodu, a pritom sprječava da se baza stabljike zalijepi za dno vaze. Upravo taj kratki potez može napraviti veliku razliku između aranžmana koji se osuši za tjedan dana i onoga koji ostaje svjež znatno dulje.
 
-**Pravilo koje se najčešće zaboravlja:** skinite sve listove koji bi bili uronjeni u vodi. Oni brzo trunu, potiču razvoj bakterija i skraćuju vijek cijelog buketa.
+**Pravilo koje se najčešće zaboravlja:** skinite sve listove koji bi bili uronjeni u vodi. Oni brzo trunu, potiču razvoj bakterija i skraćuju vijek cijelog buketa. Zašto je eukaliptus omiljen u suhim buketima, pročitajte u članku [eukaliptus u modernim suhim buketima](https://www.cultivias.com/vijesti/za%C5%A1to-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima/).
 
 ## Ne tražite čarobni dodatak: čista voda je ono što eukaliptus zapravo treba
 
@@ -45,7 +49,7 @@ Najbolje mjesto je svijetla prostorija s umjerenom, stabilnom temperaturom, ali 
 
 Dugotrajan aranžman počinje već u cvjećarnici ili na tržnici. Birajte grančice s **čvrstim, neopuštenim vrhovima** i glatkim listovima prirodne sivozelene ili pepeljastoplave boje. Listovi se ne bi smjeli lako odvajati od stabljike, dok donji rez ne bi smio biti taman, sluzav ili ispucao od isušivanja.
 
-Ako želite doznati koje se sorte najbolje ponašaju u dekorativnim aranžmanima, pogledajte naš *vodič kroz vrste eukaliptusa: od drveta do buketa*.
+Ako želite doznati koje se sorte najbolje ponašaju u dekorativnim aranžmanima, pogledajte naš *vodič kroz [vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/): od drveta do buketa*.
 
 ## Ne bacajte ga kada počne gubiti svježinu
 

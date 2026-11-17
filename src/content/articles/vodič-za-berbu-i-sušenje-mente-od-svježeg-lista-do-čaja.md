@@ -12,10 +12,14 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - kako-uzgojiti-mentu-u-tegli-kod-kuće
+  - čaj-od-mente--svojstva-priprema-i-zanimljivosti
+  - menta-sve-važne-informacije-o-njoj
 ---
 
 
-Pravilna berba i sušenje važni su za očuvanje intenzivne arome i ljekovitih svojstava [mente](https://www.catino.com.hr/caj-od-mente-svojstva-priprema-i-zanimljivosti/).
+Pravilna berba i sušenje važni su za očuvanje intenzivne arome i ljekovitih svojstava [mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
 Ovaj vodič provest će vas kroz sve korake, od branja svježih listova u vrtu do njihovog čuvanja za duge zimske mjesece.
 
@@ -23,7 +27,7 @@ Ovaj vodič provest će vas kroz sve korake, od branja svježih listova u vrtu d
 
 
 
-Idealno vrijeme za berbu mente je neposredno prije nego što biljka počne cvjetati. U tom su razdoblju listovi najbogatiji eteričnim uljima, što im daje najintenzivniji miris i okus.
+Idealno vrijeme za berbu [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) je neposredno prije nego što biljka počne cvjetati. U tom su razdoblju listovi najbogatiji eteričnim uljima, što im daje najintenzivniji miris i okus.
 
 Preporučuje se berbu obaviti tijekom jutarnjih sati, nakon što se rosa povuče, jer je tada koncentracija ulja u listovima na vrhuncu. Birajte zdrave, zelene listove bez oštećenja.
 

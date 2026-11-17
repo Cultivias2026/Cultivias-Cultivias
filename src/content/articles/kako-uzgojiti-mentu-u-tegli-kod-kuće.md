@@ -14,10 +14,14 @@ editors_pick: true
 tags: []
 metaTitle: Kako uzgojiti mentu u tegli kod kuće?
 noindex: false
+related_articles:
+  - menta-sve-važne-informacije-o-njoj
+  - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
+  - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
 
 
-Međutim, zbog toga što sjemenke mente nisu uvijek pouzdane i mogu loše klijati, preporučuje se kupnja gotove biljke u mini tegli.
+Međutim, zbog toga što sjemenke [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) nisu uvijek pouzdane i mogu loše klijati, preporučuje se kupnja gotove biljke u mini tegli.
 
 
 
@@ -117,7 +121,7 @@ Ako biljka počne cvjetati, uklonite cvjetove kako bi se “energija” preusmje
 
 
 
-Menta je spremna za berbu čim listovi dostignu željenu veličinu. Najbolje ju je brati **ujutro kada su eterična ulja u listovima najjača**.
+Menta je spremna za berbu čim listovi dostignu željenu veličinu. Najbolje ju je brati **ujutro kada su eterična ulja u listovima najjača**. Kako sačuvati aromu nakon branja, pročitajte u članku [berba i sušenje mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
 
 Berite redovito kako biste poticali novi rast, ali izbjegavajte uzimanje previše listova odjednom kako biljka ne bi oslabjela.
 
@@ -141,7 +145,7 @@ Menta je prirodni repelent za mnoge insekte, poputkomaraca, mrava i buha, što 
 
 * **Višestruka upotreba**
 
-Menta nije samo za [čajeve](https://www.catino.com.hr/caj-od-mente-svojstva-priprema-i-zanimljivosti/).Može se koristiti u raznim receptima, kao osvježenje u [napicima(kao sok)](https://www.catino.com.hr/sok-od-mente-bez-kuhanja-prirodan-i-osvjezavajuci-recept/), salatama, desertima, pa čak i kao dekoracija u koktelima.Njeni listovi su izuzetno svestrani u kuhinji.
+Menta nije samo za [čajeve](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).Može se koristiti u raznim receptima, kao osvježenje u [napicima(kao sok)](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/), salatama, desertima, pa čak i kao dekoracija u koktelima.Njeni listovi su izuzetno svestrani u kuhinji.
 
 * **Aromatičan i estetski dodatak**
 

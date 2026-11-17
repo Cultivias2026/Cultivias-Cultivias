@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu
+  - ogrozd--zaboravljeno-supervoće
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
 ---
 
 
@@ -49,7 +53,7 @@ To kupinu svrstava u sam vrh voća po antioksidativnom kapacitetu.
 
 ## Nutritivna vrijednost kupine
 
-Osim što je bogata bioaktivnim spojevima, kupina je i nutritivno vrlo vrijedna namirnica. Sadrži malo kalorija, a puno važnih nutrijenata.
+Osim što je bogata bioaktivnim spojevima, kupina je i nutritivno vrlo vrijedna namirnica. Sadrži malo kalorija, a puno važnih nutrijenata. Brojke za svježe, zamrznute i sušene kupine te džem donosi članak [kupine i kalorije](https://www.cultivias.com/voce/kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu/).
 
 Jedna šalica svježih kupina (oko 144 grama) ima samo 62 kalorije, što je čini idealnim izborom za one koji paze na tjelesnu težinu.
 

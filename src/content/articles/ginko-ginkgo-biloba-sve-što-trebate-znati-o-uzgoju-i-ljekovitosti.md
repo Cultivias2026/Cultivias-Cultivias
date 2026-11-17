@@ -13,6 +13,8 @@ editors_pick: false
 tags: []
 metaTitle: "Ginko (ginkgo biloba): sve što trebate znati o uzgoju i ljekovitosti"
 noindex: false
+related_articles:
+  - koliko-brzo-raste-ginko-drvo-i-što-utječe-na-njegov-razvoj
 ---
 Potječe iz Kine, gdje se najviše koristio tisućama godina u tradicionalnoj medicini.
 

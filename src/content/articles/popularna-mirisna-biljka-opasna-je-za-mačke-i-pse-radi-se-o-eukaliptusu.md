@@ -29,7 +29,7 @@ Klinički znakovi trovanja, prema ASPCA-i, uključuju:
 * Depresiju (bezvoljnost)
 * Slabost
 
-Organizacija vlasnicima savjetuje da, posumnjaju li da je ljubimac progutao potencijalno otrovnu tvar, odmah nazovu svog veterinara ili njihovu liniju za pomoć.
+Organizacija vlasnicima savjetuje da, posumnjaju li da je ljubimac progutao potencijalno otrovnu tvar, odmah nazovu svog veterinara ili njihovu liniju za pomoć. Sigurnosne napomene detaljnije obrađuje članak [toksičnost eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
 
 

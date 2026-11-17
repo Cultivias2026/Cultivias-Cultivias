@@ -13,10 +13,14 @@ featured: false
 editors_pick: true
 tags: []
 noindex: false
+related_articles:
+  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - je-li-aronija-štetna-po-naše-zdravlje
+  - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
 
-U ovom članku istražit ćemo potencijalne nuspojave soka od aronije, tko bi trebao biti oprezan pri njegovoj konzumaciji i kako ga sigurno uključiti u svoju prehranu.
+U ovom članku istražit ćemo potencijalne nuspojave soka od [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), tko bi trebao biti oprezan pri njegovoj konzumaciji i kako ga sigurno uključiti u svoju prehranu.
 
 
 
@@ -82,7 +86,7 @@ Neke skupine ljudi trebale bi posebnu pažnju pri konzumaciji soka od aronije:
 
 * **Trudnice i dojilje:**
 
-   nema dovoljno istraživanja o sigurnosti aronije tijekom trudnoće i dojenja, pa je najbolje 
+   nema dovoljno istraživanja o [sigurnosti aronije](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/) tijekom trudnoće i dojenja, pa je najbolje 
 
   **konzultirati liječnika**
 

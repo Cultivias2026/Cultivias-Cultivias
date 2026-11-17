@@ -13,6 +13,9 @@ editors_pick: false
 tags: []
 metaTitle: "Naranča: vitaminska bomba u jednoj čaši"
 noindex: false
+related_articles:
+  - naranca-vs-sok-od-narance-kalorije
+  - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda
 ---
 Njezina sočnost, slatko-kiseli okus i prepoznatljiva aroma čine je nezaobilaznim dijelom naše prehrane, osobito tijekom zimskih mjeseci.
 
@@ -54,7 +57,7 @@ Cijeđena naranča ujutro za mnoge je postala ritual za početak dana. On pruža
 
 Svježe cijeđena naranča zadržava većinu vitamina i minerala, dok kupovni sokovi često sadrže dodane šećere i konzervanse. Što se tiče kalorija, cijeđena naranča ima više kalorija od cijelog ploda jer se za jednu čašu soka obično iscijedi više naranči, a uklanjaju se vlakna.
 
-Jedna čaša (250 ml) svježe cijeđenog soka od naranče sadrži otprilike 110-120 kalorija. Iako je sok zdrav, zbog veće koncentracije šećera i nedostatka vlakana, preporučuje se umjerena konzumacija.
+Jedna čaša (250 ml) svježe cijeđenog [soka od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/) sadrži otprilike 110-120 kalorija. Iako je sok zdrav, zbog veće koncentracije šećera i nedostatka vlakana, preporučuje se umjerena konzumacija.
 
 Cijeđena naranča često se koristi i kao dio detox kura. Zahvaljujući visokom udjelu vitamina C i drugih antioksidansa, pomaže u čišćenju organizma od toksina i jačanju imuniteta. Kombinacija naranče s drugim voćem i povrćem, poput đumbira, mrkve ili cikle, može dodatno pojačati detox učinak.
 

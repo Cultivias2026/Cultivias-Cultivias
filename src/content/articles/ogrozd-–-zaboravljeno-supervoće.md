@@ -17,6 +17,10 @@ featured: false
 editors_pick: true
 tags: []
 noindex: false
+related_articles:
+  - ogrozd-i-zdravlje-što-kažu-istraživanja
+  - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala
+  - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
 ---
 Okus ogrozda je osvježavajuće kiselkast, ali plodovi su slatki kada potpuno sazru.
 
@@ -36,7 +40,7 @@ Iako je ogrozd često bio zanemaren tijekom povijesti, u prošlosti je bio vrlo 
 
 ## Ljekovitost i zdravstvene prednosti ogrozda
 
-Ogrozd je prava riznica zdravlja, prepun vitamina i minerala. Na 100 grama, ogrozd sadrži oko 44 kalorije, a bogat je vitaminima C, A i K, kao i dijetalnim vlaknima.
+Ogrozd je prava riznica zdravlja, prepun vitamina i minerala. Na 100 grama, ogrozd sadrži oko 44 kalorije, a bogat je vitaminima C, A i K, kao i dijetalnim vlaknima. Znanstvene podatke o ogrozdu saželi smo u članku [što kažu istraživanja o ogrozdu](https://www.cultivias.com/voce/ogrozd-i-zdravlje-%C5%A1to-ka%C5%BEu-istra%C5%BEivanja/).
 
 Nutritivna vrijednost (100 grama)
 
@@ -75,7 +79,7 @@ Zahvaljujući visokom udjelu vitamina C, ogrozd pruža podršku jačanju imunolo
 
 ### Vlakna i kontrola težine
 
-Zbog svoje **niske kalorijske vrijednosti** i **visokog udjela vlakana**, ogrozd je idealan za one koji žele održavati uravnoteženu prehranu i kontrolirati tjelesnu težinu.
+Zbog svoje **niske kalorijske vrijednosti** i **visokog udjela vlakana**, ogrozd je idealan za one koji žele održavati uravnoteženu prehranu i kontrolirati tjelesnu težinu. Koliko kalorija ima svježi ogrozd, kompot i džem, pogledajte u članku [kalorije ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
 
 [Ogrozd je bogat](https://www.healthline.com/nutrition/gooseberries) topljivim i netopljivim dijetalnim vlaknima.
 
@@ -144,11 +148,11 @@ Također, važno je osigurati pravilnu pH vrijednost tla, koja bi trebala biti n
 
 ### Razmnožavanje i odabir sadnica
 
-Ogrozd se najčešće razmnožava pomoću reznica ili sadnica. [Hibridne sorte i beztrnje vrste](https://www.catino.com.hr/sorte-ogrozda-vodic-kroz-boje-vrste-i-hibride-za-vas-vrt/) sve su popularnije zbog jednostavnosti uzgoja i berbe. Prilikom odabira sadnog materijala važno je izabrati zdrave sadnice otporne na bolesti kako bi se osigurao visok prinos.
+Ogrozd se najčešće razmnožava pomoću reznica ili sadnica. [Hibridne sorte i beztrnje vrste](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/) sve su popularnije zbog jednostavnosti uzgoja i berbe. Prilikom odabira sadnog materijala važno je izabrati zdrave sadnice otporne na bolesti kako bi se osigurao visok prinos.
 
 ### Savjeti kod sadnje
 
-Prilikom sadnje ogrozda, važno je odabrati zdrave sadnice. Provjerite da korijenov sustav nije oštećen i da su pupoljci na granama zdravi. Sadnice sadite u rupe koje su dvostruko veće od korijenovog sustava. Nakon sadnje, dobro zalijte biljku i oko nje napravite nasip od zemlje kako biste zadržali vlagu.
+Prilikom [sadnje ogrozda](https://www.cultivias.com/voce/kako-posaditi-i-razmno%C5%BEiti-ogrozd/), važno je odabrati zdrave sadnice. Provjerite da korijenov sustav nije oštećen i da su pupoljci na granama zdravi. Sadnice sadite u rupe koje su dvostruko veće od korijenovog sustava. Nakon sadnje, dobro zalijte biljku i oko nje napravite nasip od zemlje kako biste zadržali vlagu.
 
 Mlade biljke treba redovito zalijevati, posebno tijekom sušnih perioda.
 
@@ -158,7 +162,7 @@ Mlade biljke treba redovito zalijevati, posebno tijekom sušnih perioda.
 
 **Gnojidba:** Jednom godišnje, u rano proljeće, ogrozd treba prihraniti kompostom ili mineralnim gnojivom.
 
-**Orezivanje:** Orezivanje je važno za održavanje zdravlja biljke i povećanje prinosa. Odstranjuju se suhe, oštećene i bolesne grane.
+**Orezivanje:** Orezivanje je važno za održavanje zdravlja biljke i povećanje prinosa. Odstranjuju se suhe, oštećene i bolesne grane. Kada i kako orezati grm, objašnjava članak [orezivanje ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
 
 **Zaštita od bolesti i štetočina:** Ogrozd može biti napadnut pepelnicom, lisnim ušima i drugim štetočinama. Redovito se preporučuje pregledavanje biljaka kako bi se na vrijeme poduzele mjere za zaštitu od bolesti i štetočina.
 
@@ -206,7 +210,7 @@ Nezrele bobice ogrozda idealne su za izradu kiselkastih džemova, kolača i drug
 
 Njihova prirodna kiselost savršeno se slaže sa slatkim desertima, stvarajući izvanredan kontrast okusa.
 
-Osim u džemovima, nezreli ogrozd se često koristi za voćne pite i kompote, a može se kombinirati i s jabukama ili malinama kako bi se dobio bogatiji okus.
+Osim u džemovima, nezreli ogrozd se često koristi za voćne pite i kompote, a može se kombinirati i s jabukama ili malinama kako bi se dobio bogatiji okus. Recepte s ogrozdom potražite u članku [najbolji recepti od ogrozda](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/).
 
 Ovaj specifični okus posebno je popularan u britanskoj kuhinji.
 

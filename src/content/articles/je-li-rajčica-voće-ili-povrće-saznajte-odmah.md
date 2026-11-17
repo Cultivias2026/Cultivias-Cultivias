@@ -14,14 +14,18 @@ editors_pick: false
 tags: []
 metaTitle: Je li rajčica voće ili povrće? Saznajte odmah!
 noindex: false
+related_articles:
+  - kalorije-u-rajčici-usporedba-svježe-rajčice-passate-koncentrata-i-umaka
+  - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
+  - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
 
-Voće je dio biljke koji se razvija iz cvijeta i sadrži sjeme. Budući da [rajčica](https://www.catino.com.hr/rajcica/) nastaje iz cvijeta biljke i sadrži sjemenke, botanički se svrstava u voće.
+Voće je dio biljke koji se razvija iz cvijeta i sadrži sjeme. Budući da [rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) nastaje iz cvijeta biljke i sadrži sjemenke, botanički se svrstava u voće.
 
 U kuhinji se voće i povrće klasificiraju prema **okusu i uporabi u jelima**. Voće se obično konzumira sirovo, ima slatkast okus i koristi se u desertima, dok se povrće koristi u slanim jelima.
 
-Budući da se rajčica često koristi u slanim jelima, poput **salata, umaka i juha**, u kulinarskom se kontekstu tretira kao povrće. Neke od[ najukusnijih sorta rajčice](https://www.catino.com.hr/najukusnije-sorte-paradajza/) nezaobilazan su dio svake kuhinje i mnogih recepata.
+Budući da se rajčica često koristi u slanim jelima, poput **salata, umaka i juha**, u kulinarskom se kontekstu tretira kao povrće. Neke od[ najukusnijih sorta rajčice](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/) nezaobilazan su dio svake kuhinje i mnogih recepata.
 
 
 

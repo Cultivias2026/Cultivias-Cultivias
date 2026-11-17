@@ -22,7 +22,7 @@ noindex: false
 ---
 **Limunski eukaliptus** (*Corymbia citriodora*, ranije klasificiran kao *Eucalyptus citriodora*) je visoko drvo porijeklom iz sjeveroistočne Australije, gdje naraste i do 45 metara. Prepoznatljivo je po glatkoj, blijedoj kori koja se ljušti u tankim listićima i po intenzivnom mirisu limuna koji se osjeća čak i bez dodirivanja listova.
 
-Botanički, ova vrsta više nije dio roda [Eucalyptus](https://hr.wikipedia.org/wiki/Eukaliptus) u užem smislu, nego je premještena u rod [Corymbia](https://hr.wikipedia.org/wiki/Corymbia), koji obuhvaća oko 80 vrsta eukaliptusa s karakterističnim cvjetnim skupinama. Ipak, u svakodnevnom govoru i u prodaji se i dalje naziva limunski eukaliptus.
+Botanički, ova vrsta više nije dio roda [Eucalyptus](https://hr.wikipedia.org/wiki/Eukaliptus) u užem smislu, nego je premještena u rod [Corymbia](https://hr.wikipedia.org/wiki/Corymbia), koji obuhvaća oko 80 [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) s karakterističnim cvjetnim skupinama. Ipak, u svakodnevnom govoru i u prodaji se i dalje naziva limunski eukaliptus.
 
 Ono što ovu vrstu razlikuje od ostalih eukaliptusa jest kemijski sastav eteričnog ulja. Dok kod većine eukaliptusa dominira **1,8-cineol** (eukaliptol), kod *Corymbia citriodora* dominira **citronelal**, aldehid koji biljci daje miris limuna i koji je odgovoran za repelentno djelovanje.
 
@@ -84,7 +84,7 @@ Ako tražite regulatornu sigurnost i standardiziranu koncentraciju, potražite k
 
 ## Uzgoj limunskog eukaliptusa: Biljka u vrtu ili tegli
 
-**Limunski eukaliptus** može se uzgajati u vrtu ili u tegli, ali treba biti svjestan da sama biljka nije dovoljna zamjena za repelent. Mirisni spojevi koje biljka ispušta u zrak su premalo koncentrirani da bi pružili ozbiljnu zaštitu od komaraca. Ipak, nekoliko biljaka na terasi ili balkonu može doprinijeti ugodnom mirisu i blago odbijati insekte.
+**Limunski eukaliptus** može se uzgajati u vrtu ili u tegli, ali treba biti svjestan da sama biljka nije dovoljna zamjena za repelent. Mirisni spojevi koje biljka ispušta u zrak su premalo koncentrirani da bi pružili ozbiljnu zaštitu od komaraca. Ipak, nekoliko biljaka na terasi ili balkonu može doprinijeti ugodnom mirisu i blago odbijati insekte. Koje biljke zaista pomažu, a koje su mit, objašnjava članak [biljke protiv komaraca](https://www.cultivias.com/vijesti/biljke-protiv-komaraca-mit-ili-stvarna-pomo%C4%87/).
 
 ### Uzgoj u vrtu
 
@@ -118,7 +118,7 @@ Osobe alergične na biljke iz porodice [mirtovki (Myrtaceae)](https://hr.wikiped
 
 ### Kućni ljubimci
 
-**Eterično ulje limunskog eukaliptusa toksično je za mačke i pse.** Mačke posebno ne mogu metabolizirati određene terpenoidne spojeve. Nemojte nanositi ulje na kućne ljubimce niti ih izlagati difuzeru s eukaliptusovim uljem.
+**Eterično ulje limunskog eukaliptusa toksično je za mačke i pse.** Mačke posebno ne mogu metabolizirati određene terpenoidne spojeve. Nemojte nanositi ulje na kućne ljubimce niti ih izlagati difuzeru s eukaliptusovim uljem. O toksičnosti za ljude, djecu i kućne ljubimce pišemo u članku [je li eukaliptus otrovan](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
 ## Limunski eukaliptus u Hrvatskoj: Gdje ga kupiti?
 
@@ -152,7 +152,7 @@ Biljka voli:
 
 Mirisni listovi su najintenzivniji ljeti, kada je temperatura visoka i biljka aktivno raste. Upravo tada je i najkorisnija kao prirodni repelent na terasi ili balkonu.
 
-Za općenite savjete o uzgoju eukaliptusa u tegli, uključujući odabir supstrata i zalijevanje, pogledajte naš [vodič za uzgoj eukaliptusa kao sobne biljke u tegli](/bilje/eukaliptus-uzgoj-u-tegli/).
+Za općenite savjete o uzgoju eukaliptusa u tegli, uključujući odabir supstrata i zalijevanje, pogledajte naš [vodič za uzgoj eukaliptusa kao sobne biljke u tegli](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
 
 ## Česta pitanja o limunskom eukaliptusu
 

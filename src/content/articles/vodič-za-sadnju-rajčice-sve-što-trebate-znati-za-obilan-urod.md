@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
+  - koje-su-najukusnije-sorte-paradajza-u-našim-krajevima
+  - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
 
@@ -23,7 +27,7 @@ Ovaj sveobuhvatni vodič provest će vas kroz sve korake i metode sadnje, od sje
 
 ## Planiranje sadnje: odabir sorte i pravog trenutka
 
-Prije nego što zabodete prvu lopatu u zemlju, ključno je dobro isplanirati sadnju. To uključuje odabir [odgovarajuće sorte](https://www.catino.com.hr/sorte-paradajza-kompletan-vodic-kroz-determinantne-indeterminantne-i-druge-vrste/) i poštivanje kalendara sadnje prilagođenog vašoj klimi.
+Prije nego što zabodete prvu lopatu u zemlju, ključno je dobro isplanirati sadnju. To uključuje odabir [odgovarajuće sorte](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) i poštivanje kalendara sadnje prilagođenog vašoj klimi.
 
 
 
@@ -172,7 +176,7 @@ Važno je osigurati dobro prozračivanje plastenika kako bi se spriječila pojav
 
 Kombinirana sadnja može značajno poboljšati zdravlje i prinos vaših rajčica.
 
-  [Dobri susjedi rajčice](https://www.catino.com.hr/dobri-susjedi-rajcice/) su biljke koje odbijaju štetnike, poboljšavaju tlo ili na drugi način pomažu u rastu.
+  [Dobri susjedi rajčice](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/) su biljke koje odbijaju štetnike, poboljšavaju tlo ili na drugi način pomažu u rastu.
 
 
 

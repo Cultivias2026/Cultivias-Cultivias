@@ -13,12 +13,16 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - je-li-aronija-štetna-po-naše-zdravlje
+  - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
+  - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 # Aronija: nutritivna vrijednost, sastav i tradicionalna uporaba
 
-**Aronija je nutritivno zanimljiva zbog vlakana i visokog udjela polifenola, posebno antocijana koji joj daju tamnu boju i trpak okus.** To je voće, a ne lijek. Zdravstveni potencijal aronije istražuje se, no dostupni klinički dokazi ne dopuštaju tvrdnju da liječi pojedinu bolest.
+**Aronija je nutritivno zanimljiva zbog vlakana i visokog udjela polifenola, posebno antocijana koji joj daju tamnu boju i trpak okus.** To je voće, a ne lijek. Zdravstveni potencijal aronije istražuje se, no dostupni klinički dokazi ne dopuštaju tvrdnju da liječi pojedinu bolest. Mogućim [nuspojavama soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) posvetili smo zaseban članak.
 
-Mnogima su aronija i njezin gusti sok dio obiteljskog rituala još od kraja ljeta. Ipak, između narodnih predaja, reklamnih poruka i onoga što znanost može potvrditi postoji velika razlika.
+Mnogima su aronija i njezin gusti sok dio obiteljskog rituala još od kraja ljeta. Ipak, između narodnih predaja, reklamnih poruka i onoga što znanost može potvrditi postoji velika razlika. Tko bi trebao biti oprezan i zašto, objašnjava članak [je li aronija štetna po zdravlje](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/).
 
 Ovdje ćete pronaći sastav svježe aronije, objašnjenje zašto je njezin okus tako opor, načine uporabe ploda te pošten odgovor na pitanje može li aronija pomoći kod bolesti.
 
@@ -37,7 +41,7 @@ Za konkretne brojke na 100 g korisna je [Norveška službena tablica sastava hra
 | Masti                           | 0,1 g       |
 | Voda                            | 85 g        |
 
-Ako vas zanimaju samo energetska vrijednost i kalorije po porciji, pročitajte [koliko kalorija ima svježa, sušena i tekuća aronija](https://www.cultivias.com/voce/aronija-kalorije-svjeze-bobice-sok-prah-susena-aronija/). Taj članak ostaje usmjeren na kalorije, dok je ovaj tekst posvećen sastavu, uporabi i zdravstvenom kontekstu ploda.
+Ako vas zanimaju samo energetska vrijednost i kalorije po porciji, pročitajte [koliko kalorija ima svježa, sušena i tekuća aronija](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/). Taj članak ostaje usmjeren na kalorije, dok je ovaj tekst posvećen sastavu, uporabi i zdravstvenom kontekstu ploda.
 
 ## Koje vitamine sadržava 100 g aronije?
 
@@ -85,7 +89,7 @@ To je praktično važno. **Nije opravdano sve proizvode od aronije smatrati međ
 
 To ipak nije isto što i tvrdnja da aronija ima potvrđeno terapijsko djelovanje. Plod je hrana. Sok, prah i ekstrakti su različiti proizvodi sa zasebnim sastavom, dok su dodatci prehrani koncentrirani pripravci koji se ne mogu automatski izjednačiti sa svježim bobicama.
 
-Za usporedbu sastava i kalorija drugih tamnih bobica pogledajte [kalorije bazginih bobica u svježem plodu, soku i sirupu](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu/). Usporedbe proizvoda uvijek radite prema deklaraciji i obliku u kojem se voće konzumira.
+Za usporedbu sastava i kalorija drugih tamnih bobica pogledajte [kalorije bazginih bobica u svježem plodu, soku i sirupu](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Usporedbe proizvoda uvijek radite prema deklaraciji i obliku u kojem se voće konzumira.
 
 ## Može li aronija liječiti bolesti?
 
@@ -135,7 +139,7 @@ Za ideje o sezonskom voću i drugim plodovima iz iste skupine pogledajte [Cultiv
 
 Preradom se mogu promijeniti okus, stabilnost pigmenata i sastav konačnog proizvoda. Svjetlo, toplina, kisik i vrijeme skladištenja mogu utjecati na antocijane, što dodatno objašnjava zašto ne treba prenositi svojstva jednog oblika aronije na svaki drugi oblik.
 
-Za prerađevine uvijek pročitajte deklaraciju. Ako tražite podatke o energiji, porcijama i usporedbi oblika, koristite vodič [aronija kalorije: svježe bobice, sok, prah i sušena aronija](https://www.cultivias.com/voce/aronija-kalorije-svjeze-bobice-sok-prah-susena-aronija/).
+Za prerađevine uvijek pročitajte deklaraciju. Ako tražite podatke o energiji, porcijama i usporedbi oblika, koristite vodič [aronija kalorije: svježe bobice, sok, prah i sušena aronija](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 ## Tko treba biti oprezan s pripravcima od aronije?
 

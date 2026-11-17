@@ -17,10 +17,14 @@ editors_pick: true
 tags: []
 metaTitle: "Ogrozd u kuhinji: najbolji recepti od poznatih gastro portala"
 noindex: false
+related_articles:
+  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-kalorije-svjezi-plod-kompot-dzem
+  - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
 ---
 ## Kulinarska primjena: zreli vs. nezreli ogrozd
 
-Okus i tekstura ogrozda drastično se mijenjaju tijekom zrenja, što određuje njegovu primjenu u kuhinji.
+Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) drastično se mijenjaju tijekom zrenja, što određuje njegovu primjenu u kuhinji.
 
 * **Nezreli (zeleni) ogrozd:** Tvrđi je, izrazito kiselkast i bogat pektinom. Idealan je za kuhanje – pripremu pekmeza, džemova, umaka za meso (posebno uz masnu ribu poput skuše). Njegova kiselost daje savršenu ravnotežu slatkim jelima.
 * **Zreli ogrozd:** Mekši je, slađi i sočniji. Savršen je za jelo u svježem stanju, kao i za pripremu deserata, pita, kolača (crumble), voćnih salata i kompota.

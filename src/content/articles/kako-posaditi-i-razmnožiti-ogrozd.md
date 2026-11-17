@@ -18,6 +18,10 @@ editors_pick: true
 tags: []
 metaTitle: Kako posaditi i razmnožiti ogrozd?
 noindex: false
+related_articles:
+  - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
+  - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
+  - ogrozd--zaboravljeno-supervoće
 ---
 ## Odabir idealne sadnice
 
@@ -31,7 +35,7 @@ Kvalitetna sadnica trebala bi imati sljedeće karakteristike:
 
 ## Okvirna cijena sadnica
 
-Cijena sadnica ogrozda varira ovisno o sorti, starosti i obliku uzgoja. Okvirne cijene na tržištu su:
+Cijena sadnica [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) varira ovisno o sorti, starosti i obliku uzgoja. Okvirne cijene na tržištu su:
 
 * Standardne sadnice (grm): 5 – 15€
 * Cijepljene sadnice (stablo): 15 –30 €
@@ -76,7 +80,7 @@ Sadnja: Stavite sadnicu u rupu, pazeći da je korijenje ravnomjerno raspoređeno
 
 Zalijevanje: Obilno zalijte sadnicu nakon sadnje.
 
-[Prvo orezivanje:](https://www.catino.com.hr/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-za-veci-urod/) Odmah nakon sadnje, skratite sve grane na 3-5 pupoljaka kako biste potaknuli rast.
+[Prvo orezivanje:](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/) Odmah nakon sadnje, skratite sve grane na 3-5 pupoljaka kako biste potaknuli rast.
 
 ## Vodič za razmnožavanje: uvećajte svoj nasad besplatno
 
@@ -118,6 +122,6 @@ Vrijeme uzimanja: Rano ljeto(lipanj), kada su izbojci još zeleni, ali dovoljno 
 
 Podloga: Kao podloga (deblo) najčešće se koristi zlatni ribiz (Ribes aureum), koji je otporan i ima snažan, uspravan rast. No iskusni voćari često znaju koristiti i druga debla, popularno zvane „divljake“ ( divlje sadnice).
 
-Plemenka: Na vrh podloge, na visini od oko 1 metra, cijepi se željena sorta ogrozda.
+Plemenka: Na vrh podloge, na visini od oko 1 metra, cijepi se željena [sorta ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/).
 
 *Ovaj postupak zahtijeva stručnost i obično se prepušta profesionalnim voćarima.*

@@ -14,20 +14,24 @@ featured: true
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - sardinija-i-dugovječnost-što-stvarno-stoji-iza-priče-o-plavoj-zoni
+  - okinawa-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele
+  - nicoya-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele
 ---
 > **Napomena o dokazima:** Plave zone opisuju [populacijske obrasce iznimne dugovječnosti](https://pmc.ncbi.nlm.nih.gov/articles/PMC12119521/) u određenim mjestima i povijesnim kohortama. Ne dokazuju da pojedina prehrana, navika ili mjesto stanovanja pojedincu produljuju život. Sadržaj je edukativan i ne zamjenjuje savjet liječnika ili drugog kvalificiranog zdravstvenog stručnjaka.
 
-U jednom sardinskom selu dan može početi kamenim putem, razgovorom sa susjedom i loncem mahunarki koji polako kuha za stol pun ljudi. Na Okinawi se u priču često ušuljaju vrt, batat, tofu i krug prijatelja koji se poznaju godinama. U Nicoyi se spominju grah, kukuruz, dvorište i *plan de vida*, osjećaj da još imate razlog i ulogu u životu.
+U jednom sardinskom selu dan može početi kamenim putem, razgovorom sa susjedom i loncem mahunarki koji polako kuha za stol pun ljudi. Na [Okinawi](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/) se u priču često ušuljaju vrt, batat, tofu i krug prijatelja koji se poznaju godinama. U Nicoyi se spominju grah, kukuruz, dvorište i *plan de vida*, osjećaj da još imate razlog i ulogu u životu.
 
 Cultivias pokreće serijal **„Plave zone”** prema epizodama i dokumentarcima [Dana Buettnera, autora i popularizatora koncepta Blue Zones](https://danbuettner.com/netflix/). Njegov četverodijelni dokumentarac *Live to 100: Secrets of the Blue Zones* polazište je za upoznavanje pet zajednica, dok Cultivias svaku priču dodatno smješta u širi povijesni, kulturni i znanstveni kontekst.
 
-Prva postaja bit će **Sardinija**. Nakon nje dolaze Okinawa, Nicoya, Ikaria i Loma Linda. Svaka ima vlastiti ritam, vlastitu povijest i vlastiti tanjur.
+Prva postaja bit će **[Sardinija](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/)**. Nakon nje dolaze Okinawa, Nicoya, Ikaria i [Loma Linda](https://www.cultivias.com/vijesti/loma-linda-i-dugovje%C4%8Dnost-%C5%A1to-su-adventisti-jeli-i-kako-su-%C5%BEivjeli/). Svaka ima vlastiti ritam, vlastitu povijest i vlastiti tanjur.
 
 ## Plave zone nisu samo priča o prehrani
 
 Plave zone nisu jelovnik, nego širi prikaz načina života u određenoj zajednici. Iza priče stoje vrt, udaljenost do trgovine, put uzbrdo, obiteljski stol, susjedstvo, lokalne proslave, pušenje ili nepušenje, radni ritam i mjesto koje pojedinac ima u svojoj zajednici.
 
-Dan Buettner je kroz knjige, terenski rad i dokumentarce popularizirao pet lokacija koje se najčešće povezuju s ovim pojmom: Sardiniju u Italiji, Okinawu u Japanu, Nicoyu u Kostariki, Ikariju u Grčkoj i adventističku zajednicu povezanu s Lomom Lindom u Kaliforniji. No **to nisu kopije istog života** niti su sve lokacije istraživane jednakim metodama.
+Dan Buettner je kroz knjige, terenski rad i dokumentarce popularizirao pet lokacija koje se najčešće povezuju s ovim pojmom: Sardiniju u Italiji, Okinawu u Japanu, [Nicoyu](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/) u Kostariki, Ikariju u Grčkoj i adventističku zajednicu povezanu s Lomom Lindom u Kaliforniji. No **to nisu kopije istog života** niti su sve lokacije istraživane jednakim metodama.
 
 ## Sardinija: Planine, obitelj i kretanje koje se nije zvalo trening
 
@@ -63,7 +67,7 @@ Zato se u epizodi o Nicoyi nećemo zaustaviti na poruci „pronađite svoju svrh
 
 Ikaria i Loma Linda ne potvrđuju jednu univerzalnu rutinu, nego pokazuju koliko se konteksti dugovječnosti mogu razlikovati. [Ikaria Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3051199/) proučavao je demografske, životne i psihološke karakteristike vrlo starih stanovnika grčkog otoka, dok je [Adventist Health Study-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4191896/) analizirao povezanosti obrazaca prehrane i smrtnosti unutar adventističke kohorte.
 
-Na Ikarii se priča često vrti oko mediteranskog stola, hodanja kroz naselja, lokalnih okupljanja i ritma koji nije stalno ubrzan. U Loma Lindi naglasak je na adventističkim kohortama, biljnijim prehrambenim obrascima, nepušenju i zajednici koja može olakšati određene navike.
+Na [Ikarii](https://www.cultivias.com/vijesti/ikaria-i-dugovje%C4%8Dnost-%C5%A1to-su-oto%C4%8Dani-jeli-i-kako-su-%C5%BEivjeli/) se priča često vrti oko mediteranskog stola, hodanja kroz naselja, lokalnih okupljanja i ritma koji nije stalno ubrzan. U Loma Lindi naglasak je na adventističkim kohortama, biljnijim prehrambenim obrascima, nepušenju i zajednici koja može olakšati određene navike.
 
 Zajednički nazivnik nije jedna egzotična namirnica. Lokalne navike rijetko dolaze same: povezane su s obitelji, kulturom, dostupnom hranom, radom, prostorom, zdravstvom, generacijama i cijelim životnim tijekom.
 

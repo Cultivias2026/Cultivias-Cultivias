@@ -25,7 +25,7 @@ Na stolu su se često nalazili riža, crni grah, kukuruzne tortilje, povrće, vo
 
 Nicoya nije tropska kišna šuma kakvu mnogi zamišljaju kada pomisle na Kostariku. To je pacifički krajolik Guanacastea: sezonski suša tropska šuma, prašnjavi putovi, niska brda, pašnjaci, ruralne kuće s trijemom i obala koja nije jedina pozornica života.
 
-Ovo je treća postaja Cultivias serijala [Plave zone](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/). Nakon [Sardinije](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/) i [Okinawe](/vijesti/okinawa-dugovjecnost-plava-zona-prehrana-nacin-zivota/), Nicoya otvara drukčije pitanje: kako je jedna povijesna generacija ljudi iz ruralne Kostarike postala toliko zanimljiva demografima?
+Ovo je treća postaja Cultivias serijala [Plave zone](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/). Nakon [Sardinije](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/) i [Okinawe](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoya otvara drukčije pitanje: kako je jedna povijesna generacija ljudi iz ruralne Kostarike postala toliko zanimljiva demografima?
 
 
 
@@ -114,7 +114,7 @@ Nicoya nam ne daje listu egzotičnih kupnji. Daje nekoliko jednostavnih pitanja 
 - **Postoji li zajednički stol ili redovit kontakt?** Doručak, šetnja, susjed, obitelj ili hobi mogu prekinuti izolaciju.
 - **Brinete li o preventivi?** Kontrola tlaka, prestanak pušenja, cijepljenje, vid, sluh, rizik od pada i nutritivni status nisu manje važni od hrane.
 
-U odnosu na [sardinsku priču o planinskoj svakodnevici](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/) i [okinavsku priču o otočnom prehrambenom obrascu](/vijesti/okinawa-dugovjecnost-plava-zona-prehrana-nacin-zivota/), Nicoya posebno naglašava vrijednost osnovnih namirnica i životnog ritma koji se mijenja iz generacije u generaciju.
+U odnosu na [sardinsku priču o planinskoj svakodnevici](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/) i [okinavsku priču o otočnom prehrambenom obrascu](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoya posebno naglašava vrijednost osnovnih namirnica i životnog ritma koji se mijenja iz generacije u generaciju.
 
 No najpoštenija poruka nije da možemo preuzeti nečiji život u tanjur. Nicoya pokazuje koliko se prehrana, odnosi, rad, briga i generacije međusobno isprepliću. To je razlog da o svojoj svakodnevici razmišljamo danas.
 

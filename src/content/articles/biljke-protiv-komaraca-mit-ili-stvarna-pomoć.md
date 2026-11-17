@@ -14,10 +14,14 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - menta-sve-važne-informacije-o-njoj
+  - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 [Stručnjaci Sveučilišta Florida, UF/IFAS Extensiona](https://blogs.ifas.ufl.edu/news/2025/08/06/florida-experts-break-down-the-buzz-on-the-myth-of-mosquito-repelling-plants/), [Iowa State University Extensiona](https://yardandgarden.extension.iastate.edu/encyclopedia/mosquito-control) i [Colorado State University Extensiona](https://planttalk.colostate.edu/topics/insects-diseases/1400-20-plants-repel-mosquitoes/) u tome su vrlo jasni: živa biljka nije isto što i testirani repelentni proizvod.
 
-Mirisni kutak na balkonu zato i dalje ima smisla. Lavanda uz terasu, metvica kraj kuhinje ili bosiljak na prozoru stvaraju ugodniji prostor i koriste se u kuhinji, ali **ne smiju stvarati lažan osjećaj sigurnosti od komaraca**. Ako želite smanjiti ubode, zasadite ono što volite, a zaštitu gradite na mjerama koje prekidaju razmnožavanje komaraca i ograničavaju izloženost.
+Mirisni kutak na balkonu zato i dalje ima smisla. Lavanda uz terasu, [metvica](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) kraj kuhinje ili bosiljak na prozoru stvaraju ugodniji prostor i koriste se u kuhinji, ali **ne smiju stvarati lažan osjećaj sigurnosti od komaraca**. Ako želite smanjiti ubode, zasadite ono što volite, a zaštitu gradite na mjerama koje prekidaju razmnožavanje komaraca i ograničavaju izloženost.
 
 > „Biljke poput eukaliptusa, citronele, metvice, bosiljka, lavande i kadifice imaju ulja koja mogu odbijati komarce. No riječ je o uljima koja treba ekstrahirati i koristiti u koncentriranom obliku.” [UF/IFAS Extension](https://blogs.ifas.ufl.edu/news/2025/08/06/florida-experts-break-down-the-buzz-on-the-myth-of-mosquito-repelling-plants/)
 
@@ -48,7 +52,7 @@ Mirisni kutak na balkonu zato i dalje ima smisla. Lavanda uz terasu, metvica kra
 
 ## Je li ulje limunskog eukaliptusa isto što i eterično ulje iz kućne bočice?
 
-**Ne. Ulje limunskog eukaliptusa u registriranom repelentu i proizvoljno korišteno eterično ulje nisu ista stvar.** Američka Agencija za zaštitu okoliša među aktivnim sastojcima repelenta za kožu navodi ulje limunskog eukaliptusa, PMD, ulje citronele, ulje mačje metvice i 2-undekanon, uz druge sastojke poput ikaridina i DEET-a. [Službeni EPA popis aktivnih sastojaka](https://www.epa.gov/insect-repellents/skin-applied-repellent-ingredients) razlikuje ulje limunskog eukaliptusa i PMD kao regulirane tvari.
+**Ne. Ulje limunskog eukaliptusa u registriranom repelentu i proizvoljno korišteno eterično ulje nisu ista stvar.** Američka Agencija za zaštitu okoliša među aktivnim sastojcima repelenta za kožu navodi ulje [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/), PMD, ulje citronele, ulje mačje metvice i 2-undekanon, uz druge sastojke poput ikaridina i DEET-a. [Službeni EPA popis aktivnih sastojaka](https://www.epa.gov/insect-repellents/skin-applied-repellent-ingredients) razlikuje ulje limunskog eukaliptusa i PMD kao regulirane tvari.
 
 [Znanstveni pregled u *Malaria Journalu*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/) dodatno pojašnjava da PMD nije isto što i obično eterično ulje limunskog eukaliptusa. Zato **ne treba pretpostaviti da će nerazrijeđeno ulje, domaća mješavina ili biljka imati djelovanje, trajanje zaštite i sigurnosni profil deklariranog proizvoda**.
 

@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
 ---
 
 
@@ -79,7 +83,7 @@ Zatvorite bočice čvrsto i označite ih datumom i sadržajem.
 
 #### 7. Upotreba:
 
-Kapi crnog ribiza mogu se uzimati **oralno**, **obično 10-15 kapi dnevno** razrijeđeno u vodi ili soku.
+Kapi [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) mogu se uzimati **oralno**, **obično 10-15 kapi dnevno** razrijeđeno u vodi ili soku.
 
 \****Preporučuje se konzultirati se s liječnikom prije početka korištenja, posebno ako imate bilo kakve zdravstvene probleme ili uzimate druge lijekove.***
 

@@ -20,10 +20,14 @@ editors_pick: true
 tags: []
 metaTitle: "Orezivanje ogrozda: Kada i kako pravilno orezati grm za veći urod?"
 noindex: false
+related_articles:
+  - kako-posaditi-i-razmnožiti-ogrozd
+  - ogrozd--zaboravljeno-supervoće
+  - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
 ---
 ## Zašto je orezivanje važno?
 
-[Ogrozd](https://www.catino.com.hr/ogrozd/) (Ribes grossularia L.) je grmolika voćna biljka iz porodice kamenika (Grossulariaceae) koja počinje roditi već druge godine od sadnje, a punu rodnost daje s 5-8 godina. Prosječan „vijek trajanja voćke je oko 15-20 godina.
+[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) (Ribes grossularia L.) je grmolika voćna biljka iz porodice kamenika (Grossulariaceae) koja počinje roditi već druge godine od sadnje, a punu rodnost daje s 5-8 godina. Prosječan „vijek trajanja voćke je oko 15-20 godina.
 
 Pravilno i pravovremeno orezivanje:
 

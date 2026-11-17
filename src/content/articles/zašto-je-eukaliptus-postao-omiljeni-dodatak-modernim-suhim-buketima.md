@@ -34,7 +34,7 @@ U suvremenim aranžmanima posebno se ističu okruglasta vrsta *Eucalyptus cinere
 
 Okruglasta vrsta prepoznatljiva je po zaobljenim, srebrnastim listovima koji aranžmanu daju mekan i grafički izgled. *Eucalyptus gunnii* ima izduženije listove i često djeluje prozračnije, osobito kada se koristi u višim vazama ili uz uspravne suhe stabljike.
 
-Za dodatne informacije o uzgoju, izgledu i odabiru sorti koristan je [Vodič kroz vrste eukaliptusa](https://cultivias.com/bilje/vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
+Za dodatne informacije o uzgoju, izgledu i odabiru sorti koristan je [Vodič kroz vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
 
 ## Kako se eukaliptus uklapa u različite stilove uređenja?
 
@@ -68,10 +68,10 @@ Najrazumniji pristup jest birati kvalitetne, dugotrajne grančice, koristiti ih 
 
 ## Na što treba paziti prije unošenja eukaliptusa u dom?
 
-Prije postavljanja eukaliptusa u prostor u kojem borave djeca ili kućni ljubimci treba provjeriti sigurnosne smjernice za konkretnu vrstu. Više informacija o mogućoj toksičnosti i utjecaju na ljude, djecu i kućne ljubimce donosi tekst [Je li eukaliptus otrovan](https://cultivias.com/bilje/je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce/).
+Prije postavljanja eukaliptusa u prostor u kojem borave djeca ili kućni ljubimci treba provjeriti sigurnosne smjernice za konkretnu vrstu. Više informacija o mogućoj toksičnosti i utjecaju na ljude, djecu i kućne ljubimce donosi tekst [Je li eukaliptus otrovan](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
 Grančice je najbolje postaviti na mjesto izvan dosega životinja i redovito uklanjati osipane listove. Ako niste sigurni koju vrstu imate ili je biljka tretirana dodatnim sredstvima, provjerite deklaraciju ili se posavjetujte sa stručnjakom prije uporabe u domu.
 
 ## Zaključak
 
-Eukaliptus je postao nezaobilazan u suhim buketima zbog kombinacije trajnosti, neutralne boje i oblikovne svestranosti. Može se sušiti na zraku ili obraditi glicerinom, koristiti samostalno ili uz lavandu, pšenicu i pamuk, a pravilnim odabirom i njegom dugo ostaje elegantan ukras interijera.
+Eukaliptus je postao nezaobilazan u suhim buketima zbog kombinacije trajnosti, neutralne boje i oblikovne svestranosti. Može se sušiti na zraku ili obraditi glicerinom, koristiti samostalno ili uz lavandu, pšenicu i pamuk, a pravilnim odabirom i njegom dugo ostaje elegantan ukras interijera. Kako suhi eukaliptus pretvoriti u dekoraciju, pročitajte u članku [ne bacajte suhi eukaliptus](https://www.cultivias.com/vijesti/ne-bacajte-suhi-eukaliptus-jednostavna-metoda-pretvara-ga-u-dekoraciju-koja-traje-mjesecima/).

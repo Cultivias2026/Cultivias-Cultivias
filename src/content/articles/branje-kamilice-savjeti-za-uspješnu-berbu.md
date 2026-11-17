@@ -13,6 +13,10 @@ editors_pick: false
 tags: []
 metaTitle: Branje kamilice- savjeti za uspješnu berbu!
 noindex: false
+related_articles:
+  - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
+  - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli
+  - čaj-od-kamilice
 ---
 
 
@@ -24,7 +28,7 @@ Berete li je za osobnu upotrebu ili veće količine, pravilna tehnika osigurava 
 
 
 
-Za najbolje rezultate, [kamilicu](https://www.catino.com.hr/kamilica/) berite kada su cvjetovi **potpuno otvoreni**, idealno **tijekom jutra** nakon što se rosa osuši.
+Za najbolje rezultate, [kamilicu](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) berite kada su cvjetovi **potpuno otvoreni**, idealno **tijekom jutra** nakon što se rosa osuši.
 
 U to doba dana biljka sadrži najvišu koncentraciju esencijalnih ulja, što rezultira snažnijim i aromatičnijim čajem.
 
@@ -64,10 +68,10 @@ Strojevi su dizajnirani za maksimiziranje prinosa uz minimalan trud.
 
 
 
-Nakon što ste ubrali kamilicu (cvijetove), [treba je pravilno je osušiti ](https://www.catino.com.hr/kako-pravilno-osusiti-kamilicu-za-savrsen-caj/)kako bi se sačuvala njezina svojstva.
+Nakon što ste ubrali kamilicu (cvijetove), [treba je pravilno je osušiti ](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/)kako bi se sačuvala njezina svojstva.
 
 Svježe ubrane cvjetove raširite u tankom sloju na čistoj podlozi, idealno na **sjenovitom i prozračnom mjestu**.
 
 Izbjegavajte izravno sunce jer ono može uništiti eterična ulja. Cilj je da se cvjetovi potpuno osuše, postanu krhki na dodir i zadrže svoju boju.
 
-Pravilno ubrana i osušena kamilica pružit će vam savršen,[ **domaći čaj**](https://www.catino.com.hr/caj-od-kamilice/) koji je poznat po svojim[ **smirujućim i opuštajućim svojstvima**.](https://www.catino.com.hr/kamilica-olaksanje-probave-nadutosti-i-grceva/)
+Pravilno ubrana i osušena kamilica pružit će vam savršen,[ **domaći čaj**](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) koji je poznat po svojim[ **smirujućim i opuštajućim svojstvima**.](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/)

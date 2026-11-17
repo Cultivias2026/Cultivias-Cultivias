@@ -17,12 +17,16 @@ editors_pick: true
 tags: []
 metaTitle: "Berba crnog ribiza: kako i kada!"
 noindex: false
+related_articles:
+  - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - recepti-i-ideje-od-crnog-ribiza
 ---
 
 
 **Pravilno vrijeme i tehnika berbe** osiguravaju maksimalan okus, nutritivnu vrijednost i dugotrajnost plodova.
 
-Iako se uzgoj crnog ribiza može činiti složenim, sama berba je relativno jednostavna ukoliko poštujete **ove savjete.**
+Iako se [uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/) može činiti složenim, sama berba je relativno jednostavna ukoliko poštujete **ove savjete.**
 
 
 
@@ -30,7 +34,7 @@ Iako se uzgoj crnog ribiza može činiti složenim, sama berba je relativno jedn
 
 
 
-Crni ribiz obično dozrijeva **sredinom ljeta**, ovisno o sorti i klimatskim uvjetima.
+[Crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) obično dozrijeva **sredinom ljeta**, ovisno o sorti i klimatskim uvjetima.
 
 Najbolji pokazatelj zrelosti su **boja** i tekstura ploda. Zrele bobice crnog ribiza su **tamnoljubičaste do gotovo crne boje**, sjajne i pune.
 
@@ -60,7 +64,7 @@ Nakon berbe, crni ribiz je najbolje konzumirati svjež ili ga što prije obradit
 
 Svježe bobice mogu se čuvati u hladnjaku samo **nekoliko dana.**
 
-Za dugotrajnije skladištenje, crni ribiz se može zamrznuti, osušiti ili preraditi u džemove, sokove, sirupe ili likere.
+Za dugotrajnije skladištenje, crni ribiz se može zamrznuti, osušiti ili preraditi u džemove, sokove, sirupe ili likere. Za pripremu soka, džema i deserta pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
 
 Zamrzavanje je odličan način za očuvanje nutritivne vrijednosti i okusa za kasniju upotrebu.
 

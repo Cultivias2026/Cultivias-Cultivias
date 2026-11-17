@@ -15,12 +15,16 @@ editors_pick: false
 tags: []
 metaTitle: Uzgoj kamilice na balkonu u tegli? Da, moguće je!
 noindex: false
+related_articles:
+  - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli
+  - branje-kamilice-savjeti-za-uspješnu-berbu
+  - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
 ---
 Ova divna biljka ne samo da će uljepšati vaš prostor, već će vam pružiti i izvor svježih cvjetova za opuštajući napitak.
 
 ## Zašto uzgajati kamilicu u tegli?
 
-[Kamilica](https://www.catino.com.hr/kamilica/) je biljka skromnih zahtjeva koja se odlično prilagođava životu u teglama. Idealna je za male prostore poput balkona ili terasa.
+[Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) je biljka skromnih zahtjeva koja se odlično prilagođava životu u teglama. Idealna je za male prostore poput balkona ili terasa.
 
 Osim što vam omogućuje pristup svježim cvjetovima za čaj, kamilica privlači korisne kukce, a njezin nježni miris doprinosi ugodnoj atmosferi.
 
@@ -53,6 +57,6 @@ Ako ih sadite u više tegla, ostavite najjače presadnice na razmaku od 10-15 cm
 
 2. Dohrana: Kamilica ne zahtijeva puno hranjivih tvari. Dovoljno je prihraniti je blagim tekućim gnojivom za cvjetnice jednom mjesečno tijekom sezone rasta (proljeće i ljeto).
 
-3. Berba: [Cvjetove počnite brati ](https://www.catino.com.hr/branje-kamilice-savjeti-za-uspjesnu-berbu/)kada su potpuno otvoreni, obično nakon 60-90dana od sjetve. Berite ih rano ujutro, nakon što se rosa osuši, kada su eterična ulja najkoncentriranija. Redovitom berbom potaknut ćete biljku na stvaranje novih cvjetova.
+3. Berba: [Cvjetove počnite brati ](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/)kada su potpuno otvoreni, obično nakon 60-90dana od sjetve. Berite ih rano ujutro, nakon što se rosa osuši, kada su eterična ulja najkoncentriranija. Redovitom berbom potaknut ćete biljku na stvaranje novih cvjetova.
 
 4. Bolesti i štetnici: Kamilica je prilično otporna na bolesti i štetnike. Povremeno provjerite listove i cvjetove na znakove lisnih uši ili drugih problema. U slučaju pojave štetnika, koristite prirodna sredstva.

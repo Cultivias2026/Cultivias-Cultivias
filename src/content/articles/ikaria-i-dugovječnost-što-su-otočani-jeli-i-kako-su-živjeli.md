@@ -24,7 +24,7 @@ Cultivias serijal [Plave zone](https://www.cultivias.com/vijesti/5-mjesta-5-na%C
 
 Na stolu su mahunarke i maslinovo ulje, do vrta i susjeda ide se pješice, a navečer se sjedi dulje nego u gradu. Ikaria nije Santorini. To je planinski otok istočnog Egeja s kamenim padinama, maslinama i raštrkanim selima.
 
-Ovo je četvrta postaja serijala. Nakon [Sardinije](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/), [Okinawe](/vijesti/okinawa-dugovjecnost-plava-zona-prehrana-nacin-zivota/) i [Nicoye](/vijesti/nicoya-dugovjecnost-plava-zona-prehrana-nacin-zivota/), Ikaria pokazuje koliko su hrana, teren i društveni život povezani.
+Ovo je četvrta postaja serijala. Nakon [Sardinije](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/), [Okinawe](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/) i [Nicoye](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Ikaria pokazuje koliko su hrana, teren i društveni život povezani.
 
 **Ažurirano: 16. listopada 2026.**
 

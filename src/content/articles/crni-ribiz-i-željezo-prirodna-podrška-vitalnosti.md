@@ -13,8 +13,12 @@ editors_pick: false
 tags: []
 metaTitle: "Crni ribiz i željezo: Prirodna podrška vitalnosti"
 noindex: false
+related_articles:
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - recepti-i-ideje-od-crnog-ribiza
 ---
-Željezo je esencijalni mineral koji igra ključnu ulogu u održavanju vitalnosti i cjelokupnog zdravlja organizma. Razumijevanje njegove važnosti i načina na koji crni ribiz doprinosi njegovom unosu ključno je za optimizaciju prehrane.
+Željezo je esencijalni mineral koji igra ključnu ulogu u održavanju vitalnosti i cjelokupnog zdravlja organizma. Razumijevanje njegove važnosti i načina na koji [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) doprinosi njegovom unosu ključno je za optimizaciju prehrane.
 
 ## Sadržaj željeza u crnom ribizu
 
@@ -38,7 +42,7 @@ Kombinirajte s drugim izvorima vitamina C: Iako je crni ribiz sam po sebi bogat 
 
 Izbjegavajte inhibitore apsorpcije: Prema [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK540969/), neke tvari mogu smanjiti apsorpciju željeza. Pokušajte izbjegavati konzumaciju čaja, kave i mliječnih proizvoda bogatih kalcijem istovremeno s obrocima bogatim željezom.
 
-Minimalna obrada: Kada pripremate džemove ili sirupe, koristite blagu toplinsku obradu kako biste sačuvali što više hranjivih tvari, uključujući željezo i vitamin C.
+Minimalna obrada: Kada pripremate džemove ili sirupe, koristite blagu toplinsku obradu kako biste sačuvali što više hranjivih tvari, uključujući željezo i vitamin C. Još ideja za kuhinju donosi članak [recepti i ideje od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
 
 ## Uloga željeza u organizmu
 

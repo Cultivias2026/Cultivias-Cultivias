@@ -29,7 +29,7 @@ noindex: false
 
 Luk, češnjak, poriluk i vlasac (luk na vlati), cijela obitelj Allium, daleko su **najkorisniji susjedi mrkvi**. Razlog je jednostavan: [njihov prodoran miris zbunjuje i odbija mrkvinu muhu](https://fryd.app/en/magazine/companion-planting-carrots), jednog od najopasnijih štetnika koji uništava korijen mrkve. 
 
-Zauzvrat, mrkva izlučuje tvari koje tjeraju lukovu muhu, pa ova dva usjeva **bukvalno čuvaju jedan drugoga**. Ovo je jedan od rijetkih primjera potpuno obostrano korisne veze u vrtu.
+Zauzvrat, [mrkva](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/) izlučuje tvari koje tjeraju lukovu muhu, pa ova dva usjeva **bukvalno čuvaju jedan drugoga**. Ovo je jedan od rijetkih primjera potpuno obostrano korisne veze u vrtu.
 
 Posebno je zanimljivo što poriluk i mrkva imaju **gotovo identične potrebe za vodom**, što ih čini praktički savršenim parovima za istu gredicu. 
 

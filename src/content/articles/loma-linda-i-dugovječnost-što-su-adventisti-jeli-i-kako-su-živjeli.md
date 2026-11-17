@@ -25,7 +25,7 @@ noindex: false
 
 To nije sunčani Hollywood. Loma Linda je grad u unutarnjem dijelu južne Kalifornije, istočno od Los Angelesa, u podnožju planina San Bernardino. [Blue Zones](https://www.bluezones.com/explorations/loma-linda-california/) navodi da u tom kraju živi oko 9.000 adventista, članova Crkve adventista sedmog dana, kojima je zdravlje važan dio vjere.
 
-Nakon [Sardinije](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/), [Okinawe](/vijesti/okinawa-dugovjecnost-plava-zona-prehrana-nacin-zivota/), [Nicoye](/vijesti/nicoya-dugovjecnost-plava-zona-prehrana-nacin-zivota/) i [Ikarije](/vijesti/ikaria-dugovjecnost-plava-zona-prehrana-nacin-zivota/), Loma Linda pokazuje da plava zona ne mora biti selo na otoku. Može biti zajednica koja zajedno bira slične navike.
+Nakon [Sardinije](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/), [Okinawe](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), [Nicoye](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/) i [Ikarije](https://www.cultivias.com/vijesti/ikaria-i-dugovje%C4%8Dnost-%C5%A1to-su-oto%C4%8Dani-jeli-i-kako-su-%C5%BEivjeli/), Loma Linda pokazuje da plava zona ne mora biti selo na otoku. Može biti zajednica koja zajedno bira slične navike.
 
 
 ## Brzi odgovor: zašto je Loma Linda postala poznata kao plava zona?
@@ -52,7 +52,7 @@ Vjerski dio ove priče ne treba preslikavati. Ono što se može prenijeti je ide
 
 Adventist Health Study naglašava redovito, umjereno kretanje, poput svakodnevnih šetnji, a ne maratone. [WHO tjelesnu aktivnost definira široko](https://www.who.int/news-room/fact-sheets/detail/physical-activity): računaju se hodanje, kućanski poslovi i rekreacija, uz prilagodbu zdravlju.
 
-Zajednica je drugi stup. Adventisti često provode vrijeme s ljudima sličnih vrijednosti, a crkva potiče i volontiranje. Osjećaj svrhe i pomaganje drugima vraćaju se u svim plavim zonama.
+Zajednica je drugi stup. Adventisti često provode vrijeme s ljudima sličnih vrijednosti, a crkva potiče i volontiranje. Osjećaj svrhe i pomaganje drugima vraćaju se u svim [plavim zonama](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/).
 
 ## Što u toj priči nije „recept”?
 

@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - kako-uzgojiti-mentu-u-tegli-kod-kuće
+  - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
+  - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
 
 
@@ -64,9 +68,9 @@ Iako postoji mnogo vrsta, nekoliko ih se posebno ističe po svojoj popularnosti 
 
 
 
-Menta je zahvalna biljka za uzgoj, no poznata je po svojoj invazivnosti i brzom širenju. Ako se pitate [kako uzgojiti mentu kod kuće](https://www.catino.com.hr/kako-uzgojiti-mentu-kod-kuce/), najvažnije je osigurati joj dovoljno vlage i kontrolirati njen rast, primjerice sadnjom u tegle.
+Menta je zahvalna biljka za uzgoj, no poznata je po svojoj invazivnosti i brzom širenju. Ako se pitate [kako uzgojiti mentu kod kuće](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/), najvažnije je osigurati joj dovoljno vlage i kontrolirati njen rast, primjerice sadnjom u tegle.
 
-Pravilna berba ključna je za očuvanje arome, a [detaljne upute o tome kada i kako brati i sušiti mentu](https://www.catino.com.hr/vodic-za-berbu-i-susenje-mente-od-svjezeg-lista-do-caja/) osigurat će vam zalihu za cijelu godinu.
+Pravilna berba ključna je za očuvanje arome, a [detaljne upute o tome kada i kako brati i sušiti mentu](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) osigurat će vam zalihu za cijelu godinu.
 
 ## Zdravstvene koristi mente
 
@@ -74,11 +78,11 @@ Pravilna berba ključna je za očuvanje arome, a [detaljne upute o tome kada i 
 
 Mnoge tvrdnje o ljekovitosti mente prenose se generacijama, no važno je pristupiti im s dozom opreza.
 
- Iako se menta tradicionalno [koristi za ublažavanje raznih tegoba](https://www.catino.com.hr/dobrobiti-caja-od-mente-za-san-pamcenje-i-probavu/), znanstvene studije često su fokusirane na specifične vrste i pripravke, poput ulja ili ekstrakata, te njihovi rezultati nisu uvijek primjenjivi na, primjerice, čaj od mente. Uvijek je preporučljivo konzultirati se s liječnikom prije korištenja biljnih pripravaka u terapeutske svrhe.
+ Iako se menta tradicionalno [koristi za ublažavanje raznih tegoba](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/), znanstvene studije često su fokusirane na specifične vrste i pripravke, poput ulja ili ekstrakata, te njihovi rezultati nisu uvijek primjenjivi na, primjerice, čaj od mente. Uvijek je preporučljivo konzultirati se s liječnikom prije korištenja biljnih pripravaka u terapeutske svrhe.
 
 **Čaj od mente: zdravstvene prednosti**
 
-[Čaj od mente](https://www.catino.com.hr/caj-od-mente-svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu. Cijenjen je zbog svog okusa, ali i potencijalnih blagodati. Ipak, važno je znati da učinci mogu varirati ovisno o vrsti mente i načinu pripreme.
+[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu. Cijenjen je zbog svog okusa, ali i potencijalnih blagodati. Ipak, važno je znati da učinci mogu varirati ovisno o vrsti mente i načinu pripreme.
 
 **Čaj od mente za probavu**
 
@@ -94,7 +98,7 @@ Umirujući miris mente mnogima pomaže da se opuste. Iako ne sadrži kofein, št
 
 **Sok od mente**
 
-Osim čaja, [osvježavajući sok od mente](https://www.catino.com.hr/sok-od-mente-bez-kuhanja-prirodan-i-osvjezavajuci-recept/) savršen je ljetni napitak. Priprema je jednostavna, a kombinacija mente, limuna i vode pruža trenutno osvježenje i hidrataciju. To je zdravija alternativa gaziranim pićima, a ujedno i odličan način za iskoristiti višak mente iz vrta.
+Osim čaja, [osvježavajući sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/) savršen je ljetni napitak. Priprema je jednostavna, a kombinacija mente, limuna i vode pruža trenutno osvježenje i hidrataciju. To je zdravija alternativa gaziranim pićima, a ujedno i odličan način za iskoristiti višak mente iz vrta.
 
 ## **Menta i metvica: glavne razlike**
 

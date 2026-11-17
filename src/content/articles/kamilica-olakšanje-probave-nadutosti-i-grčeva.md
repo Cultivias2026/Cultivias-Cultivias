@@ -16,6 +16,10 @@ editors_pick: true
 tags: []
 metaTitle: "Kamilica: olakšanje probave, nadutosti i grčeva"
 noindex: false
+related_articles:
+  - čaj-od-kamilice
+  - kamilica-biljka-naših-baka
+  - hladni-oblozi-od-kamilice-prirodno-rješenje-za-opuštanje
 ---
 
 
@@ -23,7 +27,7 @@ Evo kod kojih stanja ona može pružiti podršku probavi i vašem trbuhu.
 
 ## **1.Prirodni "sedativ" za crijeva**
 
-Osjećate li ikada nadutost, grčeve ili onaj neugodan osjećaj težine u želucu? Kamilica je poznata kao probavni relaksant. Njezina eterična ulja (poput bisabolola) i flavonoidi (poput apigenina) djeluju tako da opuštaju glatke mišićne stanice u vašim crijevima. To znači da kamilica doslovno "otpušta" grč, olakšava prolazak hrane i smiruje plinove.
+Osjećate li ikada nadutost, grčeve ili onaj neugodan osjećaj težine u želucu? [Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) je poznata kao probavni relaksant. Njezina eterična ulja (poput bisabolola) i flavonoidi (poput apigenina) djeluju tako da opuštaju glatke mišićne stanice u vašim crijevima. To znači da kamilica doslovno "otpušta" grč, olakšava prolazak hrane i smiruje plinove.
 
 ## **2. Spas za dječje kolike i dječje trbušćiće?**
 
@@ -55,7 +59,7 @@ Znanstvenici ovaj učinak pripisuju aktivnim spojevima kamilice (poput kamazulen
 
 
 
-Da biste izvukli maksimum iz svoje [šalice čaja](https://www.catino.com.hr/caj-od-kamilice/), pripazite na pripremu:
+Da biste izvukli maksimum iz svoje [šalice čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), pripazite na pripremu:
 
 1. **Poklopite šalicu:**
 

@@ -14,6 +14,10 @@ editors_pick: false
 tags: []
 metaTitle: Kadulja i ljekovitost! Zašto bi mogla biti dobar izbor?
 noindex: false
+related_articles:
+  - kadulja--ljekovita-biljka-s-dugom-tradicijom
+  - ružmarin-put-od-sadnje-do-čaja-i-ulja
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
 ---
 
 
@@ -25,7 +29,7 @@ Stoljećima je zauzimala posebno mjesto u narodnoj medicini, a danas i znanost p
 
 
 
-Kada govorimo o kadulji, ne možemo se ograničiti samo na jedno svojstvo niti ovu biljku poniziti govoreći o njoj [isključivo kao začinu](https://www.catino.com.hr/kadulja-vise-od-zacina-otkrijte-prirodna-stanista-i-njenu-bogatu-povijest/) ili dekoraciji. 
+Kada govorimo o kadulji, ne možemo se ograničiti samo na jedno svojstvo niti ovu biljku poniziti govoreći o njoj [isključivo kao začinu](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) ili dekoraciji. 
 
 Stara rimska izreka kaže **„Zaprijeti li smrt, po kadulju u vrt“**, i time nedvosmisleno objašnjava povjerenje starih Rimljana u biljku koju nalazimo i u suvremenoj medicini.
 

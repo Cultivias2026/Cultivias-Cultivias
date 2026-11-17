@@ -23,7 +23,7 @@ U japanskim evidencijama broj stogodišnjaka u prefekturi Okinawa rastao je od 2
 
 Na tanjuru su se nalazili l**jubičasti batat, povrće, tofu, miso, riba i povremeno svinjetina**. Izvan kuće su postojali **vrt, put do susjeda, obiteljske obveze i krugovi uzajamne podrške**. Sve se to ponavljalo kroz dan.
 
-Okinawa je druga postaja Cultivias serijala o plavim zonama, inspirirane [dokumentarnom serijom *Live to 100: Secrets of the Blue Zones* autora Dana Buettnera](https://danbuettner.com/netflix/). Nakon [sardinske priče o dugovječnosti](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/) gledamo što je u okinavskoj priči stvarno zabilježeno, što je dio kulturnog konteksta i zašto isti otok ne govori jednako o svim generacijama.
+Okinawa je druga postaja Cultivias serijala o plavim zonama, inspirirane [dokumentarnom serijom *Live to 100: Secrets of the Blue Zones* autora Dana Buettnera](https://danbuettner.com/netflix/). Nakon [sardinske priče o dugovječnosti](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/) gledamo što je u okinavskoj priči stvarno zabilježeno, što je dio kulturnog konteksta i zašto isti otok ne govori jednako o svim generacijama.
 
 ## Brzi odgovor: zašto je Okinawa postala plava zona?
 
@@ -31,7 +31,7 @@ Okinawa je postala simbol dugovječnosti jer su istraživanja i službeni demogr
 
 [Okinawa Centenarian Study](https://www.orcls.org/ocs/index.html), populacijsko istraživanje koje traje od 1975. godine, prikupilo je podatke od više od tisuću stogodišnjaka i starijih ispitanika. Istraživači promatraju prehranu, kretanje, obiteljske obrasce, funkcionalnost, genetiku i socijalni život, jer nijednu od tih tema nije moguće pošteno izdvojiti kao jedini uzrok dugovječnosti.
 
-Uvod u [pet poznatih plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/) objašnjava zašto Okinawu, Sardiniju, Nicoyu, Ikariju i Lomu Lindu ne treba mjeriti jednim istim pravilom.
+Uvod u [pet poznatih plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/) objašnjava zašto Okinawu, Sardiniju, [Nicoyu](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Ikariju i Lomu Lindu ne treba mjeriti jednim istim pravilom.
 
 ## Što broj stogodišnjaka u Okinawi doista govori?
 
@@ -102,7 +102,7 @@ Okinawu ne treba kopirati kao jelovnik ni pretvoriti u strogi program. Može nam
 * **Održavajte odnose.** Razgovor, zajednički obrok, pomoć susjedu i redovita društvena uloga vrijede već sami po sebi.
 * **Ne preskačite preventivnu skrb.** Lokalna priča o dugovječnosti nikada nije zamjena za preporučene preglede, lijekove ili savjet liječnika.
 
-Usporedba s [prvom postajom, Sardinijom](/vijesti/sardinija-dugovjecnost-plava-zona-prehrana-nacin-zivota/), otkriva važnu razliku: ondje priča vodi prema planinskim selima i pastirskom ritmu, dok Okinawa naglašava generacijsku promjenu i otočni prehrambeni obrazac. Zajednička „formula” ne postoji.
+Usporedba s [prvom postajom, Sardinijom](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/), otkriva važnu razliku: ondje priča vodi prema planinskim selima i pastirskom ritmu, dok Okinawa naglašava generacijsku promjenu i otočni prehrambeni obrazac. Zajednička „formula” ne postoji.
 
 ### Je li Okinawa i danas mjesto s najdugovječnijim stanovništvom?
 

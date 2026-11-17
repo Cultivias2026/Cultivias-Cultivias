@@ -15,14 +15,18 @@ editors_pick: false
 tags: []
 metaTitle: Dobrobiti čaja od mente za san, pamćenje i probavu
 noindex: false
+related_articles:
+  - čaj-od-mente--svojstva-priprema-i-zanimljivosti
+  - menta-sve-važne-informacije-o-njoj
+  - kako-uzgojiti-mentu-u-tegli-kod-kuće
 ---
 
 
-Bez kofeina i s blagim, osvježavajućim okusom, čaj od [mente](https://www.catino.com.hr/menta/) postaje sve popularniji izbor za one koji traže prirodne načine za podršku zdravlju i kvaliteti života.
+Bez kofeina i s blagim, osvježavajućim okusom, čaj od [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) postaje sve popularniji izbor za one koji traže prirodne načine za podršku zdravlju i kvaliteti života.
 
 ## Čaj od mente prije spavanja
 
-Čaj od mente je odličan izbor za konzumaciju prije spavanja zahvaljujući svojoj sposobnosti da smiri tijelo i um.
+[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) je odličan izbor za konzumaciju prije spavanja zahvaljujući svojoj sposobnosti da smiri tijelo i um.
 
 Bez kofeina, za razliku od obične kave ili čaja, čaj od mente ne sprječava san. Njegova mišićna relaksacijska svojstva mogu pomoći u smanjenju napetosti i stresa, što su česti uzroci nesanice.
 

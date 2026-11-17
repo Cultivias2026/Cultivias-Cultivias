@@ -12,6 +12,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli
+  - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je
+  - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
 ---
 
 
@@ -125,7 +129,7 @@ Kamilica preferira sunčane položaje, no može tolerirati i laganu sjenu. Redov
 
 
 
-Kamilica se može uspješno[ uzgajati i na balkonu u posudama](https://www.catino.com.hr/kako-uspjesno-posaditi-kamilicu-u-vrtu-ili-tegli/).
+Kamilica se može uspješno[ uzgajati i na balkonu u posudama](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/).
 
 Potrebno joj je puno sunčeve svjetlosti i dobro drenirano tlo.
 
@@ -157,7 +161,7 @@ Nakon berbe, cvjetovi se mogu koristiti svježi ili sušeni za pripremu čajeva
 
 
 
-[Sušenje kamilice](https://www.catino.com.hr/kako-pravilno-osusiti-kamilicu-za-savrsen-caj/) bitno je za očuvanje njezinih ljekovitih svojstava.
+[Sušenje kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/) bitno je za očuvanje njezinih ljekovitih svojstava.
 
 Cvjetovi se suše na suhom, tamnom i dobro prozračenom mjestu kako bi se spriječilo stvaranje plijesni.
 
@@ -183,7 +187,7 @@ Osim čajeva, sušeni cvjetovi kamilice koriste se za pripremu tinktura, ulja i 
 
 
 
-[Čaj od kamilice](https://www.catino.com.hr/caj-od-kamilice/) jedan je od najpopularnijih biljnih čajeva, poznat po svojim umirujućim i ljekovitim svojstvima.
+[Čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) jedan je od najpopularnijih biljnih čajeva, poznat po svojim umirujućim i ljekovitim svojstvima.
 
 #### Priprema čaja:
 
@@ -269,7 +273,7 @@ Nakon inhalacije, odmorite se nekoliko minuta.
 
 
 
-[Hladni oblozi od kamilice ](https://www.catino.com.hr/hladni-oblozi-od-kamilice-prirodno-rjesenje-za-opustanje/)mogu pomoći u smanjenju upala, ublažavanju bolova i iritacija kože. 
+[Hladni oblozi od kamilice ](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/)mogu pomoći u smanjenju upala, ublažavanju bolova i iritacija kože. 
 
 
 
@@ -315,7 +319,7 @@ Pomaže kod:
 
 
 
- Čaj od kamilice može pomoći u smanjenju simptoma [proljeva, gastritisa, žgaravice i drugih probavnih smetnji.](https://www.catino.com.hr/kamilica-olaksanje-probave-nadutosti-i-grceva/)
+ Čaj od kamilice može pomoći u smanjenju simptoma [proljeva, gastritisa, žgaravice i drugih probavnih smetnji.](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/)
 
 Evo kako pripremiti čaj za probavu:
 
@@ -454,4 +458,4 @@ NAPOMENA/DISCLAIMER:
 Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom.
 
     
-[Cvjetovi kamilice beru se](https://www.catino.com.hr/branje-kamilice-savjeti-za-uspjesnu-berbu/)eteričnih ulja
+[Cvjetovi kamilice beru se](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/)eteričnih ulja

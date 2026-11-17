@@ -16,6 +16,10 @@ tags: []
 metaTitle: "Sorte paradajza: kompletan vodič kroz determinantne, indeterminantne
   i druge vrste"
 noindex: false
+related_articles:
+  - koje-su-najukusnije-sorte-paradajza-u-našim-krajevima
+  - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
+  - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
 
@@ -47,7 +51,7 @@ Zbog ograničenog rasta, ove biljke često ne zahtijevaju podršku u obliku šta
 
 Brže sazrijevanje plodova
 
-Jedna od glavnih prednosti determinantnih sorti je njihova sposobnost da plodovi sazrijevaju brže nego kod indeterminantnih sorti. Ove biljke često počinju davati plodove za 50 do 70 dana od sadnje.
+Jedna od glavnih prednosti determinantnih sorti je njihova sposobnost da plodovi sazrijevaju brže nego kod indeterminantnih sorti. Ove biljke često počinju davati plodove za 50 do 70 dana od sadnje. Sadnju korak po korak opisuje [vodič za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/).
 
  
 
@@ -175,7 +179,7 @@ Veći ukupni prinos
 
 Bolji okus
 
-Mnogi vrtlari tvrde da indeterminantne sorte, posebice cherry rajčice i beefsteak sorte, imaju bolji i kompleksniji okus.
+Mnogi vrtlari tvrde da indeterminantne sorte, posebice cherry rajčice i beefsteak sorte, imaju bolji i kompleksniji okus. Za izbor sorte prema okusu pogledajte [popis najukusnijih sorti](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/).
 
  
 

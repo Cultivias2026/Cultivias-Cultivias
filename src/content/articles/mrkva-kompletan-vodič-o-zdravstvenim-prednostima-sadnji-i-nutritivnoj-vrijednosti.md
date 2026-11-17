@@ -14,6 +14,10 @@ featured: false
 editors_pick: true
 tags: []
 noindex: false
+related_articles:
+  - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena
+  - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
+  - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 Ovo korjenasto povrće, prepoznatljivo po svojoj **narančastoj boji,** zapravo dolazi u nizu različitih boja, uključujući **ljubičastu, crvenu, žutu i bijelu,** od kojih svaka nosi jedinstvene zdravstvene prednosti.
 
@@ -35,7 +39,7 @@ Boja korijena potječe od specifičnih pigmenata; narančastaod [beta-karotena
 
 ### Korištenje mrkve u kulinarstvu
 
-Svestranost mrkve u kuhinji je gotovo neograničena. Može se konzumirati sirova mrkva kao zdrava grickalica, naribana u salatama (ribana mrkva salata), ili kao dio svježe cijeđenih sokova. Kuhana mrkva je neizostavan sastojak juha, variva i umaka, a pečena mrkva postaje slatkasta i mekana, čineći izvrstan prilog. Njena prirodna slatkoća čini je pogodnom i za pripremu slastica, poput popularnog kolača od mrkve.
+Svestranost mrkve u kuhinji je gotovo neograničena. Može se konzumirati sirova mrkva kao zdrava grickalica, naribana u salatama (ribana mrkva salata), ili kao dio svježe cijeđenih sokova. Kuhana mrkva je neizostavan sastojak juha, variva i umaka, a pečena mrkva postaje slatkasta i mekana, čineći izvrstan prilog. Njena prirodna slatkoća čini je pogodnom i za pripremu slastica, poput popularnog kolača od mrkve. Brojke za sirovu, kuhanu i pečenu mrkvu donosi članak [mrkva i kalorije](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/).
 
 ## Vrste mrkve – boje, karakteristike i razlike
 
@@ -346,7 +350,7 @@ Ako ste dobro pripremili tlo i unijeli dovoljno zrelog komposta prije sjetve, do
 
 ### Dobri susjedi mrkve
 
-Pametno planiranje sadnje i korištenje dobrosusjedskih odnosa među biljkama (konsocijacija) može značajno poboljšati urod i smanjiti probleme sa štetnicima. Dobri susjedi su biljke koje si međusobno pomažu.
+Pametno planiranje sadnje i korištenje dobrosusjedskih odnosa među biljkama (konsocijacija) može značajno poboljšati urod i smanjiti probleme sa štetnicima. Dobri susjedi su biljke koje si međusobno pomažu. Koji su dobri, a koji loši susjedi mrkve u vrtu, objašnjava članak [susjedi mrkve u vrtu](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
 
 Sadnja mrkve i peršina zajedno je tradicionalna i korisna praksa. Iako pripadaju istoj porodici, imaju različite zahtjeve i mirise koji mogu zbuniti štetnike. Peršin svojim jakim mirisom može djelomično zaštititi mrkvu od mrkvine muhe.
 

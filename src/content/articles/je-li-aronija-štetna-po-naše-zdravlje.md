@@ -16,10 +16,14 @@ editors_pick: true
 tags: []
 metaTitle: Je li aronija štetna po naše zdravlje?
 noindex: false
+related_articles:
+  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
+  - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
 
-Ovaj članak detaljno će razmotriti potencijalne nuspojave i štetnosti aronije te istaknuti kome se preporučuje oprez pri konzumaciji ove popularne i zdrave voćke.
+Ovaj članak detaljno će razmotriti potencijalne nuspojave i štetnosti [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) te istaknuti kome se preporučuje oprez pri konzumaciji ove popularne i zdrave voćke.
 
 ## Aronija- bogatstvo vitamina za zadravlje
 
@@ -27,7 +31,7 @@ Ovaj članak detaljno će razmotriti potencijalne nuspojave i štetnosti aronije
 
 Sadrži polifenole, antocijane, **vitamine B kompleksa**, **vitamin C**, kalij, magnezij i željezo, što je čini moćnim saveznikom u očuvanju zdravlja.
 
-No, usprkos brojnim prednostima, važno je napomenuti da aronija može izazvati nuspojave kod određenih skupina ljudi te da nije prikladna za svakoga.
+No, usprkos brojnim prednostima, važno je napomenuti da aronija može izazvati nuspojave kod određenih skupina ljudi te da nije prikladna za svakoga. Mogućim [nuspojavama soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) posvetili smo zaseban članak.
 
 ### Za koga aronija može biti štetna?
 
@@ -61,7 +65,7 @@ Zbog visokog udjela antioksidansa, imunitet djece u ranoj dobi mogao bi reagirat
 
 Kao i kod svakog dodatka prehrani, važno je poštovati preporučene doze kako bi se izbjegle nuspojave.
 
-**Sok od aronije** poznat je po visokoj koncentraciji antioksidansa, zbog čega se preporučuje piti ga u umjerenim količinama.
+**Sok od aronije** poznat je po visokoj koncentraciji antioksidansa, zbog čega se preporučuje piti ga u umjerenim količinama. Za konkretne brojke po porciji pogledajte [pregled kalorija aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 Optimalna dnevna doza soka od aronije iznosi **oko 50 ml**, najbolje na prazan želudac.
 

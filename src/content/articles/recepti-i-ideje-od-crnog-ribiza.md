@@ -17,10 +17,14 @@ editors_pick: false
 tags: []
 metaTitle: Recepti i ideje od crnog ribiza
 noindex: false
+related_articles:
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - crni-ribiz-kalorije-prema-obliku-proizvoda
+  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
 ---
 
 
-Od tradicionalnih džemova i sirupa do modernih smoothieja i gourmet deserta, crni ribiz može transformirati svaki obrok u nezaboravno gastronomsko iskustvo.
+Od tradicionalnih džemova i sirupa do modernih smoothieja i gourmet deserta, [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) može transformirati svaki obrok u nezaboravno gastronomsko iskustvo.
 
  Njegova prirodna kiselost pomaže u konzervaciji, što ga čini savršenim za zimske zalihe, dok njegova boja i aroma dodaju dramatičnost bilo kojem jelu. 
 
@@ -67,7 +71,7 @@ U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crn
 
 
 
-**Sok od crnog ribiza** pravi je vitaminski napitak koji se može konzumirati svježe ili čuvati za zimu. Ovaj prirodni energetski napitak bogat je **vitaminom C** i antioksidansima.
+**Sok od crnog ribiza** pravi je vitaminski napitak koji se može konzumirati svježe ili čuvati za zimu. Ovaj prirodni energetski napitak bogat je **vitaminom C** i antioksidansima. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 **Sastojci:**
 

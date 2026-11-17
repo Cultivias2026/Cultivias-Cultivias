@@ -14,10 +14,14 @@ editors_pick: false
 tags: []
 metaTitle: Koje su najukusnije sorte paradajza u našim krajevima?
 noindex: false
+related_articles:
+  - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
+  - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
+  - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
 
-Rajčica (paradajz) je jedna od najpopularnijih povrtnih kultura, a postoji više od 10.000 različitih sorti širom svijeta. Sorte rajčice razlikuju se po veličini, obliku, boji, okusu i namjeni, ali ne sve sorte jednako dobro uspijevaju u našim klimatskim uvjetima.
+Rajčica (paradajz) je jedna od najpopularnijih povrtnih kultura, a postoji više od 10.000 različitih sorti širom svijeta. [Sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) razlikuju se po veličini, obliku, boji, okusu i namjeni, ali ne sve sorte jednako dobro uspijevaju u našim klimatskim uvjetima.
 
 
 

@@ -13,12 +13,16 @@ editors_pick: true
 tags: []
 metaTitle: Čaj od mente – svojstva, priprema i zanimljivosti
 noindex: false
+related_articles:
+  - menta-sve-važne-informacije-o-njoj
+  - dobrobiti-čaja-od-mente-za-san-pamćenje-i-probavu
+  - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
 ---
 
 
-Dobiva se infuzijom listova [mente](https://www.catino.com.hr/menta/) (Mentha spp.),biljke koja se koristi u kulinarstvu i različitim biljnim pripravcima. Može se konzumirati topao ili hladan, a često se kombinira s drugim biljnim čajevima poput kamilice, limunske trave ili đumbira.
+Dobiva se infuzijom listova [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) (Mentha spp.),biljke koja se koristi u kulinarstvu i različitim biljnim pripravcima. Može se konzumirati topao ili hladan, a često se kombinira s drugim biljnim čajevima poput kamilice, limunske trave ili đumbira.
 
-U nastavku saznajte kako pripremiti ovaj čaj, kako ga uključiti u svakodnevnu prehranu te zanimljivosti o njegovoj upotrebi.
+U nastavku saznajte kako pripremiti ovaj čaj, kako ga uključiti u svakodnevnu prehranu te zanimljivosti o njegovoj upotrebi. O djelovanju čaja na san, pamćenje i probavu pišemo u članku [dobrobiti čaja od mente](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/).
 
 ## Priprema čaja od mente
 

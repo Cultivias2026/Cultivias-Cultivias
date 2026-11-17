@@ -11,6 +11,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
+  - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
+  - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
 
@@ -18,7 +22,7 @@ Bez obzira jeste li iskusni vrtlar ili početnik, odabir pravih biljaka kao **s
 
 
 
-U ovom članku pročitajte uz koje se povrće i biljke preporučuje sadnja rajčice, a koje bi trebali izbjegavati.
+U ovom članku pročitajte uz koje se povrće i biljke preporučuje [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koje bi trebali izbjegavati.
 
 
 
@@ -96,7 +100,7 @@ Sadnja nevena uz **rajčice** može pomoći u smanjenju potrebe za kemijskim s
 
 
 
-**Menta** je još jedna biljka koja može biti koristan susjed rajčicama. Pomaže u odbijanju različitih štetnika, uključujući lisne uši, muhe i mrave.
+**[Menta](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)** je još jedna biljka koja može biti koristan susjed rajčicama. Pomaže u odbijanju različitih štetnika, uključujući lisne uši, muhe i mrave.
 
 
 

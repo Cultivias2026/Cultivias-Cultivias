@@ -15,6 +15,10 @@ featured: false
 editors_pick: false
 tags: []
 noindex: false
+related_articles:
+  - berba-crnog-ribiza-kako-i-kada
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
+  - recepti-i-ideje-od-crnog-ribiza
 ---
 
 
@@ -22,7 +26,7 @@ noindex: false
 
 ### Izbor lokacije
 
-Crni ribiz najbolje uspijeva na osunčanim do poluosunčanim položajima zaštićenim od jakih vjetrova. Biljka trebala bi primati najmanje 6 sati direktnog sunčevog svjetla dnevno za optimalan urod.
+[Crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) najbolje uspijeva na osunčanim do poluosunčanim položajima zaštićenim od jakih vjetrova. Biljka trebala bi primati najmanje 6 sati direktnog sunčevog svjetla dnevno za optimalan urod.
 
 ### Zahtjevi tla
 
