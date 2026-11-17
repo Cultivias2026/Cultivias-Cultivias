@@ -38,12 +38,12 @@ Trovanje eteričnim uljem eukaliptusa kod odraslih relativno je rijetko, ali kad
 
 ### Simptomi prema težini trovanja
 
-| Stupanj trovanja | Simptomi | Doza (čisto ulje) |
-| :--- | :--- | :--- |
-| **Blago** | Peckanje u ustima i grlu, mučnina, povraćanje, vrtoglavica, ataksija | 2 do 5 ml |
-| **Umjereno** | Pospanost, dezorijentacija, bol u trbuhu, tahikardija | 5 do 15 ml |
-| **Teško** | Gubitak svijesti, konvulzije, respiratorna depresija, metabolička acidoza | 15 ml i više |
-| **Smrtonosno** | Srčani zastoj, višeorganski zatajenje | Obično 30+ ml, ali moguće i manje |
+| Stupanj trovanja | Simptomi                                                                  | Doza (čisto ulje)                 |
+| ---------------- | ------------------------------------------------------------------------- | --------------------------------- |
+| **Blago**        | Peckanje u ustima i grlu, mučnina, povraćanje, vrtoglavica, ataksija      | 2 do 5 ml                         |
+| **Umjereno**     | Pospanost, dezorijentacija, bol u trbuhu, tahikardija                     | 5 do 15 ml                        |
+| **Teško**        | Gubitak svijesti, konvulzije, respiratorna depresija, metabolička acidoza | 15 ml i više                      |
+| **Smrtonosno**   | Srčani zastoj, višeorganski zatajenje                                     | Obično 30+ ml, ali moguće i manje |
 
 Studija slučaja objavljena u *Cureus* (2025.) opisuje smrtni slučaj 36-godišnjeg muškarca koji je **slučajno popio 15 ml eteričnog ulja eukaliptusa** misleći da je sirup za kašalj. Unutar 10 minuta razvio je generalizirane toničko-kloničke konvulzije. Unatoč intubaciji i intenzivnoj potpori, pacijent je preminuo. Obdukcija je pokazala korozivna oštećenja jezika, traheje, želuca i crijeva, plućni edem, masnu promjenu jetre i akutnu tubularnu nekrozu bubrega.
 
@@ -67,9 +67,9 @@ Djeca su znatno osjetljivija na toksičnost eukaliptusa od odraslih. Razlozi su 
 
 Prema [kliničkim smjernicama Royal Children's Hospital Melbourne](https://www.rch.org.au/clinicalguide/guideline_index/Eucalyptus_Oil_Poisoning/):
 
-- **2 do 3 ml** čistog eteričnog ulja može izazvati blagu depresiju CNS-a s pospanošću i ataksijom
-- **5 ml** može uzrokovati prolaznu komu i konvulzije
-- Nije utvrđena jasna korelacija između doze i težine simptoma, što znači da čak i manje količine mogu izazvati ozbiljne reakcije
+* **2 do 3 ml** čistog eteričnog ulja može izazvati blagu depresiju CNS-a s pospanošću i ataksijom
+* **5 ml** može uzrokovati prolaznu komu i konvulzije
+* Nije utvrđena jasna korelacija između doze i težine simptoma, što znači da čak i manje količine mogu izazvati ozbiljne reakcije
 
 Studija iz *Toxicology International* (2015.) opisuje dva dječaka, od 6 i 3 godine, koji su razvili status epilepticus unutar **10 minuta** od gutanja 10, odnosno 5 ml eteričnog ulja. Oba su se oporavila unutar 24 sata zahvaljujući brzoj medicinskoj intervenciji.
 
@@ -77,11 +77,11 @@ Studija iz *Toxicology International* (2015.) opisuje dva dječaka, od 6 i 3 god
 
 Roditelji često nisu svjesni da mnogi svakodnevni proizvodi sadrže eukaliptusovo ulje:
 
-- **Vicks VapoRub** (6% eukaliptusovog ulja)
-- **Inhalatori i kapi za nos** s eukaliptolom
-- **Sirupi za kašalj** koji sadrže eukaliptusov ekstrakt
-- **Difuzeri s eteričnim uljem** eukaliptusa
-- **Kozmetički proizvodi** s eukaliptusom
+* **Vicks VapoRub** (6% eukaliptusovog ulja)
+* **Inhalatori i kapi za nos** s eukaliptolom
+* **Sirupi za kašalj** koji sadrže eukaliptusov ekstrakt
+* **Difuzeri s eteričnim uljem** eukaliptusa
+* **Kozmetički proizvodi** s eukaliptusom
 
 Djeca ispod 2 godine ne smiju biti izložena ni inhalaciji eukaliptusovog ulja. **National Capital Poison Center SAD-a** navodi da čak i žličica nerazrijeđenog ulja može biti smrtonosna za malo dijete.
 
@@ -93,10 +93,10 @@ Djeca ispod 2 godine ne smiju biti izložena ni inhalaciji eukaliptusovog ulja. 
 
 Prema ASPCA-i, simptomi trovanja eukaliptusom kod kućnih ljubimaca uključuju:
 
-- Pojačano slinjenje
-- Povraćanje i proljev
-- Depresija i letargija
-- Slabost i nestabilnost pri hodu
+* Pojačano slinjenje
+* Povraćanje i proljev
+* Depresija i letargija
+* Slabost i nestabilnost pri hodu
 
 ### Zašto su mačke posebno osjetljive?
 
@@ -112,12 +112,12 @@ Konji su također osjetljivi na eukaliptus. Simptomi trovanja slični su onima k
 
 Postoji bitna razlika između **žive biljke eukaliptusa u tegli** i **eteričnog ulja eukaliptusa**:
 
-| Oblik | Rizik za ljude | Rizik za kućne ljubimce |
-| :--- | :--- | :--- |
-| **Živa biljka (listovi, grane)** | Nizak pri normalnom kontaktu; gutanje listova može izazvati blage simptome | Umjeren; gutanje listova može izazvati GI simptome |
-| **Eterično ulje (nerazrijeđeno)** | Visok; već 2-5 ml može biti opasno za djecu | Visok; čak i manje količine mogu biti toksične |
-| **Razrijeđeno eterično ulje (10-20%)** | Nizak pri pravilnoj primjeni na kožu | Srednji; izbjegavati kontakt s kućnim ljubimcima |
-| **Difuzer s eteričnim uljem** | Nizak za zdrave odrasle; izbjegavati kod djece ispod 2 god. | Umjeren do visok za mačke |
+| Oblik                                  | Rizik za ljude                                                             | Rizik za kućne ljubimce                            |
+| -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Živa biljka (listovi, grane)**       | Nizak pri normalnom kontaktu; gutanje listova može izazvati blage simptome | Umjeren; gutanje listova može izazvati GI simptome |
+| **Eterično ulje (nerazrijeđeno)**      | Visok; već 2-5 ml može biti opasno za djecu                                | Visok; čak i manje količine mogu biti toksične     |
+| **Razrijeđeno eterično ulje (10-20%)** | Nizak pri pravilnoj primjeni na kožu                                       | Srednji; izbjegavati kontakt s kućnim ljubimcima   |
+| **Difuzer s eteričnim uljem**          | Nizak za zdrave odrasle; izbjegavati kod djece ispod 2 god.                | Umjeren do visok za mačke                          |
 
 Živa biljka u tegli nije opasna za odrasle pri normalnom rukovanju. Opasnost nastaje gutanjem listova (posebno kod djece i kućnih ljubimaca) i pri korištenju eteričnog ulja.
 
@@ -134,7 +134,7 @@ Postoji bitna razlika između **žive biljke eukaliptusa u tegli** i **eterično
 
 **Ako je kućni ljubimac progutao eukaliptus:**
 
-1. Odmah nazovite veterinara ili ASPCA Animal Poison Control Center: **(888) 426-4435** (SAD).
+1. Odmah nazovite veterinara 
 2. Zabilježite koliko je životinja pojela i kada.
 3. Ne izazivajte povraćanje bez upute veterinara.
 
@@ -142,11 +142,11 @@ Postoji bitna razlika između **žive biljke eukaliptusa u tegli** i **eterično
 
 Nema specifičnog antidota za trovanje eukaliptusovim uljem. Liječenje je simptomatsko i potporno:
 
-- **Zaštita dišnog puta:** Intubacija kod teških slučajeva
-- **Kontrola konvulzija:** Antiepileptici (fenitoin, valproat, benzodiazepini)
-- **Cirkulatorna stabilizacija:** Infuzija tekućina, inotropi po potrebi
-- **Aktivni ugljen:** Kontroverzna primjena; ugljen se brzo apsorbira i aktivni ugljen možda neće značajno pomoći
-- **Praćenje:** EKG, jetreni i bubrežni enzimi, acido-bazni status
+* **Zaštita dišnog puta:** Intubacija kod teških slučajeva
+* **Kontrola konvulzija:** Antiepileptici (fenitoin, valproat, benzodiazepini)
+* **Cirkulatorna stabilizacija:** Infuzija tekućina, inotropi po potrebi
+* **Aktivni ugljen:** Kontroverzna primjena; ugljen se brzo apsorbira i aktivni ugljen možda neće značajno pomoći
+* **Praćenje:** EKG, jetreni i bubrežni enzimi, acido-bazni status
 
 ## Sigurna upotreba eukaliptusa: Praktična pravila
 
@@ -161,7 +161,6 @@ Eukaliptus se može koristiti sigurno uz poštivanje nekoliko jednostavnih pravi
 
 ## Česta pitanja o toksičnosti eukaliptusa
 
-
 **Može li dijete dobiti trovanje od difuzera s eukaliptusom?**
 Inhalacija razrijeđenih para u dobro prozračenoj prostoriji nije opasna za zdravu djecu stariju od 2 godine. Djeci mlađoj od 2 godine ne preporučuje se izlaganje ni inhalaciji eukaliptusovog ulja.
 
@@ -174,7 +173,4 @@ Da. ASPCA navodi eukaliptus kao toksičan za pse. Simptomi uključuju povraćanj
 **Što ako dijete pojede list eukaliptusa?**
 Listovi sadrže manje koncentracije eteričnog ulja od čistog ulja. Gutanje jednog lista vjerojatno neće uzrokovati ozbiljne simptome, ali svakako kontaktirajte centar za kontrolu otrova ili pedijatra.
 
-
-
 > **Medicinski disclaimer:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. U slučaju sumnje na trovanje eukaliptusom, odmah nazovite hitnu pomoć (112) ili centar za kontrolu otrova. Ne izazivajte povraćanje bez upute medicinskog osoblja. Za kućne ljubimce, odmah kontaktirajte veterinara.
-
