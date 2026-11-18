@@ -52,6 +52,8 @@ Hemoglobin je protein u crvenim krvnim zrncima odgovoran za prijenos kisika iz p
 
 Nedostatak željeza može dovesti do osjećaja umora i iscrpljenosti, stoga je njegov dovoljan unos ključan za održavanje energije i vitalnosti.
 
+Pročitajte i: [ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+
 ## Crni ribiz kao izvor željeza
 
 Prema [WebMD](https://www.webmd.com/diet/health-benefits-black-currant), [Cleveland Clinic](https://health.clevelandclinic.org/black-currant-benefits) i [Nutrition Table](https://www.nutritiontable.com/nutritions/nutrient/?id=836), crni ribiz sadrži željezo koje doprinosi normalnom stvaranju crvenih krvnih zrnaca i hemoglobina. Kroz ovaj proces, željezo iz crnog ribiza također doprinosi normalnom transportu kisika u tijelu.

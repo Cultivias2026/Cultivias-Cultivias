@@ -43,11 +43,11 @@ Postoji temeljna razlika između divlje kupine, koja raste samoniklo uz rubove �
 
 Ono što kupinu čini superhranom njezin je iznimno bogat kemijski sastav.
 
-Ona je jedan od najbogatijih prirodnih izvora [antocijana](https://hr.wikipedia.org/wiki/Antocijan), biljnih pigmenata koji joj daju karakterističnu tamnu boju i djeluju kao snažni antioksidansi.
+Ona je jedan od najbogatijih prirodnih izvora antocijana, biljnih pigmenata koji joj daju karakterističnu tamnu boju i djeluju kao snažni antioksidansi.
 
 Glavni među njima je [cijanidin-3-O-glukozid](https://hr.lsherb.com/info/what-are-the-benefits-of-anthocyanin-3-o-gluco-76748915.html), za koji su brojne studije pokazale da ima snažno protuupalno djelovanje.
 
-Osim antocijana, kupine sadrže i širok spektar drugih fenolnih spojeva, poput galične kiseline, [kofeinske kiseline](https://bs.wikipedia.org/wiki/Kofeinska_kiselina) i flavonoida kao što su kvercetin i rutin. Ovi spojevi štite naše stanice od oštećenja uzrokovanih slobodnim radikalima, čime pomažu u prevenciji kroničnih bolesti. Jedna opsežna [znanstvena analiza](https://pmc.ncbi.nlm.nih.gov/articles/PMC6271759/) pokazala je da ukupni sadržaj polifenola u kupinama može varirati od 289 do čak preko 700 mg na 100 grama svježeg voća, ovisno o sorti, zrelosti i uvjetima uzgoja.
+Osim antocijana, kupine sadrže i širok spektar drugih fenolnih spojeva, poput galične kiseline, kofeinske kiseline i flavonoida kao što su kvercetin i rutin. Ovi spojevi štite naše stanice od oštećenja uzrokovanih slobodnim radikalima, čime pomažu u prevenciji kroničnih bolesti. Jedna opsežna [znanstvena analiza](https://pmc.ncbi.nlm.nih.gov/articles/PMC6271759/) pokazala je da ukupni sadržaj polifenola u kupinama može varirati od 289 do čak preko 700 mg na 100 grama svježeg voća, ovisno o sorti, zrelosti i uvjetima uzgoja.
 
 To kupinu svrstava u sam vrh voća po antioksidativnom kapacitetu.
 
@@ -182,6 +182,8 @@ Džem od kupina klasik je svake zimnice, a može se pripremiti s manje ili čak 
 Za one koji traže najintenzivniji okus i nutritivnu vrijednost, tu je matični sok od kupina, dobiven hladnim prešanjem.
 
 U slastičarstvu, kupine su zvijezda brojnih deserata: od jednostavnog kolača s jogurtom, preko kremastog cheesecakea, do osvježavajućih pita i muffina. Ne treba zaboraviti ni vino od kupina, tradicionalno piće bogatog okusa i boje, koje se cijeni i zbog svojih blagotvornih svojstava.
+
+Pročitajte i: [ogrozd, zaboravljeno supervoće](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) i [crni ribiz: sve što trebate znati](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
 
 ## Divlja kupina
 

@@ -28,6 +28,8 @@ Od jačanja imuniteta do potpore u zdravlju krvožilnog sustava, bazga je prava 
 
 U ovom detaljnom vodiču, istražit ćemo sve aspekte ove fascinantne biljke, od njezinih botaničkih tajni, preko znanstveno dokazanih ljekovitih svojstava, pa sve do praktičnih savjeta za uzgoj i najukusnijih recepata.
 
+Pročitajte i: [aronija i njezina ljekovitost](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/).
+
 ## Što je bazga? Botanički profil i rasprostranjenost
 
 Bazga je listopadni grm ili manje stablo iz porodice Adoxaceae, koje može narasti od 3 do 10 metara u visinu. Gotovo svaki dio biljke ima svoju primjenu, bilo u kulinarstvu, medicini ili tradiciji. Bazga je poznata i kao europska bazga, crna bazga ili zova, što pokazuje koliko je rasprostranjena i poznata biljka.
@@ -84,7 +86,7 @@ Nutritivni sastav na 100g sirovih bobica:
 
 ### Ostali bioaktivni spojevi
 
-Cvjetovi bazge također obiluju ljekovitim tvarima. Sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) ([rutin](https://hr.wikipedia.org/wiki/Rutin), [kvercetin](https://hr.wikipedia.org/wiki/Kvercetin)) koji mogu pomoći u potpri zdravllja našeg organizma, fenolne kiseline ([klorogenska kiselina](https://hr.lsherb.com/info/chlorogenic-acid-benefits-and-side-effects-100776004.html)), triterpene, sterole i eterična ulja, koji svi zajedno doprinose njihovim terapeutskim svojstvima, posebice kao [dijaforetik](https://www.enciklopedija.hr/clanak/dijaforeza) (potiče znojenje) i diuretik.
+Cvjetovi bazge također obiluju ljekovitim tvarima. Sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) (rutin, kvercetin) koji mogu pomoći u potpri zdravllja našeg organizma, fenolne kiseline ([klorogenska kiselina](https://hr.lsherb.com/info/chlorogenic-acid-benefits-and-side-effects-100776004.html)), triterpene, sterole i eterična ulja, koji svi zajedno doprinose njihovim terapeutskim svojstvima, posebice kao [dijaforetik](https://www.enciklopedija.hr/clanak/dijaforeza) (potiče znojenje) i diuretik.
 
 Eterična ulja iz bazge sadrže fenilacetaldehid, benzaldehid i druge spojeve koji joj daju karakterističan miris.
 

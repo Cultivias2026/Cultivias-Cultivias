@@ -257,6 +257,8 @@ Ako vas zanima priprema drugih prirodnih sirupa i sokova, preporučujemo da istr
 
 [Sok od koprive i divlje mente](https://web.coolinarika.com/recept/sok-od-koprive-i-divlje-mente-4c3c8b9c-6390-11eb-aef6-0242ac12001f) – Kombinacija koprive i divlje mente stvara jedinstveni napitak bogat vitaminima i mineralima.
 
+Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/) i [berba i sušenje mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
+
 
 
 ## Važna napomena o alergijskim reakcijama

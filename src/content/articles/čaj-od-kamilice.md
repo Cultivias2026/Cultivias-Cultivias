@@ -86,6 +86,8 @@ Redovito konzumiranje čaja od kamilice može pomoći u **opuštanju mišića p
 
 Osim toga, kamilica može potaknuti lučenje žuči, što je ključno za probavu masti. Stoga, ako tražite prirodan način za poboljšanje probave, kamilica može biti odličan izbor.
 
+Pročitajte i: [sušenje kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
+
 
 
 ## **Ima li čaj od kamilice utjecaj na gubitak težine?**

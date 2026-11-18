@@ -47,7 +47,7 @@ Jedno [istraživanje](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/) potvrdi
 
 Osim njih, ružmarin sadrži i druge važna eterična ulja.
 
-Primjerice, [cineol](https://en.wikipedia.org/wiki/Eucalyptol), koji se nalazi u eteričnom ulju, doprinosi karakterističnom mirisu biljke i pokazao je [sposobnost poboljšanja kognitivnih funkcija](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/).
+Primjerice, cineol, koji se nalazi u eteričnom ulju, doprinosi karakterističnom mirisu biljke i pokazao je [sposobnost poboljšanja kognitivnih funkcija](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/).
 
 ![](/images/articles/1_makronutrijenti.jpg)
 
@@ -172,6 +172,8 @@ Poznat je i kao viseći ružmarin.
 Njegovi listovi i cvjetovi također su jestivi i ljekoviti. Sadnja puzajućeg ružmarina odličan je način da unesete mediteranski šarm u svoj vrt na jedan drugačiji, dinamičan način.
 
 Zbog svoje otpornosti i niskih zahtjeva za održavanjem, ova sorta je sve popularniji izbor u krajobraznoj arhitekturi.
+
+Pročitajte i: [vodič o kadulji](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) i [majčina dušica: ljekovita svojstva](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
 
 ## Ružmarin u vrtu i kuhinji
 

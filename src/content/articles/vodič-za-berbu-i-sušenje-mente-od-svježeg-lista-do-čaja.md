@@ -97,6 +97,8 @@ Suhe listove pohranite u hermetički zatvorene posude, po mogućnosti staklene, 
 
 Na ovaj način, vaša domaća menta zadržat će svoju prepoznatljivu aromu i ljekovitost tijekom cijele zime.
 
+Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/).
+
 ## **Dodatni savjet: mljevenje mente u prah**
 
 

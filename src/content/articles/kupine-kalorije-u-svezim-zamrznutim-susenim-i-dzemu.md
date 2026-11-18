@@ -15,6 +15,8 @@ editors_pick: false
 tags: []
 related_articles:
   - kupina-sve-što-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti
+  - ogrozd-kalorije-svjezi-plod-kompot-dzem
+  - crni-ribiz-kalorije-prema-obliku-proizvoda
 metaTitle: "Kupine i kalorije: svježe, zamrznute, sušene i džem"
 metaDescription: "Svježe kupine imaju 43 kcal na 100 g. Pogledajte kalorije konkretnih porcija te razlike između zamrznutih i sušenih kupina, džema i domaćeg recepta."
 noindex: false

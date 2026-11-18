@@ -115,6 +115,8 @@ Prisutnost flavonola i antocijana (posebno u tamnijim sortama) povezuje se s pob
 
 Zanimljiva [studija (Dogan et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/33191245/) pokazala je da ekstrakti [Ribes uva-crispa](https://pubmed.ncbi.nlm.nih.gov/33191245/) (ogrozda) pokazuju antivirusnu aktivnost in vitro protiv respiratornog sincicijskog virusa (RSV). Posebno su učinkoviti ekstrakti plodova i listova, što otvara mogućnosti za razvoj prirodnih antivirusnih sredstava.
 
+Pročitajte i: [kalorije ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
+
 ## Zaključak
 
 Ogrozd je puno više od običnog voća. Njegov nutritivni profil, potkrijepljen znanstvenim istraživanjima objavljenim u PubMed bazama podataka, čini ga vrijednim dodatkom zdravoj prehrani.

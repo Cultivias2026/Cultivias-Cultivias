@@ -22,13 +22,13 @@ related_articles:
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
 noindex: false
 ---
-Eukaliptus je biljka koja se svakodnevno koristi u kućanstvima diljem svijeta, od inhalatora i kapi za nos do difuzera i ukrasnih grana. Upravo ta sveprisutnost čini njegovu toksičnost posebno opasnom: mnogi ga smatraju bezopasnim jer je "prirodan". Medicinska literatura jasno govori drugačije.
+Eukaliptus je biljka koja se svakodnevno koristi u kućanstvima diljem svijeta, od inhalatora i kapi za nos do difuzera i ukrasnih grana. Upravo ta sveprisutnost čini njegovu toksičnost posebno opasnom: mnogi ga smatraju bezopasnim jer je "prirodan". Medicinska literatura jasno govori drugačije. Kako uzgojiti eukaliptus u tegli i na što paziti, objašnjava [vodič za eukaliptus kao sobnu biljku](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
 
 ## Što je eukaliptol i zašto je toksičan?
 
-**1,8-cineol**, poznat i kao **eukaliptol**, dominantni je spoj u eteričnom ulju eukaliptusa i čini 60 do 90% njegova sastava. Upravo taj [monoterpen](https://hr.wikipedia.org/wiki/Monoterpen) odgovoran je za karakteristični miris, ali i za toksičnost.
+**1,8-cineol**, poznat i kao **eukaliptol**, dominantni je spoj u eteričnom ulju eukaliptusa i čini 60 do 90% njegova sastava. Upravo taj monoterpen odgovoran je za karakteristični miris, ali i za toksičnost.
 
-Eukaliptol je visoko [lipofilna](https://hr.wikipedia.org/wiki/Lipofilnost) molekula, što znači da se brzo apsorbira kroz sluznice i probavni trakt te lako prolazi [krvno-moždanu barijeru](https://hr.wikipedia.org/wiki/Krvno-mo%C5%BEdana_barijera). Jednom u tijelu, djeluje na [središnji živčani sustav](https://hr.wikipedia.org/wiki/Sredi%C5%A1nji_%C5%BEiv%C4%8Dani_sustav) kao depresor, inhibira enzimske sustave u jetri i bubrezima te izravno oštećuje sluznicu probavnog trakta.
+Eukaliptol je visoko lipofilna molekula, što znači da se brzo apsorbira kroz sluznice i probavni trakt te lako prolazi krvno-moždanu barijeru. Jednom u tijelu, djeluje na središnji živčani sustav kao depresor, inhibira enzimske sustave u jetri i bubrezima te izravno oštećuje sluznicu probavnog trakta.
 
 Prema [sveobuhvatnom pregledu toksičnosti eukaliptusovog ulja objavljenom u časopisu Cureus (2025.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12107212/), tipična smrtonosna doza za odrasle kreće se između **30 i 45 ml**, ali individualna osjetljivost značajno varira. Zabilježeni su smrtni slučajevi i pri manjim dozama.
 
@@ -100,7 +100,7 @@ Prema ASPCA-i, simptomi trovanja eukaliptusom kod kućnih ljubimaca uključuju:
 
 ### Zašto su mačke posebno osjetljive?
 
-Mačke imaju specifičan metabolički nedostatak koji ih čini posebno ranjivima na terpenoide. Za razliku od pasa i ljudi, mačkama nedostaje dovoljna aktivnost enzima [glukuroniltransferaze](https://hr.wikipedia.org/wiki/Glukuronil_transferaza), koji je ključan za detoksikaciju fenolnih spojeva i terpenoida. Eukaliptol se u mačjem organizmu sporije razgrađuje i nakuplja do toksičnih razina.
+Mačke imaju specifičan metabolički nedostatak koji ih čini posebno ranjivima na terpenoide. Za razliku od pasa i ljudi, mačkama nedostaje dovoljna aktivnost enzima glukuroniltransferaze, koji je ključan za detoksikaciju fenolnih spojeva i terpenoida. Eukaliptol se u mačjem organizmu sporije razgrađuje i nakuplja do toksičnih razina.
 
 Ovo vrijedi i za inhalaciju: **difuzer s eteričnim uljem eukaliptusa u zatvorenom prostoru može biti opasan za mačke**, posebno ako je prostorija slabo prozračena.
 
@@ -120,6 +120,8 @@ Postoji bitna razlika između **žive biljke eukaliptusa u tegli** i **eterično
 | **Difuzer s eteričnim uljem**          | Nizak za zdrave odrasle; izbjegavati kod djece ispod 2 god.                | Umjeren do visok za mačke                          |
 
 Živa biljka u tegli nije opasna za odrasle pri normalnom rukovanju. Opasnost nastaje gutanjem listova (posebno kod djece i kućnih ljubimaca) i pri korištenju eteričnog ulja.
+
+Pročitajte i: [limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/) i [vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
 
 ## Što učiniti u slučaju trovanja?
 

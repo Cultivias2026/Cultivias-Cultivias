@@ -13,6 +13,8 @@ editors_pick: false
 tags: []
 related_articles:
   - ginko-ginkgo-biloba-sve-što-trebate-znati-o-uzgoju-i-ljekovitosti
+  - menta-sve-važne-informacije-o-njoj
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
 metaTitle: Koliko brzo raste ginko drvo i što utječe na njegov razvoj?
 noindex: false
 ---
@@ -28,7 +30,7 @@ Tek nakon što razviju snažan korijenski sustav, rast se ubrzava. [Plant Detect
 
 ## Kako ginko raste u vrtu kao ljekovito bilje?
 
-[Ginko](https://www.cultivias.com/bilje/ginko-ginkgo-biloba-sve-%C5%A1to-trebate-znati-o-uzgoju-i-ljekovitosti/) se u vrtu sve češće uzgaja i kao ljekovita biljka. Listovi su bogati [flavonoidima](https://www.enciklopedija.hr/clanak/flavonoidi) i [terpenoidima](https://bs.wikipedia.org/wiki/Terpenoid) koji poboljšavaju cirkulaciju i kognitivne funkcije. 
+[Ginko](https://www.cultivias.com/bilje/ginko-ginkgo-biloba-sve-%C5%A1to-trebate-znati-o-uzgoju-i-ljekovitosti/) se u vrtu sve češće uzgaja i kao ljekovita biljka. Listovi su bogati [flavonoidima](https://www.enciklopedija.hr/clanak/flavonoidi) i terpenoidima koji poboljšavaju cirkulaciju i kognitivne funkcije. 
 
 Prema [MaineOrganic Farmers and Gardeners Association (MOFGA)](https://www.mofga.org/resources/herbs/ginkgo/), listovi se beru ujesen kada počnu žutjeti, a koriste se za čajeve, tinkture i kapsule.
 

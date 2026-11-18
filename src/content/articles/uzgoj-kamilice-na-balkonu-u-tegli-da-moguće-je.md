@@ -51,6 +51,8 @@ Prije nego što zaronite u svijet balkonske botanike, pripremite sljedeće:
 
 Ako ih sadite u više tegla, ostavite najjače presadnice na razmaku od 10-15 cm jedna od druge. Ovo osigurava da svaka biljka ima dovoljno prostora za rast i razvoj.
 
+Pročitajte i: [sadnja kamilice](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/).
+
 ## Njega kamilice na balkonu
 
 1. Zalijevanje: Kamilica voli umjereno vlažno tlo. Zalijevajte je redovito, posebno tijekom sušnih razdoblja. Provjerite vlažnost zemlje prstom – zalijte kada je gornji sloj suh na dodir. Izbjegavajte prekomjerno zalijevanje koje može dovesti do truljenja korijena.

@@ -70,3 +70,5 @@ U svom radu **“Species Plantarum”** iz 1753. godine, Linnaeus je dao znans
 U čuvenom slučaju “Nix v. Hedden” iz 1893. godine, Vrhovni sud SAD-a raspravljao je o tome treba li se rajčica cariniti kao **povrće ili voće**.
 
 Iako su obje strane priznale da je rajčica **botanički voće**, sud je odlučio da se zbog njenog uobičajenog korištenja u kuhanju treba smatrati povrćem u trgovinskim terminima.
+
+Pročitajte i: [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).

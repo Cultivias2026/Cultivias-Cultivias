@@ -120,7 +120,7 @@ Dodatno, ogrozd sadrži hlorogenu kiselinu, koja može usporiti apsorpciju uglji
 
 ## Zaštita mozga i zdravlje srca
 
-Ogrozd je prirodan izvor organskih kiselina, pružajući 11–14 mg [limunske kiseline ](https://bs.wikipedia.org/wiki/Limunska_kiselina)u 100 mg voća.
+Ogrozd je prirodan izvor organskih kiselina, pružajući 11–14 mg limunske kiseline u 100 mg voća.
 
 **Antioksidansi i fitonutrijenti** u ogrozdu također se vjeruje da pružaju podršku bolestima mozga povezanim sa starenjem i smanjuju rizik od moždanog udara.
 

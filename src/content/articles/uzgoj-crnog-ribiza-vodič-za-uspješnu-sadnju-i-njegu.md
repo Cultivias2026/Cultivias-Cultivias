@@ -227,3 +227,5 @@ Dugoročno (do 12 mjeseci):
 ![](/images/articles/faze_uzgoja.jpg)
 
 Crni ribiz je relativno jednostavna biljka za uzgoj koja će vam godinama pružati bogat urod ako pratite ove osnovne upute za sadnju i održavanje.
+
+Pročitajte i: [berba crnog ribiza](https://www.cultivias.com/voce/berba-crnog-ribiza-kako-i-kada/) i [recepti od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).

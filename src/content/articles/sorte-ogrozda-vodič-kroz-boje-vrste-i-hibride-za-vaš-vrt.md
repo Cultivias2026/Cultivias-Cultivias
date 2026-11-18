@@ -23,7 +23,7 @@ Ovaj vodič će vam pomoći da se snađete u svijetu sorti [ogrozda](https://www
 
 ## Klasifikacija po bojama: Razlike u okusu i izgledu
 
-Boja ploda ogrozda direktno utječe na okus i slatkoću. [Ogrozd](https://en.wikipedia.org/wiki/Gooseberry) se može pronaći u širokom spektru boja, uključujući **zelenu, bijelu, žutu, crvenu, ljubičastu, pa čak i gotovo crnu.**
+Boja ploda ogrozda direktno utječe na okus i slatkoću. Ogrozd se može pronaći u širokom spektru boja, uključujući **zelenu, bijelu, žutu, crvenu, ljubičastu, pa čak i gotovo crnu.**
 
 Općenito pravilo je da su **tamniji plodovi slađi**, dok su **zeleniji i svjetliji kiseliji.**
 
@@ -91,7 +91,7 @@ Invicta je poznata po teškim prinosima - biljka redovito proizvodi obilje plodo
 
 Sorta se preporučuje za početnike jer je robusna i zahtijeva manje njege u pogledu zaštite od bolesti.
 
-Plodovi sadrže 12,7% rastvorljive suhe materije, što ukazuje na njihovu slatkoću i kvalitetu. Sve sorte [ogrozda](https://en.wikipedia.org/wiki/Gooseberry) su samooplodne, što znači da je dovoljna jedna biljka za oprašivanje, ali ako imate više biljaka, mogu se međusobno oprašiti i dati još bogatiji rod.
+Plodovi sadrže 12,7% rastvorljive suhe materije, što ukazuje na njihovu slatkoću i kvalitetu. Sve sorte ogrozda su samooplodne, što znači da je dovoljna jedna biljka za oprašivanje, ali ako imate više biljaka, mogu se međusobno oprašiti i dati još bogatiji rod.
 
 ### Leveller
 
@@ -117,13 +117,13 @@ Pixwell je poznata i po tome što je otporna na različite bolesti, što je čin
 
 ## Hibridi i posebne vrste: Josta
 
-**[Josta](https://en.wikipedia.org/wiki/Jostaberry)** je fascinantan hibrid nastao križanjem [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (Ribes nigrum) i [ogrozda](https://en.wikipedia.org/wiki/Jostaberry) (Ribes uva-crispa), a ponekad uključuje i američki obalni crni ogrozd (Ribes divaricatum).
+**Josta** je fascinantan hibrid nastao križanjem [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (Ribes nigrum) i ogrozda (Ribes uva-crispa), a ponekad uključuje i američki obalni crni ogrozd (Ribes divaricatum).
 
 Ime je dobila kombinacijom njemačkih naziva za crni ribiz (Johannisbeere) i ogrozd (Stachelbeere).
 
 ### Karakteristike i prednosti Joste
 
-Najveća prednost [Joste](https://en.wikipedia.org/wiki/Jostaberry) je što je naslijedila najbolje osobine oba roditelja: otpornost na bolesti i štetnike, te jedinstven okus.
+Najveća prednost Joste je što je naslijedila najbolje osobine oba roditelja: otpornost na bolesti i štetnike, te jedinstven okus.
 
 Plodovi su tamnoljubičasti do crni, veći od crnog ribiza, a manji od ogrozda. Okus je opisan kao kombinacija ogrozda i crnog ribiza, s tim da je okus ogrozda dominantniji u nezrelom plodu, dok se note crnog ribiza razvijaju kako plod sazrijeva.
 
@@ -153,7 +153,7 @@ Prinos po grmu u prve 4 godine može biti oko 3,6 kg, što je odličan rezultat 
 
 **Indijski ogrozd (Amla)**
 
-Indijski ogrozd se ime odnosi na biljku Amla (Phyllanthus emblica). Iako se naziva [ogrozdom](https://en.wikipedia.org/wiki/List_of_gooseberries), Amla pripada potpuno drugoj botaničkoj porodici - Phyllanthaceae - i nije u srodstvu s ogrozdom iz roda Ribes.
+Indijski ogrozd se ime odnosi na biljku Amla (Phyllanthus emblica). Iako se naziva ogrozdom, Amla pripada potpuno drugoj botaničkoj porodici - Phyllanthaceae - i nije u srodstvu s ogrozdom iz roda Ribes.
 
 Amla je tropska biljka sa svojstvima i karakteristikama koje se značajno razlikuju od europskog ogrozda.
 
@@ -161,10 +161,10 @@ Plodovi Amle su manji, tvrđi i imaju drugačiji okus. Amla je poznata po visoko
 
 **Kineski ogrozd (Kivi)**
 
-Kineski ogrozd je stari, danas rijetko korišteni naziv za **[kivi](https://en.wikipedia.org/wiki/List_of_gooseberries)** (Actinidia deliciosa).
+Kineski ogrozd je stari, danas rijetko korišteni naziv za **kivi** (Actinidia deliciosa).
 
 Dakle, kada netko spominje kineski ogrozd, zapravo misli na kivi, voće koje je potpuno drugačito od ogrozda.
 
 Kivi je tropska biljka sa vlaknastom kožicom i zelenim mesom sa sitnim sjemenkama. Nije u srodstvu s ogrozdom i ima potpuno drugačije karakteristike uzgoja i okusa.
 
-Razumijevanje ovih razlika važno je kako biste bili sigurni da uzgajate i konzumirate "pravi" [ogrozd](https://en.wikipedia.org/wiki/Gooseberry) (Ribes uva-crispa) i kako bi uživali u njegovim jedinstvenim okusima i karakteristikama.
+Razumijevanje ovih razlika važno je kako biste bili sigurni da uzgajate i konzumirate "pravi" ogrozd (Ribes uva-crispa) i kako bi uživali u njegovim jedinstvenim okusima i karakteristikama.

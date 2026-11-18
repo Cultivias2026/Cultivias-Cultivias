@@ -32,7 +32,7 @@ Bez kofeina, za razliku od obične kave ili čaja, čaj od mente ne sprječava s
 
 [Studija od Abdelhalima (2021) objavljena u Journal of Pharmacy & Pharmacognosy Research](https://jppres.com/jppres/pdf/vol9/jppres20.932_9.1.49.pdf) pokazala je da infuzija peperminta može značajno poboljšati kvalitetu sna kod studenata. Ovo je bila pilot studija koja je uključila zdrave studente sveučilišta koji su konzumirali čaj od mente tijekom određenog vremenskog razdoblja.
 
- Istraživanje je koristilo [Pittsburgh Sleep Quality Index (PSQI)](https://en.wikipedia.org/wiki/Pittsburgh_Sleep_Quality_Index) za mjerenje kvalitete sna, anksioznosti i stresa prije i nakon konzumacije čaja od mente. Rezultati su pokazali da je konzumacija čaja od mente dovela do značajnog smanjenja anksioznosti i stresa, što direktno pridonosi boljoj kvaliteti sna. Mentol, aktivni sastojak mente, djeluje kao prirodni relaksans koji opušta mišiće i smiruje nervni sustav.
+ Istraživanje je koristilo Pittsburgh Sleep Quality Index (PSQI) za mjerenje kvalitete sna, anksioznosti i stresa prije i nakon konzumacije čaja od mente. Rezultati su pokazali da je konzumacija čaja od mente dovela do značajnog smanjenja anksioznosti i stresa, što direktno pridonosi boljoj kvaliteti sna. Mentol, aktivni sastojak mente, djeluje kao prirodni relaksans koji opušta mišiće i smiruje nervni sustav.
 
 Preporuka je konzumirati čaj od mente 30 minuta do sat vremena prije spavanja. Topla temperatura napitka dodatno pomaže u opuštanju, a ritual konzumacije čaja može postati dio vaše rutine za bolji san. Međutim, važno je napomenuti da su rezultati individualni – dok nekim ljudima čaj od mente pomaže u spavanju, drugi mogu doživjeti blage stimulirajuće učinke.
 
@@ -53,6 +53,8 @@ Međutim, važno je napomenuti da osobe s refluksom ili GERD-om trebale bi biti 
 
 Za optimalne digestivne učinke, preporučuje se konzumacija čaja od mente nakon obroka. Čaj od mente je sigurna i prirodna alternativa za one koji traže ublažavanje digestivnih problema bez kemikalija ili nuspojava.
 
+Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/).
+
 ## Poboljšanje kognitivnih funkcija uz čaj?
 
 Čaj od mente pokazuje obećavajuće rezultate kada je u pitanju poboljšanje kognitivnih funkcija, posebice memorije i pažnje. To ga čini odličnim izborom za one koji žele prirodno poboljšati mentalnu izvedbu.
@@ -63,7 +65,7 @@ Ovo je bila randomizirana, placebo-kontrolirana, slijepa studija s 25 zdravih od
 
  Eksperimentalna grupa je konzumirala 200 mL čaja od peperminta koji je kuhan 5 minuta, dok je kontrolna grupa konzumirala toplu vodu s navodnim bezokusnim i bezmirisnim ekstraktom peperminta.
 
-Istraživanje je mjerilo izvedbu na različitim kognitivnim zadacima (Picture Recall, Serial Threes, Word Recall, Corsi Blocks) prije konzumacije i 20 minuta nakon konzumacije, koristeći [Computerized Mental Performance Assessment System (COMPASS).](https://en.wikipedia.org/wiki/CDR_computerized_assessment_system)
+Istraživanje je mjerilo izvedbu na različitim kognitivnim zadacima (Picture Recall, Serial Threes, Word Recall, Corsi Blocks) prije konzumacije i 20 minuta nakon konzumacije, koristeći Computerized Mental Performance Assessment System (COMPASS).
 
 Rezultati su bili impresivni: sudionici koji su pili čaj od mente pokazali su poboljšanja u:
 

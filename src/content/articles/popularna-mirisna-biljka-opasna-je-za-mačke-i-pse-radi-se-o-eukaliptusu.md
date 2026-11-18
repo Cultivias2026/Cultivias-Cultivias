@@ -17,9 +17,10 @@ tags: []
 related_articles:
   - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
+  - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
 noindex: false
 ---
-Kako navodi američko **[Društvo za sprječavanje okrutnosti prema životinjama (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/eucalyptus)**, koje vodi jednu od najpoznatijih svjetskih baza otrovnih biljaka i 24-satnu liniju za pomoć pri trovanju životinja, [eukaliptus (*Eucalyptus* species, porodica *Myrtaceae*)](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) uvršten je na popis biljaka toksičnih za pse, mačke i konje. Kao toksični princip navodi se **[eukaliptol](https://en.wikipedia.org/wiki/Eucalyptol)** iz eteričnih ulja biljke.
+Kako navodi američko **[Društvo za sprječavanje okrutnosti prema životinjama (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/eucalyptus)**, koje vodi jednu od najpoznatijih svjetskih baza otrovnih biljaka i 24-satnu liniju za pomoć pri trovanju životinja, [eukaliptus (*Eucalyptus* species, porodica *Myrtaceae*)](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) uvršten je na popis biljaka toksičnih za pse, mačke i konje. Kao toksični princip navodi se **eukaliptol** iz eteričnih ulja biljke.
 
 Klinički znakovi trovanja, prema ASPCA-i, uključuju:
 
@@ -42,6 +43,8 @@ Međutim, izloženost visoko koncentriranom eteričnom ulju eukaliptusa, bilo gu
 Upravo zbog toga stručnjaci posebno upozoravaju na koncentrirane oblike: **eterična ulja i difuzore**. 
 
 **Mačke** su dodatno ranjive jer se često njeguju lizanjem, pa mogu progutati ostatke ulja s dlake ili šapa. Osim toga, eukaliptus može nadražiti i dišne puteve, zbog čega se korištenje u difuzorima u kućanstvima s ljubimcima ne preporučuje.
+
+Pročitajte i: [eukaliptus kao sobna biljka](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
 
 ## Što učiniti ako sumnjate na trovanje
 

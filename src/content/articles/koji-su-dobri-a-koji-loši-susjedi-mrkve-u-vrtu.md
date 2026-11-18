@@ -16,6 +16,8 @@ editors_pick: false
 tags: []
 related_articles:
   - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
+  - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena
+  - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 metaTitle: Koji su dobri, a koji loši susjedi mrkve u vrtu?
 noindex: false
 ---
@@ -82,3 +84,5 @@ Origano i majčina dušica (timijan) nisko su rastuće biljke koje se šire hori
 ## Loši susjedi: Kratka lista onoga što treba izbjegavati
 
 **Kopar, pastrnjak, celer i krumpir** jedine su biljke koje treba držati podalje od mrkve. [Kopar i mrkva iz iste su botaničke obitelji](https://www.almanac.com/companion-plants-for-carrots) i privlače iste štetnike, a mogu se i unakrsno oprašiti. Pastrnjak dijeli iste bolesti, dok krumpir i celer agresivno konkuriraju za hranjive tvari u tlu. Sve ostalo slobodno kombinirajte.
+
+Pročitajte i: [kalorije u mrkvi](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/) i [dobri susjedi rajčice](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/).

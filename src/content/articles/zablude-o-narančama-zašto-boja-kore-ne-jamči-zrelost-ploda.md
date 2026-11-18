@@ -14,6 +14,8 @@ editors_pick: false
 tags: []
 related_articles:
   - naranča-vitaminska-bomba-u-jednoj-čaši
+  - naranca-vs-sok-od-narance-kalorije
+  - kupina-sve-što-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti
 noindex: false
 ---
 Prema opsežnom [stručnom vodiču o pigmentima agruma Sveučilišta u Floridi](https://ask.ifas.ufl.edu/publication/HS1472), zelena boja kore često ostaje prisutna čak i kada su plodovi u unutrašnjosti potpuno slatki, sočni i spremni za konzumaciju.
@@ -61,3 +63,5 @@ Također, tekstura kore može ponuditi korisne informacije. Kvalitetni plodovi o
 Pažljivim odabirom na temelju ovih pokazatelja izbjegavaju se uobičajene zablude i osigurava najbolji mogući okus u svakom kućanstvu.
 
 Više informacija o sastavu i nutritivnim vrijednostima ovog omiljenog voća potražite u našem tematskom vodiču [Naranča: vitaminska bomba u jednoj čaši](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/).
+
+Pročitajte i: [kalorije u naranči i soku od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/).

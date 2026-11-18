@@ -17,6 +17,8 @@ editors_pick: true
 tags: []
 related_articles:
   - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
+  - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
+  - čaj-od-majčine-dušice-ljekovitost-djelovanje-i-pravilna-priprema
 metaTitle: "Čaj od bazge: Ljekovitost, pravilna priprema i moguće nuspojave"
 ogImage: /images/articles/čaj-od-bazginih-cvjetova.webp
 noindex: false
@@ -165,7 +167,7 @@ Preporuka je jasna: ako ste trudni ili dojite i razmišljate o konzumaciji čaja
 
 Kada je riječ o kontraindikacijama, posebno treba naglasiti sljedeće:
 
-* **Sirovi dijelovi biljke su toksični.** Lišće, kora, korijen, stabljika i nezrele bobice crne bazge sadrže [cijanogene glikozide](https://hr.wikipedia.org/wiki/Cijanogeni_glikozidi), koji se u tijelu mogu razgraditi u cijanovodičnu kiselinu. Simptomi trovanja uključuju mučninu, povraćanje i proljev. **Termičkom obradom** ovi spojevi se razgrađuju i biljka postaje sigurna za konzumaciju.
+* **Sirovi dijelovi biljke su toksični.** Lišće, kora, korijen, stabljika i nezrele bobice crne bazge sadrže cijanogene glikozide, koji se u tijelu mogu razgraditi u cijanovodičnu kiselinu. Simptomi trovanja uključuju mučninu, povraćanje i proljev. **Termičkom obradom** ovi spojevi se razgrađuju i biljka postaje sigurna za konzumaciju.
 * **Interakcije s lijekovima za dijabetes.** Bazga može sniziti razinu šećera u krvi, pa bi mogla pojačati učinak lijekova poput **metformina i inzulina**. Osobe s dijabetesom trebaju se posavjetovati s liječnikom.
 * **Interakcije s lijekovima za krvni tlak.** Bazga može sniziti krvni tlak, stoga se ne preporučuje kombinirati s **antihipertenzivima** bez savjeta liječnika.
 * **Diuretici.** Budući da bazga ima vlastito diuretičko djelovanje, kombinacija s diureticima može dovesti do prekomjernog gubitka tekućine i elektrolita.
@@ -200,7 +202,7 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 
 **Cvijet bazge** bogat je flavonoidima, fenolnim kiselinama i eteričnim uljima. Primarno se koristi za **respiratorne tegobe** (prehlada, gripa, sinusitis), poticanje znojenja i kao blagi diuretik. Čaj od cvijeta blaže je djelovanje i sigurniji za širu primjenu.
 
-**Bobice crne bazge** sadrže visoke koncentracije [antocijana](https://hr.wikipedia.org/wiki/Antocijani), vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. Jedna šalica bobica sadrži oko **52 mg vitamina C** i **406 mg kalija**. Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
+**Bobice crne bazge** sadrže visoke koncentracije antocijana, vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. Jedna šalica bobica sadrži oko **52 mg vitamina C** i **406 mg kalija**. Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
 
 | Karakteristika    | Cvijet bazge                  | Bobice bazge             |
 | ----------------- | ----------------------------- | ------------------------ |

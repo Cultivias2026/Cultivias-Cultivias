@@ -60,6 +60,8 @@ Antibakterijska svojstva kamilice čine je idealnom za čišćenje i liječenje 
 
 Primjena hladnih obloga od kamilice na čelo ili zatiljak može pomoći u smanjenju napetosti i glavobolje.
 
+Pročitajte i: [kamilica i probava](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+
 
 
 ## Kako pripremiti hladne obloge od kamilice?

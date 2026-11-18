@@ -16,6 +16,7 @@ noindex: false
 related_articles:
   - naranca-vs-sok-od-narance-kalorije
   - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
 ---
 Njezina sočnost, slatko-kiseli okus i prepoznatljiva aroma čine je nezaobilaznim dijelom naše prehrane, osobito tijekom zimskih mjeseci.
 
@@ -39,7 +40,7 @@ Odgovor leži u njezinoj nutritivnoj vrijednosti i bogatstvu bioaktivnih spojeva
 
 Redovita konzumacija naranči može pomoći u prevenciji prehlade i gripe te skratiti trajanje bolesti.
 
-No, ljekovitost naranče ne zaustavlja se samo na vitaminu C. Ona je bogata i drugim antioksidansima, poput [flavonoida](https://bs.wikipedia.org/wiki/Flavonoid) (posebice hesperidina) i [karotenoida](https://hr.wikipedia.org/wiki/Karotenoidi) (poput beta-karotena), koji štite stanice od oštećenja uzrokovanih slobodnim radikalima.
+No, ljekovitost naranče ne zaustavlja se samo na vitaminu C. Ona je bogata i drugim antioksidansima, poput flavonoida (posebice hesperidina) i karotenoida (poput beta-karotena), koji štite stanice od oštećenja uzrokovanih slobodnim radikalima.
 
  [Istraživanja](https://pubmed.ncbi.nlm.nih.gov/12936929/) su pokazala da ovi spojevi mogu smanjiti rizik od razvoja kroničnih bolesti, uključujući bolesti srca i neke vrste raka.
 
@@ -65,7 +66,7 @@ Cijeđena naranča često se koristi i kao dio detox kura. Zahvaljujući visokom
 
 Osim klasične, slatke naranče, postoji nekoliko posebnih sorti koje se ističu svojim karakteristikama.
 
-Crvena naranča (poznata i kao krvava naranča) svoju intenzivnu crvenu boju mesa duguje pigmentu [antocijaninu](https://hr.wikipedia.org/wiki/Antocijan), snažnom antioksidansu kojeg nema u drugim sortama naranči. Zbog toga se crvena naranča smatra još zdravijom od obične.
+Crvena naranča (poznata i kao krvava naranča) svoju intenzivnu crvenu boju mesa duguje pigmentu antocijaninu, snažnom antioksidansu kojeg nema u drugim sortama naranči. Zbog toga se crvena naranča smatra još zdravijom od obične.
 
 Divlja naranča (Poncirus trifoliata) je sorta koja nije jestiva u sirovom stanju zbog izrazito gorkog i kiselog okusa, ali se koristi za izradu marmelada i kao podloga za cijepljenje drugih agruma.
 
@@ -107,6 +108,8 @@ Proces sušenja koncentrira okus i aromu, a kriške sušene naranče mogu se kor
 
 
 Možete ih i samljeti u prah i koristiti kao začin. Osim toga, sušene naranče su predivan i mirisan ukras, osobito u vrijeme blagdana, kada se koriste za izradu adventskih vijenaca i drugih aranžmana.
+
+Pročitajte i: [zablude o narančama](https://www.cultivias.com/vijesti/zablude-o-naran%C4%8Dama-za%C5%A1to-boja-kore-ne-jam%C4%8Di-zrelost-ploda/).
 
 ## Konzumacija naranče prije spavanja?
 

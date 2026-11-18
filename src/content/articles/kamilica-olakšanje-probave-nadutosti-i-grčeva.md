@@ -55,6 +55,8 @@ Rezultati su pokazali da su pacijenti koji su uzeli **kapi kamilice sat vremena 
 
 Znanstvenici ovaj učinak pripisuju aktivnim spojevima kamilice (poput kamazulena i bisabolola) koji djeluju **antispazmodički i protuupalno**, opuštajući glatke mišiće crijeva i olakšavajući prolazak plinova bez zabilježenih nuspojava.
 
+Pročitajte i: [hladni oblozi od kamilice](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/).
+
 ## **Kako pravilno piti kamilicu za probavu?**
 
 

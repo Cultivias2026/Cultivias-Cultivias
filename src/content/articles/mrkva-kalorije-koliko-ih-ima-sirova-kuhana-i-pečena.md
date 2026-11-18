@@ -17,6 +17,7 @@ tags: []
 related_articles:
   - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
+  - kalorije-u-rajčici-usporedba-svježe-rajčice-passate-koncentrata-i-umaka
 metaTitle: "Mrkva kalorije: Koliko ih ima sirova, kuhana i pečena? "
 noindex: false
 ---
@@ -37,6 +38,8 @@ Ova niska energetska gustoća razlog je zašto [klinička istraživanja objavlje
 Kuhana mrkva (ocijeđena, bez dodane soli) sadrži **35 kalorija na 100 grama**. Razlog zašto kuhana mrkva ima nešto manje kalorija od sirove na istu težinu leži u apsorpciji vode tijekom procesa kuhanja. 
 
 Međutim, kalorije nisu jedino što se mijenja kuhanjem. [Istraživanje objavljeno na PubMed-u](https://pubmed.ncbi.nlm.nih.gov/36600678/) pokazuje da termička obrada zapravo **povećava bioraspoloživost beta-karotena.** Dok iz sirove mrkve tijelo apsorbira manji dio ovog snažnog antioksidansa, lagano kuhanje razbija stanične stijenke biljke, čineći beta-karoten [znatno dostupnijim za apsorpciju](https://pmc.ncbi.nlm.nih.gov/articles/PMC11982686/).
+
+Pročitajte i: [susjedi mrkve u vrtu](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
 
 ## Pečena mrkva: Raste li kalorijska vrijednost?
 

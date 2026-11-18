@@ -275,6 +275,8 @@ Uzgoj kadulje je relativno jednostavan, što je čini idealnom biljkom za počet
 
    Sjeme se može sijati u rano proljeće (do 15. ožujka) direktno u tlo ili u lijehe za kasnije presađivanje. Kadulja se može razmnožavati i reznicama tijekom ljeta.
 
+Pročitajte i: [ružmarin od sadnje do čaja i ulja](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica: ljekovita svojstva](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
+
 
 
 ## Gdje kupiti kvalitetne proizvode od kadulje?

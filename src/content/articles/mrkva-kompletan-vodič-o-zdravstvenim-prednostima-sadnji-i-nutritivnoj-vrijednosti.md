@@ -25,7 +25,7 @@ Povijest uzgoja mrkve seže tisućama godina unatrag, s prvim zabilježenim uzgo
 
 ## Što je mrkva? - definicija i osnovna svojstva
 
-Mrkva je korjenasto povrće iz porodice [štitarki (Apiaceae)](https://hr.wikipedia.org/wiki/%C5%A0titarke), kojoj pripadaju i celer, peršin i komorač.
+Mrkva je korjenasto povrće iz porodice štitarki (Apiaceae), kojoj pripadaju i celer, peršin i komorač.
 
 Ono što obično konzumiramo je glavni, zadebljali korijen biljke, koji služi kao skladište hranjivih tvari za rast biljke u drugoj godini.
 
@@ -35,7 +35,7 @@ Iako se najčešće percipira kao jednogodišnja kultura, mrkva je zapravo **dvo
 
 Mrkva se odlikuje hrskavom teksturom i slatkim, blagozemljanim okusom. Oblik korijena varira ovisno o sorti, od cilindričnog ikonusnog do gotovo okruglog.
 
-Boja korijena potječe od specifičnih pigmenata; narančastaod [beta-karotena](https://sh.wikipedia.org/wiki/Beta-karoten), ljubičastaod [antocijanina](https://bs.wikipedia.org/wiki/Antocijanin), crvenaod [likopena](https://bs.wikipedia.org/wiki/Likopen),a žuta od [ksantofila](https://hr.wikipedia.org/wiki/Ksantofil). Upravo ti pigmenti, koji su snažniantioksidansi, daju mrkvi velik dio njenih zdravstvenih prednosti.
+Boja korijena potječe od specifičnih pigmenata; narančastaod beta-karotena, ljubičastaod antocijanina, crvenaod likopena,a žuta od ksantofila. Upravo ti pigmenti, koji su snažniantioksidansi, daju mrkvi velik dio njenih zdravstvenih prednosti.
 
 ### Korištenje mrkve u kulinarstvu
 
@@ -51,7 +51,7 @@ Crvena mrkva svoju boju duguje likopenu, istom antioksidansu koji se nalazi u ra
 
 **Žuta mrkva – lutein i zeaksantin za vid**
 
-Žuta mrkva bogata je ksantofilima, posebice [luteinom](https://bs.wikipedia.org/wiki/Lutein) i [zeaksantinom](https://healthcare.utah.edu/healthfeed/2025/04/carrots-eye-health-myth-or-fact). Ovi antioksidansi ključni su za zdravlje očiju jer se nakupljaju u mrežnici i štite je od oštećenja uzrokovanih plavom svjetlošću i slobodnim radikalima.
+Žuta mrkva bogata je ksantofilima, posebice luteinom i [zeaksantinom](https://healthcare.utah.edu/healthfeed/2025/04/carrots-eye-health-myth-or-fact). Ovi antioksidansi ključni su za zdravlje očiju jer se nakupljaju u mrežnici i štite je od oštećenja uzrokovanih plavom svjetlošću i slobodnim radikalima.
 
 Redovita konzumacija hrane bogate luteinom i zeaksantinom, poput **žute mrkv**e, može smanjiti rizik od [senilne makularne degeneracij](https://www.mojeoko.hr/savjeti-za-zdrave-oci/tegobe-s-ocima/senilna-makularna-degeneracija/)e [prema American Optometric Association](https://www.aoa.org/healthy-eyes/caring-for-your-eyes/diet-and-nutrition/lutein-and-zeaxanthin). Žuta mrkva zdravlje očiju stavlja u prvi plan.
 
@@ -175,7 +175,7 @@ Najpoznatija zdravstvena prednost mrkve je njen pozitivan utjecaj na vid.
 
 Ova veza nije mit; znanstveno je utemeljena na iznimno visokom sadržaju beta-karotena, koji tijelo pretvara u vitamin A.
 
-Vitamin A je ključna komponenta [rodopsina](https://bs.wikipedia.org/wiki/Rodopsin), pigmenta u mrežnici oka koji je osjetljiv na svjetlost i neophodan za vid u uvjetima slabog osvjetljenja (noćni vid).
+Vitamin A je ključna komponenta rodopsina, pigmenta u mrežnici oka koji je osjetljiv na svjetlost i neophodan za vid u uvjetima slabog osvjetljenja (noćni vid).
 
 Nedostatak vitamina A može dovesti do stanja zvanog [kseroftalmija](https://www.enciklopedija.hr/clanak/kseroftalmija), koje uzrokuje suhoću očiju i može rezultirati noćnim sljepilom i, u teškim slučajevima, potpunim gubitkom vida.
 

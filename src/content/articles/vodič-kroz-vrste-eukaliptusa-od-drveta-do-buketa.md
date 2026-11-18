@@ -19,10 +19,12 @@ editors_pick: false
 tags: []
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
+  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
 noindex: false
 ---
 
-Eukaliptus je zimzelena drvenasta biljka, najčešće stablo, čiji listovi sadrže uljne žlijezde bogate eteričnim uljima. Karakterizira ga kora koja se ljušti u trakama ili pločama, te specifični cvjetovi bez latica, čije su prašnice prekrivene [kapicom (operkulumom)](https://en.wikipedia.org/wiki/Eucalyptus).
+Eukaliptus je zimzelena drvenasta biljka, najčešće stablo, čiji listovi sadrže uljne žlijezde bogate eteričnim uljima. Karakterizira ga kora koja se ljušti u trakama ili pločama, te specifični cvjetovi bez latica, čije su prašnice prekrivene kapicom (operkulumom).
 
 ## Najpopularnije vrste eukaliptusa: Od vrta do vaze
 
@@ -53,13 +55,13 @@ Listovi Eucalyptus polyanthemos zadržavaju **osvježavajući miris i teksturu �
 
 Eucalyptus radiata je vrsta eukaliptusa čije je eterično ulje cijenjeno zbog svojih blagih, ali učinkovitih svojstava, posebno u podršci zdravlju dišnih puteva i [imunološkog sustava](https://www.aromaweb.com). Za razliku od Eucalyptus globulus, eterično ulje Eucalyptus radiata ima **svježiji, čišći i nešto slađi miris**, što ga čini pogodnijim za [osjetljive pojedince](https://www.aromaweb.com).
 
-Ova vrsta ima grubu, vlaknastu koru na deblu i većim granama, dok su tanje grane prekrivene glatkom sivom korom. Listovi su [kopljasti do zakrivljeni](https://en.wikipedia.org/wiki/Eucalyptus_radiata). Iako se ne koristi primarno u buketima, **njegovo eterično ulje je široko primjenjivo** u aromaterapiji i prirodnoj medicini.
+Ova vrsta ima grubu, vlaknastu koru na deblu i većim granama, dok su tanje grane prekrivene glatkom sivom korom. Listovi su kopljasti do zakrivljeni. Iako se ne koristi primarno u buketima, **njegovo eterično ulje je široko primjenjivo** u aromaterapiji i prirodnoj medicini.
 
 ### Dugin eukaliptus (Eucalyptus deglupta): Spektakl prirode
 
-Dugin eukaliptus (Eucalyptus deglupta), poznat i kao Mindanao gum ili Rainbow Eucalyptus, iznimno je veliko, brzorastuće zimzeleno stablo porijeklom s otoka sjeverno od Australije, uključujući Filipine, Indoneziju i [Papuu Novu Gvineju](https://en.wikipedia.org/wiki/Eucalyptus_deglupta). Ono što ga čini jedinstvenim je njegova kora koja se ljušti u trakama, otkrivajući **spektakularne pruge jarkih boja** – zelene, plave, ljubičaste, narančaste i [smeđe](https://en.wikipedia.org/wiki/Eucalyptus_deglupta).
+Dugin eukaliptus (Eucalyptus deglupta), poznat i kao Mindanao gum ili Rainbow Eucalyptus, iznimno je veliko, brzorastuće zimzeleno stablo porijeklom s otoka sjeverno od Australije, uključujući Filipine, Indoneziju i Papuu Novu Gvineju. Ono što ga čini jedinstvenim je njegova kora koja se ljušti u trakama, otkrivajući **spektakularne pruge jarkih boja** – zelene, plave, ljubičaste, narančaste i smeđe.
 
-Ova višebojna kora rezultat je različitih faza oksidacije unutarnje kore koja se izlaže ljuštenjem vanjskih slojeva. Dugin eukaliptus može narasti do **60–78 metara u visinu**, s deblom promjera do [240 cm](https://en.wikipedia.org/wiki/Eucalyptus_deglupta). Iako nije uobičajen u buketima, njegova **estetska vrijednost kao ukrasnog drveta je neprocjenjiva**.
+Ova višebojna kora rezultat je različitih faza oksidacije unutarnje kore koja se izlaže ljuštenjem vanjskih slojeva. Dugin eukaliptus može narasti do **60–78 metara u visinu**, s deblom promjera do 240 cm. Iako nije uobičajen u buketima, njegova **estetska vrijednost kao ukrasnog drveta je neprocjenjiva**.
 
 ## Eukaliptus u buketima i vazama: Savjeti za dugotrajnu svježinu
 
@@ -89,7 +91,7 @@ Zbog ovih svojstava, eterično ulje eukaliptusa se često koristi u proizvodima 
 
 ### Limunski eukaliptus (Corymbia citriodora): Prirodni repelent
 
-Limunski eukaliptus (Corymbia citriodora, ranije Eucalyptus citriodora) je vrsta eukaliptusa čije eterično ulje sadrži **citronelal**, spoj poznat po svojim snažnim repelentnim svojstvima protiv insekata, [posebno komaraca](https://en.wikipedia.org/wiki/Citronellal). Istraživanja su potvrdila učinkovitost ulja limunskog eukaliptusa kao **prirodne alternative sintetičkim repelentima** prema preporukama [CDC-a](https://www.cdc.gov).
+Limunski eukaliptus (Corymbia citriodora, ranije Eucalyptus citriodora) je vrsta eukaliptusa čije eterično ulje sadrži **citronelal**, spoj poznat po svojim snažnim repelentnim svojstvima protiv insekata, posebno komaraca. Istraživanja su potvrdila učinkovitost ulja limunskog eukaliptusa kao **prirodne alternative sintetičkim repelentima** prema preporukama [CDC-a](https://www.cdc.gov).
 
 ## Uzgoj eukaliptusa u tegli: Zeleni dodir za dom i balkon
 

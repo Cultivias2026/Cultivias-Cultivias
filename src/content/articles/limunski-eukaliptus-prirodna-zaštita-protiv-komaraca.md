@@ -18,17 +18,18 @@ tags: []
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
+  - biljke-protiv-komaraca-mit-ili-stvarna-pomoć
 noindex: false
 ---
 **Limunski eukaliptus** (*Corymbia citriodora*, ranije klasificiran kao *Eucalyptus citriodora*) je visoko drvo porijeklom iz sjeveroistočne Australije, gdje naraste i do 45 metara. Prepoznatljivo je po glatkoj, blijedoj kori koja se ljušti u tankim listićima i po intenzivnom mirisu limuna koji se osjeća čak i bez dodirivanja listova.
 
-Botanički, ova vrsta više nije dio roda [Eucalyptus](https://hr.wikipedia.org/wiki/Eukaliptus) u užem smislu, nego je premještena u rod [Corymbia](https://hr.wikipedia.org/wiki/Corymbia), koji obuhvaća oko 80 [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) s karakterističnim cvjetnim skupinama. Ipak, u svakodnevnom govoru i u prodaji se i dalje naziva limunski eukaliptus.
+Botanički, ova vrsta više nije dio roda Eucalyptus u užem smislu, nego je premještena u rod Corymbia, koji obuhvaća oko 80 [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) s karakterističnim cvjetnim skupinama. Ipak, u svakodnevnom govoru i u prodaji se i dalje naziva limunski eukaliptus.
 
 Ono što ovu vrstu razlikuje od ostalih eukaliptusa jest kemijski sastav eteričnog ulja. Dok kod većine eukaliptusa dominira **1,8-cineol** (eukaliptol), kod *Corymbia citriodora* dominira **citronelal**, aldehid koji biljci daje miris limuna i koji je odgovoran za repelentno djelovanje.
 
 ## Citronelal i PMD: Kemija koja odbija komarce
 
-**Citronelal** je [monoterpenski aldehid](https://hr.wikipedia.org/wiki/Monoterpen) koji čini 60 do 85% eteričnog ulja limunskog eukaliptusa. On sam po sebi djeluje kao repelent, ali je relativno kratkotrajan jer brzo isparava s kože.
+**Citronelal** je monoterpenski aldehid koji čini 60 do 85% eteričnog ulja limunskog eukaliptusa. On sam po sebi djeluje kao repelent, ali je relativno kratkotrajan jer brzo isparava s kože.
 
 Ono što ga čini posebnim jest nusprodukt koji nastaje pri preradi eteričnog ulja. Kada se eterično ulje limunskog eukaliptusa podvrgne hidrodestilatnom procesu, nastaje **PMD** (p-mentan-3,8-diol), spoj koji je znatno stabilniji i dugotrajniji od samog citronelala. Upravo PMD je aktivna tvar u komercijalnim repelentima na bazi limunskog eukaliptusa.
 
@@ -114,7 +115,7 @@ Nema dovoljno kliničkih podataka o sigurnosti PMD-a u trudnoći i dojenju. Iz o
 
 ### Alergije
 
-Osobe alergične na biljke iz porodice [mirtovki (Myrtaceae)](https://hr.wikipedia.org/wiki/Mirtovke) trebaju biti oprezne. Uvijek napravite patch test (test na malom dijelu kože) 24 sata prije šire primjene.
+Osobe alergične na biljke iz porodice mirtovki (Myrtaceae) trebaju biti oprezne. Uvijek napravite patch test (test na malom dijelu kože) 24 sata prije šire primjene.
 
 ### Kućni ljubimci
 

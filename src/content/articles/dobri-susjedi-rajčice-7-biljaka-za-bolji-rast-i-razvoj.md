@@ -18,7 +18,7 @@ related_articles:
 ---
 
 
-Bez obzira jeste li iskusni vrtlar ili početnik, odabir pravih biljaka kao **susjeda rajčicama** može značajno utjecati na njihov rast, zdravlje i konačni urod.
+Bez obzira jeste li iskusni vrtlar ili početnik, odabir pravih biljaka kao **susjeda rajčicama** može značajno utjecati na njihov rast, zdravlje i konačni urod. Cjelovit pregled uzgoja i njege rajčice donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/).
 
 
 

@@ -15,6 +15,8 @@ metaTitle: "Ginko (ginkgo biloba): sve što trebate znati o uzgoju i ljekovitost
 noindex: false
 related_articles:
   - koliko-brzo-raste-ginko-drvo-i-što-utječe-na-njegov-razvoj
+  - menta-sve-važne-informacije-o-njoj
+  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
 ---
 Potječe iz Kine, gdje se najviše koristio tisućama godina u tradicionalnoj medicini.
 
@@ -38,7 +40,7 @@ Postoji nekoliko sorti: Autumnal Gold (poznata po zlatnoj boji u jesen), Pendula
 
 ## Kemijski sastojci i bioaktivni spojevi
 
-Ginko sadrži jedinstvene spojeve koji se ne nalaze u drugim biljkama – [ginkgolide](https://sh.wikipedia.org/wiki/Ginkgolid) i [bilobalide](https://en.wikipedia.org/wiki/Bilobalide).
+Ginko sadrži jedinstvene spojeve koji se ne nalaze u drugim biljkama – ginkgolide i bilobalide.
 
 Bogat je i flavonoidima, antioksidansima koji štite stanice od oštećenja. Ovi spojevi čine ginko vrijednim za cjelokupni organizam.
 

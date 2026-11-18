@@ -105,6 +105,8 @@ Osim što liječi iznutra, kadulja se pokazala i kao moćan saveznik u borbi pro
 
 Rezultati kliničkog ispitivanja na ljudima bili su nedvojbeni: nakon 12 tjedana korištenja kreme koja sadrži ovaj ekstrakt kadulje, dubina bora se značajno smanjila, a koža je postala otpornija i punija, potvrđujući kadulju kao vrhunski *anti-age* sastojak.
 
+Pročitajte i: [ružmarin od sadnje do čaja i ulja](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica: ljekovita svojstva](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
+
 ## **Treba li se kadulja koristiti s oprezom?**
 
 

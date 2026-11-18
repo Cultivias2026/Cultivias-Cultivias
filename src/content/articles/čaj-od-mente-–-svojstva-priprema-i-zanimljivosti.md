@@ -49,6 +49,8 @@ Potrebni sastojci:
 
 Čaj se može konzumirati topao ili ohlađen, kaoosvježavajući napitak tijekom dana.
 
+Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/).
+
 ## Sadrži li čaj od mente kofein?
 
 Ovaj napitak je prirodno bez kofeina, što ga čini pogodnim za konzumaciju u bilo koje doba dana.
@@ -59,7 +61,7 @@ Može biti dobra alternativa čajevima i kavama koji sadrže kofein.
 
 Iako je čaj od mente široko korišten, preporučuje se umjerena konzumacija, posebno kod osjetljivih osoba.
 
-Osobe osjetljive na mentu ili biljke iz porodice [Lamiaceae](https://bs.wikipedia.org/wiki/Lamiaceae) trebaju ga konzumirati s oprezom.
+Osobe osjetljive na mentu ili biljke iz porodice Lamiaceae trebaju ga konzumirati s oprezom.
 Osobe koje uzimaju lijekove za probavu ili krvni tlak trebale bi se konzultirati s liječnikom prije redovite konzumacije.
 U rijetkim slučajevima, prekomjerna konzumacija može uzrokovati probavne smetnje poput žgaravice ili nadutosti.
 

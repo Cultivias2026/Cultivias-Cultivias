@@ -17,6 +17,7 @@ tags: []
 related_articles:
   - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
   - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave
+  - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 metaTitle: "Bazgine bobice: kalorije u plodu, soku i sirupu"
 metaDescription: "Bazgine bobice u USDA bazi imaju 73 kcal na 100 g sirovog ploda. Saznajte kako računati sok i razrijeđeni sirup te zašto bobice ne treba jesti sirove."
 noindex: false

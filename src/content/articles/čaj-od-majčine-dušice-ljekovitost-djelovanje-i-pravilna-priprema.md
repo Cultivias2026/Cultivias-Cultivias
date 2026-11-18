@@ -27,9 +27,9 @@ U ovom detaljnom vodiču prolazimo kroz sve aspekte ovog ljekovitog napitka, od 
 
 ## Što je majčina dušica i zašto je ljekovita?
 
-**Majčina dušica** (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice [usnača (Lamiaceae)](https://hr.wikipedia.org/wiki/Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom, aromatičnom mirisu koji potječe od njezinog **eteričnog ulja**.
+**Majčina dušica** (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice usnača (Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom, aromatičnom mirisu koji potječe od njezinog **eteričnog ulja**.
 
-Njezina ljekovitost krije se upravo u tom eteričnom ulju, koje čini manje od 1% ukupne mase biljke, ali sadrži visoke koncentracije **timola** i **karvakrola**. Ovi [fenolni monoterpeni](https://hr.wikipedia.org/wiki/Monoterpen) nositelji su snažnog antimikrobnog djelovanja. Prema [studiji objavljenoj u časopisu Frontiers in Nutrition (2024.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), majčina dušica također je bogata [fenolnim kiselinama](https://hr.wikipedia.org/wiki/Fenolna_kiselina) (poput **ružmarinske kiseline**) i [flavonoidima](https://hr.wikipedia.org/wiki/Flavonoidi) (**luteolin, apigenin**) koji tijelu pružaju snažnu antioksidativnu zaštitu.
+Njezina ljekovitost krije se upravo u tom eteričnom ulju, koje čini manje od 1% ukupne mase biljke, ali sadrži visoke koncentracije **timola** i **karvakrola**. Ovi fenolni monoterpeni nositelji su snažnog antimikrobnog djelovanja. Prema [studiji objavljenoj u časopisu Frontiers in Nutrition (2024.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), majčina dušica također je bogata fenolnim kiselinama (poput **ružmarinske kiseline**) i flavonoidima (**luteolin, apigenin**) koji tijelu pružaju snažnu antioksidativnu zaštitu.
 
 Zanimljivo je da **Europska agencija za lijekove (EMA)** [službeno priznaje preparate na bazi timijana](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba) za ublažavanje produktivnog kašlja povezanog s prehladom, što dodatno potvrđuje terapijsku vrijednost ove biljke.
 
@@ -39,15 +39,15 @@ Zanimljivo je da **Europska agencija za lijekove (EMA)** [službeno priznaje pre
 
 ### Potpora kod kašlja i bronhitisa
 
-Majčina dušica djeluje kao [ekspektorans](https://hr.wikipedia.org/wiki/Ekspektorans) i [spazmolitik](https://hr.wikipedia.org/wiki/Spazmolitik). To znači da pomaže u **razrjeđivanju nakupljene sluzi** u plućima i istovremeno opušta grčeve bronhijalnih mišića. Zbog toga je iznimno korisna kod **produktivnog kašlja, akutnog bronhitisa** i općih simptoma prehlade.
+Majčina dušica djeluje kao ekspektorans i spazmolitik. To znači da pomaže u **razrjeđivanju nakupljene sluzi** u plućima i istovremeno opušta grčeve bronhijalnih mišića. Zbog toga je iznimno korisna kod **produktivnog kašlja, akutnog bronhitisa** i općih simptoma prehlade.
 
 ### Antimikrobno i antifungalno djelovanje
 
-Zahvaljujući [timolu](https://hr.wikipedia.org/wiki/Timol) i [karvakrolu](https://hr.wikipedia.org/wiki/Karvakrol), čaj od majčine dušice pokazuje sposobnost inhibicije rasta različitih patogena. [Znanstvena analiza iz 2022. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147557/) potvrdila je da ovi spojevi učinkovito djeluju protiv bakterija poput ***Staphylococcus aureus*** i ***Escherichia coli***, te gljivica iz roda ***Candida***. Također, majčina dušica može narušiti mikrobne [biofilmove](https://hr.wikipedia.org/wiki/Biofilm), strukture u kojima se bakterije štite od antibiotika.
+Zahvaljujući timolu i karvakrolu, čaj od majčine dušice pokazuje sposobnost inhibicije rasta različitih patogena. [Znanstvena analiza iz 2022. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147557/) potvrdila je da ovi spojevi učinkovito djeluju protiv bakterija poput ***Staphylococcus aureus*** i ***Escherichia coli***, te gljivica iz roda ***Candida***. Također, majčina dušica može narušiti mikrobne biofilmove, strukture u kojima se bakterije štite od antibiotika.
 
 ### Čaj od majčine dušice za želudac i probavu
 
-Ovaj napitak tradicionalno se koristi za ublažavanje probavnih tegoba. Njegovo [karminativno](https://hr.wikipedia.org/wiki/Karminativ) djelovanje pomaže u smanjenju **nadutosti i plinova**, dok spazmolitička svojstva ublažavaju **grčeve u želucu i crijevima**. Neka pretklinička istraživanja sugeriraju da bi ekstrakti majčine dušice mogli biti korisni i kao potpora kod [upalnih bolesti crijeva (IBD)](https://hr.wikipedia.org/wiki/Upalna_bolest_crijeva) i [sindroma iritabilnog crijeva (IBS)](https://hr.wikipedia.org/wiki/Sindrom_iritabilnog_crijeva).
+Ovaj napitak tradicionalno se koristi za ublažavanje probavnih tegoba. Njegovo karminativno djelovanje pomaže u smanjenju **nadutosti i plinova**, dok spazmolitička svojstva ublažavaju **grčeve u želucu i crijevima**. Neka pretklinička istraživanja sugeriraju da bi ekstrakti majčine dušice mogli biti korisni i kao potpora kod upalnih bolesti crijeva (IBD) i sindroma iritabilnog crijeva (IBS).
 
 ### Majčina dušica za prostatu
 
@@ -55,7 +55,7 @@ Iako se čaj od majčine dušice ne smatra primarnim lijekom za prostatu (poput 
 
 ### Majčina dušica i akne
 
-Protuupalna i antibakterijska svojstva čine majčinu dušicu zanimljivom u **dermatologiji**. Iako se za akne češće koriste lokalni pripravci (poput tinktura ili razrijeđenog eteričnog ulja), pijenje čaja može pomoći u smanjenju sistemske upale u tijelu. [Istraživanje objavljeno u časopisu International Journal of Antimicrobial Agents (2022.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503056/) potvrdilo je da nanoemulzija eteričnog ulja majčine dušice značajno smanjuje upalni odgovor u modelima akni i smanjuje bakterijsko opterećenje. Ranija istraživanja su već bila pokazala da timijan spada među biljke s najjačim antibakterijskim djelovanjem prema bakteriji *[Propionibacterium acnes](https://hr.wikipedia.org/wiki/Cutibacterium_acnes)*, koja je odgovorna za nastanak akni.
+Protuupalna i antibakterijska svojstva čine majčinu dušicu zanimljivom u **dermatologiji**. Iako se za akne češće koriste lokalni pripravci (poput tinktura ili razrijeđenog eteričnog ulja), pijenje čaja može pomoći u smanjenju sistemske upale u tijelu. [Istraživanje objavljeno u časopisu International Journal of Antimicrobial Agents (2022.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503056/) potvrdilo je da nanoemulzija eteričnog ulja majčine dušice značajno smanjuje upalni odgovor u modelima akni i smanjuje bakterijsko opterećenje. Ranija istraživanja su već bila pokazala da timijan spada među biljke s najjačim antibakterijskim djelovanjem prema bakteriji *Propionibacterium acnes*, koja je odgovorna za nastanak akni.
 
 ## Kako pravilno pripremiti čaj od majčine dušice?
 
@@ -99,11 +99,13 @@ Kod osjetljivih osoba, pretjerana konzumacija može izazvati blage probavne smet
 
 ### Oprez: Ciroza jetre i majčina dušica
 
-Osobe s ozbiljnim oštećenjima jetre, poput [ciroze](https://hr.wikipedia.org/wiki/Ciroza_jetre), trebaju biti iznimno oprezne. Iako [neka istraživanja na životinjama](https://pmc.ncbi.nlm.nih.gov/articles/PMC3932235/) pokazuju da ekstrakti majčine dušice mogu imati [hepatoprotektivno](https://hr.wikipedia.org/wiki/Hepatoprotektiv) (zaštitno) djelovanje na jetru, visoke koncentracije eteričnih ulja (posebno **timola**) mogu dodatno opteretiti već kompromitiranu jetru koja ih mora metabolizirati. Čaj je znatno blaži od eteričnog ulja, no pacijenti s **cirozom jetre** obavezno se moraju posavjetovati sa svojim **hepatologom** prije redovite konzumacije.
+Osobe s ozbiljnim oštećenjima jetre, poput ciroze, trebaju biti iznimno oprezne. Iako [neka istraživanja na životinjama](https://pmc.ncbi.nlm.nih.gov/articles/PMC3932235/) pokazuju da ekstrakti majčine dušice mogu imati hepatoprotektivno (zaštitno) djelovanje na jetru, visoke koncentracije eteričnih ulja (posebno **timola**) mogu dodatno opteretiti već kompromitiranu jetru koja ih mora metabolizirati. Čaj je znatno blaži od eteričnog ulja, no pacijenti s **cirozom jetre** obavezno se moraju posavjetovati sa svojim **hepatologom** prije redovite konzumacije.
 
 ### Interakcije s lijekovima
 
-Majčina dušica može usporiti [zgrušavanje krvi](https://hr.wikipedia.org/wiki/Koagulacija). Stoga se ne preporučuje uzimanje velikih količina čaja u kombinaciji s [antikoagulansima](https://hr.wikipedia.org/wiki/Antikoagulans) (lijekovima za razrjeđivanje krvi) zbog povećanog rizika od krvarenja. Preporučuje se **prestanak konzumacije najmanje dva tjedna** prije planiranih kirurških zahvata.
+Majčina dušica može usporiti zgrušavanje krvi. Stoga se ne preporučuje uzimanje velikih količina čaja u kombinaciji s antikoagulansima (lijekovima za razrjeđivanje krvi) zbog povećanog rizika od krvarenja. Preporučuje se **prestanak konzumacije najmanje dva tjedna** prije planiranih kirurških zahvata.
+
+Pročitajte i: [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) i [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
 ## Rinfuza ili filter vrećice: što je bolje?
 

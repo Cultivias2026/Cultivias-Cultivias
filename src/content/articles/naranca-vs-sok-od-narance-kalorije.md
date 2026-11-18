@@ -16,6 +16,7 @@ tags: []
 related_articles:
   - naranča-vitaminska-bomba-u-jednoj-čaši
   - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda
+  - crni-ribiz-sve-što-trebate-znati-o-njemu
 metaTitle: "Naranča i sok od naranče: kalorije u plodu i čaši soka"
 metaDescription: "Naranča ima 47 kcal na 100 g jestivog dijela. Usporedite kalorije jednog ploda i čaše konkretnog soka te razlike između soka, nektara i marmelade."
 noindex: false

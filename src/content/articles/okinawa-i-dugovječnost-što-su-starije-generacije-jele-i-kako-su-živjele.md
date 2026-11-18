@@ -17,6 +17,7 @@ tags: []
 related_articles:
   - 5-mjesta-5-načina-život-kako-su-plave-zone-postale-globalni-fenomen
   - sardinija-i-dugovječnost-što-stvarno-stoji-iza-priče-o-plavoj-zoni
+  - nicoya-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele
 noindex: false
 ---
 U japanskim evidencijama broj stogodišnjaka u prefekturi Okinawa rastao je od 29 u 1975. do 1.271 u 2021. godini. Brojka zvuči kao početak savršenog recepta za dug život, ali iza nje stoji složenija i zanimljivija priča.

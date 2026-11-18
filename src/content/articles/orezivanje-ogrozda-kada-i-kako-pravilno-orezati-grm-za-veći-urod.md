@@ -33,7 +33,7 @@ Pravilno i pravovremeno orezivanje:
 
 * Povećava urod – Pravilna rezidba potiče stvaranje novih, produktivnih grana
 * Poboljšava kvalitetu ploda –Bolja cirkulacija zraka i sunčeve svjetlosti rezultira većim slađim plodovima
-* Sprječava bolesti – Uklanjanjem grana koje rastu prema sredini grma smanjujete rizik od [pepelnice](https://en.wikipedia.org/wiki/Powdery_mildew) i drugih bolesti
+* Sprječava bolesti – Uklanjanjem grana koje rastu prema sredini grma smanjujete rizik od pepelnice i drugih bolesti
 * Produljuje životni vijek –Redovita rezidba održava biljku zdravom i vitalno
 * Olakšava berbu – Pravilno oblikovan grm lakši je za branje plodova
 
@@ -81,7 +81,7 @@ Prednosti:
 
 ### Ogrozd kao stablo (kalemljeno na podlogu)
 
-Ogrozd se može [kalemiti](https://hr.wikipedia.org/wiki/Kalemljenje) na visokoj podlozi kako bi se dobilo stablo s jasno vidljivim deblom. Obično se sadi na razmak od 1,2 m.
+Ogrozd se može kalemiti na visokoj podlozi kako bi se dobilo stablo s jasno vidljivim deblom. Obično se sadi na razmak od 1,2 m.
 
 **Prednosti:**
 
@@ -172,14 +172,14 @@ Nakon što ste uklonili stare grane i skratili nove, trebali biste imati grm s o
 Ogroz u obliku stabla ne može se formirati iz grma, već se mora takvo kupiti ili se mora kalemiti. Takvo stablo ogrozda se sastoji od:
 
 * Debla– Golo deblo visine 1-1,2 metra (3,5-4 metra) koje jepotpuno bez grana
-* Graft točke – Mjesta gdje je sorta [ogrozda](https://en.wikipedia.org/wiki/Gooseberry) kalemljena na podlogu
+* Graft točke – Mjesta gdje je sorta ogrozda kalemljena na podlogu
 * Krošnje– „Bushy“ dio na vrhu sa granama koje nose plodove
 
 ### Korak po korak vodič za rezanje ogrozda u stablu
 
 **Korak 1: Uklanjanje izbojaka**
 
-Ovo je najvažniji korak pri rezanju stabla. Budući da je stablo [kalemljeno](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training), bilo koji izbojci (novi izbojci) koji rastu iz debla ili ispod točke kalemljenja nisu pravi [ogrozd](https://en.wikipedia.org/wiki/Gooseberry) –oni su iz podloge i trebali bi biti uklonjeni.
+Ovo je najvažniji korak pri rezanju stabla. Budući da je stablo [kalemljeno](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training), bilo koji izbojci (novi izbojci) koji rastu iz debla ili ispod točke kalemljenja nisu pravi ogrozd –oni su iz podloge i trebali bi biti uklonjeni.
 
 Kako prepoznati izbojke:
 

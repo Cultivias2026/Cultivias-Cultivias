@@ -190,3 +190,5 @@ Kombinirana sadnja može značajno poboljšati zdravlje i prinos vaših rajčica
 
 
 Slijedeći ove detaljne upute, bez obzira na metodu koju odaberete, na dobrom ste putu da ovog ljeta uživate u sočnim i ukusnim plodovima iz vlastitog uzgoja.
+
+Pročitajte i: [najukusnije sorte paradajza](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/).

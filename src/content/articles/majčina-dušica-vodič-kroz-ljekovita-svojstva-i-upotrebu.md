@@ -19,7 +19,7 @@ related_articles:
   - kadulja--ljekovita-biljka-s-dugom-tradicijom
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
-[Majčina dušica (Thymus serpyllum) o](https://hr.wikipedia.org/wiki/Maj%C4%8Dina_du%C5%A1ica)d davnina je cijenjena zbog svoje sposobnosti da ublaži respiratorne tegobe i smiri probavne smetnje, moderna znanost danas potvrđuje njezinu vrijednost, otkrivajući snažna antimikrobna i antioksidativna djelovanja.
+Majčina dušica (Thymus serpyllum) od davnina je cijenjena zbog svoje sposobnosti da ublaži respiratorne tegobe i smiri probavne smetnje, moderna znanost danas potvrđuje njezinu vrijednost, otkrivajući snažna antimikrobna i antioksidativna djelovanja.
 
 Ovaj članak vodit će vas kroz sve što trebate znati o majčinoj dušici: od prepoznavanja u prirodi, preko detaljnog kemijskog sastava, pa sve do praktičnih savjeta za pripremu čaja, uzgoj u vlastitom vrtu i sigurnu upotrebu.
 
@@ -172,6 +172,8 @@ Veliki potencijal leži i u istraživanju sinergijskog djelovanja njezinih spoje
 Za sve koji žele imati svježu majčinu dušicu nadohvat ruke, evo nekoliko praktičnih savjeta.
 
 Prilikom sadnje, osigurajte joj najsunčanije mjesto u vrtu. Ako je tlo u vašem vrtu teško i glinasto, obavezno dodajte pijesak ili sitni šljunak kako biste poboljšali drenažu. Zalijevajte umjereno, tek kada se zemlja potpuno osuši. Redovito uklanjajte korov koji bi mogao konkurirati za hranjive tvari. Nakon cvatnje, ne bojte se orezati biljku za otprilike trećinu – to će je potaknuti na gušći rast i spriječiti da postane rijetka i neugledna. U hladnijim kontinentalnim područjima, tijekom zime je možete lagano zaštititi slojem malča ili suhog lišća.
+
+Pročitajte i: [vodič o kadulji](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) i [ružmarin od sadnje do čaja i ulja](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/).
 
 ## Majčina dušica u kozmetici: prirodna njega kože i kose
 

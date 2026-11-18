@@ -83,7 +83,7 @@ Povećani prinos u kraćem vremenskom periodu
 
 ## Popularne determinantne sorte
 
-[Roma](https://en.wikipedia.org/wiki/Roma_tomato): Ovo je jedna od najpoznatijih determinantnih sorti, poznata po svojim mesnatim plodovima idealnim za kuhanje i pripremu umaka. Ima kompaktnu strukturu i daje visok prinos. Idealna je za konzerviranje i pripremu umaka.
+Roma: Ovo je jedna od najpoznatijih determinantnih sorti, poznata po svojim mesnatim plodovima idealnim za kuhanje i pripremu umaka. Ima kompaktnu strukturu i daje visok prinos. Idealna je za konzerviranje i pripremu umaka.
 
  
 
@@ -191,19 +191,19 @@ Fleksibilnost
 
 ## Popularne indeterminantne sorte
 
-[Brandywine](https://en.wikipedia.org/wiki/Brandywine_(tomato)): Poznata po svom bogatom, složenom i gotovo voćnom okusu, ova sorta daje velike, mesne plodove. Idealna je za svježe konzumiranje i salate.
+Brandywine: Poznata po svom bogatom, složenom i gotovo voćnom okusu, ova sorta daje velike, mesne plodove. Idealna je za svježe konzumiranje i salate.
 
  
 
-[Cherokee Purple](https://en.wikipedia.org/wiki/Cherokee_Purple_(tomato)): Tamne, ljubičaste boje s intenzivnim, blago dimljenim okusom, ova sorta je favorit mnogih vrtlara.
+Cherokee Purple: Tamne, ljubičaste boje s intenzivnim, blago dimljenim okusom, ova sorta je favorit mnogih vrtlara.
 
  
 
-[Green Zebra](https://en.wikipedia.org/wiki/Green_Zebra): Zelena rajčica s prugama, koja nudi osvježavajući, blago kiselkasti okus.
+Green Zebra: Zelena rajčica s prugama, koja nudi osvježavajući, blago kiselkasti okus.
 
  
 
-[San Marzano](https://en.wikipedia.org/wiki/San_Marzano_tomato): Duguljasta rajčica, cijenjena zbog niskog udjela sjemenki i mesnate strukture, što je čini savršenom za pripremu umaka i konzerviranje.
+San Marzano: Duguljasta rajčica, cijenjena zbog niskog udjela sjemenki i mesnate strukture, što je čini savršenom za pripremu umaka i konzerviranje.
 
  
 
@@ -259,16 +259,18 @@ Osim klasifikacije po determinantnosti i vremenu sazrijevanja, paradajz se može
 
 ### Krupne sorte paradajza
 
-Krupne sorte daju veće plodove, često od 200 grama pa i više. Primjeri uključuju [‘Volovsko srce](https://en.wikipedia.org/wiki/Beefsteak_tomato)‘, ‘[Brandywine](https://en.wikipedia.org/wiki/Brandywine_(tomato))‘ i [‘Cherokee Purple’](https://en.wikipedia.org/wiki/Cherokee_Purple_(tomato)). Ove sorte su često indeterminantne i idealne za svježe konzumiranje, salate i rezanje.
+Krupne sorte daju veće plodove, često od 200 grama pa i više. Primjeri uključuju ‘Volovsko srce‘, ‘Brandywine‘ i ‘Cherokee Purple’. Ove sorte su često indeterminantne i idealne za svježe konzumiranje, salate i rezanje.
 
  
 
 ### Sorte za kuhanje i umake
 
-Neke sorte su posebno pogodne za pripremu umaka, juha i konzerviranje. Primjeri uključuju ‘[Roma](https://en.wikipedia.org/wiki/Roma_tomato)‘, [‘San Marzano’](https://en.wikipedia.org/wiki/San_Marzano_tomato) i druge duguljaste sorte s nižim udjelom vode i više mesnate strukture.
+Neke sorte su posebno pogodne za pripremu umaka, juha i konzerviranje. Primjeri uključuju ‘Roma‘, ‘San Marzano’ i druge duguljaste sorte s nižim udjelom vode i više mesnate strukture.
 
  
 
 ### Cherry rajčica i male sorte
 
-[Cherry rajčice](https://en.wikipedia.org/wiki/Cherry_tomato) su male, slatke sorte idealne brze „snackove“ i salate. Često su indeterminantne i daju kontinuirani prinos tijekom sezone.
+Cherry rajčice su male, slatke sorte idealne brze „snackove“ i salate. Često su indeterminantne i daju kontinuirani prinos tijekom sezone.
+
+Pročitajte i: [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).

@@ -15,6 +15,8 @@ editors_pick: false
 tags: []
 related_articles:
   - 5-mjesta-5-načina-život-kako-su-plave-zone-postale-globalni-fenomen
+  - okinawa-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele
+  - nicoya-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele
 noindex: false
 ---
 Na kamenim stazama između sela, vrtova i kuća lako je povjerovati da je Sardinija pronašla tajnu dugog života. U popularnim pričama brzo se pojave [pecorino](https://www.pecorinoromano.com/en/), domaći kruh, mahunarke, planinski zrak i vino. Takav popis dobro zvuči, ali skriva važan dio priče.
@@ -35,7 +37,7 @@ Najvažnije je razlikovati tri stvari:
 * **Sardinska zona dugovječnosti** odnosi se na planinski klaster povijesno povezan s [Ogliastrom](https://www.sardegnaturismo.it/en/welcome-ogliastra), [Barbagijom](https://www.sardegnaturismo.it/en/places/centre/barbagia) i područjem [Nuora](https://www.sardegnaturismo.it/en/places/centre/nuoro).
 * **Plava zona** opisuje demografski obrazac u određenim kohortama, a nije dijeta, turistička marka ni medicinski program.
 
-Ako tek ulazite u temu, pročitajte i [uvod u serijal o pet plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/), gdje objašnjavamo zašto se Sardinija ne može uspoređivati s [Okinawom](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoyom, Ikarijom ili Lomom Lindom po jednom istom obrascu.
+Ako tek ulazite u temu, pročitajte i [uvod u serijal o pet plavih zona](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/), gdje objašnjavamo zašto se Sardinija ne može uspoređivati s [Okinawom](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), [Nicoyom](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Ikarijom ili Lomom Lindom po jednom istom obrascu.
 
 ## Gdje se točno nalazi sardinska plava zona?
 

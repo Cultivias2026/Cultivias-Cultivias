@@ -15,6 +15,7 @@ noindex: false
 related_articles:
   - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je
   - kamilica-biljka-naših-baka
+  - hladni-oblozi-od-kamilice-prirodno-rješenje-za-opuštanje
 ---
 [Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/), sa svojim nježnim bijelim cvjetovima i umirujućim mirisom, jedna je od najomiljenijih ljekovitih biljaka na svijetu.
 
@@ -107,3 +108,5 @@ Za pripremu čaja, cvjetove možete koristiti svježe ili ih osušiti za kasniju
 Osušeni cvjetovi trebaju biti krhki na dodir. Čuvajte ih u hermetički zatvorenoj staklenci na tamnom i hladnom mjestu, gdje mogu zadržati svoju aromu i ljekovita svojstva i do godinu dana.
 
 Uzgoj vlastite kamilice iznimno je isplativo iskustvo koje vam donosi ne samo ljepotu u vrt ili na balkon, već i šalicu umirujućeg, domaćeg čaja kad god to poželite. Slijedeći ove jednostavne korake, svaki početnik može uživati u obilnoj žetvi ove divne biljke. Uzgoj u tegli i na balkonu opisuje članak [uzgoj kamilice na balkonu u tegli](https://www.cultivias.com/bilje/uzgoj-kamilice-na-balkonu-u-tegli-da-mogu%C4%87e-je/).
+
+Pročitajte i: [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/).

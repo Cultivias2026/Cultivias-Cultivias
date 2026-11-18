@@ -60,7 +60,7 @@ Crni ribiz sadrži gama-linolensku kiselinu (GLA), omega-6 masnu kiselinu s jaki
 
 
 
-Crni ribiz je posebno koristan za zdravlje očiju zahvaljujući svom bogatstvu. [Istraživanja](https://www.healthline.com/health/health-benefits-black-currant) pokazuju da GLA i [linolna kiselina](https://sh.wikipedia.org/wiki/Linolna_kiselina), koje se nalaze u crnom ribizu, mogu biti obećavajuće za liječenje bolesti suhih očiju i poboljšanje općih znakova i simptoma tog stanja.
+Crni ribiz je posebno koristan za zdravlje očiju zahvaljujući svom bogatstvu. [Istraživanja](https://www.healthline.com/health/health-benefits-black-currant) pokazuju da GLA i linolna kiselina, koje se nalaze u crnom ribizu, mogu biti obećavajuće za liječenje bolesti suhih očiju i poboljšanje općih znakova i simptoma tog stanja.
 
 Osobe koje cijeli dan rade na računalu mogu posebno koristiti od dodataka crnog ribiza.
 
@@ -81,6 +81,8 @@ Istraživanja pokazuju da bi crni ribiz mogao pomoći u smanjenju rizika od kard
 [Moderna istraživanja i testiranja](https://pubmed.ncbi.nlm.nih.gov/22673662/) demonstrirala su potentna antioksidativna svojstva crnog ribiza na brojnim stanjima bolesti.
 
  Antocijani, flavonoli i fenolne kiseline u crnom ribizu djeluju sinergistički kako bi zaštitili stanice od oštećenja uzrokovanih slobodnim radikalima, što je povezano sa starenjem i kroničnim bolestima.
+
+Pročitajte i: [crni ribiz i željezo](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/) i [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/).
 
 ## Kako konzumirati crni ribiz?
 

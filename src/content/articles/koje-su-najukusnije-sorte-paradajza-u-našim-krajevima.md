@@ -188,3 +188,5 @@ Kombinacija Volovskog srca za svježe konzumiranje, San Marzana za umake i Cherr
 U našim klimatskim uvjetima, sve navedene sorte mogu uspjeti ako im osigurate dovoljno sunca, redovito zalijevanje i dobro drenirano tlo.
 
 Svaka sorta ima svoje jedinstvene karakteristike i prednosti, a odabir ovisi o vašim preferencijama i dostupnom prostoru.
+
+Pročitajte i: [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/) i [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).

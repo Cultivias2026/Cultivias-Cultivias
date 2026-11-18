@@ -243,3 +243,5 @@ Elegantan desert savršen za posebne prilike.
 
 
 Crni ribiz sadrži prirodne kiseline koje pomažu u konzervaciji: produljuje vijek trajanja proizvoda, sprječava rast bakterija, održava svježinu okusa.
+
+Pročitajte i: [kalorije crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
