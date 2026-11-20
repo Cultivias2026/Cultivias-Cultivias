@@ -5,7 +5,7 @@ author: redakcija
 image: /images/articles/bobice-crnog-ribiza-kalorije.webp
 perex: >-
   Svježi crni ribiz ima 63 kcal na 100 g očišćenih bobica. Sok, džem i sušeni plodovi ne računaju se jednako: njihov sastav i količina vode razlikuju se od svježeg voća, a šećer i drugi dodaci mogu povećati kalorije porcije.
-readTime: 5
+readTime: 6
 publishedAt: 2026-09-12
 updatedAt: 2026-11-20
 expert_reviewed: false
@@ -46,13 +46,13 @@ Za cijele bobice zamrznute kod kuće, bez šećera i drugih dodataka, možete ra
 
 ## Koliko kalorija ima sok od crnog ribiza?
 
-Stopostotni sok razlikuje se od sirupa ili napitka s dodanom vodom i šećerom: kalorije opisuje sastav gotovog napitka, ne jednaka masa bobica. [Sok iz tablice](https://oleofarm.com/produkt/blackcurrant-juice-100/) ima 37 kcal na 100 ml, pa čaša od **2 dl, odnosno 200 ml, daje 74 kcal**. Za drugo pakiranje pročitajte deklaraciju, jer udio voća i dodaci mogu biti drukčiji.
+Stopostotni sok razlikuje se od sirupa ili napitka s dodanom vodom i šećerom: kalorije opisuje sastav gotovog napitka, ne jednaka masa bobica. [Sok iz tablice](https://oleofarm.com/produkt/blackcurrant-juice-100/) ima 37 kcal na 100 ml, pa čaša od **2 dl, odnosno 200 ml, daje 74 kcal**. Za drugo pakiranje pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima), jer udio voća i dodaci mogu biti drukčiji.
 
-Za domaći procijeđeni sok nije dovoljno zbrojiti kalorije početnog voća. Dio sastojaka ostaje u pulpi i sjemenkama koje odbacujete, pa račun za cijele bobice ne opisuje dobiveni napitak.
+Za domaći procijeđeni sok nije dovoljno zbrojiti kalorije početnog voća. Dio sastojaka ostaje u pulpi (kašastom ostatku ploda) i sjemenkama koje odbacujete, pa račun za cijele bobice ne opisuje dobiveni napitak. Za okvirnu procjenu izmjerite koliko ste mililitara soka dobili i pomnožite s podatkom za sličan kupovni sok: 200 ml × 0,37 kcal = oko 74 kcal. Šećer dodan u sok pribrojite posebno (oko 4 kcal po gramu).
 
 ### Je li sok bez dodanog šećera bez kalorija?
 
-Ne, sok iz primjera nema dodanog šećera, ali sadrži šećere iz samog voća. Nektar ili voćni napitak može sadržavati i vodu te dodatni šećer, zato manji udio voća ne znači automatski manje kalorija.
+Ne, sok iz primjera nema dodanog šećera, ali sadrži šećere iz samog voća. Nektar (napitak od voćnog soka ili pirea razrijeđenog vodom) ili voćni napitak može imati i dodatni šećer, zato manji udio voća ne znači automatski manje kalorija.
 
 ### Što se događa kada sok razrijedite vodom?
 
@@ -70,15 +70,19 @@ Za domaći džem zbrojite energiju sastojaka i podijelite je s masom gotovog nam
 
 Gubitak vode pri kuhanju povećava kalorije na 100 g, ali ne dodaje energiju cijeloj smjesi. Ovaj račun vrijedi kada jestivi sastojci ostaju u džemu, ne kada dio njih procijedite i odbacite.
 
+Primjer računa za zamišljeni recept: 500 g ribiza (315 kcal) i 400 g šećera (1600 kcal) daju ukupno 1915 kcal. Ako nakon kuhanja izvažete 800 g džema, to je oko 239 kcal na 100 g, a 20 g namaza ima oko 48 kcal.
+
 ## A sušeni ribiz i prah?
 
-Sušenjem se uklanja voda, pa se kalorije koncentriraju u manjoj masi bobica. Prah ne mora biti napravljen od cijelog ploda, a može sadržavati i druge sastojke. Za količinu koju dodajete žličicom zato koristite njezinu masu i podatak za taj proizvod, ne 63 kcal za 100 g svježeg ribiza.
+Sušenjem se uklanja voda, pa se kalorije koncentriraju u manjoj masi bobica (isti sastojci bez vode, pa je u svakom gramu više kalorija). Prah ne mora biti napravljen od cijelog ploda, a može sadržavati i druge sastojke. Za količinu koju dodajete žličicom zato koristite njezinu masu i podatak za taj proizvod, ne 63 kcal za 100 g svježeg ribiza. Primjer računa: ako 100 g svježih bobica (63 kcal) osušite na 25 g, tih je 63 kcal sada u 25 g, odnosno oko 252 kcal na 100 g.
 
 ## Koliko kalorija imaju kompot i umak?
 
-Kod kompota i umaka kalorije ovise o omjeru ribiza, vode i dodataka. Kompot poslužen s tekućinom nije ista porcija kao ocijeđene bobice, a umak ukuhan do guste konzistencije sadrži manje vode po gramu.
+Kod kompota (voće kuhano ili čuvano u tekućini) i umaka kalorije ovise o omjeru ribiza, vode i dodataka. Kompot poslužen s tekućinom nije ista porcija kao ocijeđene bobice (izvađene iz tekućine), a umak ukuhan do guste konzistencije sadrži manje vode po gramu.
 
-Iako se [crni ribiz koristi u različitim prerađevinama](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/), sama riječ „voćni” ne govori koliko jelo ima kalorija. Za domaću pripremu računa se cijeli recept i masa gotovog jela, a ne samo početna količina bobica.
+Iako se [crni ribiz koristi u različitim prerađevinama](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (proizvodima od prerađenog voća, npr. džemu ili soku), sama riječ „voćni” ne govori koliko jelo ima kalorija. Za domaću pripremu računa se cijeli recept i masa gotovog jela, a ne samo početna količina bobica.
+
+Primjer računa za zamišljeni kompot: 300 g ribiza (189 kcal), 100 g šećera (400 kcal) i 500 ml vode (0 kcal) daju ukupno 589 kcal u oko 900 g kompota, odnosno oko 65 kcal na 100 g. Porcija od 200 g ima oko 131 kcal.
 
 Pedeset grama svježih bobica daje oko 32 kcal, čaša od 2 dl prikazanog soka 74 kcal, a 20 g džema oko 47 kcal. Za svoj obrok usporedite baš te količine, a ne jednaku zdjelicu voća i čašu napitka.
 
