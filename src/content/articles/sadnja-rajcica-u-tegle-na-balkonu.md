@@ -4,7 +4,7 @@ category: povrce
 author: redakcija
 image: /images/articles/sadnja-rajcica-u-tegle-na-balkonu.webp
 perex: >-
-  Sadnja rajčica u tegle uspijeva ako svakoj biljci osigurate veliku posudu s rupama, najmanje šest sati izravnog sunca, rahli supstrat i redovitu vlagu. Na balkonu najlakše rastu patuljaste i determinantne rajčice, dok indeterminantne sorte traže veću teglu, čvrst oslonac i više vezivanja.
+  Rajčica u tegli uspijeva ako ima veliku posudu s rupama na dnu, najmanje šest sati izravnog sunca, rahlu zemlju za povrće i redovitu vlagu. Na balkonu je najlakše uzgajati niske rajčice. Visoke traže veću teglu, čvrst oslonac i češće vezivanje.
 readTime: 4
 publishedAt: 2026-11-20
 expert_reviewed: false
@@ -19,66 +19,61 @@ metaTitle: "Sadnja rajčica u tegle: vodič za balkon"
 metaDescription: "Saznajte kako odabrati teglu, posaditi rajčicu i njegovati je na balkonu uz dovoljno sunca, pravilno zalijevanje i dobru potporu."
 noindex: false
 ---
-## Koju teglu i supstrat odabrati?
+## Koju teglu i zemlju odabrati?
 
-Za jednu standardnu rajčicu uzmite posudu od najmanje 15 litara, a za bujniju biljku radije 20 litara ili više. [Iowa State University Extension](https://yardandgarden.extension.iastate.edu/how-to/growing-tomatoes-containers) navodi najmanje četiri galona za standardne rajčice, dok [Oregon State University Extension](https://extension.oregonstate.edu/catalog/ec-1333-grow-your-own-tomatoes-tomatillos) za determinantne biljke traži posudu duboku najmanje 12 inča. Veći volumen ostavlja više mjesta korijenu i sporije se suši.
+Za jednu običnu rajčicu uzmite posudu od najmanje 15 litara. Za bujniju biljku radije uzmite 20 litara ili više. [Iowa State University Extension](https://yardandgarden.extension.iastate.edu/how-to/growing-tomatoes-containers) navodi najmanje četiri galona za standardne rajčice. [Oregon State University Extension](https://extension.oregonstate.edu/catalog/ec-1333-grow-your-own-tomatoes-tomatillos) za niske sorte traži posudu dubine najmanje 12 inča, to jest oko 30 cm. Veća tegla ima više mjesta za korijen i sporije se suši.
 
-Tegla mora imati nekoliko otvora na dnu. Na balkon nemojte stavljati vrtnu zemlju iz gredice jer se zbija i teška je za pomicanje. Odaberite gotov supstrat za povrće koji dobro propušta vodu, ali je zadržava dovoljno dugo. Botanički, rajčica pripada vrsti [*Solanum lycopersicum* L. prema bazi Kew Science](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316947-2).
+Tegla mora imati nekoliko rupa na dnu. Ne stavljajte u nju zemlju iz vrta. Takva se zemlja u posudi zbija, a tegla postane teška za pomicanje. Kupite gotovu zemlju za povrće, to jest mješavinu za sadnju u posudama. Dobra mješavina propušta višak vode, ali je zadržava dovoljno dugo da je korijen stigne upiti.
 
-| Što provjeriti | Praktična preporuka |
-|---|---|
-| Veličina posude | 15 l za kompaktnu biljku, 20 l ili više za bujniju |
-| Dubina | najmanje oko 30 cm |
-| Drenaža | otvori na dnu, bez stajanja vode u podlošku |
-| Položaj | najmanje 6 sati izravnog sunca, za dobar urod i više |
-| Potpora | štap ili kavez postavite odmah pri sadnji |
+Rajčice su uglavnom niske ili visoke. Niske (grmolike) sorte prestanu rasti kad dosegnu određenu visinu. Stručno se zovu determinantne. Visoke sorte, stručno indeterminantne, rastu cijelu sezonu pa trebaju veću teglu i višu potporu. Razliku detaljnije objašnjava [pregled sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/).
+
+![Infografika: što rajčici treba u tegli, od 15 litara volumena i dubine oko 30 cm do rupa za odvod vode, zemlje za povrće, štapa i jedne biljke po tegli](/images/articles/infografika-tegla-za-rajcicu.webp)
 
 ## Kako posaditi rajčicu korak po korak?
 
-Presadnicu na balkon iznesite tek nakon opasnosti od mraza. Prije toga je nekoliko dana postupno privikavajte na vanjsko svjetlo, vjetar i niže noćne temperature. Ako je sadnica uzgojena u zatvorenom, nemojte je prvog dana ostaviti cijelo poslijepodne na jakom suncu.
+Presadnica je mlada biljka koju kupite u rasadniku ili sami uzgojite iz sjemena. Iznesite je na balkon tek kad prođe opasnost od mraza. Prije toga je nekoliko dana privikavajte na vanjske uvjete: neka sve dulje boravi na svjetlu, vjetru i hladnijim noćima. Ako je sadnica uzgojena u kući, nemojte je prvog dana ostaviti cijelo poslijepodne na jakom suncu.
 
-1. Na dno stavite supstrat tako da korijenova bala poslije bude malo ispod ruba posude.
-2. Izvadite sadnicu bez snažnog kidanja korijena. Donje listove možete ukloniti, pa stabljiku posaditi dublje, jer rajčica uz ukopani dio stabljike stvara dodatno korijenje.
-3. Nadopunite supstrat, lagano ga pritisnite i obilno zalijte dok voda ne poteče kroz otvore.
-4. Odmah privežite stabljiku uz štap mekanom vezicom. Indeterminantne biljke ne držite bez potpore, jer se pod težinom plodova lako polegnu.
+1. Teglu napunite zemljom tako da korijen sadnice, zajedno sa zemljom oko njega, nakon sadnje bude malo ispod ruba tegle.
+2. Pažljivo izvadite sadnicu iz lončića i nemojte jako trgati korijen. Donje listove možete otkinuti pa stabljiku posaditi dublje. Rajčica na ukopanom dijelu stabljike razvija dodatno korijenje.
+3. Dopunite zemlju, lagano je pritisnite i obilno zalijte, dok voda ne poteče kroz rupe na dnu.
+4. Odmah privežite stabljiku uz štap mekanom vrpcom. Visoke biljke ne ostavljajte bez oslonca. Pod težinom plodova lako polegnu.
 
-Nemojte saditi dvije rajčice u jednu posudu od 15 ili 20 litara. Korijenje će se natjecati za vodu i hranjiva, a lišće će se brže zgušnjavati.
+Ne sadite dvije rajčice u jednu teglu od 15 ili 20 litara. Natječu se za vodu i hranu, a lišće se prebrzo zgusne.
 
-## Kako zalijevati i prihranjivati rajčicu u tegli?
+## Kako zalijevati i gnojiti rajčicu u tegli?
 
-Supstrat održavajte ravnomjerno vlažnim, ali ne blatnim. Prstom provjerite gornji sloj, pa zalijte polako dok se dio vode ne pojavi ispod posude. Ljeti, uz jako sunce i vjetar, rajčica u tegli može trebati vodu svaki dan, ponekad i češće. [University of Minnesota Extension](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/fertilizing-and-watering-container-plants) upozorava da posude ne smiju ostati potpuno suhe, ali ni stajati u vodi.
+Zemlja neka bude stalno vlažna, ali ne blatna. Gurnite prst u zemlju. Ako je gornji sloj suh, zalijte polako, dok malo vode ne poteče ispod tegle. Ljeti, uz jako sunce i vjetar, rajčica u tegli može trebati vodu svaki dan, a ponekad i češće. [University of Minnesota Extension](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/fertilizing-and-watering-container-plants) upozorava da posude ne smiju ostati potpuno suhe, ali ni stajati u vodi.
 
-Vodu usmjerite uz supstrat, ne po listovima, osobito predvečer. Neujednačeno zalijevanje pogoduje pucanju plodova i vršnoj truleži. Podložak redovito ispraznite.
+Vodu lijevajte uz zemlju, a ne po lišću, osobito ne predvečer. Neujednačeno zalijevanje potiče pucanje plodova i [vršnu trulež](https://www.cultivias.com/povrce/zasto-rajcica-trune-odozdo-vrsna-trulez/), a to je tamna, suha mrlja na donjem kraju ploda. Podložak ispod tegle redovito ispraznite. Više o zalijevanju čitajte u članku [Zalijevanje rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/).
 
-Ako je u supstratu već gnojivo sporog djelovanja, prihranom pričekajte prema uputama na pakiranju. Inače se tekuće gnojivo za plodovito povrće obično dodaje nakon što se biljka ukorijeni, često jednom u jedan do dva tjedna, uvijek prema deklaraciji proizvoda. Previše gnojiva ne ubrzava berbu.
+Ako je u zemlji već gnojivo sporog djelovanja, koje se otapa postupno kroz više tjedana, s gnojenjem pričekajte i slijedite upute na pakiranju. Inače se tekuće gnojivo za plodovito povrće obično dodaje kad se biljka ukorijeni, često jednom u jedan do dva tjedna, ali uvijek prema uputi proizvođača. Više gnojiva ne znači raniju berbu.
 
 ## Koje su najčešće pogreške na balkonu?
 
-Najčešće se griješi s premalom posudom, sjenovitim položajem i povremenim obilnim zalijevanjem nakon potpunog isušivanja. Ako se biljka naginje, listovi su mlitavi ili voda odmah prolazi uz rub posude, provjerite korijen i strukturu supstrata.
+Najčešće se griješi s premalom teglom, sjenovitim mjestom i povremenim obilnim zalijevanjem nakon što se zemlja potpuno osuši. Ako se biljka naginje, listovi su mlitavi ili voda odmah procuri uz rub tegle, provjerite korijen i kakva je zemlja.
 
-Za više praktičnih informacija o presadnicama i dubljoj sadnji pogledajte [Vodič za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/). Za balkon ipak zadržite veći dio pažnje na volumenu posude, suncu i vodi.
+Više praktičnih savjeta o sadnicama i dubljoj sadnji pronaći ćete u [Vodiču za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/). Na balkonu najviše pažnje posvetite veličini tegle, suncu i vodi.
 
 ## Često postavljana pitanja
 
 ### Može li rajčica rasti u kanti?
 
-Može, ako je kanta čista, dovoljno velika i ima otvore za odvod vode. Za jednu standardnu biljku ciljajte najmanje 15 litara.
+Može, ako je kanta čista, dovoljno velika i ima rupe za odvod vode. Za jednu običnu biljku uzmite najmanje 15 litara.
 
 ### Koliko sunca treba balkonska rajčica?
 
-Treba najmanje šest sati izravnog sunca dnevno, a topliji, sunčan položaj obično pogoduje rastu i sazrijevanju plodova.
+Najmanje šest sati izravnog sunca na dan. Što je mjesto sunčanije i toplije, to rajčica obično bolje raste i plodovi se brže zriju.
 
 ### Treba li rajčici u tegli potpora?
 
-Da. I niske sorte često trebaju štap ili mali kavez, dok indeterminantne sorte traže čvršću konstrukciju i redovito vezivanje.
+Da. I niske sorte često trebaju štap ili mali kavez, to jest okvir od žice u kojem se biljka drži. Visoke sorte traže čvršću potporu i redovito vezivanje.
 
 ### Zašto rajčica u tegli vene iako je zalivena?
 
-Mogući su premala posuda, začepljeni otvori ili natopljen supstrat. Provjerite otječe li višak vode i je li korijenov prostor potpuno suh ili stalno mokar.
+Mogući razlozi su premala tegla, začepljene rupe na dnu ili natopljena zemlja. Provjerite otječe li višak vode i je li zemlja oko korijena potpuno suha ili stalno mokra.
 
 ## Izvori
 
 - [Iowa State University Extension and Outreach: Growing Tomatoes in Containers](https://yardandgarden.extension.iastate.edu/how-to/growing-tomatoes-containers)
 - [Oregon State University Extension Service: Grow your own tomatoes and tomatillos](https://extension.oregonstate.edu/catalog/ec-1333-grow-your-own-tomatoes-tomatillos)
 - [University of Minnesota Extension: Fertilizing and watering container plants](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/fertilizing-and-watering-container-plants)
-- [Kew Science, Plants of the World Online: Solanum lycopersicum L.](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316947-2)
