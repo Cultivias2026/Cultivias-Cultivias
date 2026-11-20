@@ -1,15 +1,13 @@
 ---
-title: "Bazgine bobice: kalorije u plodu, soku i sirupu"
+title: "Bazgine bobice i kalorije: od ploda do soka i sirupa"
 category: voce
 author: redakcija
 image: /images/articles/drvo-bazge-bobice.webp
 perex: >-
-  Bazgine bobice imaju 73 kcal na 100 g sirovog ploda, prema USDA zapisu za sirove bazgine bobice. To nije preporuka jesti ih sirove: sirove i nezrele bobice te drugi dijelovi biljke mogu izazvati trovanje, upozorava američki Nacionalni centar za komplementarno i integrativno zdravlje.
-
-  Za toplinski obrađen sok ili sirup koristite podatak koji odgovara tom proizvodu. Kalorije sirovih bobica ne otkrivaju kalorije čaše soka ni razrijeđenog sirupa.
+  Svježe bazgine bobice imaju 73 kcal na 100 g sirovog ploda, ali ta brojka opisuje sirovinu za pripremu, ne porciju za jelo. Ne jedite ih sirove: sirove i nezrele bobice mogu biti toksične, a listovi i stabljike ne smiju završiti u pripravku. Bobice treba kuhati, dok se kalorije gotovog soka, sirupa ili džema računaju prema sastavu nakon pripreme.
 readTime: 5
 publishedAt: 2026-08-25
-updatedAt: 2026-11-17
+updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,99 +16,68 @@ related_articles:
   - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
   - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
-metaTitle: "Bazgine bobice: kalorije u plodu, soku i sirupu"
-metaDescription: "Bazgine bobice u USDA bazi imaju 73 kcal na 100 g sirovog ploda. Saznajte kako računati sok i razrijeđeni sirup te zašto bobice ne treba jesti sirove."
+metaTitle: "Bazgine bobice i kalorije: plod, sok i sirup"
+metaDescription: "Bazgine bobice imaju 73 kcal na 100 g sirovine. Usporedite kalorije soka i porcija te saznajte što mijenjaju kuhanje, sušenje i priprema sirupa."
 noindex: false
 ---
-## Koliko kalorija imaju bazgine bobice prije obrade?
+## Koliko kalorija ima manja količina bobica?
 
-Očišćene bobice u referentnom USDA zapisu imaju 73 kcal na 100 g, odnosno približno 37 kcal na 50 g. Taj podatak može poslužiti za računanje sirovine koja ulazi u pripremu, ali ne opisuje gotov napitak.
+[Pedeset grama očišćenih svježih bobica](https://fdc.nal.usda.gov/food-details/171727/nutrients) ima približno **37 kcal prije obrade**. Za lakšu procjenu sastojaka jednom izvažite 100 g očišćenih bobica u svojoj zdjelici i zapamtite razinu. To su količine sirovine koju ćete kuhati, ne [porcije za sirovu konzumaciju](https://www.nccih.nih.gov/health/elderberry).
 
-| Izvagana sirovina prije toplinske obrade | Referentna energija |
-| --- | ---: |
-| 25 g bobica | oko 18 kcal |
-| 50 g bobica | oko 37 kcal |
-| 100 g bobica | 73 kcal |
-| 250 g bobica | oko 183 kcal |
-| 500 g bobica | 365 kcal |
+| Oblik | Kalorije na 100 g ili 100 ml | Količina za pripremu ili porcija napitka | Kalorije te količine |
+| --- | ---: | --- | ---: |
+| Svježe bobice, sirovina prije kuhanja | 73 kcal / 100 g | 50 g sirovine | oko 37 kcal |
+| Kućno smrznute bobice bez dodataka, sirovina prije kuhanja | približno 73 kcal / 100 g | 50 g sirovine | oko 37 kcal |
+| Toplinski obrađen 100 % sok od bobica | 30 kcal / 100 ml | Čaša od 2 dl, 200 ml | 60 kcal |
 
-Izračun je masa u gramima × 73 ÷ 100, uz zaokruživanje na najbližu cijelu kilokaloriju. **Navedene količine nisu porcije za konzumaciju sirovih bobica ni preporučeni dnevni unos.**
+Sok u tablici je Rabenhorst, pa brojka vrijedi za taj proizvod, ne za sve sokove od bazge. Količine bobica služe računanju sastojaka prije kuhanja, a čaša soka je primjer kalorijskog izračuna, ne preporuka dnevnog unosa.
 
-USDA ovaj povijesni zapis označava nazivom „Elderberries, raw”, uz znanstveni naziv *Sambucus spp.* Zato brojka nije zasebna analiza svake vrste ili sorte bazge. Za prepoznavanje biljke i razlikovanje cvijeta od ploda pogledajte [Cultiviasov pregled bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
+![Infografika: bazgine bobice se ne jedu sirove. 50 g sirovine za kuhanje ima oko 37 kcal, a čaša od 2 dl toplinski obrađenog soka 60 kcal](/images/articles/infografika-bazgine-bobice-kalorije.webp)
 
-## Smiju li se bazgine bobice jesti sirove?
+### Imaju li kuhane bobice također 73 kcal na 100 g?
 
-Sirove bazgine bobice ne treba jesti, a nezrele plodove, listove i stabljike treba izostaviti iz pripreme. NCCIH navodi da sadrže otrovne spojeve koji mogu oslobađati cijanid te izazvati mučninu, povraćanje i jak proljev.
+Ne nužno, jer kuhanjem može ispariti voda, a šećer ili drugi dodaci donose dodatnu energiju. Ako ostanu svi jestivi sastojci, kalorije cijele smjese mogu se približno izračunati iz njihovih količina, dok vrijednost na 100 g ovisi i o završnoj masi jela.
 
-[Oregon State University Extension u vodiču za sigurnu preradu bazge](https://extension.oregonstate.edu/catalog/em-9446-play-it-safe-when-preserving-elderberries) preporučuje kuhanje bobica prije konzumacije i uklanjanje listova i stabljika. Zamrzavanje i sušenje služe čuvanju, ali ne zamjenjuju potrebnu toplinsku obradu.
+## Što se mijenja zamrzavanjem bobica?
 
-Ne postoji jedna uputa o vremenu kuhanja prikladna za svaki sok, sirup ili način konzerviranja. Za pripremu i čuvanje koristite provjeren postupak koji odgovara vrsti bazge i konkretnom proizvodu, a ne samo kalorijski izračun.
+Za cijele bobice zamrznute kod kuće bez dodataka može se uzeti približno 73 kcal na 100 g, kao za svježu sirovinu. Samo zamrzavanje ne dodaje kalorije, no zaslađena smjesa nije isto što i čisti plodovi.
 
-## Imaju li kuhane bobice istih 73 kcal na 100 g?
+[Zamrzavanje i sušenje ne zamjenjuju kuhanje bobica](https://extension.oregonstate.edu/catalog/em-9446-play-it-safe-when-preserving-elderberries). Odmrznute bobice zato i dalje treba pripremiti provjerenim postupkom, uz uklanjanje listova i stabljika.
 
-Kuhane bobice ne moraju imati istu vrijednost na 100 g jer obrada može promijeniti količinu vode, a recept uključiti šećer i druge sastojke. Podatak za sirovi oblik zato ne treba prikazivati kao provjerenu vrijednost gotovih kuhanih bobica.
+## Koliko kalorija ima sok od bazginih bobica?
 
-Ako svi jestivi sastojci ostanu u pripravku, za cijelu smjesu može se napraviti približan račun iz sastojaka i završne mase. Kada cijedite i odbacujete pulpu ili sjemenke, dio energije odlazi s njima pa račun početnih bobica više ne opisuje pouzdano ono što ostaje.
+Stopostotni sok od bobica nije isto što i slatki sirup koji se razrjeđuje vodom. [Toplinski obrađen sok od bobica](https://www.rabenhorst.de/en/our-juices/elderberry/) iz tablice ima **[30 kcal na 100 ml](https://www.rabenhorst-shop.de/rabenhorst/holunder-muttersaft_9492_19366)**. Čaša od **2 dl, odnosno 200 ml, daje 60 kcal**, a 150 ml daje 45 kcal.
 
-## Po čemu se kalorijski razlikuju plod, sok i sirup?
+Sok bez dodanog šećera nije napitak bez kalorija jer sadrži energiju samog ploda. Drugi sokovi mogu imati drukčiji sastav, zato za pakiranje koje koristite pročitajte deklaraciju. Bobice se pritom mjere u gramima, a ovaj sok u mililitrima, pa te jedinice ne treba izjednačavati.
 
-Plod je cijela sirovina, sok je izdvojena tekućina, a sirup proizvod koji se obično razrjeđuje prije pijenja. Za svaki oblik treba zasebno polazište.
+### Može li se domaći sok računati iz početne mase bobica?
 
-| Oblik | Podatak koji koristiti | Što provjeriti? |
-| --- | --- | --- |
-| Bobice prije obrade | Referentno 73 kcal na 100 g prema USDA | Jestiva masa očišćene sirovine; nije za sirovu konzumaciju |
-| Toplinski obrađen sok od bobica | Deklaracija tog soka | Energija na 100 ml ili 100 g i stvarna popijena količina |
-| Nerazrijeđeni sirup od bobica | Deklaracija sirupa | Količina ulivenog sirupa, ne samo veličina čaše |
-| Razrijeđeni napitak | Energija sirupa i svih dodataka | Omjer razrjeđivanja i koliko napitka popijete |
-| Sušene bobice ili prah | Podatak konkretnog proizvoda | Preostala voda, sastojci i upute za sigurnu uporabu |
+Ne pouzdano ako se sok procijedi, jer dio sastojaka ostaje u odbačenoj pulpi i sjemenkama. Početna masa bobica i završni volumen ne otkrivaju koliko je energije ostalo u soku, pa takav račun može precijeniti kalorije napitka.
 
-**100 g nije isto što i 100 ml.** Ako je energija soka deklarirana na 100 ml, koristite volumen; ako je na 100 g, koristite masu. Šećeri u nutritivnoj tablici uključuju i prirodno prisutne šećere, ne samo one dodane tijekom proizvodnje.
+## Koliko kalorija ima sirup od bobica?
 
-## Koliko kalorija ima čaša razrijeđenog sirupa?
+Sirup je koncentriran pripravak u kojem kalorije ovise o količini šećera i vode. Za čašu napitka od 2 dl računajte količinu sirupa koju ulijete, a ne svih 200 ml kao da su čisti sirup. Brojka svježeg ploda ili stopostotnog soka zato ne opisuje taj napitak.
 
-Kalorije čaše ovise ponajprije o količini sirupa koju ulijete i njegovoj deklaraciji. Obična voda ne dodaje energiju niti uklanja kalorije ulivenog sirupa.
+### Smanjuje li dodavanje vode kalorije sirupa?
 
-Slijedi **hipotetski primjer izračuna**, ne deklaracija stvarnog proizvoda: zamislimo sirup s 250 kcal na 100 ml.
+Voda smanjuje kalorije na 100 ml napitka, ali ne uklanja energiju ulivenog sirupa. Ako istu količinu sirupa razrijedite u većoj čaši i sve popijete, unos kalorija ostaje isti; manji unos postiže se manjom količinom sirupa.
 
-| Količina tog zamišljenog sirupa | Kalorije prije dodavanja vode |
-| --- | ---: |
-| 10 ml | 25 kcal |
-| 20 ml | 50 kcal |
-| 30 ml | 75 kcal |
+### Je li cvjetni sirup isto što i sirup od bobica?
 
-Ako 20 ml tog sirupa dopunite običnom vodom do ukupno 200 ml, cijela čaša ima 50 kcal, odnosno 25 kcal na 100 ml. Dopunite li istih 20 ml do ukupno 300 ml, napitak i dalje ima 50 kcal, ali približno 16,7 kcal na 100 ml.
+Nije: poznati svijetli sirup od bazge priprema se od cvjetova, a tamni sirup od plodova. [Razlika između cvjetova i bobica bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) pomaže prepoznati o kojem je pripravku riječ, no kalorije oba sirupa ovise o recepturi.
 
-Brojke vrijede samo za ovaj primjer. Limunov sok, med ili drugi energetski dodaci računaju se zasebno, prema stvarnoj količini.
+## Kako računati sušene bobice i prah?
 
-## Je li sirup od bazginih bobica isto što i sirup od cvjetova?
+Sušene bobice i prah ne treba računati kao svježe, jer se uklanjanjem vode energija koncentrira u manjoj masi. Ako prah sadrži i druge sastojke, oni također utječu na ukupnu kalorijsku vrijednost.
 
-Nije: sirup od bobica priprema se od plodova, dok se poznati svijetli sirup od bazge priprema od cvjetova. Podatak od 73 kcal na 100 g bobica ne govori ništa pouzdano o kalorijama cvjetnog sirupa.
+Količinu praha koju zahvatite žličicom jednom izvažite, pa računajte njezinu masu prema podatku za taj proizvod. Ne preuzimajte 73 kcal iz svježeg ploda. Sušene bobice također nisu spremne za sirovu konzumaciju samo zato što su osušene.
 
-Kod oba proizvoda energiju određuju stvarni sastojci, osobito šećer, voda i količina sirupa u čaši. Cvjetni pripravak razlikuje se i od bobica u [članku o čaju od cvjetova bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/); čaj i zaslađeni sirup nisu isti napitak.
+## Što određuje kalorije džema, kompota ili umaka?
 
-## Što još treba znati pri računanju kalorija bazge?
+Kalorije ovih pripravaka određuju sastojci i koliko vode ostane nakon kuhanja. Džem sa šećerom, kompot s mnogo tekućine i gusti umak zato se ne mogu svesti na istu brojku za bazgine bobice.
 
-### Mogu li domaćem procijeđenom soku izračunati kalorije iz početne mase bobica?
+Kod domaće smjese u kojoj ništa ne odbacujete kalorije se mogu približno računati prema sastojcima i završnoj masi. Namaz ili umak koji stavljate žlicom računajte prema odvaganoj količini. Kod kompota uključite i tekućinu koju pojedete ili popijete, jer ocijeđene kuhane bobice nisu isto što i svježa sirovina.
 
-Ne pouzdano, jer dio sastojaka ostaje u odbačenoj pulpi i sjemenkama. Završni volumen soka sam ne otkriva koliko je energije prešlo iz ploda u napitak.
+Za bazgu najprije razlikujte sirovinu koja se mora kuhati od gotovog napitka. Čaša od 2 dl prikazanog toplinski obrađenog soka ima 60 kcal, dok za istu čašu razrijeđenog sirupa račun ovisi o količini ulivenog sirupa.
 
-### Ima li sok bez dodanog šećera nula kalorija?
-
-Nema nužno, jer sam plod sadrži energiju i šećere. Natpis „bez dodanih šećera” nije zamjena za energetsku vrijednost proizvoda.
-
-### Mogu li se sušene bobice računati kao svježe?
-
-Ne, jer se uklanjanjem vode mijenja masa i energija na 100 g. Sušenje također nije zamjena za sigurnu obradu; slijedite upute proizvoda ili provjeren postupak pripreme.
-
-## Koju brojku koristiti za bobice, a koju za napitak?
-
-Za sirovinu prije obrade koristite navedenu referencu od **73 kcal na 100 g**, uz sigurnosna ograničenja. Za gotov sok i sirup koristite njihov podatak i svoju stvarnu količinu: puna čaša vode s malo sirupa nije kalorijski jednaka punoj čaši nerazrijeđenog proizvoda.
-
-## Izvori
-
-- [USDA FoodData Central: sirove bazgine bobice, FDC 171727](https://fdc.nal.usda.gov/food-details/171727/nutrients)
-- [USDA dokumentacija SR Legacy: nutritivni podaci na 100 g jestivog dijela](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Legacy_Doc.pdf)
-- [NCCIH: sigurnost bazginih bobica i rizici sirovih dijelova biljke](https://www.nccih.nih.gov/health/elderberry)
-- [Oregon State University Extension: sigurna prerada i čuvanje bazginih bobica](https://extension.oregonstate.edu/catalog/em-9446-play-it-safe-when-preserving-elderberries)
-
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
+> *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*
