@@ -118,6 +118,8 @@ Poštivanje pravilnog razmaka ključno je za zdravlje biljaka i dobru cirkulacij
 * Determinantne (grmolike) sorte: Sadite ih na razmak od 40-50 cm unutar reda, s međurednim razmakom od 60-70 cm.
 * Indeterminantne (visoke) sorte: Zahtijevaju više prostora. Preporučeni razmak sadnje je 60-70 cm u redu i najmanje 80-100 cm između redova.
 
+Tablicu s razmakom za niske, visoke i cherry rajčice te za uzgoj u kavezu pogledajte u članku [Razmak sadnje rajčica](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/).
+
 ## Tehnika sadnje: zašto se preproučuje saditi dublje?
 
 Rajčice imaju sposobnost puštanja adventivnog korijenja duž cijele stabljike koja se nađe pod zemljom.
@@ -163,6 +165,8 @@ Nemate li vrt, ne morate se odreći domaćih rajčica. Uzgoj rajčice na balkonu
 * Odabir sorte: Za sadnju u tegle i kante, najbolje su determinantne, grmolike i patuljaste sorte. Sadnja cherry rajčice je posebno popularna za balkonski uzgoj.
 * Supstrat i sadnja: Koristite kvalitetan, hranjiv supstrat za povrće. Posadite jednu sadnicu po posudi, primjenjujući tehniku dublje sadnje.
 * Zalijevanje i prihrana: Tlo u posudama se brže suši, stoga je potrebno redovito zalijevanje. Prihranjujte tekućim gnojivom za plodovito povrće svaka 2 tjedna nakon što se pojave prvi plodovi.
+
+Više o odabiru tegle, supstrata i prihrani pročitajte u članku [Uzgoj rajčica u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), a o rasporedu zalijevanja u članku [Zalijevanje rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/).
 
 ## Sadnja rajčice u plasteniku
 
