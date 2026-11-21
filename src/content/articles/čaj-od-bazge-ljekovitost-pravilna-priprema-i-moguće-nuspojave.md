@@ -11,6 +11,7 @@ perex: >-
   Priprema se od 3 do 5 grama osušenih cvjetova u 250 ml kipuće vode, uz stajanje od 10 do 15 minuta. Trudnicama i djeci mlađoj od 12 godina preporučuje se oprez i savjetovanje s liječnikom. Sirovi dijelovi biljke (bobice, lišće, kora) su toksični i ne smiju se konzumirati bez termičke obrade.
 readTime: 5
 publishedAt: 2026-07-09
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -25,9 +26,9 @@ noindex: false
 ---
 ## Što je čaj od bazge?
 
-Čaj od bazge je biljni napitak koji se priprema od osušenih cvjetova **crne bazge** (*Sambucus nigra* L.), višegodišnjeg grma ili manjeg stabla iz porodice Adoxaceae. Biljka je u Europi poznata pod različitim imenima: **zova, zovika, bazgovina, aptika**, a njezina ljekovita primjena seže sve do antičke Grčke, kada je Hipokrat opisivao njezina diuretička i protuupalna svojstva. To potvrđuje i [sveobuhvatna studija o bioaktivnim komponentama cvijeta bazge](https://pmc.ncbi.nlm.nih.gov/articles/PMC11354468/) objavljena u časopisu *Foods* 2024. godine.
+Čaj od bazge je biljni napitak koji se priprema od osušenih cvjetova **crne bazge** (*Sambucus nigra* L.), višegodišnjeg grma ili manjeg stabla iz porodice Adoxaceae. U nas je poznata i kao **zova, zovika ili bazgovina**. Ne treba je brkati s abdovinom, koja se zove i aptovina (*Sambucus ebulus*), jer je ta srodnica otrovna. Ljekovita primjena bazge seže do antičke Grčke, kada je Hipokrat opisivao njezino diuretičko (djelovanje koje potiče mokrenje) i protuupalno djelovanje, kako navodi [pregledni rad o bioaktivnim tvarima cvijeta bazge](https://pmc.ncbi.nlm.nih.gov/articles/PMC11354468/) objavljen 2024. u znanstvenom časopisu *Foods*.
 
-Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike. Može se pronaći uz rubove šuma, potoke, livade i prometnice. Stablo naraste do **10 metara visine**, a bijelo-žuti cvjetovi formiraju se u karakteristične "tanjure" i procvjetaju **od svibnja do srpnja**. Baš su ti cvjetovi, ubrani u punom cvatu, osnova su za pripremu čaja koji se koristi u ljekovite svrhe.
+Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike, uz rubove šuma, potoke, livade i prometnice. Naraste do **10 metara**, a bijelo-žuti cvjetovi skupljeni su u plosnate cvatove nalik tanjurima i cvatu **od svibnja do srpnja**. Upravo se ti cvjetovi, ubrani u punom cvatu, koriste za čaj.
 
 Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi** i termički obrađene **bobice**, dok su lišće, kora, korijen i stabljika bazge **toksični dijelovi biljke** koji se ne smiju konzumirati u sirovom stanju.
 
@@ -35,9 +36,7 @@ Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi** i t
 
 
 
-Čaj od bazge najpoznatiji je kao potpora kod simptoma **prehlade, gripe i upale sinusa**. Aktivni spojevi u cvijetu mogu pomoći u smanjenju oticanja sluznice dišnih puteva i olakšavanju iškašljavanja, zbog čega je bazga jedan od rijetkih biljnih pripravaka čiju je primjenu kod prehlade odobrila **njemačka Komisija E** - stručno tijelo za ocjenu biljnih lijekova.
-
- Pregled ljekovitih svojstava cvijeta bazge koji vodi [WebMD u svojoj bazi prirodnih lijekova](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower) to potvrđuje, uz napomenu da su neke tvrdnje još uvijek predmet istraživanja.
+Čaj od bazge najpoznatiji je kao potpora kod simptoma **prehlade, gripe i upale sinusa**. Aktivni spojevi u cvijetu mogu pomoći u smanjenju oticanja sluznice dišnih puteva i olakšavanju iškašljavanja, a njemačka **Komisija E**, nekadašnje stručno tijelo za ocjenu biljnih lijekova, odobrila je njegovu primjenu kod prehlade. Europska agencija za lijekove (EMA) također priznaje [tradicionalnu upotrebu cvijeta bazge](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos) kod prvih simptoma prehlade, ali samo kod odraslih i djece starije od 12 godina. Američki zdravstveni portal WebMD u [bazi prirodnih lijekova](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower) navodi da su neke tvrdnje o bazgi još predmet istraživanja.
 
 U nastavku navodimo učinke za koje postoji studijska potpora, uz napomenu da većina istraživanja još uvijek nije provedena na dovoljno velikom uzorku ljudi:
 
@@ -45,23 +44,23 @@ U nastavku navodimo učinke za koje postoji studijska potpora, uz napomenu da ve
 
 Klorogenska i kavena kiselina prisutne u cvijetu pokazale su sposobnost inhibicije rasta nekoliko sojeva bakterija u laboratorijskim uvjetima, uključujući *Staphylococcus aureus* i *Pseudomonas aeruginosa*. 
 
-Prema istraživanju objavljenom u časopisu *Foods* (2024.), cvijet bazge pokazao je u laboratorijskim testovima veću inhibicijsku aktivnost prema bolničkim patogenima od lišća i bobica iste biljke — no važno je napomenuti da laboratorijski rezultati ne znače nužno isti učinak u ljudskom organizmu.
+Prema istraživanju objavljenom u časopisu *Foods* (2024.), cvijet bazge pokazao je u laboratorijskim testovima veću inhibicijsku aktivnost prema bolničkim patogenima od lišća i bobica iste biljke. Laboratorijski rezultati ne znače nužno isti učinak u ljudskom organizmu.
 
 * **Antioksidativna i protuupalna potpora**
 
- Flavonoidi i triterpeni u cvijetu bazge pokazuju sposobnost vezanja slobodnih radikala i smanjenja aktivnosti upalnih enzima u laboratorijskim istraživanjima. Studija iz 2024. utvrdila je da divlja forma bazge sadrži **394 mg polifenola na 100 g suhe tvari**, što je visoka vrijednost u usporedbi s drugim ljekovitim biljkama.
+ Flavonoidi i triterpeni u cvijetu bazge pokazuju sposobnost vezanja slobodnih radikala i smanjenja aktivnosti upalnih enzima u laboratorijskim istraživanjima. Prema spomenutom radu iz 2024., cvijet divlje bazge sadrži **394 mg polifenola na 100 g suhe tvari**.
 
 * **Poticanje znojenja (dijaforetski učinak)**
 
- Vrući čaj od bazge tradicionalno se koristi kao potpora kod **povišene tjelesne temperature**, poticanjem znojenja. Ovaj učinak dokumentiran je u tradicionalnoj medicini i prepoznat od strane njemačke Komisije E, što prenosi [Ordinacija.hr u svom pregledu ljekovitih svojstava bazge](https://ordinacija.vecernji.hr/zdravi-tanjur/jedi-zdravo/bazga-kao-lijek-donosimo-recepte-za-sirup-i-caj/).
+ Vrući čaj od bazge tradicionalno se koristi kao potpora kod **povišene tjelesne temperature**, poticanjem znojenja. Taj je učinak poznat u narodnoj medicini, a priznala ga je i njemačka Komisija E, kako prenosi hrvatski zdravstveni portal [Ordinacija.hr u pregledu ljekovitih svojstava bazge](https://ordinacija.vecernji.hr/zdravi-tanjur/jedi-zdravo/bazga-kao-lijek-donosimo-recepte-za-sirup-i-caj/).
 
 * **Moguća diuretička potpora**
 
-Bazga može pomoći u izlučivanju viška vode i soli iz tijela, što se u tradicionalnoj medicini koristi kao potpora kod blage **retencije tekućine**. Kliničkih istraživanja na ljudima na ovu temu je malo, pa su ovo  više narodni savjeti i preporuke. No kod bilokakvih ostalih tegoba i bolesti svakako se posavjetujete s liječnikom.
+Bazga može pomoći u izlučivanju viška vode i soli iz tijela, što se u tradicionalnoj medicini koristi kao potpora kod blage **retencije tekućine**. Kliničkih istraživanja na ljudima o tome ima malo, pa je riječ uglavnom o narodnim savjetima. Kod oticanja nogu ili drugih tegoba javite se liječniku, jer zadržavanje tekućine može biti znak bolesti srca ili bubrega.
 
 * **Moguća potpora regulaciji šećera u krvi**
 
- Istraživanja provedena na životinjskim modelima sugeriraju da ekstrakti bazge mogu utjecati na lučenje inzulina i apsorpciju glukoze. **Klinička istraživanja na ljudima još su ograničena** i ovi rezultati zahtijevaju daljnju potvrdu - bazga se ne smije koristiti kao zamjena za terapiju dijabetesa. No svako istraživanje kreće na životinjama, pa je svakako vrijedno popratiti kako će se sve ovo odvijati u budućnosti.
+ Istraživanja provedena na životinjskim modelima sugeriraju da ekstrakti bazge mogu utjecati na lučenje inzulina i apsorpciju glukoze. **Klinička istraživanja na ljudima još su ograničena** i ovi rezultati zahtijevaju daljnju potvrdu - bazga se ne smije koristiti kao zamjena za terapiju dijabetesa. Je li taj učinak važan i kod ljudi, tek treba istražiti.
 
 ![](/images/articles/drvo-bazge-u-punom-cvatu.webp)
 
@@ -73,8 +72,8 @@ Ljekovitost cvijeta bazge temelji se na bogatom i raznovrsnom kemijskom sastavu.
 | ---------------- | --------------------------------------------- | ----------------------------------------- |
 | Flavonoidi       | Rutin, kvercetin                              | Antioksidativno, protuupalno              |
 | Fenolne kiseline | Klorogenska, kavena, ferulinska kiselina      | Antibakterijsko, protuupalno              |
-| Triterpeni       | alfa-amirin, beta-amirin, ursulinska kiselina | Protuupalno, potencijalno antikancerogeno |
-| Steroli          | beta-sitosterol, kampesterol                  | Kardioprotektivno                         |
+| Triterpeni       | alfa-amirin, beta-amirin, ursulinska kiselina | Protuupalno; protutumorsko djelovanje istražuje se u laboratoriju |
+| Steroli          | beta-sitosterol, kampesterol                  | Moguća zaštita srca i krvnih žila (istražuje se) |
 | Vitamini         | Vitamin C, vitamin A                          | Antioksidativno, imunološko               |
 | Minerali         | Kalij, kalcij, željezo                        | Elektrolitska ravnoteža                   |
 | Esencijalna ulja | Oko 58 spojeva                                | Karakteristična aroma, antiseptičko       |
@@ -86,7 +85,7 @@ Ljekovitost cvijeta bazge temelji se na bogatom i raznovrsnom kemijskom sastavu.
 
 ## Kako se suši cvijet bazge za čaj?
 
-Pravilno sušenje cvjetova bazge ključno je za **očuvanje ljekovitih svojstava** i sprječavanje razvoja plijesni. Cvjetovi se beru u punom cvatu, kada je otvoreno oko 80% cvjetića na cvatu — u klimatskim uvjetima srednje Europe to odgovara razdoblju **od kraja svibnja do kraja lipnja**. Isti princip vrijedi i za sušenje kamilice, o čemu smo pisali u detaljnom vodiču [kako pravilno osušiti kamilicu za savršen čaj](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
+Pravilno sušenje **čuva ljekovita svojstva** cvjetova bazge i sprječava plijesan. Cvjetovi se beru u punom cvatu, kada je otvoreno oko 80% cvjetića na cvatu — u klimatskim uvjetima srednje Europe to odgovara razdoblju **od kraja svibnja do kraja lipnja**. Isti princip vrijedi i za sušenje kamilice, o čemu piše članak [kako pravilno osušiti kamilicu](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
 
 ### Tradicionalni domaći način sušenja i pripreme čaja u prahu- moj recept
 
@@ -117,13 +116,13 @@ Ako cvjetovi tijekom sušenja **potamne ili posmeđe**, treba ih baciti - izgubi
 4. Procijedite kroz sitno cjedilo ili filter.
 5. Po želji zasladite **medom** i dodajte nekoliko kapi svježe iscijeđenog limuna.
 
-Preporučuje se piti **2 do 3 šalice dnevno**, a kod akutnih simptoma prehlade ili gripe čaj se može konzumirati i svakih 2 sata.
+Pije se **2 do 3 šalice dnevno**. Europska agencija za lijekove za čaj navodi 2 do 5 g osušenog cvijeta tri puta dnevno, pa ga ne pijte češće, ni kod jače prehlade. Ako simptomi traju dulje od tjedan dana ili se pogoršaju, javite se liječniku. Kod prehlade se pije i [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/).
 
 ![](/images/articles/sušeni-cvjetovi-bazge-spremni-za-čaj.webp)
 
 ### Recept: Čaj od bazge i đumbira za jači imunitet
 
-Kombinacija bazge i đumbira pojačava antivirusno i protuupalno djelovanje napitka. Za pripremu su vam potrebni:
+Đumbir čaju daje ljutkast okus i također se tradicionalno pije kod prehlade, iako nije dokazano da pojačava djelovanje bazge. Za pripremu su vam potrebni:
 
 * 5 grama osušenih cvjetova bazge
 * 2 manja komadića svježe naribanog đumbira
@@ -131,59 +130,58 @@ Kombinacija bazge i đumbira pojačava antivirusno i protuupalno djelovanje napi
 * 1 žličica meda
 * Nekoliko kapi limunovog soka
 
-Cvjetove bazge prelijte kipućom vodom i ostavite 2 minute. Dodajte naribani đumbir i ostavite još 5 minuta. Procijedite, dodajte med i limun te poslužite vruće. Ovaj napitak posebno je preporučljiv **na početku prehlade ili gripe**, a recept navodi i portal Kreni Zdravo u svom [pregledu čaja od bazge i njegovih ljekovitih svojstava](https://krenizdravo.dnevnik.hr/prehrana/cajevi/caj-od-bazge).
+Cvjetove bazge prelijte kipućom vodom i ostavite 2 minute. Dodajte naribani đumbir i ostavite još 5 minuta. Procijedite, dodajte med i limun te poslužite vruće. Napitak se najčešće pije **na početku prehlade**, a sličan recept donosi i hrvatski zdravstveni portal Kreni Zdravo u [pregledu čaja od bazge i njegovih ljekovitih svojstava](https://krenizdravo.dnevnik.hr/prehrana/cajevi/caj-od-bazge).
 
 ## Čaj od bazge za djecu
 
-Čaj od cvjetova bazge smatra se sigurnim za djecu i tradicionalno se koristi za ublažavanje simptoma **dječjih prehlada, kašlja, gripe** te eruptivnih bolesti poput ospica i vodenih kozica. Pomaže pri iskašljavanju, smiruje upaljeno grlo i može blago sniziti povišenu temperaturu.
+Čaj od cvjetova bazge tradicionalno se daje djeci kod prehlade, kašlja i gripe, jer pomaže iskašljavanju, smiruje grlo i potiče znojenje. Europska agencija za lijekove (EMA) ipak navodi da su lijekovi od cvijeta bazge namijenjeni samo odraslima i djeci starijoj od 12 godina, jer za mlađu djecu nema dovoljno podataka o sigurnosti.
 
-Prema analizi integrativnog medicine specijalista dr. Naoki Umede s [Cleveland Clinica](https://health.clevelandclinic.org/elderberry-for-kids), bazga pripremljena na pravilan način može biti siguran i zdrav dio djetetove prehrane — uz ključnu napomenu da se **ne smiju koristiti lišće, grančice ili sirove bobice** jer sadrže cijanogene glikozide koji su toksični. 
+Zato vrijedi sljedeće:
 
-Slično vrijedi i za druge biljne čajeve koji se daju djeci, poput [čaja od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), koji je zahvaljujući blagom djelovanju na probavu i živčani sustav jedan od najčešće preporučivanih biljnih napitaka za djecu.
+* **djeca mlađa od 12 godina** – čaj od bazge dajte samo uz savjet pedijatra
+* **djeca starija od 12 godina** – mogu piti čaj kao odrasli, a na početku je dovoljno pola šalice
+* **samo cvjetovi i kuhane bobice** – lišće, grančice i sirove bobice sadrže cijanogene glikozide, tvari iz kojih se u tijelu oslobađa otrovni cijanid, na što upozorava i Klinika Cleveland (Cleveland Clinic) u [članku o bazgi za djecu](https://health.clevelandclinic.org/elderberry-for-kids)
+* **alergija na pelud** – ako dijete ima peludnu alergiju, posavjetujte se s pedijatrom
 
-**Doziranje za djecu** razlikuje se od doziranja za odrasle:
+Visoka temperatura kod male djece, osip ili kašalj koji ne prolazi traže pregled liječnika, a čaj nije zamjena za liječenje. Kod djece se često daje i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), uz ista ograničenja za bebe.
 
-* **Djeca do 5 godina:** 1 do 2 žlice razrijeđenog čaja
-* **Djeca od 5 do 12 godina:** četvrtina do pola šalice
-* **Djeca starija od 12 godina:** pola šalice do jedna puna šalica
-
-Uvijek počnite s manjom dozom i pratite reakciju djeteta. Ako dijete ima poznate **alergije na pelud** ili trave, posavjetujte se s pedijatrom prije davanja čaja od bazge.
+![Infografika: što je kod bazge sigurno, a što nije; brati zrele bobice i kuhati ih, a ne jesti sirove i nezrele bobice, listove, koru ni peteljke, te ne davati pripravke od cvijeta djeci mlađoj od 12 godina](/images/articles/infografika-bazga-sigurna-upotreba.webp)
 
 ## Čaj od bazge u trudnoći i dojenju
 
-Sigurnost konzumacije čaja od bazge u **trudnoći i dojenju nije u potpunosti potvrđena** kliničkim istraživanjima, stoga se preporučuje oprez. Nema dovoljno podataka koji bi potvrdili ili isključili rizike za fetus ili novorođenče, što navodi i [pregled sigurnosti biljnih čajeva u trudnoći portala Netmums](https://www.netmums.com/pregnancy/can-you-drink-elderflower-when-pregnant).
+Sigurnost čaja od bazge u **trudnoći i dojenju nije potvrđena** istraživanjima. Američki Nacionalni centar za komplementarno i integrativno zdravlje ([NCCIH](https://www.nccih.nih.gov/health/elderberry)) navodi da se malo zna o tome je li bazga sigurna za trudnice i dojilje.
 
-Dok neki izvori navode da je umjerena konzumacija čaja od cvjetova (jedna do dvije šalice dnevno) prihvatljiva za trudnice, drugi preporučuju **potpuno izbjegavanje** zbog nedostatka kliničkih dokaza. 
+Neki izvori umjerene količine čaja od cvjetova smatraju prihvatljivima, a drugi savjetuju potpuno izbjegavanje, upravo zbog nedostatka podataka. To vrijedi i za bobice bazge.
 
-Posebno se naglašava da trudnice i dojilje **ne bi trebale konzumirati bobice bazge**, čak ni kuhane, jer aktivne tvari mogu prijeći u majčino mlijeko — što dokumentira analiza [My Pure Delivery o sigurnosti bazge za dojilje](https://mypuredelivery.com/5-reasons-elderberry-may-not-be-safe-while-breastfeeding/).
-
-Preporuka je jasna: ako ste trudni ili dojite i razmišljate o konzumaciji čaja od bazge, **obavezno se posavjetujte sa svojim ginekologom ili obiteljskim liječnikom** prije nego što ga počnete piti.
+Ako ste trudni ili dojite, prije pijenja čaja od bazge **posavjetujte se sa svojim ginekologom ili obiteljskim liječnikom**.
 
 ## Nuspojave i kontraindikacije
 
-Čaj od cvjetova bazge dobro se podnosi kod većine odraslih osoba kada se konzumira u preporučenim količinama. Nuspojave su rijetke, ali postoje situacije u kojima treba biti oprezan, što potvrđuje i [pregled nuspojava i kontraindikacija cvijeta bazge na WebMD-u](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower).
+Čaj od cvjetova bazge dobro se podnosi kod većine odraslih osoba kada se konzumira u preporučenim količinama. Nuspojave su rijetke, ali postoje situacije u kojima treba biti oprezan, kako navodi i [pregled nuspojava i kontraindikacija cvijeta bazge na portalu WebMD](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower).
 
 **Moguće nuspojave** uključuju proljev i probavne smetnje (mučnina, nadutost, grčevi) kod prekomjerne konzumacije, te alergijske reakcije kod osoba **alergičnih na pelud**, posebice na trave i biljke iz iste porodice.
 
 Kada je riječ o kontraindikacijama, posebno treba naglasiti sljedeće:
 
 * **Sirovi dijelovi biljke su toksični.** Lišće, kora, korijen, stabljika i nezrele bobice crne bazge sadrže cijanogene glikozide, koji se u tijelu mogu razgraditi u cijanovodičnu kiselinu. Simptomi trovanja uključuju mučninu, povraćanje i proljev. **Termičkom obradom** ovi spojevi se razgrađuju i biljka postaje sigurna za konzumaciju.
-* **Interakcije s lijekovima za dijabetes.** Bazga može sniziti razinu šećera u krvi, pa bi mogla pojačati učinak lijekova poput **metformina i inzulina**. Osobe s dijabetesom trebaju se posavjetovati s liječnikom.
-* **Interakcije s lijekovima za krvni tlak.** Bazga može sniziti krvni tlak, stoga se ne preporučuje kombinirati s **antihipertenzivima** bez savjeta liječnika.
+* **Interakcije s lijekovima za dijabetes.** Bazga bi mogla sniziti razinu šećera u krvi, pa bi mogla pojačati učinak lijekova poput **metformina i inzulina**. Osobe s dijabetesom trebaju se posavjetovati s liječnikom.
+* **Interakcije s lijekovima za krvni tlak.** Bazga bi mogla sniziti krvni tlak, stoga se ne preporučuje kombinirati s **antihipertenzivima** bez savjeta liječnika.
 * **Diuretici.** Budući da bazga ima vlastito diuretičko djelovanje, kombinacija s diureticima može dovesti do prekomjernog gubitka tekućine i elektrolita.
 * **Kemoterapija.** Osobe koje primaju kemoterapiju trebaju se posavjetovati s onkologom prije konzumacije bazge.
 
 ## Čaj od bazge i probava
 
-Čaj od bazge može pozitivno utjecati na probavni sustav na nekoliko načina. **Klorogenska kiselina** prisutna u cvijetu stimulira crijevnu peristaltiku i potiče lučenje žuči i klorovodične kiseline, što poboljšava probavu i može pomoći kod **zatvora**. Slično protuupalno djelovanje na probavni sustav ima i kamilica, o čemu detaljno pišemo u članku [kamilica za olakšanje probave, nadutosti i grčeva](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+Čaj od bazge može pozitivno utjecati na probavni sustav na nekoliko načina. Smatra se da **klorogenska kiselina** iz cvijeta potiče peristaltiku (pokrete crijeva kojima se sadržaj kreće prema van) i lučenje žuči i želučane kiseline, pa bi mogla pomoći kod **zatvora**. Za to zasad nema čvrstih dokaza na ljudima. Slično protuupalno djelovanje na probavni sustav ima i kamilica, o čemu detaljno pišemo u članku [kamilica za olakšanje probave, nadutosti i grčeva](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
 
-Istraživanja su pokazala da čajne mješavine koje sadrže bazgu, zajedno s **anisem, komoračem i cvjetom sene**, mogu značajno ubrzati prolazak sadržaja kroz probavni sustav i olakšati opstipaciju. Treba ipak napomenuti da je teško sa sigurnošću pripisati ovaj učinak isključivo bazgi, s obzirom da se radi o mješavini biljaka.
+Istraživanja su pokazala da čajne mješavine koje sadrže bazgu, zajedno s **anisem, komoračem i cvjetom sene**, mogu značajno ubrzati prolazak sadržaja kroz probavni sustav i olakšati opstipaciju. Učinak se ne može pripisati samo bazgi, jer je sena (list biljke *Senna*) sama po sebi jako laksativno sredstvo.
 
-Za jači laksativni učinak koristi se **čaj od bobica bazge** (dekokt), koji se priprema kuhanjem 10 do 15 grama suhih bobica u pola litre vode 10 minuta, uz stajanje od još 10 minuta i cijeđenje. Ovaj napitak djeluje nešto snažnije od čaja od cvjetova i preporučuje se kod izraženog zatvora.
+Za jači laksativni učinak koristi se **čaj od bobica bazge** (dekokt), koji se priprema kuhanjem 10 do 15 grama suhih bobica u pola litre vode 10 minuta, uz stajanje od još 10 minuta i cijeđenje. Djeluje nešto jače od čaja od cvjetova. Bobice se moraju kuhati, a ako zatvor traje dulje od nekoliko dana ili ga prate bolovi, javite se liječniku.
 
 ## Gdje kupiti i kolika je cijena čaja od bazge?
 
 Čaj od bazge dostupan je u **ljekarnama, specijaliziranim prodavaonicama zdrave prehrane** i web shopovima. U Hrvatskoj ga nude poznati brendovi kao što su **Suban, Vrelis, Biofarm** i drugi domaći proizvođači biljnih čajeva.
+
+Okvirne cijene (mogu se razlikovati po trgovinama i godinama):
 
 | Oblik proizvoda                 | Tipična količina | Prosječna cijena     |
 | ------------------------------- | ---------------- | -------------------- |
@@ -200,9 +198,9 @@ Ako sami berete i sušite cvijet bazge, troškovi su minimalni, a kvaliteta mož
 
 Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različite svrhe, što je važno razumjeti pri odabiru odgovarajućeg pripravka.
 
-**Cvijet bazge** bogat je flavonoidima, fenolnim kiselinama i eteričnim uljima. Primarno se koristi za **respiratorne tegobe** (prehlada, gripa, sinusitis), poticanje znojenja i kao blagi diuretik. Čaj od cvijeta blaže je djelovanje i sigurniji za širu primjenu.
+**Cvijet bazge** bogat je flavonoidima, fenolnim kiselinama i eteričnim uljima. Primarno se koristi za **respiratorne tegobe** (prehlada, gripa, sinusitis), poticanje znojenja i kao blagi diuretik. Čaj od cvijeta djeluje blaže.
 
-**Bobice crne bazge** sadrže visoke koncentracije antocijana, vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. Jedna šalica bobica sadrži oko **52 mg vitamina C** i **406 mg kalija**. Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
+**Bobice crne bazge** sadrže visoke koncentracije antocijana, vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. Jedna šalica bobica sadrži oko **52 mg vitamina C** i **406 mg kalija**, a koliko kalorija imaju bobice, sok i sirup, donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
 
 | Karakteristika    | Cvijet bazge                  | Bobice bazge             |
 | ----------------- | ----------------------------- | ------------------------ |
@@ -210,10 +208,20 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 | Sigurnost sirovog | Siguran                       | Toksičan, mora se kuhati |
 | Priprema čaja     | Infuz (prelijevanje)          | Dekokt (kuhanje)         |
 | Dostupnost        | Proljeće (svibanj–lipanj)     | Jesen (rujan)            |
-| Trudnoća          | Oprez, konzultirati liječnika | Ne preporučuje se        |
+| Trudnoća          | Malo podataka, savjet liječnika | Malo podataka, savjet liječnika |
 
 
 
 Ako vas zanima kako slično pristupiti berbi i sušenju drugog ljekovitog bilja, pročitajte naš vodič o [berbi i sušenju mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) koji pokriva iste principe čuvanja bioaktivnih tvari.
 
 > **Napomena:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.
+
+## Izvori
+
+- Europska agencija za lijekove (EMA) – [Cvijet bazge, sažetak za biljni lijek (Sambuci flos)](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos)
+- Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), SAD – [Bazga (Elderberry)](https://www.nccih.nih.gov/health/elderberry)
+- Pregledni rad (2024.) – [Bioaktivne tvari cvijeta bazge](https://pmc.ncbi.nlm.nih.gov/articles/PMC11354468/), Foods
+- WebMD, američki zdravstveni portal – [Cvijet bazge (Elderflower)](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower)
+- Klinika Cleveland (Cleveland Clinic) – [Bazga za djecu (Elderberry for kids)](https://health.clevelandclinic.org/elderberry-for-kids)
+- Ordinacija.hr, hrvatski zdravstveni portal – [Bazga kao lijek: recepti za sirup i čaj](https://ordinacija.vecernji.hr/zdravi-tanjur/jedi-zdravo/bazga-kao-lijek-donosimo-recepte-za-sirup-i-caj/)
+- Kreni Zdravo, hrvatski zdravstveni portal – [Čaj od bazge](https://krenizdravo.dnevnik.hr/prehrana/cajevi/caj-od-bazge)
