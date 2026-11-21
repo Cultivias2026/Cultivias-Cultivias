@@ -7,6 +7,7 @@ perex: Kamilica je jedna od najpoznatijih ljekovitih biljaka, a njeni
   blagotvorni učinci koriste se stoljećima u tradicionalnoj medicini.
 readTime: 3
 publishedAt: 2025-04-06
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -19,112 +20,87 @@ related_articles:
   - kamilica-olakšanje-probave-nadutosti-i-grčeva
 ---
 
-
-Jedna od najučinkovitijih metoda korištenja [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) je primjena **hladnih obloga**.
-
-Ovi oblozi pružaju brzo olakšanje za različite probleme, od iritacija kože do umora očiju. U ovom članku istražit ćemo kako pravilno pripremiti i koristiti hladne obloge od kamilice te koje su njihove glavne prednosti.
-
-
+Hladni oblog od [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) čista je gaza ili krpa natopljena ohlađenim čajem od kamilice, koja se stavlja na nadraženu kožu, opeklinu od sunca ili ubod kukca. Hladnoća smanjuje oteklinu i crvenilo, a kamilica djeluje blago protuupalno. Europska agencija za lijekove (EMA) priznaje tradicionalnu upotrebu kamilice kod blagih upala kože, opeklina od sunca i površinskih rana. U nastavku saznajte kako pripremiti oblog, kada ga koristiti i kada je bolje odustati.
 
 ## Što su hladni oblozi od kamilice?
 
+Hladni oblozi od kamilice komprese su natopljene hladnim čajem od kamilice.
 
+Kamilica sadrži flavonoide i eterična ulja koja djeluju protuupalno, antibakterijski i umirujuće. Hladnoća tome pridonosi jer smanjuje oteklinu, crvenilo i nelagodu.
 
-Hladni oblozi od kamilice su kompresi natopljeni hladnim kamilicinim čajem ili otopinom.
-
-Kamilica sadrži antioksidanse, flavonoide i eterična ulja koja imaju protuupalna, antibakterijska i umirujuća svojstva. Hladnoća dodatno pojačava učinak, smanjujući otekline, crvenilo i nelagodu.
-
-
+![Infografika: kako pripremiti hladni oblog od kamilice u tri koraka, kod čega može pomoći, te upozorenje da se ne stavlja na oči kod peludne alergije, kod alergije na glavočike i na duboke rane](/images/articles/infografika-kamilica-hladni-oblog.webp)
 
 ## Prednosti hladnih obloga od kamilice
 
-
-
 **1. Umirujući učinak na kožu**
 
-Hladni oblozi od kamilice pomažu u smanjenju iritacija kože, poput osipa, crvenila ili svrbeža. Posebno su korisni za osobe s osjetljivom kožom ili kožnim stanjima poput ekcema.
+Oblozi mogu ublažiti nadraženost kože, poput osipa, crvenila ili svrbeža. Mnogi ih koriste kod osjetljive kože i ekcema (kronične upale kože koja svrbi), no kod ekcema se najprije posavjetujte s liječnikom.
 
-**2. Smanjenje očne umornosti**
+**2. Umorne i otečene oči**
 
-Ako patite od umornih, napučenih ili otečenih očiju, hladni oblozi od kamilice mogu pružati brzo olakšanje. Kamilica smanjuje otekline i umiruje podražene oči.
+Hladan oblog na zatvorenim očima može ublažiti otečenost i umor. Ipak, budite oprezni: u [španjolskom istraživanju](https://pubmed.ncbi.nlm.nih.gov/2382873/) objavljenom 1990. u časopisu Annals of Allergy, kod sedmero osoba s peludnom alergijom ispiranje očiju čajem od kamilice izazvalo je alergijsku upalu spojnice (konjunktivitis), a kod dvoje i oticanje vjeđa. Uzrok je bio pelud kamilice u čaju. Ako imate peludnu alergiju, osobito na pelin ili ambroziju, oblog ne stavljajte na oči.
 
-**3. Ublažavanje opekotina od sunca**
+**3. Ublažavanje opeklina od sunca**
 
-Zahvaljujući protuupalnim svojstvima, hladni oblozi od kamilice pomažu u smanjenju crvenila i bolova uzrokovanih opeklinama od sunca.
+Zbog protuupalnog djelovanja hladni oblozi mogu smanjiti crvenilo i bol kod blažih opeklina od sunca.
 
 **4. Kod manjih rana i ogrebotina**
 
-Antibakterijska svojstva kamilice čine je idealnom za čišćenje i liječenje manjih rana, ogrebotina ili uboda insekata.
+Kamilica djeluje blago antibakterijski, pa se oblog može koristiti kod manjih ogrebotina i uboda kukaca. Domaći čaj nije sterilan, pa ga ne stavljajte na duboke, otvorene ili zagnojene rane.
 
 **5. Olakšanje glavobolje**
 
-Primjena hladnih obloga od kamilice na čelo ili zatiljak može pomoći u smanjenju napetosti i glavobolje.
+Neki ljudi stavljaju hladan oblog na čelo ili zatiljak kod glavobolje od napetosti. Olakšanje vjerojatno najviše daje hladnoća, a za poseban učinak kamilice nema dokaza.
 
-Pročitajte i: [kamilica i probava](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
-
-
+Kamilica se koristi i kod [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/), ali kao čaj, a ne oblog.
 
 ## Kako pripremiti hladne obloge od kamilice?
 
-
-
-Priprema hladnih obloga od kamilice jednostavna je i zahtijeva samo nekoliko koraka:
+Priprema je jednostavna.
 
 **Sastojci:**
 
-* 2-3 žlice sušenih cvjetova kamilice (ili 2 vrećice kamilicinog čaja)
+* 2–3 žlice osušenih cvjetova kamilice (ili 2 filter-vrećice)
 * 500 ml vode
-* Čista krpa ili gazirana gaza
+* čista krpa ili gaza
 
 **Upute:**
 
-**1.Priprema čaja:**
+**1. Priprema čaja**
 
-Stavite cvjetove kamilice u posudu i prelijte ih kipućom vodom.Pokrijte i pustite da se čaj hladi 10-15 minuta.
+Cvjetove kamilice stavite u posudu, prelijte ih kipućom vodom, poklopite i ostavite 10–15 minuta. Zatim [čaj](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) procijedite.
 
-Procijedite[ čaj](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) kako biste uklonili cvjetove.
+**2. Hlađenje čaja**
 
-**2.Hlađenje čaja**
+Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak.
 
-Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak kako bi postao hladan.
+**3. Primjena obloga**
 
-**3.Primjena obloga**
+Umočite čistu krpu ili gazu u hladni čaj, istisnite višak tekućine i stavite oblog na kožu ili čelo.
 
-Umočite čistu krpu ili gaziranu gazu u hladni kamilicin čaj. Istisnite višak tekućine i stavite oblog na zahvaćeno područje (npr. oči, kožu, čelo).
+Ostavite ga 10–15 minuta, a zatim ga uklonite.
 
-Ostavite oblog 10-15 minuta, a zatim ga uklonite.
-
-
+Najbolje je koristiti kamilicu koju ste sami [ubrali](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/) i [osušili](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/) ili kupljenu u filter-vrećicama.
 
 ## Kada koristiti hladne obloge od kamilice?
 
-
-
-* **Za umorne oči:**
-
-   Primjenjujte obloge na zatvorene oči kako biste smanjili napetost i otekline.
-* **Za iritaciju kože:**
-
-   Stavite oblog na zahvaćeno područje kako biste smanjili svrbež i crvenilo.
-* **Za opekline od sunca:**
-
-   Koristite obloge za hlađenje i umirivanje opečene kože.
-* **Za glavobolju:**
-
-   Primjenjujte oblog na čelo ili zatiljak kako biste smanjili napetost.
-
-
+* **nadražena koža** – oblog stavite na crvenu kožu koja svrbi
+* **opekline od sunca** – oblog hladi i smiruje opečenu kožu
+* **glavobolja** – oblog na čelu ili zatiljku može smanjiti napetost
+* **umorne oči** – samo ako nemate peludnu alergiju ni alergiju na glavočike
 
 ## Sigurnosni savjeti
 
-
-
-* Uvijek koristite čistu krpu ili gaziranu gazu kako biste izbjegli infekcije.
-* Ako imate alergiju na kamilicu, izbjegavajte ovu metodu.
-* Ako simptomi ne popuste ili se pogoršaju, posavjetujte se s liječnikom.
-
-
+* **čista podloga** – uvijek koristite čistu krpu ili gazu, da izbjegnete infekciju
+* **svjež čaj** – pripremite novi čaj svaki dan
+* **alergija** – ako ste alergični na kamilicu ili druge glavočike, poput ambrozije, ne koristite oblog
+* **liječnik** – ako se tegobe ne smire ili se pogoršaju, javite se liječniku
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Europska agencija za lijekove (EMA) – [Cvijet kamilice, sažetak za biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos)
+- Subiza i sur., istraživanje (1990.) – [Alergijski konjunktivitis od čaja od kamilice (Allergic conjunctivitis to chamomile tea)](https://pubmed.ncbi.nlm.nih.gov/2382873/), Annals of Allergy

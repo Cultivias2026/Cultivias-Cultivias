@@ -7,6 +7,7 @@ perex: Čaj od kamilice je jedan od najomiljenijih biljnih čajeva na svijetu,
   poznat po svom blagom okusu i mogućim brojnim zdravstvenim prednostima.
 readTime: 5
 publishedAt: 2024-09-29
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -19,120 +20,87 @@ related_articles:
   - kamilica-biljka-naših-baka
 ---
 
-
-Priprema se od **suhih cvjetova biljke kamilice**, koja je poznata po svojim ljekovitim svojstvima.
-
-Čaj od kamilice može pomoći u **smanjenju stresa**,[ **poboljšanju probave**](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/), **jačanju imunološkog sustav**a i **olakšavanju nesanice**.
-
- Osim toga, lako se priprema i može se piti toplo ili hladno. Zbog svojih brojnih prednosti, čaj od [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) se često koristi kao **podrška zdravlju** i ugodna alternativa tradicionalnim napicima koji sadrže kofein.
-
-
+Čaj od kamilice priprema se od osušenih cvjetova [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) i jedan je od najčešće pijenih biljnih čajeva. Ljudi ga najčešće piju za opuštanje, lakši san i kod blagih [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ne sadrži kofein, pa se može piti i navečer, toplo ili hladno. U nastavku saznajte kako ga pripremiti, koliko ga piti, što o njegovu djelovanju kažu istraživanja i kome nije preporučljiv.
 
 ## **Priprema čaja od kamilice**
 
+Čaj od kamilice priprema se brzo. Trebaju vam osušeni cvjetovi kamilice ili kupljene filter-vrećice.
 
+Zagrijte vodu do vrenja i prelijte je **preko cvjetova ili vrećice**.
 
-Priprema **čaja od kamilice** je jednostavna i brza. Da biste uživali u ovom ukusnom napitku, potrebno je nekoliko suhih cvjetova kamilice ili kupljenih vrećica čaja.
+Ostavite čaj da odstoji 5–10 minuta, ovisno o tome koliko jak želite.
 
-Zagrijte vodu do vrenja, a zatim je prelijte **preko cvjetova kamilice ili vrećice**.
+Po želji dodajte malo **meda ili limuna**.
 
-Ostavite da se čaj natapa 5-10 minuta, ovisno o jačini koju želite postići.
+Čaj od kamilice možete piti topao ili hladan. Ohlađeni čaj koristi se i za [hladne obloge](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/).
 
-Za dodatni okus, možete dodati malo **meda ili limuna**.
-
-Čaj od kamilice možete konzumirati toplo ili hladno, ovisno o vašim preferencijama.
-
-
+![Infografika: kako pripremiti čaj, inhalaciju i hladni oblog od kamilice, s količinama i vremenom, te upozorenje da se čaj ne daje bebama mlađima od 6 mjeseci, osobama alergičnima na glavočike i da se eterično ulje ne koristi nerazrijeđeno](/images/articles/infografika-kamilica-pripravci.webp)
 
 ## **Preporučena dnevna doza čaja**
 
+Uobičajeno se pije **1–3 šalice dnevno**.
 
+Ta je količina za većinu ljudi sigurna.
 
-Preporučena dnevna doza čaja od kamilice varira, ali općenito se savjetuje konzumacija **1-3 šalice dnevno**.
+Ako primijetite nelagodu, smanjite količinu ili prestanite piti čaj.
 
-Ovo je dovoljno za uživanje u zdravstvenim blagodatima bez rizika od nuspojava.
-
-Uvijek je najbolje slušati svoje tijelo i prilagoditi unos kamilice prema vlastitim potrebama.
-
-
-
-> **Osobe koje su sklone alergijskim reakcijama ili uzimaju određene lijekove trebaju biti oprezne s količinom koju piju.**
+> **Osobe sklone alergijama i osobe koje uzimaju lijekove neka paze koliko čaja piju.**
 >
-> ***Ako osjetite nelagodu ili nuspojave posavjetujte se s liječnikom***.
-
-
+> ***Ako osjetite nelagodu ili nuspojave, posavjetujte se s liječnikom.***
 
 ## **Umirujuće svojstvo kamilice**
 
+Kamilica se tradicionalno pije za opuštanje i smanjenje napetosti, a mnogi šalicu čaja popiju prije spavanja.
 
+Djelovanje na tjeskobu ispitivano je s ekstraktom kamilice, a ne s čajem. U [američkom randomiziranom istraživanju](https://pubmed.ncbi.nlm.nih.gov/19593179/) objavljenom 2009. u znanstvenom časopisu Journal of Clinical Psychopharmacology, 57 osoba s blagim do umjerenim generaliziranim anksioznim poremećajem (dugotrajnom, pretjeranom zabrinutošću) osam je tjedana uzimalo kapsule s ekstraktom kamilice ili placebo. Simptomi su se u skupini s kamilicom smanjili nešto više, a autori učinak opisuju kao skroman. Za ublažavanje depresije čaj od kamilice nije dokazano djelotvoran, pa ne zamjenjuje liječenje.
 
-Njegova prirodna svojstva djeluju na živčani sustav, potičući **opuštanje i smanjenje napetosti**. Mnogi ljudi uživaju u šalici čaja od kamilice prije spavanja kako bi se pripremili za **miran san**.
-
-Pijenje ovog čaja može također pomoći u poboljšanju raspoloženja i smanjenju simptoma depresije.
-
-Uz redovitu konzumaciju, čaj od kamilice može postati vaš pouzdan saveznik u borbi **protiv stresa i napetosti** u svakodnevnom životu.
-
-
+Šalica čaja ipak može biti dio večernje rutine koja pomaže da se opustite.
 
 ## **Prednosti čaja od kamilice za probavu**
 
+Kamilica se koristi i kod probavnih tegoba. [Pregledni rad o ljekovitom bilju i crijevnoj mikrobioti](https://www.mdpi.com/1422-0067/26/22/10875), objavljen 2025. u časopisu International Journal of Molecular Sciences, navodi da kamilica može ublažiti **nadutost, grčeve i probavne smetnje**. Tome se pripisuje njezino protuupalno djelovanje.
 
+Kamilica opušta glatke mišiće probavnog sustava (spazmolitičko djelovanje), pa može smanjiti nelagodu nakon obroka.
 
-Kamilica je poznata po svojim umirujućim svojstvima, ali također može pomoći u poboljšanju probave, pokazuju [istraživanja.](https://www.mdpi.com/1422-0067/26/22/10875)
-
-Čaj može pomoći u **smanjenju nadutosti, grčeva i probavnih smetnji**. Njegova blagost i antiinflamatorna svojstva čine ga idealnim napitkom za one koji se bore s probavnim problemima.
-
-Redovito konzumiranje čaja od kamilice može pomoći u **opuštanju mišića probavnog sustava**, potičući tako bolju apsorpciju hranjivih tvari i smanjujući nelagodu nakon obroka.
-
-Osim toga, kamilica može potaknuti lučenje žuči, što je ključno za probavu masti. Stoga, ako tražite prirodan način za poboljšanje probave, kamilica može biti odličan izbor.
-
-Pročitajte i: [sušenje kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
-
-
+U narodnoj medicini smatra se i da potiče lučenje žuči, koja pomaže probavi masti, no to nije potvrđeno istraživanjima na ljudima. Kako osušiti vlastitu kamilicu za čaj, opisuje članak o [sušenju kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
 
 ## **Ima li čaj od kamilice utjecaj na gubitak težine?**
 
+Čaj od kamilice ne topi kilograme, no može posredno pomoći.
 
+Ako vam pomaže da se opustite, možda ćete rjeđe jesti iz stresa. Česta je tvrdnja da kamilica „čisti tijelo od toksina”, ali za to nema dokaza, jer tu ulogu u tijelu obavljaju jetra i bubrezi.
 
-Iako čaj od kamilice nije čarobni napitak za mršavljenje, može pomoći u procesu mršavljenja na nekoliko načina.
+Ako čajem bez šećera zamijenite zaslađene napitke, unijet ćete manje kalorija.
 
-Njegova umirujuća svojstva pomažu u smanjenju stresa, što može smanjiti emocionalno prejedanje. Također, čaj od kamilice pomaže u detoksikaciji tijela, potičući probavu i uklanjanje toksina.
-
-Pijenje čaja umjesto visokokaloričnih napitaka može također pomoći u smanjenju ukupnog unosa kalorija.
-
- Redovno uživanje u čaju od kamilice može biti koristan dodatak zdravom režimu mršavljenja, zajedno s uravnoteženom prehranom i redovitom tjelesnom aktivnošću.
-
-
+Uz uravnoteženu prehranu i redovitu tjelesnu aktivnost, čaj od kamilice može biti dio zdravih navika pri mršavljenju.
 
 ## **Sadrži li čaj od kamilice kofein?**
 
+Čaj od kamilice **ne sadrži kofein**, pa se može piti u bilo koje doba dana, i navečer prije spavanja.
 
+Zato ga mnogi biraju umjesto crnog čaja i kave. Bez kofeina je i [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
-Jedna od značajnih prednosti čaja od kamilice je to što **ne sadrži kofein.** To ga čini idealnim napitkom za konzumaciju u bilo koje doba dana, uključujući večernje sate kada se pripremate za spavanje.
-
-Mnogi ljudi biraju čaj od kamilice kao prirodnu alternativu čajevima i kavi koji sadrže kofein, jer pomaže u opuštanju i smanjenju stresa.
-
-**Bez kofeina, čaj od kamilice** može poboljšati kvalitetu sna i pomoći u borbi protiv nesanice, pružajući vam miran san i osvježenje ujutro.
-
-
+**Budući da nema kofeina**, čaj od kamilice ne ometa san, a mnogima pomaže da se prije spavanja opuste.
 
 ## **Moguće nuspojave i kontraindikacije čaja od kamilice**
 
+Čaj od kamilice za većinu je ljudi siguran, no na neke stvari treba paziti:
 
+* **alergija** – kod nekih se javlja alergijska reakcija, osobito kod osoba alergičnih na biljke iz porodice glavočika, poput ambrozije
+* **lijekovi za razrjeđivanje krvi** – kamilica može pojačati njihov učinak, pa se prije redovitog pijenja posavjetujte s liječnikom
+* **prevelike količine** – mogu izazvati mučninu ili povraćanje
+* **trudnoća i kronične bolesti** – prije pijenja većih količina posavjetujte se s liječnikom
+* **bebe** – bebama mlađima od 6 mjeseci ne dajte čaj, a starijima samo uz savjet pedijatra; zašto, objašnjava članak o [kamilici](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/)
 
-Iako čaj od kamilice nudi brojne zdravstvene prednosti, postoje i potencijalne štetnosti koje treba uzeti u obzir.
-
-
-
-* Neki ljudi mogu doživjeti alergijske reakcije na kamilicu, osobito ako su već alergični na biljke iz njezine porodice.
-* Osobe koje uzimaju lijekove za razrjeđivanje krvi trebaju biti oprezne jer kamilica može pojačati učinak tih lijekova.
-* Također, prekomjerno konzumiranje čaja od kamilice može dovesti do mučnine ili povraćanja.
-*  Preporučuje se konzultacija s liječnikom prije nego što se u prehranu uključi veće količine čaja od kamilice, osobito za trudnice ili osobe s kroničnim zdravstvenim stanjima.
-
-
+Ako kamilicu želite brati sami, savjete donosi članak o [branju kamilice](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/).
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja čaja od kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Amsterdam i sur., randomizirano istraživanje (2009.) – [Ekstrakt kamilice kod generaliziranog anksioznog poremećaja (A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder)](https://pubmed.ncbi.nlm.nih.gov/19593179/), Journal of Clinical Psychopharmacology
+- Pacyga i sur., pregledni rad (2025.) – [Ljekovito bilje za zdravu crijevnu mikrobiotu (Medicinal Plants for a Healthy Gut Microbiome)](https://www.mdpi.com/1422-0067/26/22/10875), International Journal of Molecular Sciences

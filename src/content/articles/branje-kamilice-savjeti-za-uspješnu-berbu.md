@@ -19,59 +19,40 @@ related_articles:
   - čaj-od-kamilice
 ---
 
-
-Berete li je za osobnu upotrebu ili veće količine, pravilna tehnika osigurava da vaši cvjetovi zadrže maksimalnu količinu **eteričnih ulja**. Tvari odgovornih za karakterističan miris i opuštajuća svojstva.
-
-
+Kamilicu je najbolje brati kad su cvjetovi potpuno otvoreni, ujutro, nakon što se rosa osuši. Tada cvjetovi sadrže najviše **eteričnih ulja**, tvari koje joj daju miris i umirujuće djelovanje, a o njima ovisi i kakav će biti čaj. U nastavku saznajte kada i kako brati kamilicu, koje su prednosti ručnog branja, češlja i stroja te kako ubrane cvjetove pripremiti za sušenje.
 
 ## **Kada brati kamilicu?**
 
+[Kamilicu](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) berite kad su cvjetovi **potpuno otvoreni**, najbolje **ujutro**, nakon što se rosa osuši.
 
+Smatra se da biljka tada sadrži najviše eteričnih ulja, pa je čaj aromatičniji.
 
-Za najbolje rezultate, [kamilicu](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) berite kada su cvjetovi **potpuno otvoreni**, idealno **tijekom jutra** nakon što se rosa osuši.
-
-U to doba dana biljka sadrži najvišu koncentraciju esencijalnih ulja, što rezultira snažnijim i aromatičnijim čajem.
-
-Izbjegavajte branje po kiši ili jakom suncu.
-
-
+Ne berite je po kiši ni po jakom suncu.
 
 ## **Metode branja kamilice**
 
-
-
-Postoji nekoliko načina berbe, svaki sa svojim prednostima:
+Kamilica se može brati na nekoliko načina, a svaki ima svoje prednosti.
 
 **Ručno branje kamilice**
 
-**Ručno branje** je tradicionalna metoda koja vam omogućuje najveću **preciznost i kontrolu**. Birate samo najzdravije i najljepše cvjetove, što osigurava najvišu kvalitetu čaja. Ova metoda je idealna za manje vrtove i entuzijaste koji žele maksimalno sačuvati **vrijedna eterična ulja**.
+**Ručno branje** je tradicionalan način koji omogućuje **najviše preciznosti**. Birate samo zdrave i potpuno otvorene cvjetove, pa je čaj kvalitetniji. Pogodno je za manje vrtove, [balkon](https://www.cultivias.com/bilje/uzgoj-kamilice-na-balkonu-u-tegli-da-mogu%C4%87e-je/) i sve koji žele sačuvati što više eteričnih ulja.
 
 **Korištenje češlja za branje kamilice**
 
+**Češalj za branje kamilice** alat je s gustim zupcima koji **ubrzava berbu**, osobito u većem vrtu ili na polju.
 
-
-**Češalj za branje kamilice** je praktičan alat koji značajno **ubrzava proces berbe**, pogotovo ako imate veći vrt ili polje.
-
-Ipak, budite oprezni – nepravilnom upotrebom možete oštetiti biljke ili sakupiti neželjene dijelove (lišće, stabljike) koji mogu utjecati na okus čaja. Preporučuje se oprez kako bi se očuvala **čistoća i kvaliteta ubranih cvjetova**.
+Koristite ga pažljivo, jer možete oštetiti biljke ili uz cvjetove pokupiti i listove i stabljike, koji mijenjaju okus čaja.
 
 **Stroj za branje kamilice**
 
-
-
-Za **komercijalni uzgoj** ili veće površine, **stroj za branje kamilice** je najučinkovitiji izbor. Iako znatno povećava brzinu i produktivnost, rukovanje strojem zahtijeva pažnju kako bi se osiguralo da se **kvaliteta ubranim cvjetovima** ne smanji.
-
-Strojevi su dizajnirani za maksimiziranje prinosa uz minimalan trud.
-
-
+U **komercijalnom uzgoju** i na većim površinama najbrže se bere **strojem**. Berba je tada mnogo brža, ali stroj treba pažljivo podesiti da cvjetovi ostanu neoštećeni.
 
 ## **Branje i sušenje kamilice za čaj**
 
+Ubrane cvjetove treba [pravilno osušiti](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/) kako bi sačuvali svojstva.
 
+Rasporedite ih u tankom sloju na čistu podlogu, na **sjenovito i prozračno mjesto**.
 
-Nakon što ste ubrali kamilicu (cvijetove), [treba je pravilno je osušiti ](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/)kako bi se sačuvala njezina svojstva.
+Izbjegavajte izravno sunce, jer razgrađuje eterična ulja. Cvjetovi su suhi kad postanu krhki na dodir, a trebaju zadržati boju. Na sličan se način beru i suše i [listovi mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
 
-Svježe ubrane cvjetove raširite u tankom sloju na čistoj podlozi, idealno na **sjenovitom i prozračnom mjestu**.
-
-Izbjegavajte izravno sunce jer ono može uništiti eterična ulja. Cilj je da se cvjetovi potpuno osuše, postanu krhki na dodir i zadrže svoju boju.
-
-Pravilno ubrana i osušena kamilica pružit će vam savršen,[ **domaći čaj**](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) koji je poznat po svojim[ **smirujućim i opuštajućim svojstvima**.](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/)
+Pravilno ubrana i osušena kamilica daje dobar [**domaći čaj**](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), poznat po [**umirujućem djelovanju i blagotvornosti za probavu**](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ako kamilice nemate dovoljno, [posadite je](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/) u vrtu ili tegli.

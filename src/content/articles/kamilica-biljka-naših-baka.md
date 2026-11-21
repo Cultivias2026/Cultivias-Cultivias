@@ -53,7 +53,7 @@ Kamilica cvjeta u proljeće i ljeto, a cvjetovi se beru kad su potpuno otvoreni.
 
 Biljka naraste do 50 cm.
 
-Razmnožava se sjemenom koje se sije u rano proljeće ili u jesen. Sjeme se lagano utisne u zemlju i prekrije tankim slojem zemlje.
+Razmnožava se sjemenom koje se sije u rano proljeće ili u jesen. Sjeme se samo lagano utisne u zemlju i ne prekriva, jer mu za klijanje treba svjetlo.
 
 Klije otprilike dva tjedna, a najbolje raste na sunčanom mjestu s tlom iz kojeg višak vode lako otječe (dobro drenirano tlo).
 
@@ -81,7 +81,7 @@ Kamilica se može sijati izravno u vrt ili uzgajati iz presadnica.
 
 Sjeme se sije u rano proljeće ili u jesen.
 
-Lagano ga utisnite u zemlju i prekrijte tankim slojem zemlje.
+Lagano ga utisnite u zemlju, ali ga ne prekrivajte, jer sjeme kamilice treba svjetlo za klijanje, kako navodi Kraljevsko hortikulturno društvo (Royal Horticultural Society) u [uputama za uzgoj kamilice](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile).
 
 Klije otprilike dva tjedna. Presadnice zatim sadite na razmak od 20–30 cm, kako bi biljke imale dovoljno mjesta. Cijeli postupak, od sjetve do presađivanja, opisuje članak o [sadnji kamilice u vrtu ili tegli](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/).
 
@@ -276,6 +276,7 @@ Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručn
 
 ## Izvori
 
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)
 - Europska agencija za lijekove (EMA) – [Cvijet kamilice, sažetak za biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos)
 - Svjetska zdravstvena organizacija (WHO) – [Prehrana dojenčadi i male djece (Infant and young child feeding)](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding)
 - Srivastava i sur., pregledni rad (2010.) – [Kamilica: biljni lijek prošlosti sa svijetlom budućnošću (Chamomile: A herbal medicine of the past with bright future)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2995283/), Molecular Medicine Reports
