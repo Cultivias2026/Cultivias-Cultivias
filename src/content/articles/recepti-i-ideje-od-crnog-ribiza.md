@@ -11,6 +11,7 @@ perex: >-
   Ove tamne, aromatične bobice nisu samo izuzetno zdrave, već su i nevjerojatno svestrane u kuhinji.
 readTime: 4
 publishedAt: 2025-07-08
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -24,11 +25,11 @@ related_articles:
 ---
 
 
-Od tradicionalnih džemova i sirupa do modernih smoothieja i gourmet deserta, [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) može transformirati svaki obrok u nezaboravno gastronomsko iskustvo.
+[Crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) u kuhinji se koristi za pekmez, sok i sirup za zimu, ali i za smoothieje, kolače i kreme.
 
- Njegova prirodna kiselost pomaže u konzervaciji, što ga čini savršenim za zimske zalihe, dok njegova boja i aroma dodaju dramatičnost bilo kojem jelu. 
+ Kiselkast je, intenzivne boje i arome, pa se dobro slaže sa slatkim jelima. 
 
-U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crnog ribiza** u kuhinji, s detaljnim receptima i praktičnim savjetima.
+U nastavku pronađite tradicionalne i moderne recepte s **crnim ribizom**, uz praktične savjete. Koliko kalorija ima svaki od tih oblika, donosi pregled [kalorija crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/), a kako ubrati bobice, članak o [berbi crnog ribiza](https://www.cultivias.com/voce/berba-crnog-ribiza-kako-i-kada/).
 
 
 
@@ -40,7 +41,7 @@ U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crn
 
 
 
-**Pekmez od crnog ribiza** jedan je od najcjenjenijih tradicionalnih proizvoda koji se prenosi s koljena na koljeno. Ovaj bogati, gust pekmez savršen je za mazanje na kruh, dodavanje u kolače ili jednostavno uživanje žlicom.
+**Pekmez od crnog ribiza** jedan je od najcjenjenijih tradicionalnih proizvoda koji se prenosi s koljena na koljeno. Gust pekmez maže se na kruh, dodavanje u kolače ili jednostavno uživanje žlicom.
 
 **Sastojci:**
 
@@ -71,7 +72,7 @@ U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crn
 
 
 
-**Sok od crnog ribiza** pravi je vitaminski napitak koji se može konzumirati svježe ili čuvati za zimu. Ovaj prirodni energetski napitak bogat je **vitaminom C** i antioksidansima. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+**Sok od crnog ribiza** pije se svjež ili se sprema za zimu. Sadrži **vitamin C** i antioksidanse, iako se dio vitamina C kuhanjem gubi. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 **Sastojci:**
 
@@ -98,7 +99,7 @@ U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crn
 
 
 
-**Sirup od crnog ribiza** tradicionalni je način čuvanja vitamina kroz zimske mjesece. Ovaj koncentrirani sirup razrjeđuje se vodom i služi kao prirodni lijek protiv prehlade.
+**Sirup od crnog ribiza** tradicionalni je način čuvanja vitamina kroz zimske mjesece. Gusti sirup razrjeđuje se vodom, a zimi se tradicionalno pije kod prehlade, iako ne liječi prehladu.
 
 **Sastojci:**
 
@@ -129,7 +130,7 @@ U ovom članku istražit ćemo tradicionalne i moderne načine korištenja **crn
 
 
 
-Smoothieji s **crnim ribizom** postaju sve popularniji zbog svoje nutritivne vrijednosti i osvježavajućeg okusa.
+Smoothieji s **crnim ribizom** postaju sve popularniji zbog svoje nutritivne vrijednosti i osvježavajućeg okusa.
 
 **Smoothie:**
 
@@ -142,15 +143,17 @@ Smoothieji s **crnim ribizom** postaju sve popularniji zbog svoje nutritivne v
 
 
 
-**Priprema:** Sve sastojke stavite u blender i miksajte do glatke teksture. Poslužite odmah.
+**Priprema:** Sve sastojke stavite u blender i miksajte do glatke teksture. Poslužite odmah.
 
-**Protein Smoothie za sportaše:**
+**Proteinski smoothie za sportaše:**
 
 * 120 g crnog ribiza
-* 1 žlica protein praha (vanilla)
+* 1 žlica proteinskog praha (vanilija)
 * 250 ml bademovog mlijeka
 * 1 žlica badema
-* 1 žličica agave sirupa
+* 1 žličica sirupa agave
+
+**Priprema:** sve sastojke izmiksajte u blenderu do glatke teksture.
 
 
 
@@ -160,7 +163,7 @@ Smoothieji s **crnim ribizom** postaju sve popularniji zbog svoje nutritivne v
 
 ### Kolač s crnim ribizom
 
-Ovaj sočni kolač kombinira slatkoću biskvita s kiselošću **crnog ribiza**, stvarajući savršenu ravnotežu okusa.
+Ovaj sočni kolač kombinira slatkoću biskvita s kiselošću **crnog ribiza**, stvarajući ugodnu ravnotežu okusa.
 
 **Sastojci za biskvit:**
 
@@ -194,7 +197,7 @@ Ovaj sočni kolač kombinira slatkoću biskvita s kiselošću **crnog ribiza**,
 
 
 
-Elegantan desert savršen za posebne prilike.
+Lagan desert za posebne prilike.
 
 **Sastojci:**
 
@@ -212,6 +215,8 @@ Elegantan desert savršen za posebne prilike.
 4. Umutite vrhnje i bjelanjke zasebno.
 5. Pažljivo pomiješajte sve sastojke.
 6. Rasporedite u čaše i ohladite 4 sata.
+
+**Upozorenje**: u ovom desertu bjelanjci su sirovi, a sirova jaja mogu prenijeti salmonelu. Koristite pasterizirane bjelanjke ili desert ne dajte trudnicama, maloj djeci, starijim osobama i osobama oslabljenog imuniteta.
 
 
 
@@ -232,7 +237,13 @@ Elegantan desert savršen za posebne prilike.
 * 200 g crnog ribiza
 * 2 žlice škroba
 
+**Priprema (osnovni postupak):**
 
+1. Kekse sameljite, pomiješajte s otopljenim maslacem i utisnite na dno kalupa.
+2. Krem sir izmiješajte sa šećerom, zatim dodajte jedno po jedno jaje i škrob.
+3. Lagano umiješajte crni ribiz i smjesu izlijte na podlogu.
+4. Pecite na 160 °C 50–60 minuta, dok sredina ne bude tek malo drhtava.
+5. Ostavite da se ohladi, a zatim ga stavite u hladnjak na nekoliko sati.
 
 ## Prednosti u kulinarstvu
 
@@ -242,6 +253,6 @@ Elegantan desert savršen za posebne prilike.
 
 
 
-Crni ribiz sadrži prirodne kiseline koje pomažu u konzervaciji: produljuje vijek trajanja proizvoda, sprječava rast bakterija, održava svježinu okusa.
+Crni ribiz sadrži prirodne kiseline, a kiselost otežava rast mikroorganizama i pomaže u čuvanju zimnice. Ipak, o sigurnosti zimnice najviše odlučuju čiste i sterilizirane staklenke, dovoljno šećera i pravilno zatvaranje.
 
-Pročitajte i: [kalorije crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
+Ako ribiz želite uzgojiti sami, pročitajte [vodič za uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/), a zašto se uz obroke bogate željezom isplati jesti voće s vitaminom C, objašnjava članak o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/).

@@ -23,61 +23,53 @@ related_articles:
   - recepti-i-ideje-od-crnog-ribiza
 ---
 
-
-**Pravilno vrijeme i tehnika berbe** osiguravaju maksimalan okus, nutritivnu vrijednost i dugotrajnost plodova.
-
-Iako se [uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/) može činiti složenim, sama berba je relativno jednostavna ukoliko poštujete **ove savjete.**
-
-
+[Crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) najčešće dozrijeva sredinom ljeta, a bere se kad su bobice tamnoljubičaste do crne, sjajne i mekane na dodir. **Pravo vrijeme i način berbe** određuju okus, hranjivu vrijednost i koliko će bobice trajati. Iako [uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/) traži nešto znanja, sama je berba jednostavna. U nastavku saznajte kako prepoznati zrele bobice, kako ih brati i kako ih spremiti.
 
 ## **Kada je vrijeme za berbu?**
 
+Crni ribiz obično dozrijeva **sredinom ljeta**, ovisno o sorti i vremenu.
 
+Zrelost se najbolje prepoznaje po **boji** i teksturi. Zrele bobice su **tamnoljubičaste do gotovo crne**, sjajne i pune.
 
-[Crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) obično dozrijeva **sredinom ljeta**, ovisno o sorti i klimatskim uvjetima.
+Kad ih lagano pritisnete, trebaju biti mekane, ali ne kašaste. Tvrdim i svijetlim bobicama treba još vremena.
 
-Najbolji pokazatelj zrelosti su **boja** i tekstura ploda. Zrele bobice crnog ribiza su **tamnoljubičaste do gotovo crne boje**, sjajne i pune.
-
-Kada ih lagano pritisnete, trebale bi biti mekane, ali ne kašaste. Ako su bobice još uvijek tvrde i svijetle, potrebno im je još vremena za dozrijevanje.
-
-Važno je ne žuriti s berbom jer nedozreli plodovi neće imati puni okus ni aromu.
+Ne žurite s berbom, jer nedozrele bobice nemaju pun okus ni aromu.
 
 ## **Kako brati crni ribiz?**
 
-Berba crnog ribiza može se obavljati **ručno ili, za veće nasade, strojno.**
+Crni ribiz bere se **ručno, a u velikim nasadima i strojno**.
 
-Za kućne vrtove, ručna berba je najčešća i najnježnija metoda.
+U kućnom vrtu najčešće se bere rukom, jer je to najnježniji način.
 
-Evo nekoliko savjeta:
+Nekoliko savjeta:
 
-**• Budite nježni:** bobice crnog ribiza su osjetljive. Berite ih nježno, pazeći da ne oštetite plodove ili grane. Najbolje je brati cijele grozdove, a zatim odvajati pojedinačne bobice.
-
-**•Koristite jednokratne rukavice:** neke sorte crnog ribiza mogu imati sitne dlačice ili biti ljepljive, pa nošenje rukavica može biti korisno.
-
-**•Posuda za berbu:** koristite plitke posude kako se bobice ne bi zgnječile pod vlastitom težinom. Idealne su košare ili plitke kutije obložene papirnatim ručnicima.
-
-**•Berite po suhom vremenu:** izbjegavajte berbu odmah nakon kiše ili rano ujutro dok je rosa. Mokre bobice su podložnije kvarenju.
+* **nježno** – bobice su osjetljive. Najbolje je brati cijele grozdove, a bobice zatim odvojiti
+* **rukavice** – listovi i grančice crnog ribiza imaju mirisne žlijezde, a sok bobica boji ruke, pa tanke rukavice dobro dođu
+* **plitke posude** – košare ili plitke kutije obložene papirnatim ručnicima, da se bobice ne zgnječe pod vlastitom težinom
+* **suho vrijeme** – ne berite odmah nakon kiše ni rano ujutro dok je rosa, jer se mokre bobice brže kvare
 
 ## **Nakon berbe: skladištenje i obrada**
 
-Nakon berbe, crni ribiz je najbolje konzumirati svjež ili ga što prije obraditi.
+Crni ribiz najbolje je pojesti svjež ili ga što prije preraditi.
 
-Svježe bobice mogu se čuvati u hladnjaku samo **nekoliko dana.**
+U hladnjaku svježe bobice traju samo **nekoliko dana**.
 
-Za dugotrajnije skladištenje, crni ribiz se može zamrznuti, osušiti ili preraditi u džemove, sokove, sirupe ili likere. Za pripremu soka, džema i deserta pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
+Za dulje čuvanje bobice zamrznite, osušite ili preradite u džem, sok, sirup ili liker. Za sok, džem i deserte pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/), a koliko kalorija ima svaki od tih oblika, pregled [kalorija crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
 
-Zamrzavanje je odličan način za očuvanje nutritivne vrijednosti i okusa za kasniju upotrebu.
+Zamrzavanjem se dobro čuvaju okus i hranjive tvari.
 
 ## **Savjeti profesionalaca i trikovi za učinkovitu berbu**
 
-Iskusni uzgajivači i veliki proizvođači crnog ribiza primjenjuju specifične tehnike kako bi optimizirali berbu i osigurali kvalitetu.
+Iskusni uzgajivači i veliki proizvođači imaju nekoliko trikova za bržu berbu i bolju kvalitetu.
 
-Jedan od trikova je rezanje **cijelih rodnih grana** umjesto branja pojedinačnih bobica.
+Jedan je **rezanje cijelih rodnih grana** umjesto branja pojedinačnih bobica.
 
-To olakšava transport i smanjuje oštećenja plodova, a bobice se kasnije mogu odvojiti u kontroliranim uvjetima.
+Tako se lakše prenose i manje oštećuju, a bobice se odvajaju poslije, u miru.
 
-Ova metoda je posebno korisna ako planirate zamrzavanje ili preradu, jer se bobice mogu zamrznuti na granama, a zatim lako odvojiti kada su smrznute.
+Ta je metoda korisna ako bobice namjeravate zamrznuti ili preraditi: grane se mogu zamrznuti s bobicama, a smrznute bobice lako se odvajaju.
 
-Bez obzira na metodu, bitno je osigurati da su bobice potpuno suhe prije skladištenja kako bi se spriječila pojava plijesni i produžio vijek trajanja.
+Bez obzira na način berbe, bobice prije spremanja moraju biti potpuno suhe, da ne pljesnive.
 
-Pravilno orezivanje grmova nakon berbe također doprinosi boljoj rodnosti u sljedećoj sezoni, osiguravajući kontinuiranu opskrbu ovim zdravim voćem.
+Orezivanje grmova nakon berbe ili tijekom zime potiče bolji urod sljedeće godine, jer crni ribiz rađa na mladim granama. Slično se orezuje i srodni [ogrozd](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
+
+![Infografika: sadnja crnog ribiza 5 cm dublje, razmak 1,2 do 1,5 m, zimska rezidba do četvrtine najstarijih grana, berba sredinom ljeta, uz upozorenje da se ne uklanjaju svi mladi izdanci](/images/articles/infografika-crni-ribiz-sadnja-rezidba.webp)

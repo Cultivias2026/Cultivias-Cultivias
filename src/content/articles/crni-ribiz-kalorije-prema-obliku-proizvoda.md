@@ -23,7 +23,7 @@ noindex: false
 ---
 ## Koliko kalorija ima porcija svježeg crnog ribiza?
 
-[Porcija od 50 g](https://fdc.nal.usda.gov/food-details/173963/nutrients) ima oko **32 kcal**, dok 150 g bobica odvojenih u zdjelicu daje oko 95 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena, jer svaka šaka i zdjelica ne sadrže jednaku masu voća.
+Prema bazi podataka FoodData Central američkog Ministarstva poljoprivrede (USDA), [porcija od 50 g](https://fdc.nal.usda.gov/food-details/173963/nutrients) svježeg [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) ima oko **32 kcal**, dok 150 g bobica odvojenih u zdjelicu daje oko 95 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena, jer svaka šaka i zdjelica ne sadrže jednaku masu voća.
 
 Važite očišćene bobice bez peteljki. Savjete za odvajanje i čuvanje plodova donosi vodič za [berbu crnog ribiza](https://www.cultivias.com/voce/berba-crnog-ribiza-kako-i-kada/).
 
@@ -36,7 +36,7 @@ Ako ribiz dodajete jogurtu ili ga blendate u smoothie, kalorije cijelih bobica r
 | 100-postotni sok, primjer proizvoda | 37 kcal / 100 ml | Čaša od 2 dl, 200 ml | 74 kcal |
 | Džem, primjer proizvoda | 236 kcal / 100 g | 20 g namaza | oko 47 kcal |
 
-Sok i džem u tablici su Oleofarm Blackcurrant Juice 100% i Bonne Maman Blackcurrant Conserve. Brojke vrijede za te proizvode, a ne za sve sokove i džemove; **100 g i 100 ml nisu ista mjera**.
+Sok i džem u tablici su proizvodi poljskog proizvođača Oleofarm (Blackcurrant Juice 100%) i francuskog proizvođača Bonne Maman (Blackcurrant Conserve). Brojke vrijede za te proizvode, a ne za sve sokove i džemove; **100 g i 100 ml nisu ista mjera**.
 
 ![Infografika: kalorije crnog ribiza prema obliku. 50 g svježih bobica ima oko 32 kcal, 100 g kućno smrznutih oko 63 kcal, čaša od 2 dl soka 74 kcal i 20 g džema oko 47 kcal](/images/articles/infografika-crni-ribiz-kalorije.webp)
 
@@ -66,7 +66,7 @@ Jednom izvažite količinu koju zahvatite svojom žlicom ili žličicom. Ravna i
 
 ## Kako računati domaći džem?
 
-Za domaći džem zbrojite energiju sastojaka i podijelite je s masom gotovog namaza. U račun ulaze ribiz i dodaci, primjerice [šećer s 400 kcal na 100 g](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/).
+Za domaći džem zbrojite energiju sastojaka i podijelite je s masom gotovog namaza. U račun ulaze ribiz i dodaci, primjerice [šećer s 400 kcal na 100 g](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/), prema norveškoj službenoj bazi o sastavu namirnica Matvaretabellen. Recepte za džem, sok i sirup donosi članak [recepti i ideje od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
 
 Gubitak vode pri kuhanju povećava kalorije na 100 g, ali ne dodaje energiju cijeloj smjesi. Ovaj račun vrijedi kada jestivi sastojci ostaju u džemu, ne kada dio njih procijedite i odbacite.
 
@@ -84,6 +84,6 @@ Iako se [crni ribiz koristi u različitim prerađevinama](https://www.cultivias.
 
 Primjer računa za zamišljeni kompot: 300 g ribiza (189 kcal), 100 g šećera (400 kcal) i 500 ml vode (0 kcal) daju ukupno 589 kcal u oko 900 g kompota, odnosno oko 65 kcal na 100 g. Porcija od 200 g ima oko 131 kcal.
 
-Pedeset grama svježih bobica daje oko 32 kcal, čaša od 2 dl prikazanog soka 74 kcal, a 20 g džema oko 47 kcal. Za svoj obrok usporedite baš te količine, a ne jednaku zdjelicu voća i čašu napitka.
+Pedeset grama svježih bobica daje oko 32 kcal, čaša od 2 dl prikazanog soka 74 kcal, a 20 g džema oko 47 kcal. Za svoj obrok usporedite baš te količine, a ne jednaku zdjelicu voća i čašu napitka. Na isti način usporedili smo kalorije [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/), [ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/) i [bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Što crni ribiz sadrži osim kalorija, opisuje članak o njegovoj [ljekovitosti](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

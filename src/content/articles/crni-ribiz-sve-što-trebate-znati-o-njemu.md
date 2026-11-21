@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/20240624_192501.jpg
 perex: Crni ribiz je popularna biljka poznata po svojem bogatom nutritivnom
   profilu i raznim prednostima za zdravlje.
-readTime: 4
+readTime: 6
 publishedAt: 2024-06-16
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,166 +19,142 @@ related_articles:
   - berba-crnog-ribiza-kako-i-kada
   - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
 ---
-U ovom članku istražit ćemo sve aspekte crnog ribiza, uključujući njegove karakteristike, nutritivne vrijednosti, različite oblike i načine primjene, te praktične savjete za uključivanje u svakodnevnu prehranu i uzgoj.
+
+Crni ribiz (*Ribes nigrum*) listopadni je grm čije tamne, kiselkaste bobice sadrže mnogo vitamina C i antocijana, biljnih pigmenata s antioksidativnim djelovanjem. Prema bazi američkog Ministarstva poljoprivrede (USDA), 100 g svježih bobica ima oko 181 mg vitamina C, više nego dvostruko od preporučenog dnevnog unosa. U nastavku saznajte kako prepoznati crni ribiz, što sadrži, u kojim se oblicima koristi te kako ga uzgojiti i ubrati.
 
 ## Što je crni ribiz?
 
-Crni ribiz (Ribes nigrum) je listopadni grm porijeklom iz Europe i sjeverne Azije.
+Crni ribiz (*Ribes nigrum*) listopadni je grm podrijetlom iz Europe i sjeverne Azije.
 
-Ova biljka proizvodi male, tamne bobice koje su bogate vitaminima, mineralima i antioksidansima.
+Daje male, tamne bobice koje sadrže vitamine, minerale i antioksidanse.
 
-Grm može narasti do **visine od jednog do dva metra** i ima karakteristične, nazubljene listove.
+Grm naraste **od jednog do dva metra** i ima nazubljene, mirisne listove.
 
-Bobice rastu u grozdovima, a njihova boja može varirati od tamnoljubičaste do gotovo crne.
+Bobice rastu u grozdovima, a boja im je od tamnoljubičaste do gotovo crne.
 
 ## Povijest i tradicija
 
-Povijest crnog ribiza seže stoljećima unazad, gdje se koristio u narodnoj medicini za podršku različitim zdravstvenim stanjima.
+Crni ribiz se stoljećima koristi u narodnoj medicini, ponajviše za pripremu okrepljujućih napitaka i ljekovitih čajeva od listova.
 
-Ova biljka je bila cijenjena zbog svojih svojstava i često se koristila za pripremu tonika i ljekovitih napitaka.
+Uzgoj ne traži mnogo truda, ali grm treba dovoljno sunca i tlo iz kojeg voda lako otječe.
 
-Uzgajanje crnog ribiza zahtijeva malo pažnje, ali je važno osigurati biljci dovoljno sunčeve svjetlosti i dobro drenirano tlo.
-
- Crni ribiz je također otporan na hladnoću, što ga čini idealnim za uzgoj u umjerenim i hladnijim klimama.
+Crni ribiz dobro podnosi hladnoću, pa uspijeva u umjerenim i hladnijim krajevima.
 
 ## Nutritivne vrijednosti
 
-Crni ribiz je prava nutritivna riznica. Sadrži **visoke količine vitamina C**, koji je ključan za podršku imunološkom sustavu, kao i **vitamina K**, koji je važan za zdravlje kostiju i normalnu koagulaciju krvi.
+Crni ribiz je jedno od voća s najviše vitamina C. Vitamin C sudjeluje u normalnoj funkciji imunosnog sustava i pomaže tijelu da bolje iskoristi željezo iz hrane.
 
-Osim toga, crni ribiz je bogat dijetalnim vlaknima koja pomažu u probavi i održavanju zdrave tjelesne težine.
+| Hranjiva tvar | Količina na 100 g svježih bobica | Udio preporučenog dnevnog unosa* |
+| --- | ---: | ---: |
+| Energija | 63 kcal | – |
+| Vitamin C | 181 mg | 226 % |
+| Kalij | 322 mg | 16 % |
+| Željezo | 1,54 mg | 11 % |
+| Kalcij | 55 mg | 7 % |
 
-Bobice također sadrže **antocijanine**, moćne antioksidanse koji imaju protuupalna svojstva i mogu pružiti podršku u smanjenju rizika od kroničnih bolesti.
+*Podaci prema bazi [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/173963/nutrients). Udio je izračunat prema referentnim vrijednostima unosa za odrasle iz Uredbe (EU) br. 1169/2011.*
+
+Crni ribiz sadrži i prehrambena vlakna, koja pomažu probavi, te **antocijane**. Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) u [priručniku o crnom ribizu](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf) navodi oko 1.741 mg antocijana na 100 g svježih bobica, više nego u kupinama, borovnicama i malinama. Takvih je spojeva mnogo i u [aronijinim](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [bazginim bobicama](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
 
 ## Crni ribiz i zdravlje
 
-Crni ribiz je poznat po svojim brojnim svojstvima za podršku zdravlju.
+Antioksidansi iz crnog ribiza neutraliziraju slobodne radikale, nestabilne molekule koje oštećuju stanice. Laboratorijska i manja klinička istraživanja upućuju na to da bi mogli smanjiti upalu u tijelu, no za konkretne zdravstvene učinke potrebno je više istraživanja na ljudima.
 
-Bogat je antioksidansima koji pomažu u borbi protiv slobodnih radikala, čime se pruža podrška u održavanju zdravlja.
-
-Antioksidansi iz crnog ribiza također mogu pružiti podršku u smanjenju upala u tijelu, što je korisno za osobe koje žele održati zdravlje zglobova.
-
-Vitamin C, prisutan u velikim količinama, igra ključnu ulogu u podršci imunološkom sustavu.
-
-Redovita konzumacija crnog ribiza može pružiti podršku u održavanju zdravlja tijekom cijele godine.
-
-Osim toga, vitamin C je važan za zdravlje kože jer potiče proizvodnju kolagena, što može pomoći u održavanju elastičnosti i čvrstoće kože.
+Vitamin C, kojega u crnom ribizu ima mnogo, sudjeluje u radu imunosnog sustava. Potreban je i za stvaranje kolagena, bjelančevine koja koži daje čvrstoću.
 
 ## Crni ribiz i željezo
 
-Jedna od važnih karakteristika crnog ribiza je njegov [visok sadržaj željeza](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/), što je važno za proizvodnju crvenih krvnih stanica i održavanje energije.
+Crni ribiz sadrži oko 1,5 mg željeza na 100 g, što je za voće razmjerno mnogo, ali manje nego u mesu, mahunarkama ili zelenom lisnatom povrću. Veća je prednost što vitamin C iz bobica pomaže tijelu da bolje iskoristi željezo iz biljne hrane. Više o tome piše u članku o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/).
 
-Redovita konzumacija crnog ribiza može pomoći u održavanju optimalnih razina željeza u tijelu, posebno za osobe koje su pod rizikom od nedostatka željeza, poput trudnica i vegetarijanaca.
-
-Trudnice se obavezno prije konzumiranja trebaju posavjetovati sa svojim liječnikom.
-
-
+Ako sumnjate na manjak željeza, osobito u trudnoći, javite se liječniku. Manjak željeza ne liječi se voćem.
 
 ### Ljekovitost i zdravstvene prednosti
 
+[Ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/) temelji se na antocijanima, flavonolima, fenolnim kiselinama i višestruko nezasićenim masnim kiselinama iz sjemenki.
 
+Istraživanja se najviše bave ovim područjima:
 
-[Crni ribiz pruža podršku](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/) kroz svoje bioaktivne spojeve – antocijane, flavonole, fenolne kiseline i polunasićene masne kiseline.
+* **imunosni sustav** – zbog visokog udjela vitamina C
+* **upalni procesi** – antocijani u laboratoriju smanjuju upalne biljege
+* **zaštita stanica** – antioksidansi neutraliziraju slobodne radikale
+* **srce i krvne žile** – polifenoli iz bobica povezuju se s boljim pokazateljima zdravlja srca
+* **oči** – neka manja istraživanja ispituju djelovanje antocijana na umor očiju
 
-Moderna istraživanja potvrđuju da crni ribiz pruža podršku u:
-
-* Jačanju imunološkog sustava
-* Smanjenju upala u tijelu
-* Zaštiti stanica od oksidativnog stresa
-* Održavanju zdravlja srca i krvnih žila
-* Podršci zdravlju očiju
-
-
+Za većinu tih učinaka dokazi su zasad preliminarni.
 
 ## Različiti oblici crnog ribiza
 
-
-
 ### Ekstrakt crnog ribiza
 
+Ekstrakt crnog ribiza dodaje se dodacima prehrani i kozmetici zbog antioksidativnih svojstava. Dobiva se koncentriranjem djelotvornih tvari iz bobica.
 
-
-Ekstrakt crnog ribiza koristi se u raznim suplementima i kozmetičkim proizvodima zbog svojih antioksidativnih svojstava. Ekstrakt se dobiva koncentriranjem aktivnih sastojaka iz bobica, čime se povećava njihova učinkovitost.
-
-Također je poznato da ekstrakt crnog ribiza može pružiti podršku u održavanju zdravlja očiju i smanjenju simptoma alergija. Antioksidansi iz ekstrakta crnog ribiza mogu neutralizirati slobodne radikale u tijelu, čime se pruža podrška u održavanju zdravlja i vitalnosti.
+Ispituje se njegovo djelovanje na umor očiju i simptome alergija, no dokazi su zasad ograničeni.
 
 ### Kapi crnog ribiza
 
-
-
-[Kapi crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/) su popularan oblik suplementacije koji omogućuje jednostavnu i učinkovitu konzumaciju ovog korisnog voća. Kapi se obično dodaju u vodu ili sok i piju se kao dio svakodnevne rutine.
-
-Često se koriste za podršku zdravlju kože, jačanje imunološkog sustava i povećanje energije. Redovita konzumacija kapi crnog ribiza može pomoći u održavanju hidratacije kože i smanjenju znakova starenja.
-
-
+[Kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/) najčešće se rade od pupoljaka biljke, a dodaju se vodi ili soku. Mnogi ih koriste za opću okrepu, no za tvrdnje o jačanju imuniteta, energiji ili koži nema čvrstih dokaza.
 
 ### Ulje crnog ribiza
 
+Ulje crnog ribiza dobiva se iz sjemenki. Sadrži esencijalne masne kiseline, među njima i gama-linolensku kiselinu (GLA), masnu kiselinu koja se istražuje zbog protuupalnog djelovanja.
 
-
-Ulje crnog ribiza dobiva se iz sjemenki biljke i bogato je esencijalnim masnim kiselinama, uključujući gama-linolensku kiselinu (GLA). GLA je poznata po svojim protuupalnim svojstvima i koristi se za podršku raznim stanjima.
-
-Ovo ulje ima protuupalna svojstva i može pružiti podršku u održavanju zdravlja kože, zglobova i općeg blagostanja.
+Ulje se koristi kao dodatak prehrani i u njezi kože.
 
 ### List crnog ribiza
 
+Od listova crnog ribiza priprema se čaj. Europska agencija za lijekove (EMA) priznaje [tradicionalnu upotrebu lista crnog ribiza](https://www.ema.europa.eu/en/medicines/herbal/ribis-nigri-folium) kod blagih bolova u zglobovima i za pojačano mokrenje kod blagih tegoba mokraćnog sustava, i to samo kod odraslih.
 
-
-Listovi crnog ribiza također su korisni i često se koriste za pripremu čaja. Čaj ima blaga svojstva i može pružiti podršku u detoksikaciji tijela.
-
-Listovi crnog ribiza mogu se koristiti svježi ili sušeni za pripremu ljekovitih napitaka. Oni sadrže vitamine i minerale koji mogu pomoći u podržavanju općeg zdravlja i dobrobiti.
+Osobe s teškim bolestima srca ili bubrega, kojima je preporučeno ograničiti unos tekućine, ne smiju ga koristiti za ispiranje mokraćnog sustava. Ako bolovi u zglobovima traju dulje od četiri tjedna ili tegobe s mokrenjem dulje od dva tjedna, javite se liječniku.
 
 ### Uzgoj crnog ribiza
 
+Osnovne smjernice za [sadnju i uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/):
 
-
-Evo osnovnih smjernica za [sadnju i uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/):
+![Infografika: sadnja crnog ribiza 5 cm dublje, razmak 1,2 do 1,5 m, zimska rezidba do četvrtine najstarijih grana, berba sredinom ljeta, uz upozorenje da se ne uklanjaju svi mladi izdanci](/images/articles/infografika-crni-ribiz-sadnja-rezidba.webp)
 
 **Sadnja**
 
-Crni ribiz preferira sunčana do polusjenovita mjesta s dobro dreniranim tlom. Sadite ga u jesen ili rano proljeće, osiguravajući dovoljno prostora između biljaka za dobar protok zraka.
+Crni ribiz voli sunčano do polusjenovito mjesto i tlo iz kojeg voda lako otječe. Sadi se u jesen ili rano proljeće, s dovoljno razmaka između grmova da zrak struji.
 
-Sadnice treba posaditi na dubinu od oko 5 cm, a tlo treba obogatiti organskim materijalima kako bi se osigurala dobra drenaža i plodnost.
+Kraljevsko hortikulturno društvo (Royal Horticultural Society), britanska vrtlarska organizacija, u [uputama za uzgoj crnog ribiza](https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own) savjetuje da se sadnica posadi oko 5 cm dublje nego što je rasla u lončiću, jer tada iz osnove grma izbija više novih izdanaka. Tlo prije sadnje obogatite kompostom.
 
 **Njega**
 
-Redovito zalijevajte biljke, posebno tijekom sušnih razdoblja, i održavajte tlo oko njih čistim od korova. Prihranjujte biljke kompostom ili organskim gnojivima kako bi osigurali zdravi rast. Malčiranje tla oko biljaka može pomoći u zadržavanju vlage i smanjenju rasta korova.
+Zalijevajte redovito, osobito za suše, i uklanjajte korov oko grmova. Prihranjujte kompostom ili organskim gnojivima. Malč oko grmova čuva vlagu i smanjuje rast korova.
 
-**Obrezivanje**
+**Orezivanje**
 
-Obrežite grmlje tijekom zime kako biste potaknuli novi rast i poboljšali kvalitetu plodova. Uklonite stare i oštećene grane kako bi biljka mogla proizvoditi više bobica. Obrezivanje također pomaže u održavanju oblika grma i omogućava bolji protok zraka, što smanjuje rizik od bolesti.
+Grmove orezujte zimi. Crni ribiz najbolje rađa na mladim granama, pa svake godine pri tlu odrežite do četvrtine najstarijih grana, a uklonite i slabe i oštećene. Grm tako ostaje prozračan, a rizik od bolesti manji.
 
 **Berba**
 
-[Berba crnog ribiza](https://www.cultivias.com/voce/berba-crnog-ribiza-kako-i-kada/) obično se odvija sredinom ljeta, kada su bobice potpuno zrele i tamne. Pažljivo berite bobice kako ne biste oštetili grane, koristeći škare ili ručno branje. Bobice su spremne za berbu kada postignu punu boju i lako se odvajaju od grane.
+[Berba crnog ribiza](https://www.cultivias.com/voce/berba-crnog-ribiza-kako-i-kada/) najčešće je sredinom ljeta, kad su bobice potpuno zrele i tamne. Berite ih pažljivo, rukom ili škarama, da ne oštetite grane. Bobice su zrele kad dobiju punu boju i lako se odvajaju od peteljke.
 
-Nakon berbe, bobice se mogu koristiti svježe ili se mogu zamrznuti za kasniju upotrebu.
-
-
+Ubrane bobice jedite svježe ili ih zamrznite.
 
 ## Recepti i kulinarske ideje
 
-
-
 ### Džem od crnog ribiza
 
-
-
-Kombinacija crnog ribiza, šećera i limunovog soka stvara ukusni domaći džem koji se može koristiti kao namaz za kruh ili kao dodatak kolačima. Za pripremu džema, kuhajte 1 kg crnog ribiza sa 750 g šećera i sokom od jednog limuna dok ne postigne željenu gustoću. Za pripremu soka, džema i deserta pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
+Od crnog ribiza, šećera i limunova soka kuha se džem za kruh i kolače. Skuhajte 1 kg crnog ribiza sa 750 g šećera i sokom jednog limuna dok se ne zgusne. Za sok, džem i deserte pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
 
 ### Smoothie s crnim ribizom
 
-
-
-Pomiješajte svježe bobice crnog ribiza s bananom, grčkim jogurtom i medom za osvježavajući i zdrav doručak. Ovaj smoothie je odličan način za započeti dan s puno energije i hranjivih tvari. Brojke za svježe bobice, sok i džem donosi članak [kalorije crnog ribiza prema obliku proizvoda](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
+Izmiksajte svježe bobice crnog ribiza s bananom, grčkim jogurtom i medom za osvježavajući doručak. Koliko kalorija imaju svježe bobice, sok i džem, donosi članak o [kalorijama crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
 
 ### Salata s crnim ribizom
 
-
-
-Dodajte svježe bobice crnog ribiza u zelenu salatu zajedno s orasima, feta sirom i balzamičnim octom za ukusnu i hranjivu salatu. Kombinacija kiselkastih bobica, kremastog sira i hrskavih oraha stvara savršen balans okusa i tekstura.
+Svježe bobice dodajte zelenoj salati s orasima, feta sirom i balzamičnim octom. Kiselkaste bobice, kremast sir i hrskavi orasi dobro se slažu.
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
 **NAPOMENA/DISCLAIMER:**
 
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kadulje u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crnog ribiza u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Američko Ministarstvo poljoprivrede, baza FoodData Central – [Crni ribiz, sirov (Currants, european black, raw)](https://fdc.nal.usda.gov/food-details/173963/nutrients)
+- Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) – [Crni ribiz, priručnik (Black Currant Fact Sheet)](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf)
+- Europska agencija za lijekove (EMA) – [List crnog ribiza, sažetak za biljni lijek (Ribis nigri folium)](https://www.ema.europa.eu/en/medicines/herbal/ribis-nigri-folium)
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti crni ribiz (How to Grow Blackcurrants)](https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own)
