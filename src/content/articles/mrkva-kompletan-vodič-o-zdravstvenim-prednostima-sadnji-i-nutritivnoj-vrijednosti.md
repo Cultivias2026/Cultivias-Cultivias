@@ -7,8 +7,9 @@ image: /images/articles/crvena-mrkva-plod-i-listovi.png
 perex: Mrkva (Daucus carota) je jedno od najrasprostranjenijih i najomiljenijih
   povrća na svijetu, cijenjena zbog svoje svestranosti u kulinarstvu, hrskave
   teksture i bogatog nutritivnog profila.
-readTime: 7
+readTime: 24
 publishedAt: 2024-10-28
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -19,457 +20,413 @@ related_articles:
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
-Ovo korjenasto povrće, prepoznatljivo po svojoj **narančastoj boji,** zapravo dolazi u nizu različitih boja, uključujući **ljubičastu, crvenu, žutu i bijelu,** od kojih svaka nosi jedinstvene zdravstvene prednosti.
 
-Povijest uzgoja mrkve seže tisućama godina unatrag, s prvim zabilježenim uzgojem na području današnjeg Afganistana, odakle se proširila diljem Azije, Europe i ostatka svijeta.
+Mrkva je korjenasto povrće koje najčešće viđamo narančasto, ali uzgajaju se i ljubičaste, crvene, žute i bijele sorte, a boja otkriva koje biljne pigmente korijen sadrži. Sto grama sirove mrkve ima samo 41 kcal, a pokriva cijeli referentni dnevni unos vitamina A. U nastavku saznajte po čemu se razlikuju vrste i sorte, što mrkva sadrži, što o njezinu djelovanju kažu istraživanja te kako je posijati, uzgojiti, ubrati i sačuvati.
+
+Divlja mrkva raste u Europi i Aziji odavno, a njezine sjemenke pronađene su na prapovijesnim nalazištima u Njemačkoj i Švicarskoj starima 3000 do 5000 godina. Uzgojena mrkva prvi se put spominje prije otprilike 1100 godina u srednjoj Aziji, navodi Sveučilište Kalifornije u Davisu (UC Davis) u vijesti o istraživanju genoma mrkve. Genetski joj je najbliža divlja mrkva s područja današnjeg Afganistana, Uzbekistana i Irana. Prve uzgojene mrkve bile su ljubičaste i žute, a narančasta se pojavila u Europi tek u 16. stoljeću.
 
 ## Što je mrkva? - definicija i osnovna svojstva
 
-Mrkva je korjenasto povrće iz porodice štitarki (Apiaceae), kojoj pripadaju i celer, peršin i komorač.
+Mrkva (*Daucus carota*) korjenasto je povrće iz porodice štitarki (Apiaceae), kojoj pripadaju i celer, peršin i komorač. Jede se zadebljali glavni korijen, u kojem biljka skladišti hranu za drugu godinu rasta.
 
-Ono što obično konzumiramo je glavni, zadebljali korijen biljke, koji služi kao skladište hranjivih tvari za rast biljke u drugoj godini.
-
-Iako se najčešće percipira kao jednogodišnja kultura, mrkva je zapravo **dvogodišnja biljka** koja u prvoj godini razvija rozetu lišća i skladišni korijen, a u drugoj godini cvjeta i proizvodi sjeme.
+Iako se uzgaja kao jednogodišnja kultura, mrkva je **dvogodišnja biljka**. U prvoj godini razvije rozetu listova i korijen, a u drugoj cvjeta i daje sjeme. Kad procvjeta već u prvoj godini, korijen postane drvenast i nejestiv, o čemu više piše u dijelu o sjetvi.
 
 ## Fizička svojstva i karakteristike
 
-Mrkva se odlikuje hrskavom teksturom i slatkim, blagozemljanim okusom. Oblik korijena varira ovisno o sorti, od cilindričnog ikonusnog do gotovo okruglog.
+Mrkva je hrskava, slatkasta i blago zemljanog okusa. Oblik korijena ovisi o sorti, od valjkastog i stožastog do gotovo okruglog.
 
-Boja korijena potječe od specifičnih pigmenata; narančastaod beta-karotena, ljubičastaod antocijanina, crvenaod likopena,a žuta od ksantofila. Upravo ti pigmenti, koji su snažniantioksidansi, daju mrkvi velik dio njenih zdravstvenih prednosti.
+Boja potječe od biljnih pigmenata:
+
+* **narančasta** – alfa- i beta-karoten
+* **ljubičasta** – antocijanini
+* **crvena** – likopen
+* **žuta** – lutein
+
+Ti pigmenti imaju antioksidativno djelovanje, što znači da u laboratorijskim uvjetima neutraliziraju slobodne radikale, nestabilne molekule koje mogu oštetiti stanice. Alfa- i beta-karoten tijelo uz to pretvara u vitamin A.
 
 ### Korištenje mrkve u kulinarstvu
 
-Svestranost mrkve u kuhinji je gotovo neograničena. Može se konzumirati sirova mrkva kao zdrava grickalica, naribana u salatama (ribana mrkva salata), ili kao dio svježe cijeđenih sokova. Kuhana mrkva je neizostavan sastojak juha, variva i umaka, a pečena mrkva postaje slatkasta i mekana, čineći izvrstan prilog. Njena prirodna slatkoća čini je pogodnom i za pripremu slastica, poput popularnog kolača od mrkve. Brojke za sirovu, kuhanu i pečenu mrkvu donosi članak [mrkva i kalorije](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/).
+Mrkva se jede sirova kao grickalica, naribana u salati ili iscijeđena u sok. Kuhana je osnova juha, variva i umaka, a pečena postaje mekana i slađa. Zbog prirodne slatkoće dodaje se i u kolače, primjerice u poznati kolač od mrkve. Brojke za sirovu, kuhanu i pečenu mrkvu donosi članak o [kalorijama u mrkvi](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/).
 
 ## Vrste mrkve – boje, karakteristike i razlike
 
-Iako je **narančasta mrkva najpoznatija**, različite boje mrkve nude jedinstvene nutritivne profile i okuse. Raznolikost boja nije samo estetski privlačna, već ukazuje i na prisutnost različitih bioaktivnih spojeva s povoljnim učincima na zdravlje.
+Narančasta mrkva najpoznatija je i najčešća, a mrkve drugih boja sadrže drukčije biljne spojeve i imaju nešto drukčiji okus. Glavne razlike opisane su u nastavku.
 
-**Crvena mrkva – likopen i antioksidansi**
+### Crvena mrkva – likopen i antioksidansi
 
-Crvena mrkva svoju boju duguje likopenu, istom antioksidansu koji se nalazi u rajčicama i lubenicama. Istraživanja su pokazala da likopen može pomoći u **smanjenju rizika** od određenih vrsta raka, posebice raka prostate, te štiti od kardiovaskularnih bolesti [kako navodi studija o fitokemikalijama u mrkvi](https://pmc.ncbi.nlm.nih.gov/articles/PMC6770766/). Crvena mrkva ima slatkast okus i često se koristi u azijskoj kuhinji.
+Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) i lubenicu. Pregledni rad o biljnim spojevima mrkve, objavljen 2019. u znanstvenom časopisu Foods, navodi da se karotenoidi, među njima i likopen, povezuju s manjim rizikom od nekih vrsta raka i bolesti srca.
 
-**Žuta mrkva – lutein i zeaksantin za vid**
+Takvi dokazi dolaze većinom iz opservacijskih istraživanja, koja prate prehranu i zdravlje ljudi, ali ne mogu dokazati uzrok, te iz laboratorijskih pokusa. Crvena mrkva zato nije zaštita od raka prostate ni lijek. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
 
-Žuta mrkva bogata je ksantofilima, posebice luteinom i [zeaksantinom](https://healthcare.utah.edu/healthfeed/2025/04/carrots-eye-health-myth-or-fact). Ovi antioksidansi ključni su za zdravlje očiju jer se nakupljaju u mrežnici i štite je od oštećenja uzrokovanih plavom svjetlošću i slobodnim radikalima.
+### Žuta mrkva – lutein i zeaksantin za vid
 
-Redovita konzumacija hrane bogate luteinom i zeaksantinom, poput **žute mrkv**e, može smanjiti rizik od [senilne makularne degeneracij](https://www.mojeoko.hr/savjeti-za-zdrave-oci/tegobe-s-ocima/senilna-makularna-degeneracija/)e [prema American Optometric Association](https://www.aoa.org/healthy-eyes/caring-for-your-eyes/diet-and-nutrition/lutein-and-zeaxanthin). Žuta mrkva zdravlje očiju stavlja u prvi plan.
+Žuta mrkva sadrži lutein, žuti pigment koji se zajedno sa zeaksantinom nakuplja u žutoj pjegi (makuli), središnjem dijelu mrežnice koji nam omogućuje oštar vid. Ondje filtrira plavo svjetlo i štiti stanice od oksidativnog oštećenja.
 
-**Ljubičasta mrkva – antocijanini i antioksidativna svojstva**
+Američko udruženje optometrista (American Optometric Association) navodi da prehrana bogata luteinom i zeaksantinom može smanjiti rizik od [senilne makularne degeneracije](https://www.mojeoko.hr/savjeti-za-zdrave-oci/tegobe-s-ocima/senilna-makularna-degeneracija/), najčešćeg uzroka slabljenja vida u starijoj dobi. Najviše ih ipak ima tamnozeleno lisnato povrće. Sto grama sirovog špinata sadrži oko 12 mg luteina i zeaksantina, a sto grama mrkve oko 0,3 mg, prema podacima USDA-a.
 
-Ljubičasta mrkva je izvorna boja kultivirane mrkve i sadrži visoke koncentracije antocijanina.
+### Ljubičasta mrkva – antocijanini i antioksidativna svojstva
 
-Ovi snažni antioksidansi, prisutni i u **borovnicama i crvenom kupusu**, imaju protuupalna svojstva, štite krvne žile i mogu poboljšati kognitivne funkcije.
+Ljubičasta je, uz žutu, jedna od prvih boja uzgojene mrkve. Sadrži antocijanine, pigmente kojih ima i u [aroniji](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), borovnicama i crvenom kupusu.
 
-Neke studije sugeriraju da antocijanini mogu pomoći u regulaciji razine šećera u krvi i smanjenju rizika od metaboličkog sindroma [kako pokazuje istraživanje o imunomodulatornim aktivnostima](https://www.sciencedirect.com/science/article/pii/S1756464622003735).
+U laboratorijskim istraživanjima antocijanini djeluju protuupalno i antioksidativno. Pregledni rad objavljen 2022. u časopisu Applied Sciences zaključuje da bi spojevi iz ljubičaste mrkve mogli pomoći u sprječavanju metaboličkog sindroma. To je skup poremećaja koji uključuje povišen šećer, tlak i masnoće u krvi te višak trbušne masti. Ti se zaključci zasad temelje uglavnom na laboratorijskim pokusima i pokusima na životinjama, pa za ljude još nisu potvrđeni.
 
-**Bijela mrkva – manje poznata varijanta**
+### Bijela mrkva – manje poznata varijanta
 
-Bijela mrkva ne sadrži pigmente, ali je i dalje dobar izvor vlakana i drugih fitonutrijenata. Ima blaži i slađi okus od narančaste mrkve, što je čini pogodnom za različite kulinarske primjene gdje se želi izbjeći dodavanje boje jelu.
+Bijela mrkva gotovo nema pigmenata, ali kao i ostale mrkve sadrži vlakna i druge biljne spojeve. Obično je blažeg okusa, pa se koristi u jelima kojima ne želite promijeniti boju. Bijela je i divlja mrkva, od koje potječu sve uzgojene sorte.
 
-**Baby mrkva – mala sorta za grickanje**
+### Baby mrkva – mala sorta za grickanje
 
-Baby mrkva, popularna kao praktična grickalica, zapravo nije minijaturna sorta koja raste u malom obliku. Najčešće se radi o većim, tanjim sortama mrkve koje se strojno režu i oblikuju u prepoznatljivi mali format.
+Baby mrkva iz trgovine najčešće nije posebna sitna sorta. To su dulje i tanje mrkve koje se strojno režu i bruse u komadiće jednake veličine. Prave mlade mrkve dobiju se ranom berbom ili uzgojem sitnih sorti.
 
 ## Sorte mrkve – odabir prave sorte za vašu potrebu
 
-Unutar svake boje mrkve postoji velik broj sorti koje se razlikuju po obliku, veličini, vremenu dospijevanja i okusu. Odabir prave sorte ovisi o namjeni – želite li je jesti **sirovu, kuhati, spremati za zimnicu ili cijediti sok**.
+Unutar svake boje postoje brojne sorte koje se razlikuju oblikom, duljinom korijena, vremenom dozrijevanja i okusom. Izbor ovisi o tlu u vrtu i o tome hoćete li mrkvu jesti svježu, kuhati, čuvati preko zime ili cijediti.
 
-### **Nantes – slatka i sočna sorta za salate**
+### Nantes – slatka i sočna sorta za salate
 
-Sorte tipa [Nantes](https://specialtyproduce.com/produce/Nantes_Carrots_5213.php) su cilindričnog oblika, tupljeg vrha, i poznate su po izrazitoj slatkoći, sočnosti i hrskavoj teksturi s vrlo malo jezgre. Idealne su za konzumaciju u sirovom stanju, u salatama ili kao grickalica. Zbog svoje nježne strukture, omiljene su među vrtlarima amaterima.
+Mrkve tipa [Nantes](https://specialtyproduce.com/produce/Nantes_Carrots_5213.php) valjkastog su oblika i zaobljena vrha. Slatke su, sočne i hrskave, s vrlo malo tvrde srži, pa su dobre za jelo sirove. Uspijevaju u većini vrtnih tala i omiljene su u kućnim vrtovima.
 
-### I**mperator – dugačka sorta za sokove**
+### Imperator – dugačka sorta za sokove
 
-Sorte tipa [Imperator](https://elsoms.com/en/uk/vegetable-seeds/carrots/imperator) su duge, konusne i imaju visok udio šećera, što ih čini idealnim za preradu, posebice za cijeđenje sokova. To je tip mrkve koji se najčešće nalazi u trgovinama, često pakiran u vrećicama. Njihov dugi korijen zahtijeva duboko i rahlo tlo za pravilan rast.
+Mrkve tipa [Imperator](https://elsoms.com/en/uk/vegetable-seeds/carrots/imperator) duge su i tanke, sa šiljastim vrhom i puno šećera. Najčešća su mrkva u američkim trgovinama, a zbog slatkoće se koriste i za sok. Dugom korijenu treba duboko i rahlo tlo, pa ih Savjetodavna služba Sveučilišta Illinois (University of Illinois Extension) za kućne vrtove preporučuje samo gdje je tlo duboko i pjeskovito.
 
 ### Chantenay – kratka sorta za kuhanje i pečenje
 
-Mrkva [Chantenay j](https://poljovrt.hr/proizvod/mrkva-chantenay/)e kratka i zdepasta sorta, konusnog oblika sa širokim “ramenima”. Ima bogat, pun okus koji se kuhanjem dodatno intenzivira, zbog čega je izvrstan izbor za juhe, variva i pečenje. Dobro uspijeva i u težim ili plićim tlima gdje duge sorte ne bi mogle pravilno razviti korijen.
+Mrkva [Chantenay](https://poljovrt.hr/proizvod/mrkva-chantenay/) kratka je i zdepasta, stožastog oblika sa širokim "ramenima", odnosno gornjim dijelom korijena. Punog je okusa, pa se najčešće kuha i peče. Dobro uspijeva i u težem ili plićem tlu, u kojem duge sorte ne mogu razviti pravilan korijen.
 
 ### Ostale popularne sorte
 
-Osim navedenih, postoje i druge značajne skupine sorti poput [Danvers](https://gardenerspath.com/plants/vegetables/grow-danvers-carrots/) (klasična konusna mrkva, dobra i za teža tla) i [Paris Market](https://www.westcoastseeds.com/products/paris-market) (male, okrugle mrkve idealne za uzgoj u posudama). Svaka od ovih sorti prilagođena je specifičnim uvjetima uzgoja i kulinarskim preferencijama.
+Poznate su još sorte tipa [Danvers](https://gardenerspath.com/plants/vegetables/grow-danvers-carrots/), klasične stožaste mrkve koje podnose i teža tla, te [Paris Market](https://www.westcoastseeds.com/products/paris-market), sitne okrugle mrkve pogodne za uzgoj u posudama i plitkom tlu.
 
 ## Nutritivna vrijednost mrkve – kalorije, vitamini i minerali
 
-Mrkva je nutritivno gusta namirnica, što znači da je bogata vitaminima, mineralima i vlaknima, a istovremeno ima nisku kalorijsku vrijednost. Njen impresivan nutritivni profil ključan je za brojne zdravstvene prednosti koje pruža.
+Mrkva ima malo kalorija, puno vode i karotenoida te nešto vlakana. Brojke u tablici potječu iz baze FoodData Central američkog Ministarstva poljoprivrede (USDA), a postotci su izračunati prema referentnim unosima za odrasle iz Uredbe (EU) br. 1169/2011.
 
-**Mrkva kalorije – koliko energije sadrži?**
+| Sastojak u 100 g sirove mrkve | Količina | Udio referentnog dnevnog unosa |
+| --- | --- | --- |
+| Energija | 41 kcal | – |
+| Ugljikohidrati | 9,6 g | – |
+| od toga šećeri | 4,7 g | – |
+| Vlakna | 2,8 g | – |
+| Bjelančevine | 0,9 g | – |
+| Masti | 0,2 g | – |
+| Vitamin A (iz beta-karotena) | 835 µg | 104 % |
+| Vitamin K | 13,2 µg | 18 % |
+| Kalij | 320 mg | 16 % |
+| Vitamin B6 | 0,14 mg | 10 % |
+| Folat | 19 µg | 10 % |
+| Vitamin C | 5,9 mg | 7 % |
+| Mangan | 0,14 mg | 7 % |
+| Vitamin E | 0,66 mg | 6 % |
+| Kalcij | 33 mg | 4 % |
 
-Jedno od čestih pitanja je koliko kalorija ima mrkva. Sirova mrkva je niskokalorična namirnica. U 100 grama sirove mrkve nalazi se otprilike 41 kalorija, što je čini idealnom namirnicom za osobe koje paze na tjelesnu težinu ili žele zdravu grickalicu [prema bazi podataka USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170393/nutrients). Kuhana mrkva kalorije ima još manje, oko 35 kalorija na 100 grama, zbog apsorpcije vode tijekom kuhanja.
+Vitamin A izražen je kao ekvivalent aktivnosti retinola (RAE), mjera koja uzima u obzir da tijelo samo dio beta-karotena iz hrane pretvori u vitamin A.
 
-**Ugljikohidrati u mrkvi – prirodni šećeri i vlakna**
+### Mrkva kalorije – koliko energije sadrži?
 
-U 100 grama mrkve nalazi se oko 9.6 grama ugljikohidrata, od čega su otprilike 4.7 grama prirodni šećeri (uglavnom saharoza, glukoza i fruktoza) koji joj daju karakterističan slatkasti okus. Ostatak čine složeni ugljikohidrati i dijetalna vlakna (oko 2.8 grama). Vlakna su ključna za zdravlje probavnog sustava, pomažu u regulaciji razine šećera u krvi i pridonose osjećaju sitosti [prema Healthline](https://www.healthline.com/nutrition/foods/carrots).
+Sto grama sirove mrkve ima 41 kcal, pa je pogodna za grickanje i za obroke kojima pazite na tjelesnu masu. Kuhana mrkva ima oko 35 kcal na 100 g, jer tijekom kuhanja upije nešto vode.
+
+### Ugljikohidrati u mrkvi – prirodni šećeri i vlakna
+
+U 100 g sirove mrkve ima oko 9,6 g ugljikohidrata. Od toga je 4,7 g prirodnih šećera, ponajviše saharoze, uz nešto glukoze i fruktoze, a 2,8 g su vlakna.
+
+Vlakna potiču rad crijeva, usporavaju porast šećera u krvi nakon obroka i pridonose osjećaju sitosti, navodi američki zdravstveni portal [Healthline](https://www.healthline.com/nutrition/foods/carrots).
 
 ### Vitamini u mrkvi – kompletan pregled
 
-Mrkva je prava riznica vitamina, a najpoznatija je po iznimno visokom udjelu beta-karotena, provitamina A.
+Mrkva je najpoznatija po beta-karotenu, narančastom pigmentu koji tijelo pretvara u vitamin A. Sto grama sirove mrkve pokriva cijeli referentni dnevni unos vitamina A, a jedna srednja mrkva od oko 60 g otprilike dvije trećine.
 
-**Vitamin A (beta-karoten) – najznačajniji vitamin**
+Vitamin A potreban je za vid, osobito pri slabom svjetlu, za rad imunosnog sustava te za zdravu kožu i sluznice, navodi Ured za dodatke prehrani američkih Nacionalnih instituta za zdravlje (NIH Office of Dietary Supplements). Konsenzus stručnjaka objavljen 2010. u časopisu The Journal of Nutrition zaključuje da je [beta-karoten siguran i važan izvor vitamina A](https://pmc.ncbi.nlm.nih.gov/articles/PMC3139236/).
 
-Mrkva vitamini su brojni, ali vitamin A je apsolutna zvijezda. Narančasta boja mrkve potječe od beta-karotena, snažnog antioksidansa koji tijelo pretvara u vitamin A. Samo jedna srednje velika mrkva može zadovoljiti više od 50% preporučenog dnevnog unosa vitamina A. Vitamin A je esencijalan za zdravlje očiju (posebno za noćni vid), funkciju imunološkog sustava, zdravlje kože i sluznica te stanični rast [prema Svjetskoj zdravstvenoj organizaciji (WHO)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/4554). Znanstvene studije potvrđuju da je beta-karoten iz mrkve siguran i učinkovit izvor vitamina A [prema studiji objavljenoj u znanstvenom časopisu Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC3139236/).
+Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, vitamin A pridonosi normalnoj funkciji imunosnog sustava te održavanju normalnog vida, kože i sluznica.
 
-*\*Vitamin A doprinosi normalnoj funkciji imunološkog sustava te održavanju normalnog vida, kože i sluznica.*
+Ostalih vitamina mrkva ima manje:
 
-**Vitamini B grupe – metabolizam i energija**
+* **vitamin K (filokinon)** – 100 g mrkve pokriva 18 % referentnog unosa, pa je mrkva izvor vitamina K; on pridonosi normalnom zgrušavanju krvi i održavanju normalnih kostiju
+* **vitamini B-skupine** – vitamina B6, tiamina (B1) i niacina (B3) ima 6 do 10 % referentnog unosa u 100 g
+* **vitamin C** – 5,9 mg na 100 g, oko 7 % referentnog unosa; [naranča](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/) ga ima otprilike devet puta više
 
-Mrkva sadrži i nekoliko vitamina iz B skupine, uključujući vitamin B6 (piridoksin), koji je važan za metabolizam proteina i proizvodnju neurotransmitera, te vitamin B1 (tiamin) i B3 (niacin), koji sudjeluju u pretvaranju hrane u energiju.
+### Minerali u mrkvi – kalij, magnezij i ostali
 
-*\* Tiamin doprinosi normalnoj psihološkoj funkciji, radu živčanog sustava i srca te normalnom metabolizmu stvaranja energije.*
+Mrkva je izvor kalija: 100 g sadrži 320 mg, odnosno 16 % referentnog dnevnog unosa. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, kalij pridonosi održavanju normalnog krvnog tlaka te normalnom radu mišića i živčanog sustava.
 
-*\* Nikotinamid (niacin) doprinosi normalnoj psihološkoj funkciji, metabolizmu stvaranja energije i radu živčanog sustava, održavanju zdravlja kože i sluznica te smanjenju umora i iscrpljenosti.*
+Kalcija, magnezija, fosfora i željeza mrkva ima malo, do 5 % referentnog unosa u 100 g.
 
-*\*Vitamin B6 doprinosi normalnoj psihološkoj funkciji, regulaciji hormonske aktivnosti i smanjenju umora, podržava rad imunološkog i živčanog sustava te normalan metabolizam energije, proteina, glikogena, cisteina i homocisteina uz stvaranje crvenih krvnih stanica.*
+### Antioksidansi i fitokemikalije u mrkvi
 
-**Vitamin C – imunitet i antioksidacija**
+Glavni biljni spojevi u mrkvi su karotenoidi, a njihova vrsta ovisi o boji korijena:
 
-Iako nije bogata vitaminom C kao citrusi, mrkva ipak osigurava određenu količinu ovog važnog antioksidansa. Vitamin C doprinosi jačanju imunološkog sustava, štiti stanice od oštećenja slobodnim radikalima i sudjeluje u sintezi kolagena, proteina važnog za zdravlje kože, desni i krvnih žila.
-
-*\*Vitamin C doprinosi normalnoj psihološkoj funkciji, radu živčanog i imunološkog sustava (uključujući i tijekom te nakon intenzivne tjelovježbe), smanjenju umora, zaštiti stanica od oksidativnog stresa i boljoj apsorpciji željeza, uz poticanje stvaranja kolagena za zdravlje kože, kostiju, hrskavice, desni, zubi i krvnih žila.*
-
-**Vitamin K – koagulacija i zdravlje kostiju**
-
-Mrkva je dobar izvor vitamina K1 (filokinon), koji igra ključnu ulogu u procesu zgrušavanja krvi (koagulacije). Osim toga, vitamin K je važan za zdravlje kostiju jer pomaže u ugradnji kalcija u koštano tkivo.
-
-*\*Vitamin K doprinosi normalnom zgrušavanju krvi i održavanju normalnih kostiju.*
-
-**Minerali u mrkvi – kalij, magnezij i ostali**
-
-Osim vitamina, mrkva sadrži i važne minerale. Bogata je kalijem, mineralom koji pomaže u regulaciji krvnog tlaka i ravnoteže tekućine u tijelu. Sadrži i manje količine kalcija, magnezija, fosfora i željeza, koji su neophodni za brojne tjelesne funkcije.
-
-**Antioksidansi i fitokemikalije u mrkvi**
-
-Mrkva je izvanredan izvor antioksidansa, bioaktivnih spojeva koji štite tijelo od oksidativnog stresa i oštećenja uzrokovanih slobodnim radikalima. Glavni antioksidansi u mrkvi su karotenoidi, a njihova vrsta ovisi o boji mrkve:
-
-* **Beta-karoten:**
-
-   U narančastoj mrkvi, snažan antioksidans i prekursor vitamina A.
-* **Alfa-karoten:**
-
-   Također prekursor vitamina A.
-* **Lutein:**
-
-   U žutoj i narančastoj mrkvi, važan za zdravlje očiju.
-* **Likopen:**
-
-   U crvenoj i ljubičastoj mrkvi, povezan sa smanjenim rizikom od srčanih bolesti.
-* **Antocijanini:**
-
-   U ljubičastoj mrkvi, snažni antioksidansi s protuupalnim djelovanjem.
-
-**Tablica 1: Nutritivna vrijednost sirove mrkve na 100g**
-
-![](/images/articles/mrkva_nutritivne.jpg)
+* **beta-karoten** – narančasti pigment iz kojeg tijelo stvara vitamin A
+* **alfa-karoten** – također se djelomično pretvara u vitamin A
+* **lutein** – najviše ga ima u žutoj mrkvi, a nakuplja se u mrežnici oka
+* **likopen** – crveni pigment crvenih sorti, isti kao u rajčici
+* **antocijanini** – ljubičasti pigmenti ljubičastih sorti
 
 ## Zdravstvene prednosti mrkve – zašto je mrkva zdrava?
 
-Redovita konzumacija mrkve povezana je s brojnim zdravstvenim prednostima, što je čini jednim od temelja zdrave prehrane. Bogatstvo vitamina, minerala i antioksidansa u mrkvi sinergijski djeluje na poboljšanje i zaštitu različitih tjelesnih funkcija.
+Mrkva zdravlju pridonosi ponajprije kao izvor vitamina A, vlakana i kalija, uz niz biljnih pigmenata.
 
-Odgovor na pitanje zašto je mrkva zdrava leži u njenoj sposobnosti da podrži sve, od zdravlja očiju do podršku u prevenciji nekih kroničnih bolesti.
+Krovni pregled (umbrella review, pregled više meta-analiza) objavljen je 2023. u časopisu Journal of the Science of Food and Agriculture. Veći unos mrkve povezuje s manjim rizikom od nekoliko vrsta raka, a veći unos karotena i s manjim rizikom od prijeloma i mrene (katarakte). Riječ je većinom o opservacijskim istraživanjima, pa takva povezanost ne dokazuje da mrkva sprječava bolesti. Mrkva je dio uravnotežene prehrane, a ne lijek.
 
-### **Poboljšava vid – mrkva i zdravlje očiju**
+### Čuva vid – mrkva i zdravlje očiju
 
-Najpoznatija zdravstvena prednost mrkve je njen pozitivan utjecaj na vid.
+Veza mrkve i vida ima stvarnu podlogu. Vitamin A dio je rodopsina, pigmenta u mrežnici koji omogućuje vid pri slabom svjetlu. Kad vitamina A dulje nedostaje, razvija se [kseroftalmija](https://www.enciklopedija.hr/clanak/kseroftalmija): oči se suše, slabi vid u sumrak (noćno sljepilo), a bez liječenja može doći i do sljepoće.
 
-Ova veza nije mit; znanstveno je utemeljena na iznimno visokom sadržaju beta-karotena, koji tijelo pretvara u vitamin A.
+Ako u prehrani već imate dovoljno vitamina A, dodatna mrkva neće izoštriti vid niti zamijeniti naočale, ističu liječnici Sveučilišta Utah (University of Utah Health). Priča o mrkvi koja daje "noćni vid" potječe iz Drugog svjetskog rata, kad je britanska propaganda uspjehe noćnih pilota pripisivala mrkvi da bi prikrila kako koriste radar.
 
-Vitamin A je ključna komponenta rodopsina, pigmenta u mrežnici oka koji je osjetljiv na svjetlost i neophodan za vid u uvjetima slabog osvjetljenja (noćni vid).
+Mrkva sadrži i lutein, koji štiti žutu pjegu, ali manje od tamnozelenog lisnatog povrća. Za zdravlje očiju zato su jednako važni špinat, kelj i drugo zeleno povrće.
 
-Nedostatak vitamina A može dovesti do stanja zvanog [kseroftalmija](https://www.enciklopedija.hr/clanak/kseroftalmija), koje uzrokuje suhoću očiju i može rezultirati noćnim sljepilom i, u teškim slučajevima, potpunim gubitkom vida.
+### Imunitet – uloga vitamina A
 
-Uz to, antioksidansi lutein i zeaksantin, prisutni u žutoj i narančastoj mrkvi, štite mrežnicu od oštećenja uzrokovanih UV zračenjem i smanjuju rizik od razvoja senilne makularne degeneracije, vodećeg uzroka gubitka vida u starijoj dobi [prema American Optometric Association](https://www.aoa.org/healthy-eyes/caring-for-your-eyes/diet-and-nutrition/lutein-and-zeaxanthin).
+Vitamin A potreban je za normalan rad imunosnog sustava. Održava sluznice dišnog, probavnog i mokraćnog sustava, koje su prva zapreka mikroorganizmima, i sudjeluje u razvoju imunosnih stanica.
 
-### Jača imunitet – Vitamin C i antioksidansi
-
-Mrkva i zdravlje imunološkog sustava usko su povezani. Vitamin A igra ključnu ulogu u održavanju integriteta sluznica u dišnom, probavnom i urinarnom traktu, koje predstavljaju prvu liniju obrane od patogena.
-
-Vitamin C, također prisutan u mrkvi, potiče proizvodnju i funkciju bijelih krvnih stanica, koje su zadužene za borbu protiv infekcija.
-
-Antioksidansi poput karotenoida dodatno jačaju imunitet smanjujući oksidativni stres i upalne procese u tijelu, čime omogućuju imunološkom sustavu da učinkovitije odgovori na prijetnje [prema Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamin-a/).
+Kritički pregledni rad objavljen 2022. u časopisu Journal of Functional Foods bavi se [mogućim djelovanjem beta-karotena i drugih spojeva iz mrkve na imunosni sustav](https://www.sciencedirect.com/science/article/pii/S1756464622003735). Ti dokazi dolaze uglavnom iz laboratorijskih istraživanja i istraživanja na životinjama. Vitamina C mrkva ima malo, pa ga unosite iz agruma, paprike i bobičastog voća.
 
 ### Podrška zdravlju kože – beta-karoten i antioksidansi
 
-Mrkva za zdravlje kože djeluje iznutra. Beta-karoten, kao snažan antioksidans, pomaže u zaštiti kože od oštećenja uzrokovanih sunčevim zračenjem i zagađenjem iz okoliša.
+Vitamin A pridonosi održavanju normalne kože, a kad ga nedostaje, koža postaje suha i ljuskava. Beta-karoten se dijelom nakuplja u koži. Spomenuti krovni pregled iz 2023. veći unos karotena povezuje i s manjim rizikom od opeklina od sunca, no dio tih istraživanja proveden je s dodacima prehrani, a ne s hranom. Mrkva ni beta-karoten ne zamjenjuju kremu za sunčanje ni zaštitu od sunca.
 
- Iako ne može zamijeniti kremu za sunčanje, prehrana bogata karotenoidima može pružiti dodatnu razinu zaštite od UV zraka.
+**Visoke doze beta-karotena u obliku dodataka prehrani nisu za pušače.** Više istraživanja pokazalo je da pušači, bivši pušači i osobe izložene azbestu imaju veći rizik od raka pluća i smrti ako uzimaju visoke doze beta-karotena u tabletama. Na to upozorava Ured za dodatke prehrani NIH-a. To se ne odnosi na beta-karoten iz mrkve i drugog povrća.
 
- Vitamin A je također neophodan za rast i obnavljanje stanica kože, a njegov nedostatak može dovesti do suhe i ljuskave kože. Vitamin C sudjeluje u sintezi kolagena, proteina koji koži daje čvrstoću i elastičnost, čime pomaže u usporavanju pojave bora i drugih znakova starenja.
+### Pomaže probavi – vlakna i pektin
 
-### Pomaže probavi – vlakna i digestivni enzimi
+Sto grama mrkve daje 2,8 g vlakana, otprilike desetinu dnevne preporuke od 25 g. Nešto više od polovice čine netopljiva vlakna, poput celuloze i lignina, koja povećavaju volumen stolice i potiču redovito pražnjenje crijeva.
 
-Mrkva za probavu je izuzetno korisna zbog visokog sadržaja dijetalnih vlakana.
+Topljiva vlakna, ponajviše pektin, usporavaju pražnjenje želuca i upijanje šećera, pa dulje osjećamo sitost. Za zdravu probavu važna je ukupna količina vlakana iz voća, povrća, mahunarki i cjelovitih žitarica, a mrkva je jedan od jednostavnijih načina da je povećate.
 
-Vlakna, posebice netopiva vlakna poput celuloze i lignina, povećavaju volumen stolice i potiču redovito pražnjenje crijeva, čime se sprječava zatvor.
+### Krvni tlak – kalij i kardiovaskularno zdravlje
 
-Topiva vlakna, poput pektina, usporavaju pražnjenje želuca i apsorpciju šećera, što doprinosi osjećaju sitosti i stabilizaciji razine glukoze u krvi.
+Mrkva je izvor kalija. Kalij pomaže tijelu izlučiti višak natrija iz soli i opušta stijenke krvnih žila, pa pridonosi održavanju normalnog krvnog tlaka. Normalan krvni tlak smanjuje rizik od srčanog i moždanog udara, ali ga čuva cjelokupna prehrana s malo soli, a ne jedna namirnica.
 
-Zdrava probava ključna je za opće zdravlje, a redovita konzumacija vlakana iz povrća poput mrkve temelj je prevencije mnogih probavnih smetnji.
+Osobe s bolestima bubrega trebaju paziti na unos kalija, o čemu više piše na kraju članka.
 
-### Regulira krvni tlak – kalij i kardiovaskularno zdravlje
+### Pomaže pri gubitku težine – niske kalorije i visoka sitost
 
-Mrkva je dobar izvor kalija, minerala koji igra ključnu ulogu u regulaciji krvnog tlaka. Kalij pomaže u opuštanju krvnih žila, čime se smanjuje napetost u arterijama i olakšava protok krvi.
-
-Djeluje i kao protuteža natriju, pomažući tijelu da izluči višak soli, što dodatno doprinosi snižavanju krvnog tlaka. Održavanje zdravog krvnog tlaka ključno je za prevenciju srčanog i moždanog udara te drugih kardiovaskularnih bolesti. Antioksidansi u mrkvi također štite krvne žile od upala i oštećenja.
-
-*\*Kalij doprinosi održavanju normalnog krvnog tlaka te normalnoj funkciji mišića i funkcioniranju živčanog sustava.*
-
-###  Pomaže pri gubitku težine – niske kalorije i visoka sitost
-
-Zbog niske kalorijske vrijednosti i visokog udjela vode i vlakana, mrkva je idealna namirnica za kontrolu tjelesne težine.
-
-Vlakna pružaju dugotrajan osjećaj sitosti, što pomaže u smanjenju ukupnog unosa kalorija tijekom dana. Hrskava tekstura sirove mrkve zahtijeva duže žvakanje, što također može doprinijeti osjećaju sitosti.
-
-Uključivanje mrkve u obroke, bilo sirove, kuhane ili pečene, pametan je način za povećanje volumena obroka bez značajnog povećanja kalorijske vrijednosti.
-
-*\*Vitamin A doprinosi normalnoj funkciji imunološkog sustava te održavanju normalnog vida, kože i sluznica.*
-
-*\*Vitamin C doprinosi normalnoj psihološkoj funkciji, radu živčanog i imunološkog sustava (uključujući i tijekom te nakon intenzivne tjelovježbe), smanjenju umora, zaštiti stanica od oksidativnog stresa i boljoj apsorpciji željeza, uz poticanje stvaranja kolagena za zdravlje kože, kostiju, hrskavice, desni, zubi i krvnih žila.*
+Mrkva ima malo kalorija, a puno vode i nešto vlakana, pa obrok čini obilnijim bez puno dodatne energije. Sirova mrkva traži dulje žvakanje, a i to pridonosi osjećaju sitosti. Sirova, kuhana ili pečena, pomaže povećati volumen obroka, a kalorije joj osjetno dodaje tek ulje.
 
 ## Sirova vs kuhana mrkva – koju odabrati?
 
-Česta dilema među ljubiteljima ovog povrća je treba li konzumirati **mrkvu kuhanu ili sirovu.** Odgovor nije jednostavan jer oba oblika nude jedinstvene prednosti, a najbolji izbor ovisi o vašim zdravstvenim ciljevima i probavnom sustavu. Ključna razlika leži u bioraspoloživosti nutrijenata i probavljivosti.
+Sirova i kuhana mrkva imaju različite prednosti. Kuhanje smanjuje količinu vitamina osjetljivih na toplinu, ali olakšava upijanje beta-karotena, pa je najbolje jesti je na oba načina.
 
 ### Sirova mrkva
 
-Sirova mrkva je hrskava, osvježavajuća i zadržava sve vitamine osjetljive na toplinu u njihovom izvornom obliku. Njena čvrsta struktura potiče žvakanje, što je dobro za zdravlje zubi i desni.
-
-Konzumacijom sirove mrkve unosite maksimalnu količinu **vitamina C** i nekih **vitamina iz B** skupine, koji se djelomično gube tijekom kuhanja.
-
-Sirova mrkva potiče upravo zbog očuvanja ovih termolabilnih nutrijenata. Hrskava tekstura također znači da unosite više netopivih vlakana, što je odlično za poticanje redovite probave.
-
-Kao što je ranije spomenuto, **100 grama sirove mrkve sadrži oko 41 kaloriju.** Zbog potrebe za dužim žvakanjem i visokog udjela vlakana, sirova mrkva pruža veći osjećaj sitosti u usporedbi s kuhanom, što je čini odličnim izborom za kontrolu apetita.
+Sirova mrkva čuva vitamin C i vitamine B-skupine, koji se kuhanjem djelomično gube. Hrskava je, traži dulje žvakanje i dulje drži sitost. Sto grama sirove mrkve ima oko 41 kcal.
 
 ### Kuhana mrkva
 
-Kuhanjem se mijenja struktura mrkve, čineći je mekšom i lakšom za probavu. Iako se dio vitamina gubi, kuhanje zapravo povećava dostupnost nekih ključnih antioksidansa.
+Kuhana mrkva mekša je i lakše se probavlja, pa odgovara maloj djeci, starijim osobama i ljudima osjetljive probave. Ima oko 35 kcal na 100 g.
 
-Kuhana mrkva ima nešto nižu kalorijsku vrijednost, **oko 35 kalorija na 100 grama**. To je uglavnom zbog upijanja vode tijekom procesa kuhanja, što povećava njen volumen i težinu bez dodavanja kalorija.
+Najveća prednost kuhanja je bolje upijanje beta-karotena. Toplina razgrađuje čvrste stanične stijenke i oslobađa karotenoide. U kliničkom istraživanju objavljenom 1998. u časopisu The Journal of Nutrition osam zdravih žena četiri je tjedna jelo istu količinu beta-karotena iz sirove ili termički obrađene i pasirane mrkve i špinata. Razina beta-karotena u krvi pouzdano je porasla samo nakon obrađenog povrća, i to u prosjeku tri puta više nego nakon sirovog.
 
-Najveća prednost kuhane mrkve je značajno **povećana bioraspoloživost beta-karotena.**
-
-Toplina razgrađuje čvrste stanične stijenke biljke, oslobađajući karotenoide i omogućujući tijelu da ih lakše apsorbira.
-
-Jedna studija je pokazala da tijelo apsorbira znatno više beta-karotena iz kuhane nego iz sirove mrkve [prema studiji objavljenoj u Journal of Agricultural and Food Chemistry](https://pubs.acs.org/doi/abs/10.1021/jf0202799).
-
-Stoga, ako vam je cilj maksimalno iskoristiti vitamin A, kuhana mrkva je bolji izbor.
-
-Za osobe s osjetljivim probavnim sustavom, kuhana mrkva i probava idu ruku pod ruku. Kuhanjem se razgrađuju čvrsta vlakna, što mrkvu čini mekšom i lakšom za probavu. To može biti posebno korisno za malu djecu, starije osobe i one koji pate od probavnih smetnji.
+Beta-karoten topiv je u mastima, pa mrkvu, sirovu ili kuhanu, jedite uz malo ulja ili drugu hranu s masnoćom. U istraživanju Sveučilišta Iowa State objavljenom 2004. karotenoidi iz salate s mrkvom gotovo se nisu upijali kad je preljev bio bez masnoće. Preljev sa smanjenom količinom masnoće upijanje je poboljšao, a punomasni još više.
 
 ## Sadnja mrkve – detaljni vodič za vrtlare
 
-Uspješan uzgoj mrkve započinje pravilnom sadnjom. Iako se čini jednostavnom, sadnja mrkve zahtijeva pažljivu pripremu tla i odabir pravog vremena kako bi se osigurao bogat i kvalitetan urod.
+Mrkva se sije izravno na gredicu, jer ne podnosi presađivanje. Uspjeh najviše ovisi o rahlom tlu bez kamenja i o pravodobnom prorjeđivanju.
 
-Ovaj vodič pokriva sve ključne korake, od toga kad se sije mrkva do pripreme idealnih uvjeta za njen rast.
+![Infografika: mrkva od sjetve do berbe – sjetva od ožujka do lipnja 1 do 2 cm duboko, nicanje za 1 do 3 tjedna, prorjeđivanje na 3 do 5 cm, berba za 60 do 80 dana, zaštita od mrkvine muhe mrežom, uz upozorenje da se ne gnoji svježim stajskim gnojem i ne sije iza mrkve, peršina, pastrnjaka ili celera](/images/articles/infografika-mrkva-uzgoj.webp)
 
-**Kada saditi mrkvu**?
+### Kada saditi mrkvu?
 
-Optimalno vrijeme za sjetvu mrkve ovisi o klimatskom području i željenom vremenu berbe. Mrkva je kultura koja voli prohladno vrijeme, a najbolje raste na temperaturama tla između 10°C i 25°C.
+Mrkva voli prohladno vrijeme. Sjeme klija pri temperaturi tla od oko 7 do 29 °C, a na hladnijem tlu nicanje traje dulje, i do tri tjedna, navodi Savjetodavna služba Sveučilišta Michigan State (MSU Extension).
 
-* **Proljetna sjetva:**
+* **proljetna sjetva** – glavna sjetva traje od ožujka do svibnja, čim se tlo dovoljno prosuši; tako posijana mrkva bere se ljeti
+* **ljetna sjetva** – u lipnju se sije mrkva za jesensku berbu; po vrućini gredicu redovito zalijevajte, jer suho tlo otežava nicanje
+* **kasna jesenska sjetva** – sjeme se sije kad je tlo već hladno, obično krajem listopada ili u studenom, ovisno o kraju, tako da ne nikne prije zime, nego rano u proljeće
 
-   Glavna sjetva obavlja se u proljeće, od ožujka do svibnja, čim to vremenski uvjeti dopuste i tlo se dovoljno prosuši. Rana proljetna sjetva osigurava berbu tijekom ljeta.
-* **Ljetna sjetva:**
+Kod jesenske sjetve birajte sorte otporne na izbijanje u cvat. Mlade biljke koje niknu ujesen i prezime često u proljeće procvjetaju, a korijen im postane drvenast i nejestiv, upozorava Kraljevsko hortikulturno društvo (Royal Horticultural Society, RHS).
 
-   Mrkva se može sijati i tijekom ranog ljeta (lipanj) za jesensku berbu. Važno je osigurati redovito zalijevanje jer visoke ljetne temperature mogu otežati klijanje.
-* **Jesenska sjetva:**
+### Gdje saditi mrkvu?
 
-   Sadnja mrkve u jesen postaje sve popularnija metoda. Jesenska sjetva mrkve obavlja se od kraja rujna do početka studenog, ovisno o lokaciji. Ovako posijana mrkva prezimit će u tlu i dati vrlo rani urod sljedećeg proljeća, često prije nego što se pojave glavni štetnici.
+Mrkvi treba sunčano mjesto, s najmanje šest do osam sati izravnog sunca dnevno, po mogućnosti zaklonjeno od jakog vjetra. U sjeni razvije bujno lišće i sitan korijen.
 
-**Gdje saditi mrkvu**
+Ne sijte je na mjesto gdje su prethodne godine rasli mrkva, peršin, pastrnjak ili celer. U tlu ondje mogu prezimiti kukuljice mrkvine muhe, najčešćeg štetnika mrkve, navodi RHS.
 
-Mrkva zahtijeva puno sunca za pravilan razvoj. Odaberite gredicu koja je osunčana najmanje 6-8 sati dnevno. Iako može tolerirati blagu sjenu, manjak svjetlosti rezultirat će slabijim rastom korijena i bujnijim, ali beskorisnim lišćem.
+### Priprema tla za mrkvu
 
-Lokacija bi također trebala biti zaštićena od jakog vjetra.
+Priprema tla najvažniji je korak za ravan i dugačak korijen. U teškom, zbijenom i kamenitom tlu korijen se savija, grana ili ostaje kratak. Mrkvi odgovara tlo koje je:
 
-**Priprema tla za mrkvu**
+* **rahlo i duboko** – obrađeno do dubine od najmanje 25 do 30 cm; najbolje ga je prekopati ujesen
+* **propusno** – u tlu koje zadržava vodu korijen može trunuti; najbolja je pjeskovita ilovača
+* **bez kamenja i grudica** – prije sjetve usitnite tlo i uklonite kamenčiće i korijenje korova
+* **blago kiselo do neutralno** – pH tla, mjera njegove kiselosti, neka bude između 6,0 i 6,8
+* **umjereno plodno** – tlo poboljšajte zrelim kompostom ili gnojem koji je odležao barem godinu dana
 
-Priprema tla je najvažniji korak za dobivanje lijepih, ravnih i velikih korijena. Mrkva ne podnosi teško, zbijeno i kamenito tlo. U takvim uvjetima korijen će se deformirati, granati ili ostati kratak. Idealno tlo za mrkvu je:
+**Svježi stajski gnoj ne stavljajte neposredno prije sjetve.** Zbog njega se korijen grana, a privlači i štetnike.
 
-* **Rahlo i prozračno:**
+### Sjetva mrkve – korak po korak
 
-   Tlo mora biti duboko obrađeno, najmanje 25-30 cm dubine, kako bi korijen mogao nesmetano rasti. Preporučuje se duboko jesensko oranje ili štihanje.
-* **Dobro drenirano:**
-
-   Mrkva ne voli “mokre noge”. Tlo koje zadržava previše vode može uzrokovati truljenje korijena. Pjeskovita ilovača smatra se idealnom.
-* B
-
-  **ez kamenja i grudica:**
-
-   Prije sjetve, tlo je potrebno dobro usitniti i ukloniti sve kamenčiće, korijenje korova i druge prepreke.
-* **Blago kiselo do neutralno:**
-
-   Optimalna pH vrijednost tla za uzgoj mrkve je između 6.0 i 6.8.
-* **Hranjivo:**
-
-   Tlo treba biti bogato organskom tvari. Međutim, izbjegavajte dodavanje svježeg stajskog gnoja neposredno prije sjetve jer to može uzrokovati grananje korijena i privući štetnike. Koristite zreli kompost ili gnojivo koje je odležalo barem godinu dana.
-
-**Sjetva mrkve – korak po korak**
-
-Sijanje mrkve zahtijeva preciznost jer je sjeme vrlo sitno.
-
-1. **Izrada redova:**
-
-   Na pripremljenoj gredici napravite plitke jarke (brazde), duboke oko 1-2 cm. Razmak između redova trebao bi biti 20-30 cm kako biste kasnije mogli nesmetano plijeviti korov.
-2. **Sjetva:**
-
-    Sjeme sijte što rjeđe možete duž jaraka. Da biste si olakšali posao, sitno sjeme možete pomiješati sa suhim pijeskom ili koristiti sjetvene trake na kojima je sjeme već raspoređeno na idealan razmak.
-3. **Pokrivanje sjemena:**
-
-    Lagano prekrijte sjeme tankim slojem rahle zemlje ili komposta.
-4. **Zalijevanje:**
-
-    Nakon sjetve, pažljivo zalijte gredicu finim mlazom vode (prskalicom) kako ne biste isprali sjeme. Tlo održavajte vlažnim sve do nicanja, što može potrajati 1 do 3 tjedna, ovisno o temperaturi tla.
+1. **Izrada redova** – na pripremljenoj gredici napravite plitke brazde duboke 1 do 2 cm, s razmakom od 20 do 30 cm između redova, da poslije lakše plijevite.
+2. **Sjetva** – sjeme sijte što rjeđe; sitno sjeme možete pomiješati sa suhim pijeskom ili kupiti sjetvene trake, papirnate trake na kojima je sjeme već raspoređeno na pravi razmak.
+3. **Rotkvica kao oznaka** – u isti red možete posijati i nekoliko sjemenki rotkvice; ona nikne za nekoliko dana, označi red i sprječava stvaranje pokorice, tvrde kore na površini tla koja otežava nicanje mrkve, navodi Savjetodavna služba Sveučilišta Iowa State.
+4. **Pokrivanje** – sjeme lagano prekrijte tankim slojem rahle zemlje ili komposta.
+5. **Zalijevanje** – gredicu zalijte finim mlazom, da ne isperete sjeme, i tlo održavajte vlažnim do nicanja, koje traje jedan do tri tjedna.
 
 ## Uzgoj mrkve – održavanje i njega
 
-Nakon što je sjetva mrkve uspješno obavljena i mlade biljke su niknule, slijedi ključna faza – uzgoj mrkve. Pravilna njega osigurat će da se iz malih sadnica razviju veliki, ukusni i pravilno oblikovani korijeni. Održavanje usjeva uključuje nekoliko važnih koraka: razrjeđivanje, plijevljenje, zaštitu od štetnika i bolesti te pravilnu gnojidbu.
+Nakon nicanja mrkvi treba prorjeđivanje, plijevljenje, zalijevanje u sušnim razdobljima i, po potrebi, zaštita od mrkvine muhe.
 
-### **Razrjeđivanje sadnica**
+### Razrjeđivanje sadnica
 
-Razrjeđivanje je vjerojatno najvažniji, a često zanemaren korak u uzgoju mrkve. Budući da je sjeme vrlo sitno, gotovo je nemoguće posijati ga na idealan razmak. Prevelika gustoća usjeva rezultirat će time da se biljke međusobno natječu za prostor, vodu i hranjive tvari, što dovodi do sitnih, isprepletenih i deformiranih korijena.
+Sjeme je sitno, pa ga je teško posijati na pravi razmak. Pregusto posijane biljke natječu se za prostor, vodu i hranjiva, a korijeni ostaju sitni, isprepleteni i deformirani.
 
-* **Kada razrjeđivati:**
+* **kada** – kad biljke razviju dva do tri prava lista i narastu oko 5 cm
+* **razmak** – ostavite najjače biljke na 3 do 5 cm, a za krupnije korijene na 5 do 7 cm
+* **kako** – prorjeđujte nakon kiše ili zalijevanja, kad je tlo mekano, i pazite da ne oštetite korijen biljaka koje ostaju
+* **navečer i bez ostataka** – miris zgnječenog lišća privlači mrkvinu muhu, pa prorjeđujte po mirnom vremenu ili navečer, a iščupane biljke odmah maknite s gredice
 
-   Prorjeđivanje se obavlja kada mlade biljke razviju 2-3 prava lista i dosegnu visinu od oko 5 cm.
-* **Kako razrjeđivati:**
+Iščupane mlade biljke možete pojesti u salati.
 
-   Najbolje je to raditi nakon kiše ili zalijevanja, kada je tlo mekano. Pažljivo iščupajte višak biljaka, ostavljajući najsnažnije na razmaku od 3-5 cm jedna od druge. Pazite da ne oštetite korijenje biljaka koje ostaju. Iščupane mlade biljčice ne morate baciti – možete ih iskoristiti u salati.
+### Uklanjanje korova
 
-### **Uklanjanje korova**
+Mrkva u početku raste sporo i slabo podnosi konkurenciju korova, koji joj oduzima svjetlost, vodu i hranjiva. Plijevite ručno dok su biljke male, a između redova plitko okopavajte. Duboko okopavanje uz same biljke oštećuje korijen.
 
-Mrkva je u početnoj fazi rasta vrlo spora i osjetljiva na konkurenciju korova. Korovi joj oduzimaju svjetlost, vodu i hranjive tvari, stoga je redovito plijevljenje nužno.
+### Gnojidba mrkve
 
-* Ručno plijevljenje: Najbolja metoda je pažljivo ručno čupanje korova, posebno dok su biljke mrkve još male.
-* Okopavanje: Plitko okopavanje između redova može pomoći u uništavanju korova i održavanju rahlosti tla. Budite oprezni da ne oštetite plitko korijenje mrkve.
+Ako ste tlo prije sjetve obogatili zrelim kompostom, dodatna gnojidba obično nije potrebna. Previše dušika potiče bujno lišće na štetu korijena. Na siromašnijem tlu otprilike pet do šest tjedana nakon sjetve možete prihraniti gnojivom s više kalija i fosfora, koji pomažu razvoju korijena.
 
-### **Gnojidba mrkve**
+### Zaštita od mrkvine muhe
 
-Ako ste dobro pripremili tlo i unijeli dovoljno zrelog komposta prije sjetve, dodatna gnojidba možda neće biti potrebna. Mrkva ne voli previše dušika, jer on potiče rast bujnog lišća na štetu korijena. Ako je tlo siromašnije, možete primijeniti gnojivo bogato kalijem i fosforom, koji su ključni za razvoj korijena. Prihranu obavite otprilike 5-6 tjedana nakon sjetve.
+Mrkvina muha (*Psila rosae*) najčešći je štetnik mrkve. Ženke polažu jaja u tlo uz biljke, a ličinke buše hodnike u korijenu, koji zatim trune.
+
+Najpouzdanija zaštita je prekrivanje gredice sitnom zaštitnom mrežom ili agrotekstilom, od sjetve do berbe. U pokusima RHS-a potpuno prekrivanje štitilo je bolje od ograde visoke 60 cm oko gredice. Mreža pomaže samo uz plodored, jer muhe se inače mogu izleći iz kukuljica koje su prezimile u tlu ispod nje.
 
 ### Dobri susjedi mrkve
 
-Pametno planiranje sadnje i korištenje dobrosusjedskih odnosa među biljkama (konsocijacija) može značajno poboljšati urod i smanjiti probleme sa štetnicima. Dobri susjedi su biljke koje si međusobno pomažu. Koji su dobri, a koji loši susjedi mrkve u vrtu, objašnjava članak [susjedi mrkve u vrtu](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
+Raspoređivanje biljaka tako da jedna drugoj koriste zove se združena sadnja ili konsocijacija. Za mrkvu je korisna ponajviše zbog boljeg iskorištavanja prostora, a učinak na štetnike u pokusima je najčešće slab. Koje biljke odgovaraju mrkvi, a koje ne, opisuje članak [susjedi mrkve](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/) u vrtu.
 
-Sadnja mrkve i peršina zajedno je tradicionalna i korisna praksa. Iako pripadaju istoj porodici, imaju različite zahtjeve i mirise koji mogu zbuniti štetnike. Peršin svojim jakim mirisom može djelomično zaštititi mrkvu od mrkvine muhe.
+Peršin se često preporučuje kao susjed mrkve, ali i on je domaćin mrkvine muhe, pa je ne tjera, nego joj može pogodovati.
 
-**Ostali dobri susjedi za mrkvu**
+Ostali česti susjedi mrkve:
 
-* Luk i poriluk: Ovo je najpoznatije partnerstvo. Jak miris luka i poriluka tjera mrkvinu muhu, dok miris mrkve odbija lukovu muhu. Savršena simbioza.
-* Salata i rotkvica: Kao brzorastuće kulture, popunjavaju prostor između redova mrkve, čuvaju vlažnost tla i smanjuju rast korova. Beru se prije nego što mrkva dosegne punu veličinu.
-* Kadifica i neven: Cvijetovi ovih biljaka odbijaju nematode (mikroskopske gliste koje napadaju korijenje) i druge štetnike.
-* Ružmarin i kadulja: Mirisno začinsko bilje također može pomoći u odbijanju mrkvine muhe.
+* **luk i poriluk** – u britanskom pokusu luk je smanjio napad mrkvine muhe dok je bio mlad i rastao, ali učinak je gotovo nestao kad je počeo stvarati lukovicu; luka je pritom trebalo biti više nego mrkve
+* **salata i rotkvica** – brzo rastu i beru se prije nego što mrkva naraste, a između redova čuvaju vlagu i guše korov
+* **kadifica (*Tagetes*)** – kao gusto zasijan pokrovni usjev koji se poslije zaore može smanjiti broj nematoda, sitnih oblića koji napadaju korijenje; mrkvu od mrkvine muhe nije zaštitila
+* **[ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [kadulja](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/)** – vrtlari ih sade zbog jakog mirisa koji bi trebao zbuniti mrkvinu muhu, ali pokusa koji bi to potvrdili nema
 
-*Izbjegavajte sadnju mrkve uz komorač, kopar i celer, jer oni privlače iste štetnike i mogu negativno utjecati na rast.*
+Uz mrkvu ne sijte pastrnjak i celer, koji su također domaćini mrkvine muhe. Kopar i komorač iz iste su porodice, pa ih vrtlari također drže podalje od mrkve.
 
 ## Berba mrkve – optimalno vrijeme i metode
 
-Nakon mjeseci pažljive sadnje i njege, berba mrkve je trenutak koji svaki vrtlar s nestrpljenjem iščekuje. Pravovremena berba ključna je za dobivanje najukusnijih i najhranjivijih plodova.
+Pravodobna berba daje najslađi korijen. Predugo ostavljena u zemlji, mrkva može postati drvenasta i ispucati, a prerano ubrana ostaje sitna i manje slatka.
 
-Predugo ostavljanje mrkve u zemlji može rezultirati drvenastim i ispucalim korijenom, dok prerana berba daje male i manje slatke plodove.
+Većina sorti dozrije za 60 do 80 dana od sjetve; rane sorte brže, a kasne i one za čuvanje sporije, do stotinjak dana. Bujno lišće nije pouzdan znak veličine korijena.
 
-Optimalno vrijeme za berbu ovisi o sorti i vremenu sjetve. Većina sorti dostiže zrelost za 60 do 80 dana nakon sjetve. Najbolji pokazatelj zrelosti je promjer “ramena” korijena (gornji dio koji viri iz zemlje).
+* **promjer korijena** – razgrnite zemlju oko vrha korijena; mrkva je obično spremna kad gornji dio korijena dosegne promjer 1,5 do 2,5 cm
+* **okus** – mlade mrkve slađe su i nježnije, a one za zimsko čuvanje ostavite da narastu veće
+* **berba nakon mraza** – mrkva podnosi slabije mrazeve, a na hladnoći korijen nakuplja više šećera, pa je jesenska mrkva ubrana nakon prvih mrazeva često najslađa
 
-* **Provjera promjera:**
+### Kako brati mrkvu
 
-   Nježno razgrnite zemlju oko vrha korijena. Kada promjer dosegne otprilike 1.5 do 2.5 cm, mrkva je obično spremna za berbu. Nemojte se voditi samo bujnošću lišća, jer ono nije pouzdan pokazatelj veličine korijena.
-* **Okus:**
+Pravilnom berbom izbjeći ćete lomljenje korijena, koje skraćuje trajnost mrkve.
 
-   Mlade, manje mrkve često su slađe i nježnije. Za najbolji okus, berite mrkvu dok je još relativno mlada. Mrkve namijenjene za skladištenje preko zime mogu se ostaviti u zemlji da narastu veće.
-* **Berba nakon mraza:**
-
-   Mrkve koje se beru u jesen, nakon prvih slabijih mrazeva, često su najslađe. Niske temperature potiču biljku da šećere iz lišća skladišti u korijenu, što rezultira slađim plodom.
-
-### **Kako brati mrkvu**
-
-Pravilna berba je važna kako bi se izbjeglo lomljenje korijena, što može skratiti vijek trajanja i otežati skladištenje. Ručna berba je najsigurnija, osim kod industrijske proizvodnje.
-
-* **Priprema tla:**
-
-  Berbu je najlakše obaviti kada je tlo umjereno vlažno – ne previše suho i tvrdo, ali ni blatno. Ako je zemlja suha, zalijte gredicu dan prije planirane berbe.
-* **Rahlenje tla:**
-
-  Pored reda mrkvi koje želite izvaditi, zabodite vrtne vile i lagano podignite tlo kako biste ga razrahlili. To će osloboditi korijen i omogućiti lakše vađenje.
-* **Vađenje korijena:**
-
-   Uhvatite čvrsto bazu lišća i lagano povlačite korijen okomito prema gore, po potrebi ga lagano njišući lijevo-desno. Izbjegavajte naglo i snažno čupanje koje može slomiti korijen ili otkinuti lišće.
+* **vlažno tlo** – berite kad je tlo umjereno vlažno; ako je suho, gredicu zalijte dan prije berbe
+* **rahljenje** – uz red zabodite vrtne vile i lagano podignite tlo
+* **vađenje** – uhvatite lišće pri dnu i izvucite korijen okomito, po potrebi ga lagano njišući; naglo čupanje lomi korijen ili otkida lišće
 
 ### Čuvanje i skladištenje mrkve
 
-Nakon berbe, pravilno skladištenje važno je za očuvanje svježine i nutritivne vrijednosti.
+Pravilnim čuvanjem mrkva ostaje svježa tjednima, a u podrumu i mjesecima.
 
-* Uklanjanje lišća: Odmah nakon vađenja, odrežite lišće otprilike 2-3 cm iznad korijena. Lišće nastavlja crpiti vlagu i hranjive tvari iz korijena, zbog čega on brzo postaje mekan i smežuran.
-* Čišćenje: Nemojte prati mrkvu ako je planirate skladištiti na duže vrijeme. Višak vode potiče truljenje. Dovoljno je samo otresti višak zemlje. Mrkvu operite neposredno prije upotrebe.
-* Kratkoročno skladištenje: Za potrošnju unutar nekoliko tjedana, mrkvu čuvajte u hladnjaku, u perforiranoj plastičnoj vrećici u ladici za povrće.
-* Dugoročno skladištenje: Za zimnicu, mrkvu je najbolje skladištiti na hladnom, tamnom i vlažnom mjestu, poput podruma ili trapa. Možete je spremiti u kutije s vlažnim pijeskom, piljevinom ili tresetom, pazeći da se korijeni međusobno ne dodiruju.
+* **lišće** – odmah nakon berbe odrežite lišće 2 do 3 cm iznad korijena, jer izvlači vlagu iz korijena, pa on brzo omekša i smežura se
+* **pranje** – mrkvu za dulje čuvanje ne perite, nego samo otresite zemlju; operite je prije upotrebe
+* **kratko čuvanje** – u hladnjaku, u ladici za povrće, u perforiranoj plastičnoj vrećici
+* **zimsko čuvanje** – u hladnom, tamnom i vlažnom prostoru, poput podruma ili trapa, u sanducima s vlažnim pijeskom, piljevinom ili tresetom, tako da se korijeni ne dodiruju; najbolje se čuva na temperaturi oko 0 °C i uz visoku vlažnost zraka
 
 ## Proizvodi od mrkve – recepti i primjena
 
-Svestranost mrkve dolazi do punog izražaja u kuhinji, gdje se može transformirati u brojne ukusne i zdrave proizvode, od osvježavajućih sokova do hranjivih salata i priloga. Istražimo najpopularnije načine primjene mrkve i jednostavne recepte koji će obogatiti vaš jelovnik.
+Mrkva se u kuhinji priprema na mnogo načina. U nastavku su najčešći, s jednostavnim uputama.
 
 ### Sok od mrkve
 
-Sok od mrkve je koncentrirani izvor nutrijenata, posebice beta-karotena i drugih antioksidansa. Budući da se uklanjaju vlakna, tijelo može brže i lakše apsorbirati vitamine i minerale. Ipak, važno je piti ga umjereno zbog veće koncentracije šećera u odnosu na cijeli plod.
+Sok od mrkve koncentrirani je izvor beta-karotena. U korejskom istraživanju objavljenom 2025. na 16 zdravih odraslih osoba iz svježeg soka upilo se otprilike dvostruko više beta-karotena nego iz iste količine sirove mrkve.
 
-Najbolji sok je onaj koji pripremite sami kod kuće, jer komercijalni sokovi često sadrže dodane šećere i konzervanse.
+Sok ipak ima manje vlakana od cijele mrkve, a u čaši se popije šećer iz više korijena, pa ga pijte umjereno, kao i [sok od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/). Najbolji je domaći sok, jer kupovni može imati dodani šećer.
 
-* Priprema: Dobro operite 4-5 srednje velikih mrkvi, odrežite im vrhove i, ako nisu organske, ogulite ih. Narežite ih na manje komade i ubacite u sokovnik. Sok popijte odmah kako biste unijeli maksimalnu količinu nutrijenata, jer vitamini brzo oksidiraju u dodiru sa zrakom.
-* Za bolju apsorpciju beta-karotena, u sok možete dodati nekoliko kapi lanenog ili maslinovog ulja.
+* **priprema** – operite 4 do 5 srednjih mrkvi, odrežite im krajeve i, ako niste sigurni kako su uzgojene, ogulite ih; narežite ih i iscijedite u sokovniku
+* **odmah popijte** – dio vitamina na zraku brzo oksidira, a sok koji ne popijete odmah držite u hladnjaku
+* **kap ulja** – dodajte nekoliko kapi lanenog ili maslinova ulja, jer masnoća pomaže upijanju beta-karotena
 
-### **Salata od ribane mrkve**
+### Salata od ribane mrkve
 
-Ribana mrkva je osnova za mnoge brze, jednostavne i zdrave salate. Ribanjem se oslobađa više soka i arome, a salata postaje sočnija.
+Ribana mrkva osnova je mnogih brzih i jednostavnih salata. Ribanjem se oslobađaju sok i aroma, pa je salata sočnija.
 
-Klasična ribana salata je klasik koji nikad ne izlazi iz mode.
+* **sastojci** – 2 veće mrkve, sok od pola limuna, 1 žlica maslinova ulja, prstohvat soli i papra; po želji žličica meda ili javorova sirupa ili malo sitno sjeckanog peršina
+* **priprema** – mrkvu sitno naribajte, u zdjelici pomiješajte limunov sok, ulje, sol i papar, prelijte preko mrkve i promiješajte
 
-* Sastojci: 2 veće mrkve, sok od pola limuna, 1 žlica maslinovog ulja, prstohvat soli i papra. Po želji možete dodati i žličicu meda ili javorovog sirupa za slatkoću, ili sitno sjeckani peršin za svježinu.
-* Priprema: Mrkvu naribajte na sitno. U maloj zdjelici pomiješajte limunov sok, maslinovo ulje, sol i papar. Prelijte preko naribane mrkve i dobro promiješajte. Ova salata je odličan prilog uz pečeno meso ili ribu.
+Salata je dobar prilog pečenom mesu ili ribi, a maslinovo ulje u preljevu pomaže i upijanju beta-karotena.
 
 ### Pečena mrkva
 
-Pečena mrkva je kulinarski dragulj. Toplina pećnice karamelizira prirodne šećere u mrkvi, dajući joj dubok, slatkast i bogat okus koji je potpuno drugačiji od sirove ili kuhane verzije. Priprema je izuzetno jednostavna, a rezultat je elegantan i ukusan prilog.
+Pečenjem mrkva dobiva slađi i puniji okus, jer se njezini šećeri na vrućini karameliziraju. Priprema je jednostavna.
 
-* Priprema: Zagrijte pećnicu na 200°C. Mrkvu (manje komade ostavite cijele, veće prerežite po dužini) stavite na lim za pečenje. Prelijte s malo maslinovog ulja, posolite, popaprite i dodajte začine po želji (ružmarin, timijan, med). Pecite 20-30 minuta, ili dok mrkva ne omekša i ne dobije zlatno-smeđe rubove.
+* **priprema** – zagrijte pećnicu na 200 °C; manje mrkve ostavite cijele, a veće prerežite po dužini i poslažite ih na lim za pečenje
+* **začini** – prelijte ih s malo maslinova ulja, posolite, popaprite i dodajte začine po želji, primjerice ružmarin, [majčinu dušicu (timijan)](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) ili malo meda
+* **pečenje** – pecite 20 do 30 minuta, dok mrkva ne omekša i ne dobije zlatnosmeđe rubove
 
 ### Mrkva u juhama i varivima
 
-Kuhanje mrkve u juhama i varivima jedan je od najtradicionalnijih načina njene upotrebe. Ona čini bazu za mnoga jela, dajući im slatkoću, boju i nutritivnu vrijednost. Bilo da se radi o krem juhi od mrkve, goveđoj juhi ili povrtnom varivu, mrkva je neizostavan sastojak koji obogaćuje svaki zalogaj.
+Mrkva je osnova mnogih juha i variva, kojima daje slatkoću, boju i dio hranjivih tvari. Dodaje se u krem juhu od mrkve, goveđu juhu i povrtna variva. Beta-karoten se kuhanjem ne gubi, a masnoća iz juhe pomaže njegovu upijanju.
 
 ## Kome se mrkva ne preporučuje – kontraindikacije
 
-Iako je mrkva izuzetno zdrava i sigurna za većinu ljudi, postoje određene situacije i stanja u kojima je potreban oprez ili umjerenost u konzumaciji.
+Mrkva je sigurna za većinu ljudi. Ipak, u nekoliko situacija potreban je oprez ili umjerenost.
 
 ### Osobe s dijabetesom
 
-Mrkva sadrži prirodne šećere, pa osobe s dijabetesom trebaju voditi računa o količini koju unose, posebno kada je riječ o soku od mrkve, gdje je koncentracija šećera veća.
+Mrkva sadrži prirodne šećere, ali i vlakna. Kuhana mrkva ima nešto viši glikemijski indeks (GI, mjera koliko brzo hrana podiže šećer u krvi) od sirove. Glikemijsko opterećenje (GL), koje uzima u obzir i količinu ugljikohidrata u porciji, kod uobičajene porcije mrkve ipak je nisko, prema međunarodnim tablicama glikemijskog indeksa iz 2021.
 
- Kuhana mrkva ima nešto viši glikemijski indeks (GI) od sirove, što znači da brže podiže razinu šećera u krvi.
-
-Ipak, glikemijsko opterećenje (GL) jedne porcije mrkve je nisko, što znači da u umjerenim količinama, kao dio uravnoteženog obroka, ne bi trebala predstavljati problem. Preporučuje se praćenje individualne reakcije i savjetovanje s liječnikom ili nutricionistom.
+Više opreza traži sok od mrkve, jer se u jednoj čaši popije šećer iz više mrkvi, bez većine vlakana. Ako imate dijabetes, količinu prilagodite svom planu prehrane i posavjetujte se s liječnikom ili nutricionistom.
 
 ### Osobe s alergijama
 
-Iako rijetko, alergija na mrkvu je moguća. Najčešće se radi o sindromu oralne alergije, gdje proteini u mrkvi sliče proteinima peludi (posebno breze i pelina), na koje je osoba već alergična.
+Alergija na mrkvu u općoj populaciji nije česta, ali je moguća, najčešće kod osoba alergičnih na pelud breze ili pelina. Riječ je o sindromu oralne alergije: proteini mrkve slični su proteinima peludi, pa nakon jedenja sirove mrkve svrbe i otiču usne, usta ili grlo.
 
-Simptomi uključuju svrbež i oticanje usana, usta i grla neposredno nakon konzumacije sirove mrkve. Kuhanjem se ovi alergeni proteini obično razgrađuju, pa kuhana mrkva često ne izaziva reakciju.
+Švicarski istraživači navode da reakcije na mrkvu ima do četvrtine osoba s alergijom na hranu. U njihovu istraživanju s dvostruko slijepim provokacijskim testom, najpouzdanijim načinom potvrde alergije na hranu, glavni alergen mrkve bio je protein Dau c 1, srodan glavnom alergenu breze. Kuhanjem se taj protein djelomično razgrađuje, pa mnogi alergični kuhanu mrkvu podnose, ali ne svi.
+
+**Ako nakon jedenja mrkve otekne lice ili grlo, otežano dišete ili osjetite slabost, odmah potražite hitnu medicinsku pomoć.**
 
 ### Osobe s bubrežnim problemima
 
-Osobe s kroničnom bubrežnom bolešću ili one na dijalizi moraju kontrolirati unos kalija, jer njihovi bubrezi ne mogu učinkovito ukloniti višak ovog minerala iz krvi.
+Kod kronične bubrežne bolesti i na dijalizi bubrezi ne mogu ukloniti višak kalija iz krvi, a previše kalija u krvi opasno je za srce. Mrkva je izvor kalija, pa količinu uskladite s preporukama liječnika ili dijetetičara.
 
-Budući da je mrkva dobar izvor kalija, potrebno je ograničiti njen unos u skladu s preporukama liječnika.
+Kuhana mrkva ima manje kalija od sirove, oko 235 mg na 100 g, jer dio kalija prijeđe u vodu, koju zatim treba baciti.
 
 ### Prekomjerna konzumacija
 
-Prekomjeran unos hrane izuzetno bogate beta-karotenom, poput mrkve, može dovesti do bezopasnog stanja zvanog karotenemija.
+Ako dulje vrijeme jedete puno mrkve ili pijete puno soka od mrkve, koža može požutjeti ili poprimiti narančastu boju, najviše na dlanovima, tabanima i oko nosa. To se stanje zove karotenemija i bezopasno je: boja nestane kad smanjite unos namirnica bogatih beta-karotenom.
 
-Ovo stanje uzrokuje žuto-narančastu pigmentaciju kože, najčešće vidljivu na dlanovima, tabanima i nosu.
+Beta-karoten iz hrane ne uzrokuje trovanje vitaminom A, jer tijelo iz njega stvara samo onoliko vitamina A koliko mu treba, navodi Harvardova škola javnog zdravstva (Harvard T.H. Chan School of Public Health).
 
- Iako može izgledati alarmantno, stanje je potpuno bezopasno i reverzibilno. Boja kože se vraća u normalu smanjenjem unosa namirnica bogatih beta-karotenom.
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
+Žuta koža može biti i znak žutice, kod koje požute i bjeloočnice. **Ako su vam požutjele i bjeloočnice, javite se liječniku**, jer to nije posljedica jedenja mrkve.
 
 **NAPOMENA/DISCLAIMER:**
 
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mrkve u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mrkve u medicinske svrhe obavezno se posavjetujte s liječnikom.**
+
+## Izvori
+
+- Sveučilište Kalifornije u Davisu (UC Davis), vijest o istraživanju genoma mrkve – [Genom mrkve otkriva povijest njezina udomaćenja (Carrot genome paints colorful picture of domestication)](https://www.ucdavis.edu/news/carrot-genome-paints-picture-domestication-could-help-improve-crops), 2016.
+- Genetsko istraživanje podrijetla mrkve, časopis American Journal of Botany – [Genetska struktura i udomaćenje mrkve (Genetic structure and domestication of carrot)](https://doi.org/10.3732/ajb.1300055), 2013.
+- Baza FoodData Central američkog Ministarstva poljoprivrede (USDA) – [Mrkva, sirova (Carrots, raw)](https://fdc.nal.usda.gov/food-details/170393/nutrients) i [mrkva, kuhana, bez soli (Carrots, cooked, boiled, drained, without salt)](https://fdc.nal.usda.gov/food-details/170394/nutrients)
+- Pregledni rad, časopis Foods – [Biljni spojevi u mrkvi i njihove zdravstvene prednosti (Phytochemicals in Daucus carota and Their Health Benefits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6770766/), 2019.
+- Pregledni rad, časopis Applied Sciences – [Prehrambene prednosti ljubičaste mrkve kod metaboličkog sindroma i raka (Delving into the Nutraceutical Benefits of Purple Carrot against Metabolic Syndrome and Cancer)](https://www.mdpi.com/2076-3417/12/6/3170), 2022.
+- Kritički pregledni rad, časopis Journal of Functional Foods – [Djelovanje beta-karotena i drugih spojeva iz mrkve na imunosni sustav (Critical review on the immunomodulatory activities of carrot's β-carotene and other bioactive compounds)](https://www.sciencedirect.com/science/article/pii/S1756464622003735), 2022.
+- Konsenzus stručnjaka, časopis The Journal of Nutrition – [Beta-karoten je važan izvor vitamina A za ljude (Beta-carotene is an important vitamin A source for humans)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3139236/), 2010.
+- Krovni pregled meta-analiza, časopis Journal of the Science of Food and Agriculture – [Mrkva, karoten i zdravlje (Carrot and carotene and multiple health outcomes: an umbrella review of the evidence)](https://doi.org/10.1002/jsfa.12425), 2023.
+- Ured za dodatke prehrani američkih Nacionalnih instituta za zdravlje (NIH Office of Dietary Supplements) – [Vitamin A i karotenoidi (Vitamin A and Carotenoids – Fact Sheet for Consumers)](https://ods.od.nih.gov/factsheets/VitaminA-Consumer/)
+- Harvardova škola javnog zdravstva (Harvard T.H. Chan School of Public Health), The Nutrition Source – [Vitamin A](https://nutritionsource.hsph.harvard.edu/vitamin-a/)
+- Američko udruženje optometrista (American Optometric Association) – [Lutein i zeaksantin (Lutein and zeaxanthin)](https://www.aoa.org/healthy-eyes/caring-for-your-eyes/diet-and-nutrition/lutein-and-zeaxanthin)
+- Sveučilište Utah (University of Utah Health) – [Mrkva i zdravlje očiju: mit ili činjenica? (Carrots & eye health: myth or fact)](https://healthcare.utah.edu/healthfeed/2025/04/carrots-eye-health-myth-or-fact), 2025. i [Mitovi o zdravlju dječjih očiju (Debunking Old Wives' Tales: Children's Eye Health)](https://healthcare.utah.edu/the-scope/kids-zone/all/2016/06/debunking-old-wives-tales-childrens-eye-health), 2016.
+- Kliničko istraživanje, časopis The Journal of Nutrition – [Beta-karoten se slabije upija iz sirove nego iz obrađene mrkve i špinata (Bioavailability of beta-carotene is lower in raw than in processed carrots and spinach in women)](https://doi.org/10.1093/jn/128.5.913), 1998.
+- Randomizirano istraživanje, časopis American Journal of Clinical Nutrition – [Karotenoidi se bolje upijaju iz salate s punomasnim preljevom (Carotenoid bioavailability is higher from salads ingested with full-fat than with fat-reduced salad dressings)](https://doi.org/10.1093/ajcn/80.2.396), 2004.
+- Križno istraživanje, časopis Nutrition Research and Practice – [Upijanje beta-karotena iz sirove mrkve i svježeg soka (Comparative bioavailability of β-carotene from raw carrots and fresh carrot juice in humans)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11982686/), 2025.
+- Sustavni pregled, časopis American Journal of Clinical Nutrition – [Međunarodne tablice glikemijskog indeksa i glikemijskog opterećenja (International tables of glycemic index and glycemic load values 2021)](https://doi.org/10.1093/ajcn/nqab233), 2021.
+- Istraživanje alergije na mrkvu, časopis Journal of Allergy and Clinical Immunology – [Alergija na mrkvu: dvostruko slijepi provokacijski test i alergeni (Carrot allergy: double-blinded, placebo-controlled food challenge and identification of allergens)](https://doi.org/10.1067/mai.2001.116430), 2001.
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society, RHS) – [Mrkvina muha (Carrot fly)](https://www.rhs.org.uk/advice/profile?pid=485) i [Izbijanje povrća u cvat (Bolting in vegetables)](https://www.rhs.org.uk/advice/profile?pid=262)
+- Savjetodavna služba Sveučilišta Michigan State (MSU Extension) – [Kako uzgojiti mrkvu (How to Grow Carrots)](https://www.canr.msu.edu/resources/how_to_grow_carrots)
+- Savjetodavna služba Sveučilišta Illinois (University of Illinois Extension) – [Mrkva (Carrots)](https://extension.illinois.edu/gardening/carrots)
+- Savjetodavna služba Sveučilišta Iowa State – [Uzgoj mrkve i pastrnjaka (Growing Carrots and Parsnips)](https://yardandgarden.extension.iastate.edu/how-to/growing-carrots-and-parsnips)
+- Savjetodavna služba Sveučilišta Minnesota (UMN Extension) – [Mrkva i pastrnjak u kućnom vrtu (A quick guide to carrots and parsnips)](https://extension.umn.edu/vegetables/growing-carrots-and-parsnips)
+- Savjetodavna služba Sveučilišta Utah State (USU Extension) – [Mrkva u vrtu (Carrots in the Garden)](https://extension.usu.edu/yardandgarden/research/carrots-in-the-garden)
+- Pokus mješovite sjetve mrkve i luka, časopis Entomologia Experimentalis et Applicata (zapis u bazi FAO AGRIS) – [Učinak mješovite sjetve na štetnike mrkve i luka (Effect of mixed cropping on some insect pests of carrots and onions)](https://agris.fao.org/search/en/records/65deb2ea0f3e94b9e5d08c14), 1984.
