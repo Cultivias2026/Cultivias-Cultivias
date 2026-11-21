@@ -92,7 +92,7 @@ Ispituje se njegovo djelovanje na umor očiju i simptome alergija, no dokazi su 
 
 ### Kapi crnog ribiza
 
-[Kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/) najčešće se rade od pupoljaka biljke, a dodaju se vodi ili soku. Mnogi ih koriste za opću okrepu, no za tvrdnje o jačanju imuniteta, energiji ili koži nema čvrstih dokaza.
+[Kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/) u trgovinama se često rade od pupoljaka biljke, a kod kuće od bobica i alkohola. Uzimaju se razrijeđene u vodi ili soku. Mnogi ih koriste za opću okrepu, no za tvrdnje o jačanju imuniteta, energiji ili koži nema čvrstih dokaza.
 
 ### Ulje crnog ribiza
 
