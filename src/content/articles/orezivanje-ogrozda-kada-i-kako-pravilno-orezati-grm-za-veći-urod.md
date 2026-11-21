@@ -12,8 +12,9 @@ perex: >-
 
 
   U ovom kratkom vodiču saznajte kada i kako pravilno orezati ogrozd, razlike između  tehnika orezivanja, te kako zaštititi biljku od bolesti i štetnika.
-readTime: 6
+readTime: 12
 publishedAt: 2026-01-09
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -25,324 +26,338 @@ related_articles:
   - ogrozd--zaboravljeno-supervoće
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
 ---
+
+Redovita rezidba održava [ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) rodnim, zdravim i preglednim, a i berba je lakša kad trnovite grane nisu zbijene. Glavna rezidba obavlja se krajem zime, a ljeti se grm samo prorjeđuje. U nastavku saznajte kada i kako orezati ogrozd u grmu i na stablu, korak po korak, te kako rezidbom spriječiti najčešće bolesti.
+
 ## Zašto je orezivanje važno?
 
-[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) (Ribes grossularia L.) je grmolika voćna biljka iz porodice kamenika (Grossulariaceae) koja počinje roditi već druge godine od sadnje, a punu rodnost daje s 5-8 godina. Prosječan „vijek trajanja voćke je oko 15-20 godina.
+Ogrozd (*Ribes uva-crispa*, ranije *Ribes grossularia*) grmolika je voćka iz porodice ogrozdovki (Grossulariaceae). Počinje roditi već druge godine nakon sadnje, punu rodnost daje s 5 do 8 godina, a rađa obično 15 do 20 godina.
 
-Pravilno i pravovremeno orezivanje:
+Pravilno i pravodobno orezivanje:
 
-* Povećava urod – Pravilna rezidba potiče stvaranje novih, produktivnih grana
-* Poboljšava kvalitetu ploda –Bolja cirkulacija zraka i sunčeve svjetlosti rezultira većim slađim plodovima
-* Sprječava bolesti – Uklanjanjem grana koje rastu prema sredini grma smanjujete rizik od pepelnice i drugih bolesti
-* Produljuje životni vijek –Redovita rezidba održava biljku zdravom i vitalno
-* Olakšava berbu – Pravilno oblikovan grm lakši je za branje plodova
+* **povećava urod** – rezidba potiče rast novih, rodnih grana
+* **poboljšava kvalitetu ploda** – do plodova dopire više zraka i svjetla, pa su krupniji i slađi
+* **sprječava bolesti** – kad uklonite grane koje rastu prema sredini, manji je rizik od pepelnice
+* **produljuje životni vijek** – redovito obnovljen grm dulje ostaje zdrav i rodan
+* **olakšava berbu** – do plodova se lakše dolazi u pravilno oblikovanom grmu
 
 ## Kada orezati ogrozd? Zimska vs. ljetna rezidba
 
 ### Zimska rezidba (glavna rezidba)
 
-Vrijeme: Veljača, prije nego što se pojave prvi listovi
+**Vrijeme:** krajem zime, u veljači, prije listanja.
 
-Zimska rezidba je glavna rezidba i obavlja se svake godine. Ovo je najbolje vrijeme jer je biljka u mirovanju, što znači da će brže zarastati rane i manje će biti rizika od bolesti.
+Zimska je rezidba glavna i obavlja se svake godine. Biljka tada miruje, a bez lišća se dobro vidi raspored grana.
 
-Što se radi tijekom zimske rezidbe:
+* **najstarije grane** – uklonite grane starije od tri godine, jer starije drvo daje vrlo malo plodova
+* **suhe i oštećene grane** – režite ih do zdravog drva
+* **polegle grane** – uklonite grane čiji plodovi dodiruju tlo
+* **grane prema sredini** – uklonite one koje zasjenjuju i zgušnjavaju sredinu grma
+* **prošlogodišnji izboji** – skratite ih otprilike za dvije trećine, odnosno na 3–4 pupa, a bočne izboje na 2 pupa
 
-* Uklanjaju se sve grane starije od5 godina
-* Uklanjaju se suhe i oštećene grane
-* Uklanjaju se grane čiji plodovi dotiču tlo
-* Uklanjaju se grane koje rastu prema sredini grma
-* Nove mladice se skraćuju za dvije trećine njihove duljine
+Ogrozd najviše rađa na kratkim rodnim izbojima na dvogodišnjem i trogodišnjem drvu. Zato Ministarstvo poljoprivrede kanadske pokrajine Ontario (OMAFRA) i Savjetodavna služba Sveučilišta Iowa State savjetuju da se grane starije od tri godine redovito uklanjaju. 
 
 ### Ljetna rezidba (dopunska rezidba)
 
-Vrijeme: Lipanj-srpanj, tijekom vegetacije
+**Vrijeme:** lipanj–srpanj, tijekom rasta.
 
-Ljetna rezidba je dopunska i provodi se kako bi se poboljšala cirkulacija zraka i spriječile bolesti. Obično se provodi samo a koje grm previše gust.
+Ljetna je rezidba dopunska i obavlja se kad je grm pregust, kako bi kroz njega bolje strujao zrak.
 
-Što se radi tijekom ljetne rezidbe:
+* **bočni izboji** – ovogodišnje bočne izboje skratite na pet listova
+* **pregusti dijelovi** – uklonite samo grane koje su previše guste
+* **izboji za zamjenu** – ne skraćujte mlade izboje koji trebaju zamijeniti stare grane, savjetuje Kraljevsko hortikulturno društvo (RHS)
 
-* Nove jednogodišnje grane i izbojci se skraćuje na 5 listova
-* Uklanjaju se samo grane koje su previše guste
-* Pazite da ne uklonite previše, jer biljka trebala energiju za proizvodnju plodova
+Ne uklanjajte previše, jer biljci treba lišće da bi stvorila hranu za plodove.
 
 ## Razlike u orezivanju ogrozda u grmu ili stablu
 
-Ogrozd se može uzgajati na dva načina, a svaki zahtijeva drugačiji pristup orezivanju.
+Ogrozd se može uzgajati na dva načina, a svaki zahtijeva drukčiju rezidbu.
 
 ### Ogrozd kao grm
 
-Ovo je najčešće korišten oblik uzgoja. Grm se obično sadi na razmak od 1,6 m između biljaka i razvija se kao prirodna grmolika forma s 3-6 glavnih grana u prvim godinama, a kasnije s 12-15 grana pri punoj rodnosti.
+Ovo je najčešći oblik uzgoja. Grmovi se sade na razmak od oko 1,5 do 1,6 m. Grm u prvim godinama ima 3 do 6 glavnih grana, a odrastao grm 9 do 12 grana različite starosti.
 
 Prednosti:
 
-* Lakši za održavanje
-* Prirodniji izgled
-* Veći urod po biljci
+* **lakše održavanje** – rezidba je jednostavnija i oprašta pogreške
+* **prirodniji izgled** – grm raste u obliku koji mu odgovara
+* **veći urod** – po biljci ima više rodnih grana
 
 ### Ogrozd kao stablo (kalemljeno na podlogu)
 
-Ogrozd se može kalemiti na visokoj podlozi kako bi se dobilo stablo s jasno vidljivim deblom. Obično se sadi na razmak od 1,2 m.
+Ogrozd se može cijepiti na visoku podlogu, pa nastane stablo s jasno vidljivim deblom. Takva se stabla obično sade na razmak od oko 1,2 m.
 
 **Prednosti:**
 
-* Elegantniji izgled
-* Lakši pristup za berbu
-* Bolja cirkulacija zraka ispod krošnje
+* **ukrasan izgled** – stablo je pogodno i za uređene vrtove
+* **lakša berba** – plodovi su na visini ruku
+* **bolje strujanje zraka** – ispod krošnje nema gustih grana
 
 ## Korak po korak upute za orezivanje ogrozda u grmu
 
-**Korak 1: Pripremite alate**
+**Korak 1: Pripremite alat**
 
-Prije nego što počnete, osigurajte da imate:
+Prije nego što počnete, pripremite:
 
-Oštru pilu za rezidbu – Tupa pila može oštetiti biljku
+* **voćarske škare** – za tanje grane; moraju biti oštre, jer tupe gnječe koru
+* **škare s dugim drškama ili pilu** – za debele, stare grane pri tlu
+* **čvrste rukavice** – ogrozd ima trnje, pa su najbolje rukavice otporne na probijanje i rezanje
 
-Zaštitne rukavice – Ogrozd ima trnove, pa su rukavice neophodne ( preporučujemo proturezne)
+**Korak 2: Uklonite stare grane**
 
-**Korak 2: Uklonite stare grane**
+Počnite s granama starijim od tri godine. Obično su deblje i tamnije kore, a izbijaju pri tlu. Odrežite ih što bliže tlu.
 
-Počnite s uklanjanjem grana starijih od 5 godina. Ove grane su obično deblje i tamnije od boje, te se nalaze pri tlu. Odrezujte ih što bliže tlu, u ravnini sa zemljom.
+Stare grane slabo rađaju, pa ih treba ukloniti da bi grm potjerao nove, rodne grane.
 
-Zašto? Stare grane gube na svojoj produktivnosti (rodnosti)i bolje je ukloniti ih kako bi se omogućilo stvaranje novih, produktivnih grana.
+**Korak 3: Uklonite suhe i oštećene grane**
 
-**Korak 3: Uklonite suhe i oštećene grane**
+Pregledajte cijeli grm i pronađite suhe, bolesne ili oštećene grane. Odrežite ih do zdravog drva.
 
-Pregledajte cijeli grm i identificirajte sve suhe, bolne ili oštećene grane. Odrezujte ih do zdravog tkiva.
+**Savjet:** ako je grana samo djelomično suha, odrežite je iznad prvog živog pupa okrenutog prema van.
 
-Savjet: Ako je grana samo djelomično suha, odrezujte je do prvog živog pupoljka koji gleda prema van iz grma.
+**Korak 4: Prorijedite sredinu grma (najvažnije!)**
 
-**Korak 4: Prorijedite sredinu grma (najvažnije!)**
+Ovo je najvažniji korak za sprječavanje bolesti, osobito pepelnice. Grane koje rastu prema sredini grma uklonite, kako bi kroz njega mogao strujati zrak.
 
-Ovo je najvažniji korak za prevenciju bolesti, posebno pepelnice. Grane koje rastu prema sredini grma trebaju biti uklonjene kako bise omogućila bolja cirkulacija zraka.
+* **pregled grma** – pogledajte grm odozgo i pronađite grane koje rastu prema središtu
+* **rezanje** – te grane odrežite pri njihovoj osnovi
+* **cilj** – kroz sredinu grma treba prolaziti zrak i sunčevo svjetlo
+* **oblik** – grm neka bude otvoren u sredini, poput čaše
 
-**Kako to učiniti:**
+**Korak 5: Skratite nove mladice**
 
-* Pogledajte grm iz sredine iidentificirajte sve grane koje rastu prema centru
-* Odrezujte te grane što bliže tlu
-* Cilj je da kroz sredinu grma možeproći zrak i sunčeva svjetlost
-* Grm bi trebao imati “otvorenu”strukturu, poput čaše
+Prošlogodišnje izboje skratite otprilike za dvije trećine, iznad pupa okrenutog prema van.
 
-**Korak 5: Skratite nove mladice**
+**Primjer:** ako je mladica duga 30 cm, skratite je na oko 10 cm. Skraćivanje potiče grananje i stvaranje više bočnih, rodnih izboja.
 
-Nove mladice (izbojci iz prošle godine) trebaju biti skraćene za dvije trećine njihove duljine. Odrezujte iznad pupoljka koji gleda prema van iz grma.
+**Korak 6: Oblikujte grm**
 
-Primjer: Ako je mladica dugačka 30 cm, skratite je na oko 10cm.
+Kad uklonite stare grane i skratite nove, grm bi trebao biti otvoren u sredini, poput čaše. U prvim godinama ima 3 do 6 glavnih grana, a odrastao grm 9 do 12 grana, po tri do četiri grane stare jednu, dvije i tri godine.
 
-Zašto? Skraćivanje potiče grananje i stvaranje više bočnih grana, što rezultira većim urodom.
-
-**Korak 6: Oblikujte grm**
-
-Nakon što ste uklonili stare grane i skratili nove, trebali biste imati grm s otvorenom strukturom, sličnom čaši. Grm bi trebao imati 3-6glavnih grana u prvim godinama, a kasnije 12-15 pri punoj rodnosti.
-
-![](/images/articles/pravilno-orezivanje-ogrozda-u-grmu.webp)
+![Infografika: rezidba ogrozda u grmu – krajem zime izrežite grane starije od tri godine, otvorite sredinu grma i ostavite 9 do 12 grana različite starosti; ljeti skratite bočne izboje na pet listova; ne uklanjajte odjednom više od trećine grma](/images/articles/infografika-ogrozd-rezidba.webp)
 
 ## Savjeti za uspješno orezivanje
 
-* Koristite oštru pilu – Tupa pilamože oštetiti biljku i otvoriti je za bolesti
-* Režite uvijek iznad pupova
-* Pazite na trnove – Ogrozd imatrnove, pa nosite debele rukavice ( proturezne)
-* Radite po suhom vremenu –Izbjegavajte rezidbu tijekom vlažnog vremena jer se bolesti lakše šire
-* Ne odrežite previše – Uklanjanjeviše od 1/3 biljke može je oslabiti
-* Redovito promatrajte biljku –Rana detekcija bolesti ili štetnika čini tretman lakšim
+* **oštar alat** – tup alat gnječi koru i olakšava ulazak uzročnika bolesti
+* **rez iznad pupa** – uvijek režite malo iznad pupa okrenutog prema van
+* **zaštita od trnja** – nosite debele rukavice otporne na rezanje
+* **suho vrijeme** – ne orezujte po vlažnom vremenu, jer se bolesti tada lakše šire
+* **umjerenost** – ako odjednom uklonite više od trećine grma, možete ga oslabiti
+* **redovit pregled** – bolesti i štetnike lakše je suzbiti ako ih rano primijetite
 
 ### Detaljne prednosti uzgoja ogrozda u grmu
 
-*  Ekonomičnost –Uzgoj u grmu je najjeftiniji oblik. Možete kupiti jeftine sadnice i one će se razviti u produktivne biljke bez dodatnih troškova za kalemljenje.
-*  Jednostavnost –Grm je prirodan oblik rasta. Biljka će prirodno rasti u ovom obliku bez dodatnih intervencija, što je idealno za početnike.
-*  Bolji urod – Grmolika forma omogućava više grana i veći broj plodova po biljci. Prosječan grm može proizvesti 3-5 kg plodova godišnje, što je značajno više nego stablo.
-*  Fleksibilnost –Možete lako prilagoditi rezidbu ovisno o vašim potrebama. Ako želite više plodova, režite manje; ako želite veće plodove, onda više.
-*  Robustnost –Grm je otporniji na greške pri rezanju. Čak i ako napravite grešku, biljka će se obično oporaviti i nastaviti proizvoditi plodove.
-*  Nema potrebe za podrškom – Za razliku od stabla, grm ne trebala stalnu podršku ili kolac. Može se sami održavati u vertikalnom položaju.
-*  Prirodna zaštita – Grmolika forma sa bočnim granama koje rastu blizu tla pruža bolju zaštitu od vjetra i hladnoće.
-*  Duži vijek trajanja – Grmolika forma omogućava biljci da se regenerira kroz redovito uklanjanje starih grana. Grm može biti produktivan 15-20 godina ili čak duže.
+* **ekonomičnost** – grm je najjeftiniji oblik uzgoja, jer ne treba cijepljena sadnica
+* **jednostavnost** – grm je prirodan oblik rasta ogrozda, pa je pogodan za početnike
+* **bolji urod** – grm ima više grana i plodova; odrastao grm može dati 3–5 kg plodova godišnje, više od stabla
+* **prilagodljivost** – ako želite više plodova, režite manje, a ako želite krupnije plodove, režite više
+* **otpornost na pogreške** – grm se nakon pogrešne rezidbe obično brzo oporavi
+* **nema potrebe za kolcem** – grm sam stoji uspravno
+* **prirodna zaštita** – grane pri tlu štite grm od vjetra i hladnoće
+* **dugovječnost** – redovitim uklanjanjem starih grana grm se obnavlja i može roditi 15 do 20 godina
 
 ## Mane uzgoja ogrozda u grmu
 
-*  Zauzima više prostora – Grm je veći od stabla. Trebate najmanje 1,6 m prostora između biljaka, što ga čini nepraktičnim za male vrtove.
-*  Teže je dostići plodove – Neki plodovi rastu u sredini grma gdje je teško doći donjih bez ozljeda od trnova.
-*  Više rada pri rezidbi – Rezidba grma zahtijeva više vremena i napora nego rezidba stabla jer trebate pristupiti sa svih strana.
-*  Grane mogu padati na tlo – Fleksibilne grane grma lako se savijaju pod težinom plodova i mogu dodirnuti tlo, što čini plodove podložnima prljavštini i štetnicima.
-*  Teže je sprječavati bolesti – Ako grm postane previše gust, teže je postići dobru cirkulaciju zraka, što može dovesti do pepelnice i drugih bolesti.
-*  Zahtijeva redovitu rezidbu – Grm trebala redovitu godišnju rezidbu kako bi ostao produktivan. Ako zanemarite rezidbu, biljka će postati neproduktivna i bolna.
+* **zauzima više prostora** – između grmova treba ostaviti barem 1,5 m, što je u malim vrtovima nepraktično
+* **teža berba iz sredine** – do plodova u sredini grma teško je doći bez ogrebotina od trnja
+* **više posla pri rezidbi** – grmu treba prići sa svih strana
+* **polegle grane** – savitljive grane pod teretom plodova padaju do tla, gdje se plodovi prljaju i lakše ih napadaju štetnici
+* **veći rizik od bolesti** – u pregustom grmu zrak slabo struji, pa se lakše javlja pepelnica
+* **potrebna je redovita rezidba** – zapušten grm slabo rađa i lakše obolijeva
 
 ## Orezivanje ogrozda u obliku stabla: Detaljni vodič
 
-**Kako se formira ogrozd stablo?**
+**Kako se formira ogrozd na stablu?**
 
-Ogroz u obliku stabla ne može se formirati iz grma, već se mora takvo kupiti ili se mora kalemiti. Takvo stablo ogrozda se sastoji od:
+Ogrozd na stablu ne može se dobiti od grma, nego se kupuje kao gotovo stablo ili cijepi. Ima tri dijela:
 
-* Debla– Golo deblo visine 1-1,2 metra (3,5-4 metra) koje jepotpuno bez grana
-* Graft točke – Mjesta gdje je sorta ogrozda kalemljena na podlogu
-* Krošnje– „Bushy“ dio na vrhu sa granama koje nose plodove
+* **deblo** – golo deblo visoko 1–1,2 m, bez grana
+* **mjesto cijepljenja** – mjesto na kojem je sorta ogrozda spojena s podlogom
+* **krošnja** – grmoliki dio na vrhu, s granama koje nose plodove
 
 ### Korak po korak vodič za rezanje ogrozda u stablu
 
-**Korak 1: Uklanjanje izbojaka**
+**Korak 1: Uklanjanje izdanaka**
 
-Ovo je najvažniji korak pri rezanju stabla. Budući da je stablo [kalemljeno](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training), bilo koji izbojci (novi izbojci) koji rastu iz debla ili ispod točke kalemljenja nisu pravi ogrozd –oni su iz podloge i trebali bi biti uklonjeni.
+Ovo je najvažniji korak. Budući da je stablo [cijepljeno](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training), svi izdanci koji rastu iz debla ili ispod mjesta cijepljenja ne pripadaju željenoj sorti, nego podlozi, pa ih treba uklanjati.
 
-Kako prepoznati izbojke:
+Kako ćete ih prepoznati:
 
-* Rastu direktno iz debla ili od baze biljke
-* Obično su jači i bržeg rasta od željene sorte
-* Mogu biti drugačije boje ili imati drugačiji oblik listova
+* rastu izravno iz debla ili iz osnove biljke
+* obično su bujniji od željene sorte
+* mogu imati drukčiju boju ili oblik listova
 
 Kako ih ukloniti:
 
-* Odmah kada ih vidite, odrezujte ih što bliže bazi
-* Ako su mali, možete ih jednostavno otrgnuti rukom
-* Ako su veći, koristite oštu pilu
-* Redovito provjeravajte biljku tijekom godine jer izbojcimogu ponovno izrasti
+* **odmah** – odrežite ih što bliže osnovi čim ih primijetite
+* **mali izdanci** – možete ih jednostavno otkinuti rukom
+* **veći izdanci** – odrežite ih oštrim škarama ili pilom
+* **redovito** – provjeravajte biljku tijekom cijele godine, jer izdanci ponovno izbijaju
 
-**Korak 2: Rezanje krošnje**
+**Korak 2: Rezanje krošnje**
 
-Krošnja stabla trebala bi biti rezana na isti način kao i obični grm. Cilj je održati otvorenu, čašu-sličnu strukturu sa dobrom cirkulacijom zraka.
+Krošnju režite kao običan grm. Cilj je otvorena krošnja u obliku čaše, kroz koju struji zrak.
 
 **Zimska rezidba krošnje:**
 
-* Uklonite sve grane starije od 5 godina
-* Uklonite suhe i oštećene grane
-* Prorijedite sredinu krošnje kako bi omogućili cirkulaciju zraka. 
-* Skratite nove mladice za dvije trećine njihove duljine
-* Cilj je održati krošnju kompaktnom i ne previše velikom
+* uklonite grane starije od tri godine
+* uklonite suhe i oštećene grane
+* prorijedite sredinu krošnje, da zrak bolje struji
+* prošlogodišnje izboje skratite otprilike za dvije trećine
+* krošnju održavajte zbijenom i ne prevelikom
 
 **Ljetna rezidba krošnje:**
 
-* U lipnju-srpnju, ako je krošnja previše gusta, skratite nove izbojke na 5 listova
-* Pazite da ne uklonite previše jer biljka trebala energiju za proizvodnju plodova
+* u lipnju i srpnju, ako je krošnja pregusta, skratite nove bočne izboje na pet listova
+* ne uklanjajte previše, jer biljci treba lišće za razvoj plodova
 
-**Korak 3: Održavanje debla**
+**Korak 3: Održavanje debla**
 
-Deblo stabla trebalo bi biti potpuno golo, bez grana ili izbojaka.
+Deblo mora biti potpuno golo, bez grana i izdanaka.
 
-Što trebate učiniti:
+* **glavno deblo** – nikada ga ne režite
+* **izdanci** – odmah uklonite sve izdanke koji izbiju iz debla
+* **male grane** – ako se pojave na deblu, odrežite ih tik uz deblo
+* **cilj** – deblo neka bude čisto od tla do mjesta cijepljenja
 
-* Nikada ne režite glavno deblo
-* Odmah uklonite sve izbojke koji rastu iz debla
-* Ako se pojave male grane na deblu, odrezujte ih što bliže deblu
-* Deblo trebalo bi biti čisto i golo od baze do točke kalemljenja
+**Korak 4: Osiguranje potpore**
 
-**Korak 4: Osiguranje podrške**
+Za razliku od grma, stablu je obavezno potrebna čvrsta potpora, jer se pod težinom plodova može saviti ili slomiti.
 
-Za razliku od grma, stablo obavezno trebala čvrstu podršku jer je teško i može se saviti pod težinom plodova.
+* **kolac** – koristite čvrst drveni ili bambusov kolac visok najmanje 1,5 m
+* **vezice** – deblo privežite uz kolac s nekoliko mekih vezica ili gumenih traka
+* **provjera** – nekoliko puta godišnje provjerite da se vezice ne urezuju u koru
+* **zamjena** – kolac zamijenite ako istrune ili pukne
 
-Što trebate učiniti:
-
-* Koristite čvrst kolac ili štap (obično bambusov kolac ili drveni šrap)
-* Kolac trebao biti visine najmanje 1,5 metara
-* Učvrstite deblo na kolac sa nekoliko mekih vezica ili gumenih traka
-* Provjerite vezice nekoliko puta godišnje da se ne zarezu u deblo
-* Zamjenjujte kolac ako strune ili se slomi
-
-![](/images/articles/pravilno-orezivanje-ogrozda-u-stablu.webp)
+![Ilustracija: rezidba ogrozda na stablu – izdanke iz debla i podloge odmah uklonite, krošnju orežite kao grm, deblo ostavite golo i privežite uz kolac](/images/articles/pravilno-orezivanje-ogrozda-u-stablu.webp)
 
 ## Vremenske točke za rezanje stabla
 
 **Zimska rezidba (veljača):**
 
-* Glavna rezidba krošnje
-* Uklanjanje starih i oštećenih grana
-* Prorijeđivanje sredine
-* Skraćivanje novih mladica
+* glavna rezidba krošnje
+* uklanjanje starih i oštećenih grana
+* prorjeđivanje sredine
+* skraćivanje prošlogodišnjih izboja
 
-Tijekom godine:
+**Tijekom godine:**
 
-* Odmah uklonite sve izbojke čim ih vidite
-* Ne čekajte do sljedeće rezidbe
-* Ljetna rezidba (lipanj-srpanj):
-* Ako je potrebno, skratite novo rastinje na 5 listova
-* Uklonite samo grane koje su previše guste
+* izdanke uklonite čim ih primijetite
+* ne čekajte sljedeću rezidbu
+
+**Ljetna rezidba (lipanj–srpanj):**
+
+* po potrebi skratite nove bočne izboje na pet listova
+* uklonite samo grane koje su previše guste
 
 ## Česta greška pri rezanju stabla
 
-Greška: Zanemarivanje izbojaka
+**Greška:** zanemarivanje izdanaka.
 
-Mnogi voćari zaborave da redovito uklanjaju izbojke koji rastu iz debla. Ako to učinite, izbojci će postati jači od željene sorte i eventualno preuzeti biljku. Rezultat je da ćete imati stablo sa “tuđim”ogrozdom.
+Mnogi voćari zaborave redovito uklanjati izdanke iz debla i podloge. Oni s vremenom postanu jači od željene sorte i preuzmu biljku, pa na kraju imate stablo koje rađa plodove podloge.
 
-Rješenje: Provjeravajte biljku najmanje jednom mjesečno tijekom vegetacijske sezone i odmah uklanjajte sve izbojke.
+**Rješenje:** tijekom vegetacije barem jednom mjesečno pregledajte biljku i odmah uklonite sve izdanke.
 
 ### Prednosti i nedostaci stabla
 
 **Prednosti:**
 
-*  Zauzima malo prostora
-*  Elegantani dekorativan izgled
-*  Lakši pristup za berbu (nema čučanja)
-*  Bolja cirkulacija zraka
-*  Idealan za kontejnere ili formalne vrtove
+* zauzima malo prostora
+* ukrasno izgleda
+* lakša berba, bez saginjanja
+* bolje strujanje zraka
+* pogodno je za velike posude i uređene vrtove
 
 **Nedostaci:**
 
-*  Skupo –mora se kupiti kao gotovo oblikovano stablo
-*  Zahtijeva stalnu podršku (kolac)
-*  Zahtijeva redovito uklanjanje izbojaka
-*  Krošnja može postati preteška i slomiti se ako se ne orezuje pravilno i na vrijeme
-*  Manje tolerantan na greške pri rezanju
+* skupo je, jer se kupuje kao gotovo oblikovano stablo
+* stalno treba kolac
+* izdanke treba redovito uklanjati
+* krošnja može postati preteška i slomiti se ako se ne orezuje na vrijeme
+* slabije podnosi pogreške pri rezidbi
 
-**Grm i stablo usporedba**
+**Usporedba grma i stabla**
 
-![](/images/articles/ogrozd_usporedba.jpg)
-
-
-
+| Karakteristika | Ogrozd u grmu | Ogrozd na stablu |
+| --- | --- | --- |
+| Oblik | prirodan grm, otvoren u sredini | krošnja na golom deblu |
+| Deblo | kratko, 10–15 cm | visoko, 1–1,2 m |
+| Broj grana | 9–12 grana različite starosti | 8–10 grana u krošnji |
+| Rezidba krošnje | uklanjanje najstarijih grana i prorjeđivanje | jednaka kao kod grma |
+| Deblo i izdanci | izdanke s kratkog debla treba uklanjati | deblo se ne reže, uklanjaju se samo izdanci podloge |
+| Potpora | obično nije potrebna | obavezna, čvrst kolac |
+| Zahtjevnost | umjerena | veća, traži više pažnje |
 
 ## Zaštita ogrozda od bolesti i štetnika
 
-Pravilna rezidba je prvi korak u prevenciji bolesti, ali trebate biti svjesni najčešćih problema koji mogu zahvatiti ogrozd.
+Pravilna rezidba prvi je korak u sprječavanju bolesti, ali korisno je poznavati i najčešće probleme ogrozda.
 
-### **Pepelnica (Sphaerotheca mors-uvae)**
+### Pepelnica (Sphaerotheca mors-uvae)
 
-Što je to? Pepelnica je gljivična bolest koja se pojavljuje kao pepeljasta prevlaka na lišću, izbojima i plodovima. Zahvaćeni dijelovi se suše i odumiru, što može značajno smanjiti urod.
+**Što je to?** Američka pepelnica ogrozda gljivična je bolest koja se danas naziva *Podosphaera mors-uvae*. Na listovima, izbojima i plodovima stvara bijelu, brašnastu prevlaku. Hrvatska agencija za poljoprivredu i hranu (HAPIH) navodi da je štetnija od europske pepelnice jer napada i plodove, koji zatim često pucaju i trunu.
 
 **Znakovi:**
 
-* Pepeljasta prevlaka na lišću(obično na donjoj strani)
-* Deformacija listova i plodova
-* Suho lišće koje pada
+* bijela, brašnasta prevlaka na mladim listovima, vrhovima izboja i plodovima
+* prevlaka s vremenom posmeđi
+* listovi i vrhovi izboja se deformiraju i suše
 
 **Prevencija:**
 
-* Pravilna rezidba – Prorijeđivanje sredine grma jer pepelnica voli vlažno, zagušeno okruženje
-* Dobar razmak između biljaka –osigurajte dobru cirkulaciju zraka
-* Izbjegavanje prekomjernogzalijevanja – zalijevajte samo tlo, ne lišće
+* **rezidba** – prorijedite sredinu grma, jer pepelnica voli vlažne, zagušene grmove
+* **razmak** – ostavite dovoljno prostora između biljaka, da zrak struji
+* **zalijevanje** – zalijevajte tlo, a ne lišće
+* **umjerena gnojidba** – RHS upozorava da previše dušika potiče mekane izboje koje pepelnica lakše napada
+* **otporne sorte** – birajte [sorte ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/) otporne na pepelnicu
 
-**Tretman:**
+**Suzbijanje:**
 
-* Prskanje sa sumporom ili drugimfungicidima u proljeće, pri pojavi prvih pjega
-* Uklanjanje zahvaćenih dijelovabiljke
-* Redovito okopavanje, čišćenjetrave i korova ispod biljke
+* u proljeće, pri prvim znakovima bolesti, prskajte sredstvom na bazi sumpora ili drugim fungicidom registriranim za ogrozd
+* uklonite i uništite zaražene vrhove izboja
+* redovito okopavajte i čistite travu i korov ispod grma
 
 ### Gusjenice (Ogrozdov plamenac i ogrozdova grbica)
 
-[Ogrozdovplamenac](https://pinova.hr/stetnici-ogrozda/) (Zophodia grossulariella) je najčešći štetnik ogrozda. Ženka polaže jaja u cvijet ili mlade plodove, a ispiljene gusjenice prodiru u plodove gdje se hrane sjemenkama. Svaka gusjenica može uništiti 3-4 ploda.
+Ogrozdov plamenac (*Zophodia grossulariella*) jedan je od najčešćih štetnika ogrozda, navodi hrvatska tvrtka za zaštitu bilja Pinova u [pregledu štetnika ogrozda](https://pinova.hr/stetnici-ogrozda/). Ženka polaže jaja u cvjetove ili mlade plodove, a gusjenice se ubušuju u plodove i hrane sjemenkama. Svaka gusjenica može uništiti 3 do 4 ploda.
 
-[Ogrozdovagrbica](https://pinova.hr/stetnici-ogrozda/) (Abraxas grossulariata) oštećuje pupoljke i lišće. Jedna ženka može položiti do 300 jaja.
+Ogrozdova grbica (*Abraxas grossulariata*) oštećuje pupove i lišće. Jedna ženka može položiti do 300 jaja.
 
 **Znakovi:**
 
-* Oštećeni plodovi s rupama
-* Gusjenice vidljive u plodovima
-* Oštećeno lišće
+* oštećeni plodovi s rupicama
+* gusjenice u plodovima
+* izgrizeno lišće
 
 **Prevencija:**
 
-* Redovito promatranje biljketijekom proljeća
-* Uklanjanje zahvaćenih plodova
+* redovito pregledavajte grm u proljeće
+* uklanjajte i uništavajte oštećene plodove
 
-**Tretman:**
+**Suzbijanje:**
 
-Prskanje s dozvoljenim insekticidima odmah nakon precvjetavanja (ključno je na vrijeme poprskati)
-
-Obično je potrebno 1-2 prskanja
+* prskajte insekticidom registriranim za ogrozd odmah nakon cvatnje; pravodobno prskanje je presudno
+* obično su potrebna jedno do dva prskanja
 
 ### Hrđa (Puccinia pringsheimiana)
 
-Manifestira se kao narančaste pjege na lišću, mladicama i plodovima. Zahvaćeni dijelovi se suše i odumiru.
+Hrđa se pojavljuje kao narančaste pjege na lišću, mladicama i plodovima. Zahvaćeni dijelovi se suše i odumiru.
 
-**Tretman:** Prskanje pred otvaranje pupoljaka
+**Suzbijanje:** prskanje registriranim fungicidom prije otvaranja pupova.
 
 ### Lisna pjegavost
 
-Pojavljuje se kao tamne pjege na lišću koje se šire i mogu dovesti do pada listova.
+Pojavljuje se kao tamne pjege na lišću, koje se šire i mogu uzrokovati rano opadanje listova.
 
-**Tretman:** Uklanjanje zahvaćenog lišća, prskanje fungicidima ako je potrebno.
+**Suzbijanje:** uklanjanje zaraženog i opalog lišća te, po potrebi, prskanje registriranim fungicidom.
+
+Za sva sredstva vrijedi isto pravilo: koristite samo sredstva registrirana u Hrvatskoj za ogrozd i držite se upute na ambalaži, uključujući karencu, broj dana koji mora proći od prskanja do berbe. Popis registriranih sredstava objavljuje Ministarstvo poljoprivrede, šumarstva i ribarstva. Kako se ogrozd sadi i razmnožava, opisuje vodič za [sadnju ogrozda](https://www.cultivias.com/voce/kako-posaditi-i-razmno%C5%BEiti-ogrozd/), a srodni [crni ribiz](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/) orezuje se drukčije, jer najbolje rađa na jednogodišnjim granama.
+
+## Izvori
+
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Ogrozd: rezidba i oblikovanje (Gooseberries: pruning and training)](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training)
+- Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti ogrozd (How to Grow Gooseberries)](https://www.rhs.org.uk/fruit/gooseberries/grow-your-own)
+- Ministarstvo poljoprivrede kanadske pokrajine Ontario (OMAFRA) – [Uzgoj ribiza i ogrozda u kućnim vrtovima (Growing currants and gooseberries in home gardens)](https://www.ontario.ca/page/growing-currants-and-gooseberries-home-gardens)
+- Savjetodavna služba Sveučilišta Iowa State (Iowa State University Extension) – [Rezidba jagodičastog voća krajem zime (Late Winter/Early Spring Pruning of Small Fruits)](https://yardandgarden.extension.iastate.edu/article/2013/02-13/pruning.html)
+- Hrvatska agencija za poljoprivredu i hranu (HAPIH) – [Regulirani nekarantenski štetni organizmi na sadnom materijalu ribiza](https://www.hapih.hr/wp-content/uploads/2022/08/RNQPs-Sadni-materijal-ribiza_V2.pdf)
+- Pinova, hrvatska tvrtka za zaštitu bilja – [Štetnici ogrozda](https://pinova.hr/stetnici-ogrozda/)
+- Središnji državni portal (gov.hr) – [Korištenje pesticida](https://gov.hr/hr/sigurnost-na-internetu/1400)

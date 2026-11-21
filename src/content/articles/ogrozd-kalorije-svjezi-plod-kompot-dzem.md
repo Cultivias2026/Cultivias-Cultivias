@@ -22,7 +22,7 @@ noindex: false
 ---
 ## Koliko kalorija ima porcija svježeg ogrozda?
 
-[Manja porcija od 50 g](https://fdc.nal.usda.gov/food-details/173030/nutrients) ima 22 kcal, a 200 g bobica odvojenih u zdjelicu ima 88 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, bez pretpostavke da svaka puna zdjelica teži jednako.
+Prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA), [manja porcija od 50 g](https://fdc.nal.usda.gov/food-details/173030/nutrients) svježeg [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) ima 22 kcal, a 200 g bobica odvojenih u zdjelicu ima 88 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, bez pretpostavke da svaka puna zdjelica teži jednako.
 
 Računa se masa očišćenih bobica, bez peteljki i dijelova koje nećete pojesti. Šećer koji dodate preko svježeg ogrozda računa se zasebno.
 
@@ -32,7 +32,7 @@ Računa se masa očišćenih bobica, bez peteljki i dijelova koje nećete pojest
 | Kućno smrznuti plod, bez dodataka | približno 44 kcal | 150 g | približno 66 kcal |
 | Džem, primjer proizvoda | 274 kcal | 20 g namaza | oko 55 kcal |
 
-Vrijednost za džem odnosi se na Tiptree Green Gooseberry Conserve, ne na svaki džem od ogrozda.
+Vrijednost za džem odnosi se na Tiptree Green Gooseberry Conserve britanskog proizvođača Wilkin & Sons, a ne na svaki džem od ogrozda.
 
 ![Infografika: kalorije ogrozda prema obliku. 150 g svježeg ili kućno smrznutog ogrozda ima oko 66 kcal, a 20 g džema oko 55 kcal](/images/articles/infografika-ogrozd-kalorije.webp)
 
@@ -48,7 +48,7 @@ Ogrozd koji kod kuće zamrznete cijeli, bez šećera i drugih dodataka, možete 
 
 ## Koliko kalorija ima kompot od ogrozda?
 
-Kompot sadrži i voće i tekućinu, a ogrozd se može pripremati [u vodi, soku ili sirupu](https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/berries-whole/). U vodi nema dodatne energije, dok sok ili zaslađeni sirup mijenjaju kalorije smjese. Za kupovni kompot pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima) i pogledajte odnosi li se brojka na voće s tekućinom ili na ocijeđeni sadržaj (voće izvađeno iz tekućine).
+Kompot sadrži i voće i tekućinu, a ogrozd se može pripremati u vodi, soku ili sirupu, navodi američki Nacionalni centar za kućno konzerviranje hrane (National Center for Home Food Preservation) u [uputama za konzerviranje bobica](https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/berries-whole/). U vodi nema dodatne energije, dok sok ili zaslađeni sirup mijenjaju kalorije smjese. Za kupovni kompot pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima) i pogledajte odnosi li se brojka na voće s tekućinom ili na ocijeđeni sadržaj (voće izvađeno iz tekućine).
 
 ### Ima li kompot bez dodanog šećera nula kalorija?
 
@@ -72,10 +72,12 @@ Jednom izvažite koliko džema stavite na svoju žlicu ili žličicu. Dvadeset g
 
 ### Zašto domaći džem ima drukčiju vrijednost?
 
-Domaći džem ovisi o količini šećera, ostalim sastojcima i vodi koja ispari tijekom kuhanja. [Recepti za džem od ogrozda](https://www.uaf.edu/ces/publications/database/food/gooseberries.php) pokazuju različite omjere voća i šećera, pa sam udio voća nije dovoljan za kalorijski račun. Ukupne kalorije sastojaka koji ostaju u džemu rasporedite prema završnoj masi i porciji koju jedete.
+Domaći džem ovisi o količini šećera, ostalim sastojcima i vodi koja ispari tijekom kuhanja. Recepti za džem od ogrozda, poput onih [Savjetodavne službe Sveučilišta Aljaske (University of Alaska Fairbanks Extension)](https://www.uaf.edu/ces/publications/database/food/gooseberries.php), imaju različite omjere voća i šećera, pa sam udio voća nije dovoljan za kalorijski račun. Ukupne kalorije sastojaka koji ostaju u džemu rasporedite prema završnoj masi i porciji koju jedete.
 
 Primjer računa za zamišljeni recept: 500 g ogrozda (220 kcal) i 300 g šećera (1200 kcal) daju ukupno 1420 kcal. Ako nakon kuhanja izvažete 700 g džema, to je oko 203 kcal na 100 g, a 20 g namaza ima oko 41 kcal.
 
 U zdjelici sa 150 g svježeg ogrozda nalazi se 66 kcal, a u 20 g džema iz tablice oko 55 kcal. Te se porcije razlikuju i po količini hrane, pa jednaka brojka na 100 g nije jedino što treba gledati.
+
+Ideje za džem, kompot i kolače potražite u [receptima s ogrozdom](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/), a kalorije drugih bobica u pregledima kalorija [kupina](https://www.cultivias.com/voce/kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu/) i [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

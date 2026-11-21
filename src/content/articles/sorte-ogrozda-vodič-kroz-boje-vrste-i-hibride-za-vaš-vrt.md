@@ -6,8 +6,9 @@ image: /images/articles/ogrozd-sorta-hinnonmaki-red.webp
 perex: Ogrozd, sa svojim sočnim i aromatičnim bobicama, predstavlja dragulj
   svakog vrta ili voćnjaka. Međutim, prije nego što se odlučite za sadnju, važno
   je razumjeti raznolikost koja se krije iza ovog voća.
-readTime: 5
+readTime: 6
 publishedAt: 2026-01-08
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -19,152 +20,126 @@ related_articles:
   - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
   - ogrozd--zaboravljeno-supervoće
 ---
-Ovaj vodič će vam pomoći da se snađete u svijetu sorti [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/), od klasičnih boja do modernih hibrida, te razbiti neke uobičajene mitove o njima.
+
+Sorte [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) razlikuju se bojom, veličinom i okusom plodova, količinom trnja i otpornošću na bolesti, osobito na pepelnicu. Za kućni vrt najčešće se preporučuju sorte koje su otporne na tu bolest i imaju malo trnja. U nastavku saznajte kako se ogrozd dijeli po boji, po čemu su poznate najpopularnije sorte, što je josta te zašto indijski i kineski ogrozd nisu pravi ogrozd.
 
 ## Klasifikacija po bojama: Razlike u okusu i izgledu
 
-Boja ploda ogrozda direktno utječe na okus i slatkoću. Ogrozd se može pronaći u širokom spektru boja, uključujući **zelenu, bijelu, žutu, crvenu, ljubičastu, pa čak i gotovo crnu.**
+Ogrozd može imati zelene, bijele, žute, crvene, ljubičaste ili gotovo crne plodove. Često se kaže da su tamniji plodovi slađi, a zeleniji i svjetliji kiseliji. To je tek gruba podjela, jer slatkoća ponajviše ovisi o sorti i o tome koliko je plod zreo.
 
-Općenito pravilo je da su **tamniji plodovi slađi**, dok su **zeleniji i svjetliji kiseliji.**
+* **crveni ogrozd** – sorte poput 'Hinnonmäki Röd' cijenjene su zbog slatkih i sočnih plodova; tamnocrvenu boju daju antocijani, biljni pigmenti s antioksidativnim djelovanjem
+* **bijeli, žuti i zeleni ogrozd** – ovdje pripadaju 'Hinnonmäki Yellow', 'Invicta' i 'Leveller'; okus im varira od slatkokiselog do pretežno slatkog
+* **crni i ljubičasti ogrozd** – rjeđi su i bogata okusa, a često su hibridi, poput joste
 
-* **Crveni ogrozd:**
-
-   
-
-  Sorte poput 
-
-  **[Hinnonmaki Red](https://growingfruit.org/t/hinnomaki-yellow-vs-invicta/29551)**
-
-   poznate su po svojoj slatkoći i sočnosti. Tamnocrvena boja ukazuje na visok sadržaj antocijana, antioksidansa koji su dobri za zdravlje. Idealni su za svježu konzumaciju jer razvijaju puniji okus kada su potpuno zreli.
-* **Bijeli/Žuti/Zeleni ogrozd**
-
-  : U ovu kategoriju spadaju sorte poput 
-
-  **[Hinnonmaki Yellow](https://growingfruit.org/t/hinnomaki-yellow-vs-invicta/29551)**
-
-   (ili Green) i 
-
-  **[Invicta](https://www.appropedia.org/Gooseberry)**
-
-  . Okus varira od slatko-kiselkastog do pretežno slatkog. Invicta, na primjer, ima blijedo zelene plodove koji su izuzetno slatki i ukusni. Sorta 
-
-  **[Leveller](https://www.quora.com/What-type-of-gooseberry-is-best-for-making-jam)**
-
-  , tradicionalna zelena sorta, preporučuje se zbog vrhunskog okusa i malog broja dlačica na kožici, što je čini odličnom za jelo direktno s grma.
-* **Crni/Ljubičasti ogrozd**
-
-  : Ove sorte su rjeđe, ali nude jedinstven i bogat okus. Često su rezultat hibridizacije, kao što je slučaj s Jostom.
-
-![](/images/articles/ogrozd_sorte.jpg)
+| Boja | Okus | Primjeri sorti |
+| --- | --- | --- |
+| Crvena | najčešće slatkast i sočan | 'Hinnonmäki Röd', 'Captivator', 'Pax' |
+| Bijela, žuta i zelena | od slatkokiselog do slatkog | 'Hinnonmäki Yellow', 'Invicta', 'Leveller' |
+| Crna i ljubičasta | bogat i neobičan, često kod hibrida | josta (hibrid ogrozda i crnog ribiza) |
 
 ## Popularne sorte: Hinnonmaki i Invicta
 
- **[Hinnonmaki](https://growingfruit.org/t/hinnomaki-yellow-vs-invicta/29551)** i **[Invicta](https://www.appropedia.org/Gooseberry)** se često ističu kao najpopularnije sorte zbog svojih izvanrednih karakteristika.
+Sorte iz finske serije Hinnonmäki i engleska 'Invicta' često se ističu kao najpopularnije, jer dobro rađaju i manje obolijevaju od starijih sorti.
 
 ### Hinnonmaki Red
 
-**[Hinnonmaki Red](https://growingfruit.org/t/hinnomaki-yellow-vs-invicta/29551)** je sorta porijeklom iz Finske, poznata po svojoj izuzetnoj otpornosti na niske temperature, što je čini idealnom za hladnije klimatske zone.
+'Hinnonmäki Röd' sorta je iz Finske, poznata po otpornosti na niske temperature, pa dobro uspijeva i u hladnijim krajevima.
 
- Ova sorta nudi sočne, **tamnocrvene plodove** koji su bogati slatkoćom i odličnog su okusa. Plodovi su srednje do velike veličine, a biljka je poznata po pouzdanom i redovitom rodu.
+Daje sočne, tamnocrvene plodove srednje do krupne veličine, slatke i dobra okusa. Savjetodavna služba Sveučilišta Penn State (Penn State Extension) opisuje je kao pouzdanu i vrlo rodnu sortu bujnog rasta, koju je lako uzgajati.
 
-Hinnonmaki Red se preporučuje za vrtlare koji žele pouzdanu sortu koja će godinama proizvoditi kvalitetne plodove.
-
-Sorta je otporna na bolesti, ali kao i većina ogrozda, trebala bi biti zaštićena od jakih vjetrova. Biljka dostiže normalnu veličinu grma i može se lako održavati rezidbom. Za veći urod pogledajte i [vodič za pravilno orezivanje ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
+Prema Savjetodavnoj službi Sveučilišta Aljaske (University of Alaska Fairbanks Extension), otporna je na pepelnicu. Kao i ostali ogrozd, najbolje raste zaštićena od jakih vjetrova i lako se održava rezidbom. Za veći urod pogledajte i vodič za pravilno [orezivanje ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
 
 ### Hinnonmaki Yellow (Green)
 
-**[Hinnonmaki Yellow](https://growingfruit.org/t/hinnomaki-yellow-vs-invicta/29551)** je žuta ili zelena varijanta iste finske serije. Ova sorta je posebno cijenjena zbog svoje otpornosti na pepelnicu, jednu od najčešćih bolesti ogrozda.
+'Hinnonmäki Yellow' žuto-zelena je sorta iz iste finske serije. Također se navodi kao otporna na pepelnicu, jednu od najčešćih bolesti ogrozda.
 
- Plodovi su sočni, ukusni i bogati vitaminom C, što je čini odličnom za svježu konzumaciju.
+Plodovi su sočni i ugodna okusa, pa se dobro jedu svježi. Neki uzgajivači navode da grane nisu osobito čvrste, pa grmu, kad je pun plodova, može trebati potpora.
 
-Prema iskustvima uzgajivača na forumima, Hinnonmaki Yellow proizvodi obilje bobica i ima odličan okus.
-
-Međutim, neki uzgajivači napominju da grane nisu najčvrće, pa biljka može trebati malo dodatne podrške tijekom berbe kada su plodovi opterećeni. Sorta je samoplodna, što znači da možete uzgajati samo jednu biljku i još uvijek dobiti rod.
+Kao i većina ogrozda, sorta je samooplodna, što znači da i jedna biljka može roditi.
 
 ### Invicta
 
-**[Invicta](https://www.appropedia.org/Gooseberry)** je sorta zelenog ogrozda koja je postala popularna zbog svoje **izuzetne otpornosti na bolesti**, posebno na pepelnicu i druge česte bolesti ogrozda.
+'Invicta' je engleska sorta zelenog ogrozda koja daje velik urod. Prema Kraljevskom hortikulturnom društvu (Royal Horticultural Society, RHS), djelomično je otporna na pepelnicu i pjegavost lišća.
 
-Plodovi su srednje krupni, blijedo zelene boje i pretežno slatkog okusa, što je čini izvanrednom za jelo direktno s grma.
+Plodovi su krupni i svijetlozeleni. RHS je ubraja ponajprije u sorte za kuhanje, za džemove, kompote i kolače, a Savjetodavna služba Sveučilišta Nebraska (Nebraska Extension) navodi da su potpuno zreli plodovi slatkasta i blaga okusa.
 
-Invicta je poznata po teškim prinosima - biljka redovito proizvodi obilje plodova tijekom sezone.
+Zbog otpornosti i obilnog uroda preporučuje se početnicima. Grm je bujan, trnovit i širi se, pa mu treba dovoljno prostora.
 
-Sorta se preporučuje za početnike jer je robusna i zahtijeva manje njege u pogledu zaštite od bolesti.
-
-Plodovi sadrže 12,7% rastvorljive suhe materije, što ukazuje na njihovu slatkoću i kvalitetu. Sve sorte ogrozda su samooplodne, što znači da je dovoljna jedna biljka za oprašivanje, ali ako imate više biljaka, mogu se međusobno oprašiti i dati još bogatiji rod.
+Većina sorti ogrozda je samooplodna, pa je za urod dovoljna jedna biljka. Ako imate više grmova, oprašivanje je obično još bolje.
 
 ### Leveller
 
-**[Leveller](https://www.quora.com/What-type-of-gooseberry-is-best-for-making-jam)** je tradicionalna zelena sorta ogrozda koja se često zaboravlja zbog popularnosti crvenih sorti, ali predstavlja odličan razlog da se razmotre zelene sorte.
+'Leveller' je stara engleska sorta zelenkastožutih plodova, koja je dobila nagradu RHS-a za vrtne vrijednosti (Award of Garden Merit). Cijenjena je zbog krupnih plodova dobra okusa, pogodnih i za svježu potrošnju i za kuhanje.
 
- Ova sorta je poznata po vrhunskom okusu i glatkoj kožici sa vrlo malo dlačica, što je čini posebno ugodnom za jelo direktno s grma. Leveller je idealna sorta za one koji žele da prave džemove i kompote jer ima odličan omjer šećera i kiseline. Biljka može narasti u veći grm, pa trebate osigurati dovoljno prostora za razvoj.
+Grm može narasti razmjerno velik, pa mu osigurajte dovoljno prostora.
 
 ### Captivator
 
-**[Captivator](https://gardenfocused.co.uk/fruitarticles/gooseberries-varieties.php)** je sorta koja nudi vizualno atraktivnu transformaciju tijekom sazrijevanja. Bobice ove sorte počinju kao blijedo zelene i kako sazrijevaju prelaze u duboku bordo crvenu boju.
+'Captivator' je križanac američkog i europskog ogrozda, nastao u Kanadi. Izboji su bujni i gotovo bez trnja, navodi Centar za integrirane poljoprivredne sustave Sveučilišta Wisconsin (UW CIAS).
 
-Ova sorta je posebno interesantna jer omogućava fleksibilnost u berbi - kada su ružičaste, bobice su odlične za kuhanje jer su malo kiselije, a kada su potpuno crvene, mogu se jesti sirove jer su slađe.
+Bobice su najprije blijedozelene, a sazrijevanjem postaju ružičaste pa tamnocrvene. Ružičaste su kiselije i dobre za kuhanje, a potpuno crvene slađe i dobre za jelo.
 
-Captivator je poznata po dobroj produktivnosti i robustnosti. Sorta je idealna za vrtlare koji žele da imaju izbor bobica između kuhanja i svježe konzumacije.
+Sorta je otporna na hladnoću i navodi se kao otporna na pepelnicu, pa je dobar izbor za vrtlare koji žele birati između plodova za kuhanje i za svježu potrošnju.
 
 ### Pixwell
 
-**[Pixwell](https://www.facebook.com/groups/480157992540504/posts/1364693987420229/)** je sorta koja se prema iskustvima uzgajivača ističe kao jedna od većih i produktivnijih opcija. Uzgajivači na društvenim mrežama izvještavaju da su njihove Pixwell biljke među većim i najproduktivnijim ogrozdom koje uzgajaju, a plodovi su slađi od Hinnonmaki Red.
+'Pixwell' je stara američka sorta, nastala 1932. u Sjevernoj Dakoti. Savjetodavna služba Sveučilišta Nebraska opisuje je kao otpornu i rodnu sortu niskog grma, gotovo bez trnja, s plodovima srednje veličine koji iz zelene prelaze u ružičastu i ljubičastu boju.
 
-Ova sorta je idealna za one koji žele maksimalan prinos i veće plodove.
+Plodovi su uglavnom kiselkasti, pa se najčešće koriste za pite, džemove i kompote, a potpuno zreli mogu se jesti i svježi.
 
-Pixwell je poznata i po tome što je otporna na različite bolesti, što je čini pouzdanom opcijom za dugoročan uzgoj. Biljka može narasti u veći grm, pa trebate planirati prostor za njen razvoj.
+Navodi se i kao otporna na pepelnicu, pa je pouzdan izbor za dugoročan uzgoj.
 
 ## Hibridi i posebne vrste: Josta
 
-**Josta** je fascinantan hibrid nastao križanjem [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (Ribes nigrum) i ogrozda (Ribes uva-crispa), a ponekad uključuje i američki obalni crni ogrozd (Ribes divaricatum).
+Josta (*Ribes × nidigrolaria*) složen je hibrid [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) (*Ribes nigrum*), europskog ogrozda (*Ribes uva-crispa*) i američkog obalnog crnog ogrozda (*Ribes divaricatum*). Prvu sortu uveo je njemački oplemenjivač Rudolf Bauer 1977. godine.
 
-Ime je dobila kombinacijom njemačkih naziva za crni ribiz (Johannisbeere) i ogrozd (Stachelbeere).
+Ime je dobila spajanjem njemačkih naziva za crni ribiz (*Johannisbeere*) i ogrozd (*Stachelbeere*).
 
 ### Karakteristike i prednosti Joste
 
-Najveća prednost Joste je što je naslijedila najbolje osobine oba roditelja: otpornost na bolesti i štetnike, te jedinstven okus.
+Josta je od roditelja naslijedila otpornost na bolesti i poseban okus. Plodovi su tamnoljubičasti do crni, veći od crnog ribiza, a manji od ogrozda.
 
-Plodovi su tamnoljubičasti do crni, veći od crnog ribiza, a manji od ogrozda. Okus je opisan kao kombinacija ogrozda i crnog ribiza, s tim da je okus ogrozda dominantniji u nezrelom plodu, dok se note crnog ribiza razvijaju kako plod sazrijeva.
+Okus je spoj ogrozda i crnog ribiza. U nezrelom plodu prevladava ogrozd, a kako plod sazrijeva, sve se više osjeća crni ribiz.
 
-Biljka je grmolikog rasta, može narasti do 2 metra u visinu i, što je najvažnije za mnoge vrtlare, nema trnja. To je značajna prednost u odnosu na tradicionalni ogrozd, koji ima bodlje koji mogu biti neugodni tijekom berbe.
+Grm je bujan, može narasti oko 2 metra i, što je za mnoge vrtlare najvažnije, nema trnja. To je velika prednost pred ogrozdom, čije trnje otežava berbu.
 
-Josta je otporna na mnoge bolesti koje pogađaju druge članove roda Ribes. Posebno je otporna na pepelnicu.
-
-Biljka je samoplodna, što znači da je dovoljna samo jedna biljka za oprašivanje i proizvodnju plodova.
+Prema RHS-u, josta je uglavnom zdrava i otporna na pepelnicu i pjegavost lišća. Samooplodna je, pa je za urod dovoljna jedna biljka.
 
 ### Uzgoj i iskustva uzgajivača
 
-Iskustva uzgajivača s foruma govore da [Josta](https://www.reddit.com/r/BackyardOrchard/comments/1421eao/anyone_have_experience_with_josta_berry/) može narasti vrlo velika, pa je potrebno redovito orezivanje kako bi se održala u željenom obliku i veličini.
+Josta raste snažno i može postati velika, pa ju treba redovito orezivati da ostane u željenom obliku.
 
-Biljka raste snažno i plodno. Međutim, ptice vole njene plodove, pa se preporučuje zaštita mrežom ako želite da sačuvate cijeli rod za sebe.
+Ptice vole njezine plodove, pa se preporučuje zaštita mrežom. Plodovi sadrže vitamin C, a jedu se svježi ili se koriste za džemove, sokove i zamrzavanje.
 
-Josta je bogata vitaminom C i odlična je za svježu konzumaciju, džemove, sokove, pa čak i za zamrzavanje.
+Mogu zamijeniti ogrozd u receptima. Plodovi obično dozrijevaju ljeti, u srpnju.
 
-Plodovi se mogu koristiti kao zamjena za ogrozd u receptima, a mogu se jesti i sirovi.
-
-Prema iskustvima uzgajivača, Josta je laka za uzgoj i ne zahtijeva posebnu njegu, što je čini idealnom za početnike.
-
-Biljka cveta u proljeće sa crvenosmeđim cvjetovima skupljenim u grozdaste cvatove, a plodovi sazrijevaju u lipnju i srpnju.
-
-Prinos po grmu u prve 4 godine može biti oko 3,6 kg, što je odličan rezultat za hibridnu biljku.
+Uzgajivači jostu uglavnom smatraju jednostavnom za uzgoj, ali urod nije uvijek obilan kao što se očekuje. UW CIAS u svom pokusnom nasadu bilježi da ni veličina grmova ni urod nisu ispunili očekivanja.
 
 ## Razbijanje mitova: Postoje li indijski i kineski ogrozd?
 
-**Indijski ogrozd (Amla)**
+**Indijski ogrozd (amla)**
 
-Indijski ogrozd se ime odnosi na biljku Amla (Phyllanthus emblica). Iako se naziva ogrozdom, Amla pripada potpuno drugoj botaničkoj porodici - Phyllanthaceae - i nije u srodstvu s ogrozdom iz roda Ribes.
+Naziv indijski ogrozd odnosi se na amlu (*Phyllanthus emblica*). Iako se u engleskom zove *Indian gooseberry*, amla pripada posve drugoj porodici, Phyllanthaceae, i nije u srodstvu s ogrozdom iz roda *Ribes*.
 
-Amla je tropska biljka sa svojstvima i karakteristikama koje se značajno razlikuju od europskog ogrozda.
+Amla je stablo iz južne i jugoistočne Azije. Plodovi su tvrđi i drukčijeg okusa, a poznata je po vitaminu C i primjeni u tradicionalnoj indijskoj medicini. Istraživanja o amli zato ne vrijede za ogrozd, o čemu više piše u članku [ogrozd i zdravlje](https://www.cultivias.com/voce/ogrozd-i-zdravlje-%C5%A1to-ka%C5%BEu-istra%C5%BEivanja/).
 
-Plodovi Amle su manji, tvrđi i imaju drugačiji okus. Amla je poznata po visokom sadržaju vitamina C i koristi se u tradicionalnoj indijskoj medicini, ali to je potpuno drugačija biljka od one koju uzgajamo kao ogrozd u umjerenim klimama.
+**Kineski ogrozd (kivi)**
 
-**Kineski ogrozd (Kivi)**
+Kineski ogrozd stari je, danas rijetko korišten naziv za **kivi** (*Actinidia deliciosa*).
 
-Kineski ogrozd je stari, danas rijetko korišteni naziv za **kivi** (Actinidia deliciosa).
+Kivi je penjačica podrijetlom iz Kine, s dlakavom kožicom i zelenim mesom punim sitnih sjemenki. Nije u srodstvu s ogrozdom, a razlikuje se i po uzgoju i po okusu.
 
-Dakle, kada netko spominje kineski ogrozd, zapravo misli na kivi, voće koje je potpuno drugačito od ogrozda.
+![Infografika: ogrozd (Ribes uva-crispa), indijski ogrozd ili amla (Phyllanthus emblica) i kineski ogrozd ili kivi (Actinidia deliciosa) tri su različite biljke, uz upozorenje da se rezultati istraživanja o amli ne prenose na ogrozd](/images/articles/infografika-ogrozd-amla.webp)
 
-Kivi je tropska biljka sa vlaknastom kožicom i zelenim mesom sa sitnim sjemenkama. Nije u srodstvu s ogrozdom i ima potpuno drugačije karakteristike uzgoja i okusa.
+Kad znate te razlike, lakše ćete odabrati pravi ogrozd (*Ribes uva-crispa*) za vrt i za [recepte s ogrozdom](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/).
 
-Razumijevanje ovih razlika važno je kako biste bili sigurni da uzgajate i konzumirate "pravi" ogrozd (Ribes uva-crispa) i kako bi uživali u njegovim jedinstvenim okusima i karakteristikama.
+## Izvori
+
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti ogrozd (How to Grow Gooseberries)](https://www.rhs.org.uk/fruit/gooseberries/grow-your-own)
+- Kraljevsko hortikulturno društvo (RHS) – [Ogrozd 'Invicta', profil biljke (Ribes uva-crispa 'Invicta')](https://www.rhs.org.uk/plants/201076/ribes-uva-crispa-invicta-c-d/details)
+- Kraljevsko hortikulturno društvo (RHS) – [Josta, profil biljke (Ribes × nidigrolaria)](https://www.rhs.org.uk/plants/297045/x/details)
+- Savjetodavna služba Sveučilišta Penn State (Penn State Extension) – [Odabir sorti ogrozda i ribiza (Home Fruit Plantings: Gooseberry and Currant Variety Selection)](https://extension.psu.edu/home-fruit-plantings-gooseberry-and-currant-variety-selection)
+- Savjetodavna služba Sveučilišta Nebraska (Nebraska Extension) – [Ogrozd (Gooseberries)](https://lancaster.unl.edu/gooseberries)
+- Savjetodavna služba Sveučilišta Aljaske (University of Alaska Fairbanks Extension) – [Američki ogrozd, profil biljke (American Gooseberry)](https://uaf.edu/ces/garden/landscape-plants/profile.php?id=p302)
+- Centar za integrirane poljoprivredne sustave Sveučilišta Wisconsin (UW CIAS) – [Ogrozd (Gooseberry)](https://uncommonfruit.cias.wisc.edu/gooseberry) i [Josta (Jostaberry)](https://uncommonfruit.cias.wisc.edu/jostaberry/)
+- Garden Focused, britanska vrtlarska stranica – [Sorte ogrozda (Gooseberry varieties)](https://gardenfocused.co.uk/fruitarticles/gooseberries-varieties.php)

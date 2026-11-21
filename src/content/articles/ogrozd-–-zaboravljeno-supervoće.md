@@ -10,8 +10,9 @@ perex: >-
 
 
   Ogrozd je izvrstan izvor vitamina C, koji pruža podršku normalnoj funkciji imunološkog sustava, a bogat je i vlaknima, koja pomažu u regulaciji probave.
-readTime: 7
+readTime: 10
 publishedAt: 2024-10-18
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -22,246 +23,207 @@ related_articles:
   - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
 ---
-Okus ogrozda je osvježavajuće kiselkast, ali plodovi su slatki kada potpuno sazru.
 
-Porijeklom je iz Europe i dijelova Azije, uzgajao se još u srednjem vijeku, a posebno je cijenjen u engleskim i francuskim vrtovima.
+Ogrozd je bobičasto voće osvježavajuće kiselkasta okusa, koje potpuno zrelo postaje slatko. U vrtovima se uzgaja stoljećima, a osobito je bio cijenjen u Engleskoj. Grm je otporan i nezahtjevan, a 100 g bobica pokriva otprilike trećinu referentnog dnevnog unosa vitamina C. U nastavku saznajte što ogrozd sadrži, što o njegovu djelovanju kažu istraživanja, kako ga uzgojiti, ubrati i koristiti u kuhinji.
 
-Uzgoj ogrozda u vlastitom vrtu nije zahtjevan, a nagrada su ukusne i zdrave bobice koje možete koristiti u brojnim receptima.
+## Što je ogrozd?
 
-## **Što je ogrozd?**
+Ogrozd je listopadni, trnoviti grm iz roda *Ribes*, u koji pripadaju i ribizi. Uzgajaju se dvije vrste i njihovi križanci. Europski ogrozd (*Ribes uva-crispa*) potječe iz sjeverne Afrike i s područja Kavkaza, na granici istočne Europe i zapadne Azije, a američki (*Ribes hirtellum*) iz sjevernog dijela SAD-a i Kanade, navodi Savjetodavna služba Sveučilišta Massachusetts (UMass Extension).
 
-Ogrozd (Ribes uva-crispa i Ribes hirtellum) je **malo voće** porijeklom iz Europe i dijelova Azije. Riječ “ogrozd” potječe od staroslavenskog jezika, dok u engleskom jeziku nazivaju ovu biljku **“gooseberry”**, što doslovno znači “guska bobica”.
+Većina današnjih sorti nastala je njihovim križanjem. Američki ogrozd im je dao otpornost na bolesti, a europski krupnije i slađe plodove, objašnjava Centar za integrirane poljoprivredne sustave Sveučilišta Wisconsin (UW CIAS). Ogrozd je u bliskom srodstvu s [crnim ribizom](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/), s kojim dijeli i neke bolesti i štetnike.
 
-Postoji nekoliko teorija o tome kako je ogrozd dobio ovaj naziv – jedna od njih je da su plodovi ogrozda često bili korišteni u umacima za pečenu gusku.
+Plodovi su sitni, teški obično 3 do 6 grama, a mogu biti zeleni, žuti, ružičasti, crveni ili tamnoljubičasti. Okus im varira od kiselkastog do slatkog, ovisno o sorti i zrelosti.
 
-Plodovi ogrozda su mali, težine oko 3–6 grama, i mogu biti zeleni, žuti, ružičasti, crveni ili tamno ljubičasti. Njihov okus varira od kiselkastog do slatkog.
-
-Iako je ogrozd često bio zanemaren tijekom povijesti, u prošlosti je bio vrlo cijenjen zbog svojih svojstava i svestranosti u kulinarstvu.
+Naziv ogrozd slavenskog je podrijetla. Engleski naziv *gooseberry* doslovno znači "guščja bobica", no zašto se tako zove, nije razjašnjeno, o čemu više piše na kraju članka.
 
 ## Ljekovitost i zdravstvene prednosti ogrozda
 
-Ogrozd je prava riznica zdravlja, prepun vitamina i minerala. Na 100 grama, ogrozd sadrži oko 44 kalorije, a bogat je vitaminima C, A i K, kao i dijetalnim vlaknima. Znanstvene podatke o ogrozdu saželi smo u članku [što kažu istraživanja o ogrozdu](https://www.cultivias.com/voce/ogrozd-i-zdravlje-%C5%A1to-ka%C5%BEu-istra%C5%BEivanja/).
+Ogrozd ima malo kalorija, oko 44 kcal na 100 g, a sadrži vitamin C, vlakna te manje količine kalija, bakra, mangana i vitamina B-skupine. Vitamina A i K ima vrlo malo. Što o ogrozdu kažu znanstvena istraživanja, saželi smo u članku [ogrozd i zdravlje](https://www.cultivias.com/voce/ogrozd-i-zdravlje-%C5%A1to-ka%C5%BEu-istra%C5%BEivanja/).
 
-Nutritivna vrijednost (100 grama)
+Brojke u tablici potječu iz baze FoodData Central američkog Ministarstva poljoprivrede (USDA), a postotci su izračunati prema referentnim unosima za odrasle iz Uredbe (EU) br. 1169/2011.
 
-[Jedna šalica (150 grama) ogrozda](https://www.healthline.com/nutrition/gooseberries) sadrži:
-
-* Kalorije: 66
-* Protein: 1 gram
-* Mast: manje od 1 grama
-* Ugljikohidrati: 15 grama
-* Vlakna: 7 grama
-* **[Vitamin C](https://www.efsa.europa.eu/en/efsajournal/pub/4298)**
-
-  : 46% (DV)
-
-* Vitamin B5: 9% DV
-* Vitamin B6: 7% DV
-* Bakar: 12% DV
-* Mangan: 9% DV
-* Kalij: 6% DV
-
-\*DV- dnevna vrijednost
+| Sastojak u 100 g svježeg ogrozda | Količina | Udio referentnog dnevnog unosa |
+| --- | --- | --- |
+| Energija | 44 kcal | – |
+| Ugljikohidrati | 10,2 g | – |
+| Vlakna | 4,3 g | – |
+| Bjelančevine | 0,9 g | – |
+| Masti | 0,6 g | – |
+| Vitamin C | 27,7 mg | 35 % |
+| Kalij | 198 mg | 10 % |
+| Bakar | 0,07 mg | 7 % |
+| Mangan | 0,14 mg | 7 % |
+| Vitamin B6 | 0,08 mg | 6 % |
+| Pantotenska kiselina (vitamin B5) | 0,29 mg | 5 % |
+| Vitamin A | 15 µg | 2 % |
 
 ### Vitamin C i podrška imunitetu
 
-[Vitamin C je moćan antioksidans](https://www.efsa.europa.eu/en/efsajournal/pub/4298) i vitalan za živčani susta, imunološki sustav i kožu. Prema [EFSA (Europskoj agenciji za sigurnost hrane)](https://www.efsa.europa.eu/en/efsajournal/pub/4298), vitamin C pruža podršku normalnoj funkciji imunološkog sustava.
+Hrana koja u 100 g pokriva najmanje 15 % referentnog unosa nekog vitamina smatra se njegovim izvorom, pa je ogrozd izvor vitamina C. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, vitamin C pridonosi normalnoj funkciji imunosnog i živčanog sustava, stvaranju kolagena za normalnu funkciju kože te zaštiti stanica od oksidativnog stresa.
 
-Zahvaljujući visokom udjelu vitamina C, ogrozd pruža podršku jačanju imunološkog sustava i pomaže u očuvanju zdravlja kože.
+Za usporedbu, [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/) ima više od šest puta više vitamina C, oko 181 mg na 100 g. Vitamin C osjetljiv je na toplinu, pa ga u kompotu i džemu ostaje manje nego u svježim bobicama.
 
 ### Ostali važni nutrijenti
 
-**Vitamin B5** je neophodan za stvaranje masnih kiselina, dok **vitamin B6**, koji mnogi enzimi i stanice u vašem tijelu trebaju za funkciju, pomaže u pretvaranju hrane u energiju.
+* **vitamin B5 (pantotenska kiselina)** – sudjeluje u stvaranju energije iz hrane
+* **vitamin B6** – potreban je mnogim enzimima koji sudjeluju u preradi bjelančevina
+* **bakar** – sudjeluje u stvaranju vezivnog tkiva i radu imunosnog sustava
+* **mangan** – sudjeluje u stvaranju kostiju i zaštiti stanica od oksidativnog stresa
+* **kalij** – važan je za normalnu funkciju mišića, živaca i održavanje krvnog tlaka
 
-**Bakar** je važan za vaše srce, krvne žile, imunološki sustav i mozak.
-
-**Mangan** podržava metabolizam, formiranje kostiju, reprodukciju i imunološki odgovor, dok je **kalij** bitan za normalnu funkciju stanica.
+Ogrozd ih sadrži u manjim količinama, pa uz njega jedite i drugo voće, povrće i cjelovite žitarice.
 
 ### Vlakna i kontrola težine
 
-Zbog svoje **niske kalorijske vrijednosti** i **visokog udjela vlakana**, ogrozd je idealan za one koji žele održavati uravnoteženu prehranu i kontrolirati tjelesnu težinu. Koliko kalorija ima svježi ogrozd, kompot i džem, pogledajte u članku [kalorije ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
+Zbog malo kalorija i 4,3 g vlakana na 100 g ogrozd se lako uklapa u prehranu kojom se pazi na tjelesnu masu. Koliko kalorija ima svježi ogrozd, kompot i džem, pogledajte u članku o [kalorijama ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
 
-[Ogrozd je bogat](https://www.healthline.com/nutrition/gooseberries) topljivim i netopljivim dijetalnim vlaknima.
+Ogrozd sadrži topljiva i netopljiva vlakna. Netopljiva vlakna povećavaju volumen stolice, a topljiva usporavaju prolazak hrane kroz probavni sustav, pa dulje osjećamo sitost.
 
-Jedna šalica (150 grama) ogrozda pruža 26% dnevne vrijednosti vlakana.
-
-Netopljivo vlakno pomaže u dodavanju mase vašoj stolici i poboljšava konzistenciju, dok topljivo vlakno usporava kretanje hrane u vašem crijevu, što može smanjiti glad i **povećati osjećaj sitosti.**
-
-Dodatno, dijetalno vlakno iz voća može pomoći u kontroli razine šećera u krvi i smanjenju krvnog tlaka, kolesterola i rizika od kroničnih stanja, uključujući određene bolesti srca, dijabetes tipa 2 i pretilost.
+Prehrana bogata vlaknima iz voća, povrća i cjelovitih žitarica povezuje se s boljom regulacijom šećera u krvi i nižim rizikom od bolesti srca, dijabetesa tipa 2 i pretilosti. Ogrozd je samo jedan dio takve prehrane, a ne lijek.
 
 ## Antioksidansi i zaštita od bolesti
 
-Ogrozd [je bogat antioksidansima](https://www.healthline.com/nutrition/gooseberries) koji pomažu u borbi protiv slobodnih radikala i upalnih procesa u tijelu. Ogrozd je odličan izvor antioksidansa, uključujući vitamin C, male količine vitamina E i fitonutrijente.
+Ogrozd sadrži vitamin C, male količine vitamina E i niz biljnih spojeva s antioksidativnim djelovanjem. Antioksidansi neutraliziraju slobodne radikale, nestabilne molekule koje mogu oštetiti stanice, no laboratorijska mjerenja ne znače automatski da jedenje ogrozda štiti od bolesti.
 
-Neki od fitonutrijenata u ogrozdu uključuju:
-
-* **Flavonole**
-
-   – povezane su sa zdravljem srca i mogu imati učinke smanjenja rizika od moždanog udara i antivirusne učinke
-* **Antocijane**
-
-   – ovi spojevi su obojani pigmenti u voću i povezani su sa zdravljem očiju, poboljšanjem memorije i zdravim starenjem
-* **Aromatske kiseline**
-
-   – uključuju kafeinsku, hlorogenu, kumarnu, hidroksibenzoinsku i elaginsku kiselinu
-* **Organske kiseline**
-
-   – odgovorne su za kiselkast okus voća 
+* **flavonoli** – istraživanja ih povezuju sa zdravljem srca i krvnih žila
+* **antocijani** – pigmenti tamnijih sorti, koji se istražuju u vezi sa zdravljem očiju i starenjem
+* **fenolne kiseline** – kavena, klorogenska, kumarinska, hidroksibenzojeva i elaginska kiselina
+* **organske kiseline** – ponajviše limunska, koja ogrozdu daje kiselkast okus
 
 ## Prirodna pomoć kod alergija
 
-Ogrozd sadrži bioflavonoide, prirodne spojeve koji djeluju kao antihistaminici, što znači da mogu pomoći u smanjenju alergijskih simptoma.
+Često se piše da flavonoidi iz ogrozda djeluju kao prirodni antihistaminici i ublažavaju alergije. Za tu tvrdnju nema istraživanja na ljudima koji su jeli ogrozd.
+
+Laboratorijska istraživanja pojedinih flavonoida, poput kvercetina, ne mogu se prenijeti na šaku bobica. Ogrozd zato nije zamjena za lijekove protiv alergije koje je preporučio liječnik ili ljekarnik.
 
 ## Podrška kontroli šećera u krvi
 
-[Prema Healthline istraživanju](https://www.healthline.com/nutrition/gooseberries), ogrozd ima nekoliko svojstava koja mogu pružiti podršku u kontroli šećera u krvi. Prvo, bogat je vlaknima koja usporavaju apsorpciju šećera u vašu krvotok, sprječavajući skokove razine šećera u krvi.
+Američki zdravstveni portal Healthline navodi nekoliko razloga zbog kojih bi ogrozd mogao pomoći u kontroli šećera u krvi. Vlakna usporavaju upijanje šećera u krv, pa razina šećera nakon obroka raste sporije.
 
-Dodatno, ogrozd sadrži hlorogenu kiselinu, koja može usporiti apsorpciju ugljikohidrata i pomoći u smanjenju razine šećera u krvi nakon škrobnih obroka.
+Ogrozd sadrži i klorogensku kiselinu, za koju laboratorijska istraživanja pokazuju da može usporiti razgradnju ugljikohidrata. Istraživanja na ljudima koji jedu ogrozd nema, pa je riječ o mogućem, a ne dokazanom učinku.
 
 ## Zaštita mozga i zdravlje srca
 
-Ogrozd je prirodan izvor organskih kiselina, pružajući 11–14 mg limunske kiseline u 100 mg voća.
+Prehrana bogata voćem, osobito bobičastim, povezuje se s manjim rizikom od bolesti srca. Ogrozd tome pridonosi kalijem, vlaknima i antioksidansima, kao i drugo voće.
 
-**Antioksidansi i fitonutrijenti** u ogrozdu također se vjeruje da pružaju podršku bolestima mozga povezanim sa starenjem i smanjuju rizik od moždanog udara.
-
-[Prehrana bogata voćem](https://www.healthline.com/nutrition/gooseberries) poput bobica povezana je s nižim rizikom od bolesti srca. Ogrozd sadrži mnogo nutrijenata koji pružaju podršku zdravlju srca, uključujući antioksidanse i kalij.
-
-Antioksidansi poboljšavaju zdravlje srca sprječavajući oksidaciju LDL (lošeg) kolesterola u vašoj krvi, proces koji povećava rizik od bolesti srca.
-
-Dodatno, fitonutrijenti poput flavonola i antocijana pomažu u smanjenju krvnog tlaka i poboljšanju funkcije krvnih žila, što može smanjiti rizik od bolesti srca.
+Za tvrdnje da ogrozd štiti mozak od bolesti povezanih sa starenjem ili smanjuje rizik od moždanog udara nema istraživanja na ljudima. Te se ideje temelje na laboratorijskim pokusima s pojedinim spojevima, a ne na jedenju ogrozda.
 
 ## Sadnja i uzgoj ogrozda
 
-Ogrozd uspijeva u umjerenim klimama i zahtijeva hladne zime kako bi se potaknuo rast. Idealna temperatura za uzgoj ogrozda je između 15 i 25 stupnjeva Celzijusa.
-
-Biljka preferira sunčana ili polusjenovita mjesta, dok najbolje raste u plodnim, dobro dreniranim tlima koja su bogata organskom tvari.
+Ogrozd uspijeva u umjerenoj klimi s hladnim zimama i najbolje raste pri umjerenim ljetnim temperaturama, otprilike između 15 i 25 °C. Voli sunčana ili polusjenovita mjesta te plodno, propusno tlo bogato organskom tvari.
 
 ### Vrijeme sadnje
 
-Ogrozd se obično sadi u kasnu jesen ili rano proljeće, kada su uvjeti za ukorjenjivanje najpovoljniji. Idealno vrijeme za sadnju je nakon što prođu rizici od mraza, što omogućava biljci da se dobro ukorijeni prije vrućina ili hladnih perioda.
+Sadnice golog korijena sade se dok biljka miruje, od kasne jeseni do ranog proljeća. Sadnice u posudama mogu se saditi gotovo cijele godine, samo ne kad je tlo smrznuto, raskvašeno ili presuho, navodi Kraljevsko hortikulturno društvo (RHS).
+
+Ogrozd je otporan na hladnoću, pa ne treba čekati da prođe opasnost od mraza. Jesenska sadnja ima prednost jer biljka do proljeća razvije korijen.
 
 ### Priprema tla
 
-Za uspješan uzgoj ogrozda važno je pravilno pripremiti tlo. Tlo bi trebalo biti rahlo i prozračno, s dobrim kapacitetom za zadržavanje vlage. Prije sadnje preporučuje se obogatiti tlo kompostom ili stajskim gnojem.
+Tlo neka bude rahlo i prozračno, ali da dobro zadržava vlagu. Prije sadnje obogatite ga kompostom ili zrelim stajskim gnojem.
 
-Također, važno je osigurati pravilnu pH vrijednost tla, koja bi trebala biti neutralna do blago kisela.
+Ogrozdu najviše odgovara neutralno do blago kiselo tlo.
 
 ### Razmnožavanje i odabir sadnica
 
-Ogrozd se najčešće razmnožava pomoću reznica ili sadnica. [Hibridne sorte i beztrnje vrste](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/) sve su popularnije zbog jednostavnosti uzgoja i berbe. Prilikom odabira sadnog materijala važno je izabrati zdrave sadnice otporne na bolesti kako bi se osigurao visok prinos.
+Ogrozd se najčešće razmnožava reznicama, a kupuje kao sadnica. [Hibridne sorte i sorte bez trnja ili s malo trnja](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/) sve su popularnije jer se lakše uzgajaju i beru.
+
+Birajte zdrave sadnice sorti koje su otporne na pepelnicu, najčešću bolest ogrozda.
 
 ### Savjeti kod sadnje
 
-Prilikom [sadnje ogrozda](https://www.cultivias.com/voce/kako-posaditi-i-razmno%C5%BEiti-ogrozd/), važno je odabrati zdrave sadnice. Provjerite da korijenov sustav nije oštećen i da su pupoljci na granama zdravi. Sadnice sadite u rupe koje su dvostruko veće od korijenovog sustava. Nakon sadnje, dobro zalijte biljku i oko nje napravite nasip od zemlje kako biste zadržali vlagu.
+Pri [sadnji ogrozda](https://www.cultivias.com/voce/kako-posaditi-i-razmno%C5%BEiti-ogrozd/) provjerite je li korijen neoštećen i jesu li pupovi na granama zdravi. Iskopajte jamu dvostruko veću od korijena.
 
-Mlade biljke treba redovito zalijevati, posebno tijekom sušnih perioda.
+Sadnicu posadite **na istu dubinu** na kojoj je rasla u rasadniku ili posudi, a ne dublje. Ogrozd se obično uzgaja na kratkom deblu, a dublja sadnja potiče izbijanje izdanaka iz tla.
+
+Nakon sadnje biljku dobro zalijte i oko nje napravite mali nasip od zemlje, da zadrži vodu. Mlade biljke redovito zalijevajte, osobito u sušnim razdobljima.
 
 ### Njega ogrozda
 
-**Zalijevanje:** Trebate ga redovito zalijevati, posebno tijekom sušnih perioda.
-
-**Gnojidba:** Jednom godišnje, u rano proljeće, ogrozd treba prihraniti kompostom ili mineralnim gnojivom.
-
-**Orezivanje:** Orezivanje je važno za održavanje zdravlja biljke i povećanje prinosa. Odstranjuju se suhe, oštećene i bolesne grane. Kada i kako orezati grm, objašnjava članak [orezivanje ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/).
-
-**Zaštita od bolesti i štetočina:** Ogrozd može biti napadnut pepelnicom, lisnim ušima i drugim štetočinama. Redovito se preporučuje pregledavanje biljaka kako bi se na vrijeme poduzele mjere za zaštitu od bolesti i štetočina.
+* **zalijevanje** – redovito, osobito u suši i dok se plodovi razvijaju
+* **gnojidba** – jednom godišnje, u rano proljeće, kompostom ili mineralnim gnojivom; RHS upozorava da previše dušika potiče mekane izboje koje lakše napada pepelnica
+* **orezivanje** – uklanjaju se suhe, oštećene i bolesne grane te najstarije grane; kada i kako, objašnjava članak o [orezivanju ogrozda](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/)
+* **zaštita od bolesti i štetnika** – pregledavajte grm, jer ga napadaju pepelnica, lisne uši i gusjenice
 
 ## Najpopularnije sorte ogrozda
 
 ### 1. Crveni ogrozd
 
-Crveni ogrozd jedna je od najpopularnijih sorti ogrozda zbog svog slatko-kiselog okusa i otpornosti na bolesti.
+Crveni ogrozd nije jedna sorta, nego skupina sorti crvenih plodova. Najčešće su slatkokisela okusa i dobri za svježu potrošnju, džemove i slastice, a dozrijevaju sredinom ljeta, u srpnju.
 
-Ova sorta razvija srednje velike, tamnocrvene plodove koji su idealni za svježu konzumaciju, džemove i slastice.
-
-Grmovi su kompaktni, a plodovi sazrijevaju sredinom ljeta, čime se omogućava berba u srpnju.
-
-Otporan je na pepelnicu, što ga čini izvrsnim izborom za uzgoj u raznim klimatskim uvjetima, uključujući Hrvatsku.
+Otpornost na pepelnicu ovisi o sorti. Finska sorta 'Hinnonmäki Röd' poznata je po otpornosti na pepelnicu i dobro podnosi hladne zime, navodi Savjetodavna služba Sveučilišta Aljaske (University of Alaska Fairbanks Extension).
 
 ### 2. Zeleni ogrozd
 
-Zeleni ogrozd je sorta poznata po visokim prinosima i otpornosti na bolesti, osobito na pepelnicu.
+I zeleni ogrozd skupina je sorti, a ne jedna sorta. Plodovi su srednje veliki do krupni, svijetlozeleni i slatkasti kad potpuno dozru.
 
-Plodovi su srednje do veliki, svijetlozeleni i slatkasti kada potpuno dozru. To je vrlo izdržljiva sorta, otporna na različite klimatske uvjete, što je čini popularnom u komercijalnom uzgoju.
+Najpoznatija zelena sorta je 'Invicta', koja daje velik urod i djelomično je otporna na pepelnicu i pjegavost lišća, prema RHS-u. Ponajviše se koristi za džemove, kompote i kolače.
 
-Ova sorta idealna je za izradu džemova, sokova i deserata, ali se često konzumira i svježa.
+### 3. Pax – ogrozd s malo trnja
 
-### 3. Pax – beztrnji ogrozd
+'Pax' je crvena sorta s malo trnja, pa se lako bere. Plodovi su srednje veliki, crveni i dobra okusa, pogodni za svježu potrošnju.
 
-Pax je beztrnji hibrid ogrozda, vrlo popularan među vrtlarima zbog jednostavnosti branja plodova. Plodovi su srednje veliki, tamnocrvene boje i slatkog okusa, što ovu sortu čini omiljenom za svježu konzumaciju.
-
-Grmovi su snažni i kompaktni, a plodovi sazrijevaju sredinom ljeta.
-
-Pax je također vrlo otporan na pepelnicu i druge uobičajene bolesti ogrozda, što doprinosi njegovoj popularnosti u domaćem uzgoju.
+Grm je bujan i pomalo raširen. RHS navodi da sorta ima djelomičnu otpornost na pepelnicu i pjegavost lišća, pa je pogodna za kućni vrt.
 
 ## Ogrozd u kulinarstvu
 
 ### Sok od ogrozda
 
-Sok od ogrozda je osvježavajući napitak bogat vitaminima, posebno vitaminom C i antioksidansima.
+Sok od ogrozda osvježavajuće je kiselkast. Za pripremu se ogrozd kuha s vodom i šećerom dok plodovi ne omekšaju, a zatim se procijedi i ohladi.
 
-Za pripremu soka, ogrozd se kuha s vodom i šećerom dok plodovi ne omekšaju, a zatim se procijedi i ohladi kako bi se dobio čist i osvježavajući sok.
-
-Sok se može poslužiti hladan uz led ili kombinirati s drugim voćem za dodatne okuse. Također, sok od ogrozda može se koristiti kao baza za voćne sirupe i džemove.
+Kuhanjem se dio vitamina C gubi, pa sok sadrži manje vitamina od svježih bobica. Poslužuje se hladan, uz led ili s drugim voćem, a može biti i osnova za sirupe.
 
 ### Nezrele bobice za deserte
 
-Nezrele bobice ogrozda idealne su za izradu kiselkastih džemova, kolača i drugih slastica zahvaljujući svom intenzivnom i osvježavajućem okusu.
+Nezrele bobice tvrđe su i kiselije, a sadrže više pektina (tvari koja džem zgušnjava). Zato su dobre za džemove, kolače i pite, a njihova kiselost lijepo se slaže sa slatkim desertima.
 
-Njihova prirodna kiselost savršeno se slaže sa slatkim desertima, stvarajući izvanredan kontrast okusa.
-
-Osim u džemovima, nezreli ogrozd se često koristi za voćne pite i kompote, a može se kombinirati i s jabukama ili malinama kako bi se dobio bogatiji okus. Recepte s ogrozdom potražite u članku [najbolji recepti od ogrozda](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/).
-
-Ovaj specifični okus posebno je popularan u britanskoj kuhinji.
+Često se kombiniraju s jabukama ili malinama. Recepte s ogrozdom potražite u članku [najbolji recepti s ogrozdom](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/). Kiselkast okus ogrozda osobito je omiljen u britanskoj kuhinji.
 
 ### Sušenje i zamrzavanje
 
-Ogrozd se može sušiti ili zamrzavati kako bi se očuvala njegova nutritivna vrijednost i kako bi bio dostupan i izvan sezone.
+Sušeni ogrozd dugo se čuva i može se dodavati kolačima, kruhu ili žitaricama za doručak.
 
-Sušenje ogrozda omogućuje dugoročno skladištenje, a plodovi se nakon toga mogu koristiti u raznim kolačima, kruhu ili kao dodatak žitaricama.
-
-Zamrzavanje ogrozda čuva njegovu svježinu, teksturu i okus, te ga čini idealnim za kasniju upotrebu u smoothiejima, kompotima i sličnim jelima.
-
-Prilikom zamrzavanja, preporučuje se da plodovi budu oprani i osušeni te poslagani na pladanj prije zamrzavanja kako se ne bi zalijepili.
+Zamrznut ogrozd čuva okus i dobar je za smoothie, kompote i kolače. Bobice prije zamrzavanja operite, osušite i rasporedite na pladanj, da se ne slijepe, a zatim ih spremite u vrećice.
 
 ## Berba i skladištenje
 
-Ogrozd se bere ručno, kada plodovi dosegnu punu zrelost, ali su još uvijek čvrsti na dodir, čime se osigurava najbolja kvaliteta plodova.
+Ogrozd se bere ručno. Za kuhanje se bere dok je još čvrst i kiselkast, a za svježu potrošnju kad potpuno sazrije i malo omekša. Pravi trenutak ovisi o sorti.
 
-Zrelost plodova ovisi o sorti – neki su spremni za berbu kada su još uvijek blago čvrsti i kiselkasti, dok drugi trebaju malo omekšati za punu slatkoću.
-
-Prilikom branja potrebno je koristiti rukavice jer grmovi ogrozda često imaju oštro trnje koje može ozlijediti ruke.
-
-Za duži vijek plodova preporučuje se berba u ranim jutarnjim satima, kada je temperatura niža, što pomaže u očuvanju svježine plodova.
+Pri branju nosite rukavice, jer većina sorti ima oštro trnje. Berite ujutro, dok je zrak svjež, jer plodovi tada dulje ostaju svježi.
 
 ### Najbolji načini skladištenja
 
-Svježi ogrozd može se čuvati u hladnjaku do tjedan dana, no za duže skladištenje preporučuje se zamrzavanje ili sušenje. U hladnjaku je najbolje ogrozd čuvati u plitkim posudama obloženim papirnatim ručnicima kako bi se spriječilo prekomjerno nakupljanje vlage, što može dovesti do kvarenja plodova.
-
-Zamrzavanje omogućava čuvanje ogrozda do godinu dana, a sušeni ogrozd može trajati još dulje ako je pravilno pohranjen na suhom i tamnom mjestu.
+* **u hladnjaku do tjedan dana** – u plitkoj posudi obloženoj papirnatim ručnikom, da se ne skuplja vlaga
+* **zamrzavanje do godine dana** – za dulje čuvanje
+* **sušenje** – sušeni ogrozd na suhom i tamnom mjestu traje još dulje
 
 ## Zanimljivosti i mitovi o ogrozdu
 
-Zašto “guska” u nazivu?
+Engleski naziv *gooseberry* doslovno znači "guščja bobica". Prema Internetskom etimološkom rječniku (Online Etymology Dictionary), podrijetlo prvog dijela riječi nije razjašnjeno, jer ništa na biljci ne podsjeća na gusku.
 
-Jedna od najzanimljivijih činjenica o ogrozdu je njegovo ime u engleskom jeziku – **“gooseberry”**, što doslovno znači “guska bobica”. Postoji nekoliko teorija o tome kako je ogrozd dobio ovaj neobičan naziv.
+Jedna popularna teorija kaže da se ogrozd nekad posluživao kao umak uz pečenu gusku. Prema drugoj, *goose* je narodnim tumačenjem iskrivljena starija riječ, možda povezana s francuskom *groseille*, kojom se označava ogrozd.
 
-Najpopularnija je teorija da su plodovi ogrozda u prošlosti često korišteni za pripremu umaka koji se služio uz pečenu gusku, što je bio omiljeni specijalitet u europskim kraljevskim dvorovima.
+## Mitovi o ogrozdu – "zabranjeno voće"
 
-Druga teorija se odnosi na činjenicu da je ogrozd bio divlje voće koje su seljaci sakupljali u šumama, a guske su se često mogle vidjeti u blizini nasada jer su pasle među grmovima.
+Na internetu se može pročitati da je ogrozd u nekim dijelovima Europe bio "zabranjeno voće" koje donosi nesreću. Za takve tvrdnje nismo pronašli pouzdane izvore.
 
-Iako točna veza između gusaka i ogrozda možda nikada neće biti razjašnjena, ova  zanimljivost svakako je privukla pažnju brojnih lingvista i povjesničara hrane.
-
-## Mitovi o ogrozdu – “zabranjeno voće”
-
-U prošlosti je ogrozd bio okružen raznim mitovima i legendama, a u nekim dijelovima Europe bio je čak smatran “zabranjenim voćem”. Jedan od razloga za to može biti njegova trnovita priroda – grmovi ogrozda prekriveni su oštrim trnjem, što je izazivalo strah među ljudima.
-
-Vjerovalo se da je branje ogrozda moglo donijeti nesreću ili zlu sreću, te da bi se onaj tko bere ogrozd mogao suočiti s nizom loših događaja.
-
-Zbog svoje zelene i neobične boje, ogrozd se ponekad povezivao s mističnim i natprirodnim pojavama. U nekim narodnim pričama, ogrozd je bio smatran plodom koji raste na mjestima gdje su vile i duhovi prisutni, pa su ljudi izbjegavali njegove nasade, posebno noću.
+Dokumentiran je drugi običaj: u Britaniji se djeci na pitanje odakle dolaze bebe znalo reći da su pronađene ispod grma ogrozda, navodi isti etimološki rječnik. U engleskom se jeziku za osobu koja je višak u društvu zaljubljenog para i danas kaže da "igra ogrozd" (*to play gooseberry*).
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja ogrozda u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Američko Ministarstvo poljoprivrede, baza FoodData Central – [Ogrozd, sirov (Gooseberries, raw)](https://fdc.nal.usda.gov/food-details/173030/nutrients)
+- Uredba Komisije (EU) br. 432/2012 – [Popis dopuštenih zdravstvenih tvrdnji o hrani](https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32012R0432)
+- Savjetodavna služba Sveučilišta Massachusetts (UMass Extension) – [Ribiz i ogrozd (Currants and Gooseberries)](https://www.umass.edu/agriculture-food-environment/fruit/ne-small-fruit-management-guide/currants-gooseberries)
+- Centar za integrirane poljoprivredne sustave Sveučilišta Wisconsin (UW CIAS) – [Ogrozd (Gooseberry)](https://uncommonfruit.cias.wisc.edu/gooseberry)
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti ogrozd (How to Grow Gooseberries)](https://www.rhs.org.uk/fruit/gooseberries/grow-your-own)
+- Kraljevsko hortikulturno društvo (RHS) – [Ogrozd 'Pax', profil biljke (Ribes uva-crispa 'Pax')](https://www.rhs.org.uk/plants/201159/ribes-uva-crispa-pax-d/details)
+- Kraljevsko hortikulturno društvo (RHS) – [Ogrozd 'Invicta', profil biljke (Ribes uva-crispa 'Invicta')](https://www.rhs.org.uk/plants/201076/ribes-uva-crispa-invicta-c-d/details)
+- Savjetodavna služba Sveučilišta Aljaske (University of Alaska Fairbanks Extension) – [Američki ogrozd, profil biljke (American Gooseberry)](https://uaf.edu/ces/garden/landscape-plants/profile.php?id=p302)
+- Healthline, američki zdravstveni portal – [Dobrobiti ogrozda (8 Reasons Why Gooseberries Are Good for You)](https://www.healthline.com/nutrition/gooseberries)
+- Online Etymology Dictionary – [Gooseberry](https://www.etymonline.com/word/gooseberry)

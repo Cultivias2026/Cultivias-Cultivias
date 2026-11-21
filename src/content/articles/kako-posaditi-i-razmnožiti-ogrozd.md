@@ -10,8 +10,9 @@ perex: >-
 
 
   No, kako bi sve to prošlo bez nepotrebnih grešaka i nedoumica, pripremili smo vodič za onaj prvi i najvažniji korak: kako odabrati i ispravno posaditi svoju prvu sadnicu.
-readTime: 6
+readTime: 5
 publishedAt: 2026-01-10
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -23,105 +24,110 @@ related_articles:
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
   - ogrozd--zaboravljeno-supervoće
 ---
+
+[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) se lako sadi i razmnožava, a uspjeh najviše ovisi o kvalitetnoj sadnici i pravilnoj dubini sadnje. Sadi se dok biljka miruje, od jeseni do ranog proljeća, a novi grmovi lako se dobivaju iz reznica. U nastavku saznajte kako odabrati sadnicu, kako je posaditi korak po korak i kako ogrozd razmnožiti reznicama.
+
 ## Odabir idealne sadnice
 
-Kupovina kvalitetne sadnice prvi je i najvažniji korak. Loša sadnica znači više posla i brige, sporiji rast i potencijalne bolesti ili čak i „smrt“ biljke ili sadnice.
+Kvalitetna sadnica prvi je i najvažniji korak. Slaba ili bolesna sadnica sporije raste, češće obolijeva, a može se i osušiti.
+
+Za uzgoj u obliku grma Kraljevsko hortikulturno društvo (Royal Horticultural Society, RHS) savjetuje dvogodišnju do trogodišnju sadnicu s tri do pet glavnih grana i kratkim, golim deblom visokim 10 do 15 cm.
 
 ## Na što treba paziti pri kupovini?
 
 Kvalitetna sadnica trebala bi imati sljedeće karakteristike:
 
-![](/images/articles/zdrava_sadnica.jpeg)
+| Dio biljke | Kako izgleda zdrava sadnica |
+| --- | --- |
+| Korijen | dobro razvijen, bez oštećenja, truleži i čvorova; ima više manjih korjenčića, a ne samo jedan glavni korijen |
+| Grane | najmanje 3–5 zdravih, čvrstih grana; kora je glatka, bez pukotina i znakova bolesti |
+| Pupovi | vidljivi i zdravi, nisu smežurani ni oštećeni |
+| Opće stanje | biljka izgleda zdravo, bez znakova sušenja i napada štetnika |
 
 ## Okvirna cijena sadnica
 
-Cijena sadnica [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) varira ovisno o sorti, starosti i obliku uzgoja. Okvirne cijene na tržištu su:
+Cijena sadnica ogrozda ovisi o sorti, starosti i obliku uzgoja. Okvirne cijene na tržištu su:
 
-* Standardne sadnice (grm): 5 – 15€
-* Cijepljene sadnice (stablo): 15 –30 €
+* **sadnice za grm** – 5–15 €
+* **cijepljene sadnice za stablo** – 15–30 €
 
 ## Postupak sadnje: Korak po korak
 
-Sadnja nije komplicirana, ali poštivanje ovih nekoliko koraka osigurat će da se biljka pravilno primi i brzo napreduje u rastu.
+Sadnja nije komplicirana, ali ovih nekoliko koraka pomoći će da se biljka dobro primi i brzo krene u rast.
 
 **1. Vrijeme sadnje**
 
-Najbolje vrijeme za sadnju je jesen (od listopada do prosinca). Sadnja u jesen omogućuje biljci da razvije korijenov sustav tijekom zime i bude spremna za rast u proljeće.
+Najbolje je saditi u jesen, od listopada do prosinca. Biljka tada tijekom zime razvije korijen i u proljeće je spremna za rast.
 
-Sadnja je osim jeseni  moguća i u rano proljeće, ali jesenska sadnja daje bolje rezultate.
+Sadnja je moguća i u rano proljeće, ali jesenska u pravilu daje bolje rezultate. Sadnice u posudama mogu se saditi gotovo cijele godine, samo ne kad je tlo smrznuto, raskvašeno ili presuho, navodi RHS.
 
 **2. Priprema tla**
 
-[Ogrozd](https://www.agroklub.com/sortna-lista/voce/ogrozd-22/) preferira teže, ilovasto-pjeskovito tlo koje je umjereno vlažno i dobro drenirano. Tlo treba pripremiti barem mjesec dana prije sadnje:
+Ogrozd voli srednje teško, ilovasto-pjeskovito tlo koje je umjereno vlažno, a dobro propušta vodu, navodi hrvatski poljoprivredni portal Agroklub u [sortnoj listi ogrozda](https://www.agroklub.com/sortna-lista/voce/ogrozd-22/). Tlo pripremite barem mjesec dana prije sadnje:
 
-Duboka obrada: Prekopajte tlo na dubinu od najmanje 40 cm.
-
-Gnojidba: U tlo umiješajte stajski gnoj (oko 3-5 kg po sadnom mjestu) i mineralno NPK gnojivo s naglaskom na fosfor i kalij.
-
-Uklanjanje korova: Očistite područje od svih korova.
+* **duboka obrada** – prekopajte tlo do dubine od najmanje 40 cm
+* **gnojidba** – umiješajte 3–5 kg stajskog gnoja po sadnom mjestu i mineralno gnojivo NPK s više fosfora i kalija
+* **uklanjanje korova** – očistite površinu od korova i njegova korijenja
 
 **3. Dubina i razmak sadnje**
 
-Dubina: Sadnicu posadite 3-5 cm dublje nego što je rasla u rasadniku (vidjet ćete trag zemlje na sadnici). To potiče bolje ukorjenjivanje. Rupa za sadnju trebala bi biti duboka oko 30-40cm.
+**Dubina:** sadnicu posadite **na istu dubinu** na kojoj je rasla u rasadniku. Tu dubinu prepoznat ćete po tragu zemlje na stabljici, a kod sadnica iz posude gornji rub busena neka bude u razini tla. Jama za sadnju neka bude duboka oko 30–40 cm.
 
-Razmak: Pravilan razmak važan jeza cirkulaciju zraka i prevenciju bolesti.
+Ogrozd se, za razliku od [crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/), ne sadi dublje. Uzgaja se na kratkom deblu, a dublja sadnja potiče izbijanje izdanaka iz tla, koje poslije treba uklanjati.
 
-Grm: 1.5 – 2 metra unutar reda.
+**Razmak:** dovoljan razmak važan je za strujanje zraka i sprječavanje bolesti.
 
-Stablo: 1 – 1.2 metra unutar reda.
-
-Međuredni razmak: 2.5 – 3 metra.
+* **grm** – 1,5–2 m unutar reda; u kućnom vrtu RHS navodi i 1,2–1,5 m
+* **stablo** – 1–1,2 m unutar reda
+* **međuredni razmak** – 2,5–3 m
 
 **4. Postupak sadnje**
 
-Priprema sadnice: Prije sadnje, skratite korijenje za trećinu i potopite ga u vodu na nekoliko sati (3-6h).
-
-Sadnja: Stavite sadnicu u rupu, pazeći da je korijenje ravnomjerno raspoređeno. Zatrpajte rupu zemljom i lagano je utisnite.
-
-Zalijevanje: Obilno zalijte sadnicu nakon sadnje.
-
-[Prvo orezivanje:](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/) Odmah nakon sadnje, skratite sve grane na 3-5 pupoljaka kako biste potaknuli rast.
+* **priprema sadnice** – oštećeno korijenje odrežite, a predugo skratite otprilike za trećinu; korijen zatim potopite u vodu na 3–6 sati
+* **sadnja** – stavite sadnicu u jamu, ravnomjerno rasporedite korijenje, zatrpajte jamu zemljom i lagano je utabajte
+* **zalijevanje** – sadnicu nakon sadnje obilno zalijte
+* **[prvo orezivanje](https://www.cultivias.com/voce/orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-ve%C4%87i-urod/)** – odmah nakon sadnje odaberite do pet snažnih, pravilno raspoređenih grana i skratite ih za polovicu do tri četvrtine, otprilike na 3–5 pupova; ostale grane i izdanke na kratkom deblu uklonite
 
 ## Vodič za razmnožavanje: uvećajte svoj nasad besplatno
 
-Razmnožavanje [ogrozda](https://gospodarski.hr/rubrike/pitanja-i-odgovori/razmnozavanje-ogrozda-i-bijelog-ribiza/) reznicama je jednostavan način da dobijete nove biljke bez kupovine i izbora novih sadnica. Postoje dvije glavne metode: razmnožavanje drvenastim i zelenim reznicama.
+Razmnožavanje ogrozda reznicama jednostavan je način da dobijete nove biljke bez kupovine sadnica, opisuje hrvatski poljoprivredni tjednik Gospodarski list u [savjetu o razmnožavanju ogrozda i bijelog ribiza](https://gospodarski.hr/rubrike/pitanja-i-odgovori/razmnozavanje-ogrozda-i-bijelog-ribiza/). Postoje dvije glavne metode: drvenastim i zelenim reznicama.
 
 **Metoda 1: Drvenaste reznice (zimi)**
 
-Ovo je najčešća i najuspješnija metoda razmnožavanja.
+Ovo je najčešća i najuspješnija metoda. Reznice se uzimaju u kasnu jesen ili zimi, dok biljka miruje.
 
-Vrijeme uzimanja: Kasna jesen ili zima, kada biljka miruje.
-
-Postupak:
-
-* Odaberite zdrave, jednogodišnjeizbojke debljine olovke.
-* Izrežite reznice dužine 20-30 cm.Gornji rez neka bude ravan, a donji treba biti ukoso (kako biste znali koja jestrana za sadnju- ona ukoso).
-* S donjeg dijela reznice (oko 2/3dužine) uklonite sve pupoljke i trnje. Ostavite samo 4-5 vršnih pupoljaka.
-* Donji dio reznice možete umočitiu „hormon za ukorjenjivanje“ koji pomaže kod rasta korijena
-* Zapiknite reznice u pripremljenugredicu ili posude s pjeskovitim supstratom, tako da 2/3 reznice bude u zemlji.
-* Održavajte supstrat vlažnim.Reznice će se ukorijeniti tijekom sljedeće sezone.
+* **odabir izboja** – odaberite zdrave jednogodišnje izboje debljine olovke
+* **rezanje** – izrežite reznice duge 20–30 cm; gornji rez neka bude ravan, a donji kos, da znate koji kraj ide u zemlju
+* **uklanjanje pupova** – s donje dvije trećine reznice uklonite sve pupove i trnje, a ostavite samo 4–5 vršnih pupova; tako grm poslije neće tjerati izdanke iz tla
+* **hormon za ukorjenjivanje** – donji kraj možete umočiti u prah za ukorjenjivanje, koji potiče rast korijena
+* **sadnja reznica** – zabodite ih u pripremljenu gredicu ili posude s pjeskovitim supstratom, tako da dvije trećine reznice budu u zemlji
+* **njega** – supstrat održavajte vlažnim; reznice se ukorijene tijekom sljedeće sezone
 
 **Metoda 2: Zelene reznice (ljeti)**
 
-Ova metoda je brža, ali zahtijeva više preciznosti i pažnje.
+Ova je metoda brža, ali traži više pažnje. Reznice se uzimaju rano ljeti, u lipnju, kad su izboji još zeleni, ali dovoljno čvrsti da se ne lome.
 
-Vrijeme uzimanja: Rano ljeto(lipanj), kada su izbojci još zeleni, ali dovoljno čvrsti da se ne polome.
-
-**Postupak:**
-
-* Ujutro uzmite reznice dužine10-15 cm s vrhova novih izbojka.
-* Uklonite donje listove,ostavljajući samo 2-3 na vrhu.
-* Umočite donji dio u hormon zaukorjenjivanje.
-* Zapiknite reznice u posude svlažnim supstratom.
-* Prekrijte posude prozirnomfolijom ili plastičnom bocom kako biste stvorili efekt staklenika.
-* Držite na sjenovitom i toplommjestu. Ukorjenjivanje traje 4-6 tjedana.
+* **uzimanje reznica** – ujutro odrežite vrhove novih izboja duge 10–15 cm
+* **uklanjanje listova** – uklonite donje listove, a na vrhu ostavite samo 2–3 lista
+* **hormon za ukorjenjivanje** – donji kraj umočite u prah za ukorjenjivanje
+* **sadnja** – zabodite reznice u posude s vlažnim supstratom
+* **mini staklenik** – posude prekrijte prozirnom folijom ili prerezanom plastičnom bocom
+* **mjesto** – držite ih na toplom mjestu u sjeni; ukorjenjivanje traje 4–6 tjedana
 
 ## Cijepljenje: Kako nastaje ogrozd na stablu?
 
-[Ogrozd na stablu](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training) dobiva se postupkom cijepljenja (kalemljenja). To nije nešto što se može postići orezivanjem, već spajanjem dviju različitih biljaka.
+Ogrozd na stablu ne može se dobiti rezidbom grma, nego cijepljenjem (kalemljenjem), odnosno spajanjem dviju biljaka, kako opisuje i RHS u [uputama za rezidbu i oblikovanje ogrozda](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training).
 
-Podloga: Kao podloga (deblo) najčešće se koristi zlatni ribiz (Ribes aureum), koji je otporan i ima snažan, uspravan rast. No iskusni voćari često znaju koristiti i druga debla, popularno zvane „divljake“ ( divlje sadnice).
+* **podloga** – kao podloga, odnosno deblo, najčešće se koristi zlatni ribiz (*Ribes aureum*), koji je otporan i raste snažno i uspravno; iskusni voćari koriste i druge podloge, takozvane divljake
+* **plemka** – na vrh podloge, na visini od oko 1 m, cijepi se željena [sorta ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/)
 
-Plemenka: Na vrh podloge, na visini od oko 1 metra, cijepi se željena [sorta ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/).
+*Ovaj postupak traži stručnost i obično se prepušta profesionalnim voćarima.*
 
-*Ovaj postupak zahtijeva stručnost i obično se prepušta profesionalnim voćarima.*
+Kad grm počne roditi, ideje za plodove potražite u [receptima s ogrozdom](https://www.cultivias.com/voce/ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala/).
+
+## Izvori
+
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti ogrozd (How to Grow Gooseberries)](https://www.rhs.org.uk/fruit/gooseberries/grow-your-own)
+- Kraljevsko hortikulturno društvo (RHS) – [Ogrozd: rezidba i oblikovanje (Gooseberries: pruning and training)](https://www.rhs.org.uk/fruit/gooseberries/gooseberry-pruning-and-training)
+- Agroklub, hrvatski poljoprivredni portal – [Sortna lista: ogrozd](https://www.agroklub.com/sortna-lista/voce/ogrozd-22/)
+- Gospodarski list, hrvatski poljoprivredni tjednik – [Razmnožavanje ogrozda i bijelog ribiza](https://gospodarski.hr/rubrike/pitanja-i-odgovori/razmnozavanje-ogrozda-i-bijelog-ribiza/)

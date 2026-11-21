@@ -11,6 +11,7 @@ perex: >-
   Ovaj članak predstavlja najbolje recepte od poznatih gastro portala, od BBC Good Food do Jamie Oliver-a.
 readTime: 6
 publishedAt: 2026-01-12
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -22,12 +23,16 @@ related_articles:
   - ogrozd-kalorije-svjezi-plod-kompot-dzem
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
 ---
+Ogrozd je u kuhinji zahvalniji nego što mnogi misle: nezreli je odličan za džem, umake i pite, a zreli za kolače i svježu potrošnju. Najviše ga vole britanski kuhari, pa i ovi recepti potječu s poznatih britanskih portala o kuhanju. U nastavku saznajte kako se koristi zreli, a kako nezreli ogrozd te kako pripremiti džem, crumble, pitu i umak za ribu.
+
 ## Kulinarska primjena: zreli vs. nezreli ogrozd
 
-Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) drastično se mijenjaju tijekom zrenja, što određuje njegovu primjenu u kuhinji.
+Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) jako se mijenjaju tijekom zrenja, a o tome ovisi i kako ćete ga koristiti u kuhinji.
 
-* **Nezreli (zeleni) ogrozd:** Tvrđi je, izrazito kiselkast i bogat pektinom. Idealan je za kuhanje – pripremu pekmeza, džemova, umaka za meso (posebno uz masnu ribu poput skuše). Njegova kiselost daje savršenu ravnotežu slatkim jelima.
-* **Zreli ogrozd:** Mekši je, slađi i sočniji. Savršen je za jelo u svježem stanju, kao i za pripremu deserata, pita, kolača (crumble), voćnih salata i kompota.
+* **nezreli (zeleni) ogrozd** – tvrđi je, izrazito kiselkast i bogat pektinom (tvari koja zgušnjava džem); dobar je za pekmez, džem te umake uz meso i masnu ribu, poput skuše, a kiselošću uravnotežuje slatka jela
+* **zreli ogrozd** – mekši je, slađi i sočniji; dobar je za jelo svjež te za deserte, pite, crumble, voćne salate i kompote
+
+Za kuhanje se najčešće preporučuju zelene [sorte ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/), poput 'Invicte'.
 
 - - -
 
@@ -35,7 +40,7 @@ Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-su
 
 ### 1. Klasični engleski pekmez od ogrozda
 
-[BBC Good Food](https://www.bbc.co.uk/food/recipes/greengooseberryjam_6896) predstavlja tradicionalni recept koji je postao omiljeni izbor milijuna kuhara. Ovaj pekmez je savršen jer koristi prirodnu pektinsku moć zelenog ogrozda.
+Recept je objavljen na portalu [BBC Food](https://www.bbc.co.uk/food/recipes/greengooseberryjam_6896), stranici s receptima britanske javne televizije BBC. Pekmez se dobro zgušnjava bez dodanog želirnog sredstva, jer zeleni ogrozd sadrži mnogo pektina. Koliko kalorija ima žlica takvog namaza, pogledajte u članku o [kalorijama ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
 
 **Sastojci:**
 
@@ -51,7 +56,7 @@ Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-su
 4. **Kuhanje i pauziranje:** Pojačajte vatru i kuhajte brzo oko 8-10 minuta. Kada mislite da je pekmez kuhan, **obavezno maknite lonac s vatre**. Ovo je važno jer bi se pekmez tijekom testiranja mogao prekuhati ili previše zgusnuti.
 5. **Žele test (test naboravanja):** Ovaj stari trik pokazuje hoće li se pekmez stisnuti kada se ohladi. Izvadite ledeni tanjurić iz zamrzivača i kapnite na njega samo jednu kapljicu vrućeg pekmeza (veličine kovanice). Pričekajte minutu da se ohladi na hladnom porculanu. Zatim gurnite rub ohlađene kapljice vrhom prsta:
 
-   * *Spremno:* Ako se na površini stvorila tanka opna koja se nabora kada ju gurnete, pekmez je savršeno kuhan.
+   * *Spremno:* Ako se na površini stvorila tanka opna koja se nabora kada ju gurnete, pekmez je gotov.
    * *Nije spremno:* Ako kapljica ostane tekuća poput sirupa, vratite lonac na štednjak, kuhajte još 3-5 minuta i ponovite test s novom kapljicom.
 6. **Sterilizacija:** Sterilizirajte staklenke – prvo ih operite i isperite u čistoj toploj vodi. Ostavite da se suše preokrenute na rešetki u pećnici postavljenoj na 140°C. Ostavite ih tamo najmanje pola sata dok pravite pekmez.
 7. **Odmaranje:** Kada je pekmez spreman, isključite vatru, maknite pjenu s površine i ostavite da stoji 15-20 minuta.
@@ -59,12 +64,14 @@ Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-su
 
 ### 2. Džem od ogrozda i bazge
 
-Recept „[Jamie Oliver-a](https://www.jamieoliver.com/recipes/fruit/gooseberry-elderflower-jam/)“ za ukusan džem od bazge i ogrozda.
+Recept britanskog kuhara [Jamieja Olivera](https://www.jamieoliver.com/recipes/fruit/gooseberry-elderflower-jam/) spaja kiselkast ogrozd i mirisne cvjetove bazge.
+
+**Važno:** koristite samo cvjetove crne bazge (*Sambucus nigra*), a ne otrovne abdovine (*Sambucus ebulus*), koja je niža, zeljasta biljka. Kako ih razlikovati, opisuje članak o [bazgi](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
 
 **SASTOJCI**
 
 * 2 kg ogrozda
-* 12 cvjetova bazge ili 100 ml sirupa od bazge (kordijala)
+* 12 cvatova bazge ili 100 ml sirupa od bazge (kordijala)
 * 2 mahune vanilije
 * 750 g šećera
 
@@ -84,7 +91,7 @@ Recept „[Jamie Oliver-a](https://www.jamieoliver.com/recipes/fruit/gooseberry-
 
 ### 3. Drobljenac od ogrozda s bogatim posipom i kremom od vanilije
 
-[Gooseberry Fool](https://www.greatbritishchefs.com/collections/gooseberry-recipes) podiže klasični drobljenac na novu razinu. Umjesto običnog tijesta, ovdje imamo bogatu mješavinu s lješnjacima, mljevenim bademima i smeđim šećerom koja savršeno nadopunjuje kiselost ogrozda. Sve je zaokruženo domaćom engleskom kremom (custard) koja se prelijeva topla preko hrskavog kolača.
+Ovaj crumble (drobljenac) iz [zbirke recepata s ogrozdom](https://www.greatbritishchefs.com/collections/gooseberry-recipes) britanskog portala Great British Chefs nije isto što i *gooseberry fool*, britanski desert od pirea ogrozda pomiješanog sa šlagom. Ovdje se pečeni ogrozd prekriva hrskavim posipom. Posip je od lješnjaka, mljevenih badema i smeđeg šećera, koji ublažavaju kiselost ogrozda. Sve je zaokruženo domaćom engleskom kremom (custard) koja se prelijeva topla preko hrskavog kolača.
 
 **Sastojci**
 
@@ -168,7 +175,7 @@ Ova pita spaja kiselost ogrozda i jabuka s cvjetnom notom bazge, sve omotano u p
 
 ### 5. Gooseberry Sauce – Umak za ribu
 
-[Gooseberry Sauce](https://www.greatbritishchefs.com/collections/gooseberry-recipes) je tradicionalni umak koji se odlično slaže s masnom ribom poput skuše. Kiselost ogrozda savršeno uravnotežava bogatstvo ribe.
+Umak od ogrozda (*gooseberry sauce*) tradicionalni je britanski umak, koji se, prema portalu Great British Chefs, dobro slaže s masnom ribom poput skuše. Kiselost ogrozda ublažava masnoću ribe.
 
 **Sastojci:**
 
@@ -186,6 +193,8 @@ Ova pita spaja kiselost ogrozda i jabuka s cvjetnom notom bazge, sve omotano u p
 4. Kuhajte nekoliko minuta dok se maslac ne otopi.
 5. Začinite solju i paprom.
 6. Poslužite toplo uz pečenu ribu.
+
+Ako volite kiselkasto bobičasto voće, isprobajte i [recepte s crnim ribizom](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/), koji se pripremaju na sličan način.
 
 *\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.*
 
