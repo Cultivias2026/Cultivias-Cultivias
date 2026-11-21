@@ -6,8 +6,9 @@ image: /images/articles/sok-od-aronije-u-staklenoj-boci.webp
 perex: Aronija, popularna biljka koja je sve češće prisutna u prehrani zbog
   svojih potencijalnih zdravstvenih prednosti. Iako se često promovira kao
   “super sok”, važno je biti svjestan i mogućih nuspojava koje može izazvati.
-readTime: 2
+readTime: 4
 publishedAt: 2025-04-06
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -19,114 +20,80 @@ related_articles:
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
-
-U ovom članku istražit ćemo potencijalne nuspojave soka od [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), tko bi trebao biti oprezan pri njegovoj konzumaciji i kako ga sigurno uključiti u svoju prehranu.
-
-
+Sok od [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) većina ljudi dobro podnosi, ali zbog opora okusa, kiselosti i velike koncentracije biljnih spojeva nekima može smetati. Nuspojave su najčešće blage i probavne, a javljaju se uglavnom kad se popije više soka nego što piše na deklaraciji. U nastavku saznajte koje su moguće nuspojave soka od aronije, tko treba biti oprezan i kako ga piti s manje tegoba.
 
 ## Što je sok od aronije i zašto je popularan?
 
+Sok od aronije dobiva se prešanjem plodova crnoplodne aronije (*Aronia melanocarpa*), grma podrijetlom iz Sjeverne Amerike. Najčešće se prodaje kao matični sok, odnosno 100-postotni sok bez dodanog šećera i vode.
 
+Popularan je zbog mnogo **antocijana i drugih polifenola**, biljnih spojeva s antioksidativnim djelovanjem, pa se često reklamira kao "super sok". Vitamina C prirodno ima malo, pa ga neki proizvođači dodaju, što piše na deklaraciji.
 
-Sok od aronije dobiva se iz plodova aronije, biljke porijeklom iz Sjeverne Amerike. 
-
-Zbog visokog sadržaja **antocijana, flavonoida i vitamina C**, ovaj sok se često promovira kao "super sok". Iako su njegove prednosti impresivne, važno je uzeti u obzir i potencijalne nedostatke.
-
-
+Za mnoge njegove reklamirane učinke nema čvrstih dokaza, a kao i svaka koncentrirana namirnica, može imati i nedostatke.
 
 ## Potencijalne nuspojave soka od aronije
 
-
-
-Sok od aronije može izazvati određene nuspojave, uključujući:
+Sok od aronije može izazvati sljedeće tegobe.
 
 **Probavne tegobe**
 
+Kod osjetljivijih osoba može izazvati nadutost, proljev ili grčeve u trbuhu. Te se tegobe obično povezuju s prirodnim kiselinama i oporim taninima iz ploda, a češće su kod većih količina soka.
 
-Konzumacija soka od aronije može izazvati probavne smetnje poput nadutosti, proljeva ili grčeva u želucu, posebno kod osjetljivijih osoba. Ove nuspojave često su povezane s visokim udjelom vlakana i prirodnih kiselina u plodu.
+**Promjene krvnog tlaka**
 
+U pojedinim manjim istraživanjima zabilježen je blagi pad gornjeg (sistoličkog) tlaka. Sustavni pregled i meta-analiza (statističko objedinjavanje više studija) iz 2025., koji je obuhvatio deset istraživanja, nije potvrdio značajan učinak na krvni tlak u općoj populaciji.
 
+Osobe koje imaju nizak tlak ili uzimaju lijekove za tlak neka ipak prate kako se osjećaju i o redovitom pijenju soka razgovaraju s liječnikom.
 
-**Snižen krvni tlak**
+**Šećer u krvi**
 
+Često se piše da sok od aronije snižava šećer u krvi i može izazvati hipoglikemiju (preniska razina šećera u krvi). Spomenuta meta-analiza nije pokazala značajan učinak na šećer u krvi, pa za tu tvrdnju nema dokaza.
 
-Sok od aronije može uzrokovati pad krvnog tlaka, što može biti problematično za osobe koje već imaju nizak tlak. Prekomjerna konzumacija može dovesti do osjećaja slabosti ili vrtoglavice.
-
-
-
-**Hipoglikemija (niska razina šećera u krvi)**
-
-
-Osobe s dijabetesom trebaju biti oprezne jer sok od aronije može dodatno snižavati razinu šećera u krvi, što može dovesti do hipoglikemije.
+Osobe s dijabetesom trebaju znati nešto drugo: sok sadrži prirodne šećere i ima oko 46 kcal na 100 ml, pa ga treba uračunati u dnevni unos ugljikohidrata. Više brojki donosi pregled [kalorija aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 **Suhoća u ustima**
 
-
-Sok od aronije može izazvati suhoću u ustima zbog svojih svojstava. Ova nuspojava često je posljedica visokog sadržaja tanina.
+Sok od aronije ostavlja osjećaj suhoće i stezanja u ustima. To je posljedica tanina, tvari koje daju opor okus, a ne znak da sok šteti.
 
 **Gastritis i želučane smetnje**
 
-
-Zbog visoke kiselosti, sok od aronije može iritirati sluznicu želuca, što može pogoršati simptome gastritisa ili čira na želucu.
+Sok je kiseo, pa kod nekih osoba može nadražiti sluznicu želuca i pogoršati tegobe kod gastritisa ili čira na želucu.
 
 **Interakcije s lijekovima**
 
-
-Sok od aronije može utjecati na djelovanje određenih lijekova, posebno antikoagulansa (lijekovi za razrjeđivanje krvi) i lijekova za regulaciju krvnog tlaka ili šećera.
+O interakcijama aronije s lijekovima ima malo podataka. Zato osobe koje uzimaju lijekove protiv zgrušavanja krvi, za tlak ili za šećer prije redovitog pijenja soka trebaju pitati liječnika ili ljekarnika.
 
 \****Prije korištenja aronije u medicinske svrhe, obavezno se posavjetujte s liječnikom**.*
 
-
-
 ## Tko bi trebao biti oprezan?
 
+Neke skupine ljudi trebaju više opreza pri pijenju soka od aronije:
 
-
-Neke skupine ljudi trebale bi posebnu pažnju pri konzumaciji soka od aronije:
-
-* **Trudnice i dojilje:**
-
-   nema dovoljno istraživanja o [sigurnosti aronije](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/) tijekom trudnoće i dojenja, pa je najbolje 
-
-  **konzultirati liječnika**
-
-   prije konzumacije.
-* **Osobe s kroničnim bolestima:**
-
-   Ako imate dijabetes, nizak krvni tlak, gastritis ili probleme s jetrom, savjetujte 
-
-  **se s medicinskim stručnjakom.**
-* **Osobe na terapiji lijekovima:**
-
-   Aronija može utjecati na djelovanje određenih lijekova, pa je važno provjeriti moguće interakcije s 
-
-  **liječnikom ili stručnim djelatnikom.**
-
-
+* **trudnice i dojilje** – nema dovoljno istraživanja o [sigurnosti aronije](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/) u trudnoći i dojenju, pa je najbolje **pitati liječnika**
+* **osobe s kroničnim bolestima** – kod dijabetesa, niskog tlaka, gastritisa ili bolesti jetre **posavjetujte se s liječnikom**
+* **osobe koje uzimaju lijekove** – moguće interakcije provjerite s **liječnikom ili ljekarnikom**
+* **osobe na kemoterapiji ili zračenju** – koncentrirane pripravke s antioksidansima ne uzimajte bez dogovora s onkologom
+* **mala djeca** – matični sok djeci mlađoj od tri godine ne dajte bez savjeta pedijatra
 
 ## Kako sigurno konzumirati sok od aronije?
 
+Ako ste zdravi, sok od aronije možete piti kao i druge voćne sokove, uz nekoliko pravila:
 
+* **umjerena količina** – na deklaracijama matičnog soka najčešće piše 50 ml dnevno, često u dvije porcije po 25 ml
+* **razrjeđivanje** – opor i kiseo sok lakše se pije razrijeđen vodom ili drugim sokom
+* **uz obrok** – osjetljivijem želucu sok obično bolje odgovara uz jelo nego natašte
+* **kvalitetan proizvod** – birajte 100-postotni sok bez dodanog šećera i konzervansa
+* **savjet liječnika** – ako imate zdravstvenih tegoba ili uzimate lijekove, prije redovitog pijenja pitajte liječnika
 
-Da biste uživali u prednostima soka od aronije sa smanjenom mogućnošću pojave nuspojava slijedite ove savjete (**samo** **ukoliko je odobrena konzumcija od strane liječnika**):
-
-* **Umjerena konzumacija:**
-
-   Ograničite unos na 1-2 čaše dnevno (max 100 ml).
-* **Razrijedite sok:**
-
-   Sok od aronije može biti vrlo koncentriran, pa ga razrijedite s vodom ili drugim sokovima.
-* **Kupujte kvalitetne proizvode:**
-
-   Odaberite organski sok od aronije bez dodanih šećera ili konzervansa.
-* **Konzultirajte liječnika:**
-
-   Ako imate bilo kakve zdravstvene probleme ili sumnje, uvijek se posavjetujte s profesionalcem.
-
-
+Ako sok pijete zbog sastava, korisno je znati i što aronija sadrži te koliko su dokazi o njezinu djelovanju zapravo čvrsti. Sličan tamni sok daju i [bazgine bobice](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/), koje se, za razliku od aronije, ne smiju jesti sirove.
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja aronije u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Frumuzachi i sur., sustavni pregled i meta-analiza (2025.) – [Aronija i kardiometabolički pokazatelji (Impact of a Chokeberry Supplementation on Cardiometabolic Outcomes)](https://doi.org/10.3390/nu17091488), Nutrients
+- Jurendić i Ščetar, pregledni rad (2021.) – [Proizvodi od aronije za zdravlje i prehranu (Aronia melanocarpa Products and By-Products for Health and Nutrition: A Review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/), Antioxidants
+- D'Andrea, uvodnik (2005.) – [Antioksidanse tijekom kemoterapije i zračenja treba izbjegavati (Use of antioxidants during chemotherapy and radiotherapy should be avoided)](https://doi.org/10.3322/canjclin.55.5.319), CA: A Cancer Journal for Clinicians

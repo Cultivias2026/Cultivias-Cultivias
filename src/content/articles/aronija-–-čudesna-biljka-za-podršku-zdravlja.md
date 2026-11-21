@@ -8,6 +8,7 @@ perex: Aronija (lat. Aronia melanocarpa), poznata i kao crnoplodna aronija ili
   privlači sve veću pažnju zbog svojih izvanrednih nutritivnih svojstava.
 readTime: 5
 publishedAt: 2024-10-12
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,17 +19,17 @@ related_articles:
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
-# Aronija: nutritivna vrijednost, sastav i tradicionalna uporaba
 
-**Aronija je nutritivno zanimljiva zbog vlakana i visokog udjela polifenola, posebno antocijana koji joj daju tamnu boju i trpak okus.** To je voće, a ne lijek. Zdravstveni potencijal aronije istražuje se, no dostupni klinički dokazi ne dopuštaju tvrdnju da liječi pojedinu bolest. Mogućim [nuspojavama soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) posvetili smo zaseban članak.
+
+Aronija (*Aronia melanocarpa*) nutritivno je zanimljiva zbog vlakana i mnogo polifenola, osobito antocijana, koji joj daju tamnu boju i trpak okus. To je voće, a ne lijek. Zdravstveni potencijal aronije istražuje se, no dostupni klinički dokazi ne dopuštaju tvrdnju da liječi pojedinu bolest. Mogućim [nuspojavama soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) posvetili smo zaseban članak.
 
 Mnogima su aronija i njezin gusti sok dio obiteljskog rituala još od kraja ljeta. Ipak, između narodnih predaja, reklamnih poruka i onoga što znanost može potvrditi postoji velika razlika. Tko bi trebao biti oprezan i zašto, objašnjava članak [je li aronija štetna po zdravlje](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/).
 
-Ovdje ćete pronaći sastav svježe aronije, objašnjenje zašto je njezin okus tako opor, načine uporabe ploda te pošten odgovor na pitanje može li aronija pomoći kod bolesti.
+U nastavku saznajte što sadrži svježa aronija, zašto je njezin okus tako opor, kako se koristi te može li pomoći kod bolesti.
 
 ## Što aronija sadrži?
 
-**Svježa crnoplodna aronija sadržava ugljikohidrate, vlakna, organske kiseline, minerale, vitamine i niz polifenolnih spojeva.** To potvrđuje [znanstveni pregled sastava aronije objavljen u časopisu *Antioxidants*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/).
+**Svježa crnoplodna aronija sadržava ugljikohidrate, vlakna, organske kiseline, minerale, vitamine i niz polifenolnih spojeva.** To potvrđuje [pregledni rad Jurendića i Ščetara o sastavu i proizvodima od aronije](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/), objavljen 2021. u znanstvenom časopisu *Antioxidants*.
 
 Za konkretne brojke na 100 g korisna je [Norveška službena tablica sastava hrane](https://www.matvaretabellen.no/en/black-chokeberries-raw/). Podatci se odnose na svježu, sirovu crnoplodnu aroniju. Sastav ploda može odstupati ovisno o sorti, zrelosti, vremenu berbe, tlu i klimatskim uvjetima.
 
@@ -81,6 +82,8 @@ Vlakna su sastavni dio svježeg ploda, dok polifenoli daju boju i trpak dojam u 
 
 Prema [pregledu sastava aronije iz 2021. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/), udio polifenola nije stalan. Razlike među sortama, uvjetima uzgoja i načinima prerade znače da sok, prah, ekstrakt i svježa bobica ne moraju sadržavati jednaku količinu istih spojeva.
 
+Iste pigmente imaju i druge tamne bobice, poput [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) i [kupine](https://www.cultivias.com/voce/kupina-sve-%C5%A1to-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti/).
+
 To je praktično važno. **Nije opravdano sve proizvode od aronije smatrati međusobno jednakima samo zato što na pakiranju piše aronija.**
 
 ## Je li aronija zdrava?
@@ -123,7 +126,7 @@ Ako uzimate lijekove ili razmišljate o koncentriranom ekstraktu, nemojte ga uvo
 | **Ekstrakt i dodatak prehrani** | Prodaju se kao kapsule, tablete ili tekući pripravci.         | Nisu lijek i njihov sastav može znatno varirati.             |
 | **Prirodno bojilo**             | Daje crvenu, ljubičastu ili tamnu nijansu hrani.              | Boja potječe od antocijana.                                  |
 
-Za ideje o sezonskom voću i drugim plodovima iz iste skupine pogledajte [Cultiviasovu rubriku o voću](https://www.cultivias.com/voce/).
+Ostalo sezonsko voće opisano je u rubrici [Voće](https://www.cultivias.com/voce/).
 
 ## Kako se aronija koristila u narodu?
 
@@ -131,7 +134,7 @@ Za ideje o sezonskom voću i drugim plodovima iz iste skupine pogledajte [Cultiv
 
 [Pregled iz časopisa *Antioxidants*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/) prenosi i podatak o čaju od bobica te kori kao adstringensu, odnosno pripravku koji stvara osjećaj stezanja tkiva. U Europi se aronija zbog snažnog, oporog okusa proširila prije svega kroz sokove, džemove, vina i likere.
 
-**Narodna uporaba je dio kulturne i etnobotaničke povijesti, a ne dokaz liječenja.** Upravo zato taj dio članka treba pisati kao povijesni kontekst, bez poruke da se aronijom samostalno tretiraju prehlada ili druge bolesti.
+**Narodna uporaba dio je kulturne i etnobotaničke povijesti, a ne dokaz liječenja.** Zato je treba shvatiti kao povijesni podatak, a ne kao savjet da se prehlada ili druge bolesti liječe aronijom.
 
 ## Razlikuju li se svježa aronija, sok, prah i dodatci prehrani?
 
@@ -139,7 +142,7 @@ Za ideje o sezonskom voću i drugim plodovima iz iste skupine pogledajte [Cultiv
 
 Preradom se mogu promijeniti okus, stabilnost pigmenata i sastav konačnog proizvoda. Svjetlo, toplina, kisik i vrijeme skladištenja mogu utjecati na antocijane, što dodatno objašnjava zašto ne treba prenositi svojstva jednog oblika aronije na svaki drugi oblik.
 
-Za prerađevine uvijek pročitajte deklaraciju. Ako tražite podatke o energiji, porcijama i usporedbi oblika, koristite vodič [aronija kalorije: svježe bobice, sok, prah i sušena aronija](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
+Za prerađevine uvijek pročitajte deklaraciju. Podatke o energiji, porcijama i usporedbi oblika donosi spomenuti pregled kalorija aronije.
 
 ## Tko treba biti oprezan s pripravcima od aronije?
 
@@ -147,4 +150,15 @@ Za prerađevine uvijek pročitajte deklaraciju. Ako tražite podatke o energiji,
 
 Osobe koje uzimaju stalnu terapiju, trudnice, dojilje, osobe s kroničnim bolestima i roditelji koji razmišljaju o dodatcima za djecu trebaju prije uporabe koncentriranih pripravaka pitati liječnika ili ljekarnika. Oprez nije tvrdnja da je aronija opasna, nego razuman pristup svakom dodatku prehrani s promjenjivim sastavom.
 
+Osobe koje se liječe kemoterapijom ili zračenjem koncentrirane pripravke s antioksidansima, pa tako i aronije, ne bi trebale uzimati bez dogovora s onkologom. Antioksidansi bi, naime, mogli oslabiti učinak takvog liječenja.
+
 > *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
+
+## Izvori
+
+- Jurendić i Ščetar, pregledni rad (2021.) – [Proizvodi od aronije za zdravlje i prehranu (Aronia melanocarpa Products and By-Products for Health and Nutrition: A Review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/), Antioxidants
+- Norveška službena tablica sastava hrane (Matvaretabellen) – [Crnoplodna aronija, sirova (Black chokeberries, raw)](https://www.matvaretabellen.no/en/black-chokeberries-raw/)
+- Uredba (EU) br. 1169/2011 o informiranju potrošača o hrani – [Prilog XIII, referentni unosi vitamina i minerala](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20250401)
+- Frumuzachi i sur., sustavni pregled i meta-analiza (2025.) – [Aronija i kardiometabolički pokazatelji (Impact of a Chokeberry Supplementation on Cardiometabolic Outcomes)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12073822/), Nutrients
+- Kokotkiewicz i sur., pregledni rad (2010.) – [Aronija: tradicionalna uporaba i biološko djelovanje (Aronia plants: a review of traditional use, biological activities, and perspectives for modern medicine)](https://pubmed.ncbi.nlm.nih.gov/20170359/), Journal of Medicinal Food
+- D'Andrea, uvodnik (2005.) – [Antioksidanse tijekom kemoterapije i zračenja treba izbjegavati (Use of antioxidants during chemotherapy and radiotherapy should be avoided)](https://doi.org/10.3322/canjclin.55.5.319), CA: A Cancer Journal for Clinicians
