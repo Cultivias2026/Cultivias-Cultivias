@@ -9,8 +9,9 @@ perex: >-
 
 
   Stoljećima je cijenjena u narodnoj medicini diljem svijeta, a moderna znanost danas potvrđuje njezinu iznimnu vrijednost.
-readTime: 7
+readTime: 8
 publishedAt: 2026-01-13
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -23,211 +24,204 @@ related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
 ---
 
-
-Od jačanja imuniteta do potpore u zdravlju krvožilnog sustava, bazga je prava riznica bioaktivnih spojeva.
-
-U ovom detaljnom vodiču, istražit ćemo sve aspekte ove fascinantne biljke, od njezinih botaničkih tajni, preko znanstveno dokazanih ljekovitih svojstava, pa sve do praktičnih savjeta za uzgoj i najukusnijih recepata.
-
-Pročitajte i: [aronija i njezina ljekovitost](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/).
+Bazga ili zova grm je čiji se cvjetovi i bobice stoljećima koriste u kuhinji i narodnoj medicini, najviše kod prehlade i gripe. Bobice sadrže velike količine antocijana (biljnih pigmenata s antioksidativnim djelovanjem), zbog čega ih istraživači proučavaju i u vezi sa zdravljem srca i krvnih žila. Dio tih učinaka potvrđen je samo u laboratoriju, a dio u manjim kliničkim studijama. U nastavku saznajte kako prepoznati crnu bazgu, što sadrže cvjetovi i bobice, što pokazuju istraživanja te kako bazgu uzgojiti, ubrati i sigurno pripremiti.
 
 ## Što je bazga? Botanički profil i rasprostranjenost
 
-Bazga je listopadni grm ili manje stablo iz porodice Adoxaceae, koje može narasti od 3 do 10 metara u visinu. Gotovo svaki dio biljke ima svoju primjenu, bilo u kulinarstvu, medicini ili tradiciji. Bazga je poznata i kao europska bazga, crna bazga ili zova, što pokazuje koliko je rasprostranjena i poznata biljka.
+Bazga je listopadni grm ili manje stablo iz porodice Adoxaceae, koje naraste od 3 do 10 metara. Gotovo svaki njezin dio ima neku primjenu, u kuhinji, narodnoj medicini ili običajima. Poznata je i kao europska bazga, crna bazga ili zova.
 
 ### Kako prepoznati bazgu (Sambucus nigra)?
 
-Prepoznavanje prave, crne bazge važno je za sigurnu upotrebu. Obratite pažnju na sljedeće karakteristike:
+Crnu bazgu važno je točno prepoznati jer se njezine srodnice ne smiju jesti. Obratite pažnju na sljedeće:
 
-* Stablo i kora: Mlade grane su zelene i glatke, dok je starije deblo prekriveno sivosmeđom, duboko ispucalom korom. Unutrašnjost grana ispunjena je mekom, bijelom srži. Tradicionalno su se šuplje grane koristile za izradu svirala i zvučnih predmeta.
-* Listovi: Perasto su složeni, obično s 5 do 7 nasuprotnih listića. Svaki listić je ovalan, zašiljenog vrha i oštro nazubljenih rubova. Kada se protrljaju, ispuštaju karakterističan, jak specifičan miris koji je nepogrešiv znak da je to bazga.
-* Cvjetovi: U kasno proljeće i rano ljeto, bazga cvjeta u obliku velikih, plosnatih, štitastih cvatova promjera i do 20 cm. Sastoje se od brojnih sitnih, kremasto-bijelih cvjetića koji ispuštaju snažan, slatkast i opojan miris. Ovaj miris privlači brojne insekte, posebice pčele, što čini bazgu važnom biljkom za oprašivanje.
-
-
+* **stablo i kora** – mlade grane su zelene i glatke, a starije deblo prekriva sivosmeđa, duboko ispucala kora. Grane su iznutra ispunjene mekom, bijelom srži, pa su se šuplje grane nekad koristile za izradu svirala.
+* **listovi** – perasto su složeni, obično od 5 do 7 nasuprotnih listića. Svaki listić je ovalan, zašiljenog vrha i oštro nazubljenog ruba. Kad ih protrljate, ispuštaju jak, specifičan miris po kojem se bazga lako prepozna.
+* **cvjetovi** – u kasno proljeće i rano ljeto bazga cvjeta u velikim, plosnatim, štitastim cvatovima promjera do 20 cm. Čine ih brojni sitni, kremastobijeli cvjetići jakog, slatkastog mirisa. Miris privlači kukce, osobito pčele, pa je bazga važna za oprašivanje.
 
 ### Gdje raste bazga?
 
-Bazga je široko rasprostranjena diljem Europe i Sjeverne Amerike. Najčešće raste na vlažnim i hranjivim tlima, uz rubove šuma, na čistinama, uz rijeke, potoke i jezera, ali i na zapuštenim mjestima i u blizini ljudskih naselja. 
+Bazga je raširena diljem Europe i Sjeverne Amerike. Najčešće raste na vlažnim i hranjivim tlima: uz rubove šuma, na čistinama, uz rijeke, potoke i jezera, na zapuštenim mjestima i u blizini naselja.
 
-Tolerantna je na različite tipove tla, no za bujan rast preferira blago kisela do neutralna tla (pH 5.5-7.2). Zanimljivo je da bazga često raste u blizini ljudskih naselja jer je tolerantna na zagađenja i brzo se širi zahvaljujući pticama koje raznose njezine sjemenke.
+Podnosi različita tla, no najbolje raste u blago kiselom do neutralnom tlu (pH 5,5–7,2). Uz naselja je česta jer podnosi onečišćenje, a ptice raznose njezine sjemenke.
 
 ### Razlika između crne bazge i drugih vrsta
 
-Važno je razlikovati ljekovitu crnu bazgu od njezinih srodnika, od kojih neki mogu biti otrovni.
+Jestive su samo kuhane bobice crne bazge. Abdovina (*Sambucus ebulus*) zeljasta je trajnica visine do 2 metra s uspravnim cvatovima i crnim bobicama u uspravnim grozdovima, a otrovna je cijela biljka. Crvena bazga (*Sambucus racemosa*) drvenasti je grm s grozdastim cvatovima i jarko crvenim bobicama koje su sirove otrovne.
 
-![](/images/articles/vrste_bazge.jpg)
+![Infografika: usporedba crne bazge, abdovine i crvene bazge po obliku biljke, cvatova i bobica, s oznakom koje su vrste otrovne](/images/articles/infografika-vrste-bazge.webp)
 
 ## Kemijski sastav: što se krije u cvijetu i bobicama?
 
-Bogatstvo ljekovitih svojstava bazge proizlazi iz njezina složenog kemijskog sastava. I cvjetovi i bobice sadrže impresivan niz bioaktivnih spojeva koji su predmet brojnih znanstvenih istraživanja.
+Ljekovita svojstva bazge proizlaze iz njezina kemijskog sastava. I cvjetovi i bobice sadrže niz bioaktivnih spojeva (tvari koje djeluju na organizam), a mnogi od njih predmet su znanstvenih istraživanja.
 
-### Antocijani i flavonoidi: moćni antioksidansi
+### Antocijani i flavonoidi: antioksidansi iz bobica
 
-Bobice bazge svoju duboku, tamnu boju duguju visokoj koncentraciji antocijana, posebice cijanidin-3-glukozida i cijanidin-3-sambubiosida.
+Bobice bazge tamnu boju duguju visokoj koncentraciji antocijana, ponajviše cijanidin-3-glukozida i cijanidin-3-sambubiozida. Ti spojevi pripadaju skupini flavonoida i djeluju kao antioksidansi, odnosno neutraliziraju slobodne radikale (nestabilne molekule koje oštećuju stanice). Antocijani daju boju i drugim tamnim bobicama, poput [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
 
-Ovi spojevi pripadaju skupini flavonoida i poznati su po iznimno snažnom antioksidativnom djelovanju.
+[Laboratorijsko istraživanje portugalskih znanstvenika](https://pubmed.ncbi.nlm.nih.gov/31247974/), objavljeno 2019. u znanstvenom časopisu Molecules, potvrdilo je visok antioksidativni kapacitet soka od bazge. Uz antocijane, bazga sadrži i flavonoide kvercetin i rutin, koji dodatno pridonose tom učinku.
 
-[Istraživanja pokazuju](https://pubmed.ncbi.nlm.nih.gov/31247974/) da ovi pigmenti štite stanice od oštećenja uzrokovanih slobodnim radikalima.
+Antocijana u bazgi ima toliko da se koristi kao prirodna boja (kolorant) u prehrambenoj industriji.
 
- Uz antocijane, bazga sadrži i druge važne flavonoide poput kvercetina i rutina, koji dodatno doprinose njezinom antioksidativnom kapacitetu.
+### Vitamini i minerali: nutritivna vrijednost bazge
 
-Količina antocijana u bazgi je tako visoka da se koristi kao prirodni kolorant ( za bojanje) u prehrambenoj industriji.
+Uz polifenole (skupinu biljnih spojeva kojoj pripadaju i antocijani), bobice bazge sadrže i vitamine i minerale. Svježe bobice imaju oko 80 % vode.
 
-Vitamini i minerali: nutritivna vrijednost bazge
+Nutritivni sastav na 100 g sirovih bobica:
 
-Osim polifenola, bobice bazge su i vrijedan izvor vitamina i minerala, što ih čini nutritivno bogatom namirnicom.
+| Nutrijent | Količina | Udio preporučenog dnevnog unosa* |
+| --- | ---: | ---: |
+| Vitamin C | 36 mg | 45 % |
+| Vitamin B6 | 0,23 mg | 16 % |
+| Željezo | 1,6 mg | 11 % |
+| Vlakna | 7 g | 28 % |
+| Voda | 80 g | – |
+| Ugljikohidrati | 18 g | – |
 
-Svježe bobice sadrže oko 80% vode, što ih čini osvježavajućim.
-
-Nutritivni sastav na 100g sirovih bobica:
-
-
-
-![](/images/articles/nutrijenti_kratki.jpg)
+*Podaci o sastavu prema bazi [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/171727/nutrients), koju vodi američko Ministarstvo poljoprivrede. Udio je izračunat prema referentnim vrijednostima unosa za odrasle iz Uredbe (EU) br. 1169/2011, a za vlakna prema preporuci Europske agencije za sigurnost hrane (EFSA) od 25 g dnevno.* Koliko kalorija imaju svježe bobice, sok i sirup, donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/).
 
 ### Ostali bioaktivni spojevi
 
-Cvjetovi bazge također obiluju ljekovitim tvarima. Sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) (rutin, kvercetin) koji mogu pomoći u potpri zdravllja našeg organizma, fenolne kiseline ([klorogenska kiselina](https://hr.lsherb.com/info/chlorogenic-acid-benefits-and-side-effects-100776004.html)), triterpene, sterole i eterična ulja, koji svi zajedno doprinose njihovim terapeutskim svojstvima, posebice kao [dijaforetik](https://www.enciklopedija.hr/clanak/dijaforeza) (potiče znojenje) i diuretik.
+I cvjetovi bazge sadrže ljekovite tvari. Među njima su [flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi) (rutin i kvercetin), fenolne kiseline poput klorogenske kiseline (spoja kojeg ima i u kavi), triterpeni, steroli i eterična ulja. Zajedno daju cvijetu svojstva po kojima je poznat u narodnoj medicini: potiče znojenje (djeluje kao [dijaforetik](https://www.enciklopedija.hr/clanak/dijaforeza)) i izlučivanje mokraće (djeluje kao diuretik).
 
-Eterična ulja iz bazge sadrže fenilacetaldehid, benzaldehid i druge spojeve koji joj daju karakterističan miris.
+Eterična ulja bazge sadrže fenilacetaldehid, benzaldehid i druge spojeve koji joj daju karakterističan miris.
 
 ### **Mjere opreza**
 
-[Ne riskirajte sa zamjenom vrsta](https://www.agroklub.com/hortikultura/ukusne-i-ljekovite-bobice-bazge-oprez-sa-svjezim-plodovima/79275/)! Koristite samo **crnu bazgu** (*Sambucus nigra*). Slične vrste, poput crvene bazge, strogo su zabranjene zbog visokog sadržaja otrova.
+Koristite samo **crnu bazgu** (*Sambucus nigra*). Hrvatski poljoprivredni portal Agroklub upozorava da [ne riskirate sa zamjenom vrsta](https://www.agroklub.com/hortikultura/ukusne-i-ljekovite-bobice-bazge-oprez-sa-svjezim-plodovima/79275/), osobito s crvenom bazgom, jer plodovi drugih vrsta sadrže mnogo više otrovne cijanovodične kiseline.
 
-* **Nikada ne jedite sirove plodove ili dijelove bazge:** svježi plodovi su blago otrovni i mogu uzrokovati teške probavne smetnje (povraćanje, proljev), vrtoglavicu i groznicu. Bobice se moraju kuhati prije konzumacije.
-* **Tko ne smije koristiti bazgu?** Trudnice, dojilje i djeca do 12 godina (preporuka WHO-a), osobe s Kronovom bolešću, akutnim probavnim problemima ili alergijama na kozokrvnice.
-* **Preporuka:** Koristite isključivo u malim dozama i ne dulje od 12 tjedana.
-* **Prije početka bilo kakve kure, obavezno se posavjetujte sa svojim liječnikom.**
+* **ne jedite sirove plodove ni druge dijelove bazge** – svježi plodovi su blago otrovni i mogu izazvati jake probavne tegobe (povraćanje, proljev), vrtoglavicu i vrućicu. Bobice se prije jela moraju kuhati.
+* **tko ne smije koristiti bazgu** – prema Agroklubu, trudnice i djeca mlađa od 12 godina te osobe s Crohnovom bolešću (kroničnom upalom crijeva), akutnim probavnim tegobama ili alergijom na biljke iz porodice kozokrvnica. Oprez vrijedi i za dojilje. Europska agencija za lijekove (EMA) navodi da su lijekovi od cvijeta bazge namijenjeni samo odraslima i djeci starijoj od 12 godina.
+* **količina i trajanje** – prema istom izvoru, u malim količinama bazga se može koristiti do 12 tjedana.
+* **prije bilo kakve kure obavezno se posavjetujte s liječnikom.**
 
 ## Znanstvena istraživanja: kako može pomoći zdravlju?
 
 ### Potpora imunitetu: podrška kod gripe i prehlade
 
-Najpoznatija primjena bazge je u prevenciji i podršci organizma kod respiratornih infekcija. Više [kliničkih studija](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/) potvrdilo je da ekstrakt bobica bazge može značajno smanjiti trajanje i intenzitet simptoma gripe i prehlade.
+Bazga se najčešće koristi kod prehlade i gripe. [Pregledni rad u znanstvenom časopisu Advances in Traditional Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/) iz 2020. obuhvatio je četiri kliničke studije u kojima je ekstrakt bobica bazge skratio trajanje prehlade i ublažio simptome poput vrućice, bolova, začepljenog nosa i kašlja.
 
-Meta-analiza studije pokazala je da suplementacija bazgom [učinkovito smanjuje simptome gornjih dišnih puteva](https://www.sciencedirect.com/science/article/abs/pii/S1756464619300313), uključujući kašalj, nazalnu zagušenost i bol u grlu.
+[Meta-analiza objavljena u časopisu Complementary Therapies in Medicine](https://pubmed.ncbi.nlm.nih.gov/30670267/) 2019. objedinila je rezultate randomiziranih kliničkih studija (studija u kojima se ispitanici nasumično dijele u skupine) sa 180 ispitanika. Zaključila je da dodatak bazge znatno ublažava simptome gornjih dišnih putova, poput kašlja, začepljenog nosa i grlobolje. Studije su ipak bile malene, pa te rezultate treba uzeti s oprezom.
 
-Mehanizam djelovanja uključuje sposobnost flavonoida iz bazge da [spriječe vezanje virusa gripe](https://www.sciencedirect.com/science/article/abs/pii/S0031942209002386) za stanice domaćina i inhibiraju njegovu replikaciju.
+Kako bazga djeluje na virus, proučava se u laboratoriju. [Istraživanje na staničnim kulturama](https://www.sciencedirect.com/science/article/abs/pii/S1756464619300313) objavljeno 2019. u časopisu Journal of Functional Foods pokazalo je da bazga djeluje protiv virusa gripe na nekoliko načina: izravno ometa virus i utječe na imunosni odgovor stanica.
 
-Istraživanja su pokazala da se flavonoidi iz bazge vežu na H1N1 virusne čestice i sprječavaju njihov ulazak u stanice.
+[Ranije laboratorijsko istraživanje](https://www.sciencedirect.com/science/article/abs/pii/S0031942209002386), objavljeno 2009. u časopisu Phytochemistry, pokazalo je da se flavonoidi iz bazge vežu na čestice virusa gripe H1N1 i sprječavaju njihov ulazak u stanice. Riječ je o pokusima u epruveti (in vitro), a ne na ljudima.
 
-Zanimljivo je da [istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026097/) pokazuju da bazga, unatoč stimulaciji imunosnog odgovora, ne uzrokuje prekomjernu proizvodnju citokina, što je čini sigurnom opcijom tijekom virusnih bolesti.
+Neki su se pribojavali da bazga može pretjerano potaknuti imunosni sustav. [Sustavni pregled istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026097/) objavljen 2021. u časopisu BMC Complementary Medicine and Therapies nije našao dokaze da bazga izaziva prekomjerno stvaranje citokina (signalnih molekula imunosnog sustava). Autori dodaju da su dokazi i o koristi i o mogućoj šteti zasad nesigurni.
 
 ### Podrška zaštiti srca i krvnih žila
 
-Zdravlje srca još je jedno područje gdje bazga pokazuje obećavajuće rezultate. [Istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787031/)i ističu kardioprotektivni ( pomoć u podršci zdravlja krvožilnog sustava) potencijal bazge, koji se pripisuje njezinom antioksidativnom i protuupalnom djelovanju.
+[Pregledni rad u časopisu International Journal of Molecular Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787031/) iz 2026. ističe kardioprotektivni potencijal bazge, odnosno moguću zaštitu srca i krvnih žila. Pripisuje ga antioksidativnom i protuupalnom djelovanju njezinih spojeva.
 
-Studije na životinjama pokazale su da ekstrakt bazge bogat antocijanima može [poboljšati funkciju HDL ("dobrog") kolesterola i smanjiti nakupljanje kolesterola u aorti](https://pubmed.ncbi.nlm.nih.gov/25758596/).
+U [studiji na miševima](https://pubmed.ncbi.nlm.nih.gov/25758596/), objavljenoj 2015. u časopisu Food & Function, ekstrakt bazge bogat antocijanima poboljšao je pokazatelje rada HDL ("dobrog") kolesterola i smanjio nakupljanje kolesterola u aorti.
 
-Smanjenjem oksidativnog stresa i upala, [polifenoli iz bobičastog voća](https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/), uključujući bazgu, mogu pomoći u prevenciji kardiovaskularnih bolesti. Bazga može doprinijeti održavanju zdravog krvnog tlaka i smanjenju rizika od ateroskleroze.
+[Pregled istraživanja o bobičastom voću](https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/), objavljen 2010. u časopisu Nutrition Reviews, povezuje polifenole iz bobica s manjim oksidativnim stresom i upalom te boljim pokazateljima zdravlja srca. Bazga nije bila među ispitanim vrstama, ali sadrži iste skupine spojeva. Može li bazga pomoći u održavanju zdravog krvnog tlaka i smanjiti rizik od ateroskleroze (otvrdnuća i suženja arterija), zasad nije potvrđeno istraživanjima na ljudima.
 
 ### Antiupalna svojstva
 
-Osim antioksidativnog djelovanja, bazga pokazuje i značajna [antiupalna svojstva](https://pmc.ncbi.nlm.nih.gov/articles/PMC10489118/). Antocijani i drugi polifenoli iz bazge mogu inhibirati proizvodnju upalnih markera u tijelu.
+Bazga pokazuje i protuupalna svojstva. Prema [preglednom radu poljskih znanstvenika](https://pmc.ncbi.nlm.nih.gov/articles/PMC10489118/) u časopisu Molecules iz 2023., antocijani i drugi polifenoli iz bazge mogu smanjiti stvaranje upalnih markera (tvari koje u krvi pokazuju upalu).
 
-Kronična upala povezana je s razvojem brojnih bolesti, od kardiovaskularnih do degenerativnih bolesti. Smanjenjem sistemske upale, bazga može doprinijeti prevenciji i ublažavanju simptoma različitih upalnih stanja.
+Kronična upala povezana je s nastankom brojnih bolesti, od bolesti srca i krvnih žila do degenerativnih bolesti. Smanjenjem upale u tijelu bazga bi mogla pridonijeti njihovu sprječavanju i ublažavanju simptoma, no to tek treba potvrditi.
 
 ### Antioksidativni kapacitet
 
-Bazga ima jedan od najvećih antioksidativnih kapaciteta među voćem i bobičastim voćem. [Istraživanja](https://www.sciencedirect.com/science/article/pii/S1756464614002400/) pokazuju da je antioksidativna aktivnost bazge značajno viša od većine drugih bobičastih voća.
+Prema [preglednom radu u časopisu Journal of Functional Foods](https://www.sciencedirect.com/science/article/pii/S1756464614002400) iz 2015., antioksidativna aktivnost bazge viša je nego kod većine drugog bobičastog voća.
 
-Slobodni radikali su nestabilne molekule koje mogu oštetiti stanice i doprinijeti starenju i razvoju bolesti.
-
-Antioksidansi iz bazge, posebice antocijani, neutraliziraju te štetne molekule i štite stanice od oštećenja. Redovna konzumacija bazge ili proizvoda od bazge može pomoći u održavanju zdravlja na staničnoj razini.
+Slobodni radikali su nestabilne molekule koje mogu oštetiti stanice i pridonijeti starenju i razvoju bolesti. Antioksidansi iz bazge, prije svega antocijani, neutraliziraju te molekule. Redovita konzumacija kuhanih proizvoda od bazge može pridonijeti zaštiti stanica, ali je za konkretne zdravstvene učinke potrebno više istraživanja na ljudima.
 
 ## Uzgoj vlastite bazge: od sadnice do berbe
 
-Uzgoj bazge u vlastitom vrtu jednostavan je način da si osigurate stalnu zalihu svježih cvjetova i plodova. Ova otporna biljka ne zahtijeva puno pažnje i može se lako uzgajati.
+Bazga se lako uzgaja u vrtu i ne traži mnogo pažnje, a daje cvjetove i plodove svake godine.
 
 ### Sadnja i njega
 
-Najbolje vrijeme za sadnju je jesen ili rano proljeće. Odaberite sunčan ili polusjenovit položaj s vlažnim, dobro dreniranim tlom.
+Najbolje ju je saditi u jesen ili rano proljeće, na sunčan ili polusjenovit položaj s vlažnim, dobro dreniranim tlom.
 
-Iako je bazga samooplodna, sadnja dvije ili više različitih sorti u blizini može značajno povećati urod.
+Bazga je samooplodna, odnosno može se oprašiti vlastitim peludom, no dvije ili više različitih sorti posađenih u blizini daju znatno veći urod.
 
-Redovita rezidba u kasnu zimu ili rano proljeće važna je za održavanje zdravlja biljke i poticanje rasta novih izdanaka koji će nositi plodove.
+Rezidba u kasnu zimu ili rano proljeće održava biljku zdravom i potiče rast novih izdanaka koji će nositi plodove.
 
-Bazga je vrlo otporna i može preživjeti čak i ekstremne uvjete, uključujući i vanjska oštećenja.
-
-Zanimljivo je da ukoliko ju posječete, ona će opet izrasti.
+Bazga je vrlo otporna i podnosi i teške uvjete, pa i oštećenja. Ako je posiječete, ponovno će izrasti.
 
 ### Kada i kako se bere bazga?
 
-* Cvjetovi: Beru se u punom cvatu, po suhom i sunčanom danu, obično od svibnja do srpnja. Režu se cijeli cvatovi i koriste svježi ili se suše. Svježi cvjetovi imaju najjači miris i najbolje okuse.
-* Bobice: Beru se kada su potpuno zrele, tamnoljubičaste do crne i mekane na dodir, obično od kraja kolovoza do listopada. Beru se cijeli grozdovi, a bobice se zatim odvajaju od peteljki (najlakše vilicom). Važno je ubrati samo potpuno zrele bobice jer nezrele sadrže toksične spojeve.
+* **cvjetovi** – beru se u punom cvatu, po suhom i sunčanom danu, obično od svibnja do srpnja. Režu se cijeli cvatovi i koriste svježi ili se suše. Svježi cvjetovi imaju najjači miris i najbolji okus.
+* **bobice** – beru se potpuno zrele, tamnoljubičaste do crne i mekane na dodir, obično od kraja kolovoza do listopada. Režu se cijeli grozdovi, a bobice se zatim odvajaju od peteljki, najlakše vilicom. Berite samo potpuno zrele bobice jer nezrele sadrže otrovne spojeve.
 
-
+![Infografika: što je kod bazge sigurno, a što nije; brati zrele bobice i kuhati ih, a ne jesti sirove i nezrele bobice, listove, koru ni peteljke](/images/articles/infografika-bazga-sigurna-upotreba.webp)
 
 ## Upotreba u kulinarstvu: recepti
 
-
-
-Svestranost bazge u kuhinji je nevjerojatna. Od osvježavajućih pića do slatkih delicija, mogućnosti su brojne. Bazga je stoljeće dio tradicionalne kuhinje diljem Europe, a u novije vrijeme postaje sve popularnija i u modernoj gastronomiji.
+Bazga se u kuhinji koristi za osvježavajuća pića, slatka jela i zimnicu. Stoljećima je dio tradicionalne kuhinje diljem Europe, a posljednjih godina sve je češća i u modernoj gastronomiji.
 
 ### Sok od bazge- jednostavan klasik
 
+Sok od bazge, koji se zove i sirup od bazge, priprema se tako da se svježi cvjetovi potope u ohlađenu otopinu šećera i vode s limunom i limunskom kiselinom. Priprema je jednostavna, a dobiva se osvježavajući napitak prepoznatljive arome.
 
-
-Sok od bazge, poznat i kao sirup od bazge, apsolutni je klasik koji se pripravlja potapanjem svježih cvjetova u ohlađenu šećernu otopinu s limunom i limunskom kiselinom. Priprema je jednostavna, a rezultat je osvježavajući napitak sa jedinstvenom aromom. Brojke po obliku proizvoda donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/).
-
-Sok se obično čuva u staklenicama na hladnom mjestu i može se razrijediti vodom ili gaziranom vodom za osvježavajuće ljetne pića. Mnogi ga koriste i kao dodatak desertima ili kao sirup za palačinke.
+Sok se čuva u staklenkama na hladnom mjestu, a pije se razrijeđen vodom ili mineralnom vodom. Mnogi ga koriste i kao dodatak desertima ili kao preljev za palačinke.
 
 ### Čaj od bazge
 
+Za ljekoviti čaj osušeni cvjetovi ili bobice bazge preliju se vrućom vodom. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
+Čaj od bobica sadrži više antioksidansa i ima izraženiji, voćni okus. Obično se ostavi da odstoji 5–10 minuta prije pijenja, a po želji se zasladi medom ili doda limun.
 
-Osušeni cvjetovi ili bobice bazge prelijevaju se vrućom vodom za pripremu ljekovitog čaja. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se koristi za ublažavanje simptoma prehlade i gripe. Pripremu, ljekovitost i moguće nuspojave opisuje članak [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+### Pohana bazga: hrskavi cvatovi
 
-Čaj od bobica je bogatiji antioksidansima i ima dublje, voćnije okuse. Obično se čaj čuva 5-10 minuta prije konzumacije, a može se zasladiti medom ili limunom po želji.
+Cvatovi bazge umoče se u tijesto za palačinke i prže u ulju. Izvana su hrskavi, a iznutra mekani i aromatični. Ta je priprema osobito popularna u srednjoj Europi.
 
-### Pohana bazga: hrskava delicija
-
-
-
-Cvatovi bazge umočeni u smjesu za palačinke i prženi u ulju postaju hrskava poslastica sa mekšim, aromatičnim unutrašnjošću. Ova tradicionalna priprava posebno je popularna u srednjoj Europi.
-
-Pohanu bazgu obično se poslužuje toplu, posutom šećerom u prahu, i može biti odličan desert ili predjelo na posebnim prilikama.
+Pohana bazga poslužuje se topla, posuta šećerom u prahu, kao desert ili predjelo.
 
 ### Džem, liker i drugi proizvodi
 
+Od zrelih, kuhanih bobica bazge rade se džemovi, sirupi i likeri. Džem se kuha od bobica, šećera i limunske kiseline dok se ne zgusne, a u steriliziranim staklenkama može se čuvati mjesecima.
 
-
-Zrele, kuhane bobice bazge osnova su za bogate džemove, sirupe i aromatične likere. Džem se obično pravi kuhanjem bobica sa šećerom i limunskom kiselinom dok se ne zgusne, i može se čuvati mjesecima u steriliziranim staklenicama.
-
- Likeri se prave potapanjem bobica ili cvjetova u rakiju ili vino, što rezultira aromatičnim pićima savršenim za posebne prilike. Neka tradicionalna pića, poput švedskog akvavita, aromatiziraju se cvjetovima bazge.
+Likeri se rade namakanjem bobica ili cvjetova u rakiji ili vinu. Neka tradicionalna pića, poput švedskog akvavita, aromatiziraju se cvjetovima bazge.
 
 ### Kako čuvati svježe bobice bazge?
 
-
-
-Svježe bobice bazge mogu se čuvati u hladnjaku do tjedan dana. Za dulje čuvanje, mogu se zamrznuti ili osušiti. Osušene bobice mogu se čuvati mjesecima na hladnom, tamnom mjestu.
+Svježe bobice bazge u hladnjaku traju do tjedan dana. Za dulje čuvanje možete ih zamrznuti ili osušiti. Osušene bobice čuvaju se mjesecima na hladnom i tamnom mjestu.
 
 ## **Jesu li zrele bobice bazge otrovne bez termičke obrade?**
 
+Česta je zabluda da su bobice bazge jednako otrovne u svim fazama razvoja. Cijanogeni glikozidi (spojevi iz kojih se u tijelu oslobađa cijanid) **nalaze se u najvećim količinama u listovima, granama i nezrelim, zelenim bobicama**. [Istraživanje Biotehničkog fakulteta Sveučilišta u Ljubljani](https://pubmed.ncbi.nlm.nih.gov/27734518/), objavljeno 2017. u časopisu Journal of the Science of Food and Agriculture, pokazalo je da zrele bobice sadrže manje tih spojeva od listova i cvjetova.
 
+Ipak, ni zrele bobice nisu bez rizika. [Istraživanje Sveučilišta Missouri](https://pubmed.ncbi.nlm.nih.gov/33806603/) na američkoj bazgi (Molecules, 2021.) pronašlo je male količine cijanogenih glikozida i u sjemenkama, a najviše u peteljkama i zelenim bobicama.
 
-Česta je zabluda da su bobice bazge jednako toksične u svim fazama razvoja. Cijanogeni glikozidi, spojevi koji mogu izazvati tegobe, **nalaze se u visokim koncentracijama primarno u listovima, granama i nezrelim (zelenim) bobicama**.
+Zato bobice prije jela treba kratko prokuhati. Američki Nacionalni centar za komplementarno i integrativno zdravlje ([NCCIH](https://www.nccih.nih.gov/health/elderberry)) navodi da kuhanje uklanja te spojeve.
 
-Iako [istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/) potvrđuju da razina ovih spojeva pada sazrijevanjem ploda, konzumacija sirovih zrelih bobica i **dalje nosi rizik zbog sjemenki koje sadrže ostatke glikozida.**
-
-Stoga je kratka termička obrada zlatni standard: ona u potpunosti razgrađuje potencijalno štetne tvari i osigurava da je bazga sigurna za uživanje.
-
-Ukratko, da, zrele bobice mogu biti otrovne, pa se preporučuje njihova termička obrada.
-
-
+Ukratko: da, sirove zrele bobice mogu izazvati tegobe, pa ih uvijek termički obradite.
 
 ## Sigurnost i mjere opreza
 
+Zapamtite da se **sirove bobice, kora, listovi i sjemenke bazge ne smiju jesti** jer sadrže cijanogene glikozide koji mogu izazvati mučninu, povraćanje i proljev.
 
+Kuhanjem se ti spojevi razgrađuju, pa su proizvodi od kuhanih bobica sigurni za jelo.
 
-Bitno je zapamtiti da se **sirove bobice, kora, listovi i sjemenke bazge ne smiju konzumirati** jer sadrže cijanogene glikozide koji mogu uzrokovati mučninu, povraćanje i proljev.
+Trudnice i dojilje neka se prije upotrebe pripravaka od bazge posavjetuju s liječnikom.
 
-Kuhanjem se ovi spojevi uništavaju, čineći proizvode od bobica sigurnima za jelo.
-
- Trudnicama i dojiljama savjetuje se oprez i konzultacija s liječnikom prije upotrebe pripravaka od bazge.
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
+*\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.*
 
 **NAPOMENA/DISCLAIMER:**
 
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crne bazge ( zove) u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crne bazge (zove) u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Hrvatska enciklopedija (Leksikografski zavod Miroslav Krleža) – [Flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi) i [Dijaforeza](https://www.enciklopedija.hr/clanak/dijaforeza)
+- Agroklub, hrvatski portal za poljoprivredu (2022.) – [Ukusne i ljekovite bobice bazge: Oprez sa svježim plodovima!](https://www.agroklub.com/hortikultura/ukusne-i-ljekovite-bobice-bazge-oprez-sa-svjezim-plodovima/79275/)
+- Europska agencija za lijekove (EMA) – [Cvijet bazge, sažetak za biljni lijek (Sambuci flos)](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos)
+- Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), SAD – [Bazga (Elderberry)](https://www.nccih.nih.gov/health/elderberry)
+- Američko Ministarstvo poljoprivrede, baza FoodData Central – [Bobice bazge, sirove (Elderberries, raw)](https://fdc.nal.usda.gov/food-details/171727/nutrients)
+- da Silva i sur., laboratorijsko istraživanje (2019.) – [Antocijani soka od bazge kao prirodni sastojak za bojanje hrane (Anthocyanin Profile of Elderberry Juice)](https://pubmed.ncbi.nlm.nih.gov/31247974/), Molecules
+- Mahboubi, pregledni rad (2020.) – [Crna bazga kao alternativno liječenje prehlade i gripe (Sambucus nigra as alternative treatment for cold and flu)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/), Advances in Traditional Medicine
+- Hawkins i sur., meta-analiza (2019.) – [Dodatak crne bazge ublažava simptome gornjih dišnih putova (Black elderberry supplementation effectively treats upper respiratory symptoms)](https://pubmed.ncbi.nlm.nih.gov/30670267/), Complementary Therapies in Medicine
+- Torabian i sur., laboratorijsko istraživanje (2019.) – [Djelovanje bazge protiv virusa gripe (Anti-influenza activity of elderberry)](https://www.sciencedirect.com/science/article/abs/pii/S1756464619300313), Journal of Functional Foods
+- Roschek i sur., laboratorijsko istraživanje (2009.) – [Flavonoidi bazge vežu se na virus H1N1 i sprječavaju infekciju in vitro (Elderberry flavonoids bind to and prevent H1N1 infection in vitro)](https://www.sciencedirect.com/science/article/abs/pii/S0031942209002386), Phytochemistry
+- Wieland i sur., sustavni pregled (2021.) – [Bazga za sprječavanje i liječenje virusnih bolesti dišnih putova (Elderberry for prevention and treatment of viral respiratory illnesses)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026097/), BMC Complementary Medicine and Therapies
+- Olas, pregledni rad (2026.) – [Usporedni pregled kardioprotektivnog potencijala bazge (Comparative Review of Cardioprotective Potential of Sambucus nigra)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787031/), International Journal of Molecular Sciences
+- Farrell i sur., studija na miševima (2015.) – [Ekstrakt crne bazge poboljšava pokazatelje rada HDL-a i smanjuje kolesterol u aorti (Anthocyanin-rich black elderberry extract improves markers of HDL function)](https://pubmed.ncbi.nlm.nih.gov/25758596/), Food & Function
+- Basu i sur., pregledni rad (2010.) – [Bobičasto voće i zdravlje srca (Berries: emerging impact on cardiovascular health)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/), Nutrition Reviews
+- Stępień i sur., pregledni rad (2023.) – [Protuupalna i protutumorska svojstva cvjetova i plodova bazge (Anti-Inflammatory and Anticancer Properties of Sambucus nigra L. Flowers and Fruits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10489118/), Molecules
+- Sidor i Gramza-Michałowska, pregledni rad (2015.) – [Antioksidativna svojstva i zdravstvene koristi bazge u hrani (Advanced research on the antioxidant and health benefit of elderberry in food)](https://www.sciencedirect.com/science/article/pii/S1756464614002400), Journal of Functional Foods
+- Senica i sur., istraživanje (2017.) – [Fenoli i cijanogeni glikozidi u listovima, cvjetovima i bobicama bazge (Differences in phenolics and cyanogenic glycosides in Sambucus nigra leaves, flowers and berries)](https://pubmed.ncbi.nlm.nih.gov/27734518/), Journal of the Science of Food and Agriculture
+- Appenteng i sur., istraživanje (2021.) – [Cijanogeni glikozidi u američkoj bazgi (Cyanogenic Glycoside Analysis in American Elderberry)](https://pubmed.ncbi.nlm.nih.gov/33806603/), Molecules

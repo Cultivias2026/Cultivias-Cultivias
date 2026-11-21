@@ -7,8 +7,9 @@ image: /images/articles/velika-determinatna-sorta-zrele-rajčice.webp
 perex: Paradajz (rajčica) je jedno od najpopularnijih povrća u vrtovima širom
   svijeta, a među različitim vrstama i sortama koje možete posaditi,
   razumijevanje karakteristika svake sorte ključno je za uspješan uzgoj.
-readTime: 3
+readTime: 4
 publishedAt: 2025-04-06
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -22,255 +23,133 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-
-Ako ste ljubitelj vrtlarenja ili ste tek početnik, poznavanje razlika između **determinantnih, indeterminantnih, niskih, ranih i kasnih sorti** paradajza može vam pomoći u odabiru onih sorti koje najbolje odgovaraju vašim potrebama, prostoru i vremenskom rasporedu berbe.
-
- 
+[Rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/), koju mnogi zovu i paradajz, najlakše je podijeliti prema načinu rasta. Determinantne sorte narastu do određene visine i stanu, a indeterminantne rastu i rađaju sve do prvog mraza. O toj razlici ovisi koliko će biljka trebati mjesta, kakvu potporu i koliko dugo ćete brati plodove. U nastavku saznajte po čemu se razlikuju determinantne, indeterminantne, niske, rane i kasne sorte te koju odabrati za svoj vrt ili balkon.
 
 ## Što su determinantne sorte paradajza?
 
-Poznate i kao “završene” ili “patuljaste” sorte, karakteriziraju se ograničenim rastom.
+Determinantne sorte rastu do unaprijed određene visine, obično od 60 cm do 1 metra, a zatim prestaju rasti i snagu usmjeravaju u plodove. Zovu ih i niskim, grmolikim ili patuljastim sortama. Plodovi se zameću rano, a većina ih sazrije u kratkom razdoblju.
 
-To znači da ove biljke imaju specifičan period rasta i, nakon što dostignu određenu visinu, prestaju s rastom i fokusiraju se na plodove.
-
-Vezivanje plodova obično počinje vrlo brzo, a svi plodovi sazrijevaju u kraćem vremenskom razdoblju, što ih čini pogodnim za vrtove gdje je potrebno ubrzano sazrijevanje i gdje prostor nije neograničen.
-
- 
-
-Obično rastu do visine od 60 cm do 1 metar, a nakon što dostignu ovu visinu, prestaju rasti.
-
- Iako su manje visoke od indeterminantnih sorti, one mogu dati veliki urod plodova u kratkom vremenskom periodu.
-
-Zbog ograničenog rasta, ove biljke često ne zahtijevaju podršku u obliku štapa ili drugih potpora, što ih čini pogodnim za manje prostore poput balkona, terasa ili manjih vrtova.
-
- 
+Zbog niskog rasta često ne trebaju kolac ni drugu potporu. Zato se dobro uklapaju u manji vrt, na terasu ili [balkon](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/). Iako su niže od indeterminantnih, u kratkom vremenu mogu dati velik urod.
 
 ## Prednosti determinantnih sorti paradajza
 
- 
-
-Brže sazrijevanje plodova
-
-Jedna od glavnih prednosti determinantnih sorti je njihova sposobnost da plodovi sazrijevaju brže nego kod indeterminantnih sorti. Ove biljke često počinju davati plodove za 50 do 70 dana od sadnje. Sadnju korak po korak opisuje [vodič za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/).
-
- 
-
-Manja visina i kompaktne biljke
-
- S obzirom na to da ove sorte imaju ograničen rast, one su idealne za manje prostore.
-
-Ako nemate puno mjesta u vrtu ili samo želite posaditi nekoliko biljaka na balkonu ili terasi, determinantne sorte paradajza će se odlično uklopiti.
-
- 
-
-Pogodne za rane proljetne ili kasne jesenske zasade
-
- Zbog njihove brze zrelosti, determinantne sorte su idealne za proljetnu i jesensku sadnju, jer omogućuju brzi povrat plodova i uspješno sazrijevanje prije početka ekstremnih vremenskih uvjeta poput hladnoće.
-
- 
-
-Jednostavnije održavanje
-
- Ove biljke ne zahtijevaju puno održavanja u smislu podupiranja stabljike, jer rastu u obliku kompaktnih grmova. To ih čini lakšima za brigu, pogotovo ako nemate puno vremena za vrtlarenje.
-
- 
-
-Povećani prinos u kraćem vremenskom periodu
-
- Ako ste u potrazi za brzim i bogatim urodima, determinantne sorte paradajza mogu vam omogućiti da dobijete puno plodova u kratkom vremenskom razdoblju, idealno za ubrano korištenje ili konzerviranje.
-
- 
+* **brže sazrijevanje** – biljke obično počinju davati plodove 50 do 70 dana od [sadnje](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), ranije nego indeterminantne
+* **manja visina** – nekoliko biljaka stane na balkon, terasu ili u mali vrt
+* **pogodne za ranu i kasniju sadnju** – plodovi brzo dozriju, pa urod stigne prije hladnoće
+* **jednostavnije održavanje** – rastu kao kompaktan grm, pa ih ne treba stalno vezati uz potporu
+* **velik urod u kratkom razdoblju** – dobro dođe kad plodove želite odmah preraditi u zimnicu ili umake
 
 ## Popularne determinantne sorte
 
-Roma: Ovo je jedna od najpoznatijih determinantnih sorti, poznata po svojim mesnatim plodovima idealnim za kuhanje i pripremu umaka. Ima kompaktnu strukturu i daje visok prinos. Idealna je za konzerviranje i pripremu umaka.
-
- 
-
-[Bush Early Girl](https://www.burpee.com/tomato-bush-early-girl-hybrid-prod000981.html?srsltid=AfmBOopNmwK7sZ76bbd3tDalQO5RaEW2oPaKw3pwGgXkVIuwIytqgYQK): Ova sorta je izvrstan izbor za početnike jer brzo sazrijeva, a biljke su niske i kompaktne. Idealna je za male vrtove ili posude. Plodovi su mesnati, slatki i odlični za konzumaciju svježi. Sazrijeva za 50-60 dana.
-
- 
-
-[Tiny Tim](https://staresortesemena.com/proizvod/balkonski-paradajz-tiny-tim/): Ova mala sorta paradajza idealna je za uzgoj u loncima i kontejnerima. Plodovi su mali (oko 2-3 cm), ali slatki i odlični za uživanje u svježem stanju. Savršena je za balkone i terase.
-
- 
-
-[Balcony](https://planthouse.hr/proizvod/sjeme/sjeme-povrca/rajcica-balkonska): Kao što i ime sugerira, ova sorta je idealna za uzgoj na balkonima i malim prostorima. Biljke su kompaktne, a plodovi mali i ukusni.
-
- 
+* **Roma** – jedna od najpoznatijih determinantnih sorti. Duguljasti plodovi su mesnati, pa se najčešće koriste za kuhanje, umake i zimnicu. Biljka je kompaktna i daje visok prinos.
+* **[Bush Early Girl](https://www.burpee.com/tomato-bush-early-girl-hybrid-prod000981.html)** – dobar izbor za početnike. Biljke su niske, a prema američkom proizvođaču sjemena Burpee plodovi sazriju za oko 65 dana. Mesnati su i slatki, za jelo u svježem stanju. Uspijeva u malim vrtovima i posudama.
+* **[Tiny Tim](https://staresortesemena.com/proizvod/balkonski-paradajz-tiny-tim/)** – mala sorta za lonce i posude. Plodovi su veliki oko 2 do 3 cm i slatki, najbolji svježi.
+* **[Balcony](https://planthouse.hr/proizvod/sjeme/sjeme-povrca/rajcica-balkonska)** – kako ime kaže, sorta za balkone i male prostore. Biljke su kompaktne, a plodovi mali i ukusni.
 
 ## Kako uzgajati determinantne sorte paradajza?
 
-Sadnja i prostor
+### Sadnja i prostor
 
-Iako su determinantne sorte manje visoke od indeterminantnih, i dalje zahtijevaju dovoljno prostora za rast. U vrtu ili plasteniku sadite ih na udaljenosti od 30 do 45 cm, ovisno o sorti. Niske sorte mogu biti sadnjene bliže (30 cm), dok veće determinantne sorte trebaju više prostora (45 cm).
+I determinantne sorte trebaju dovoljno mjesta za rast. Savjetodavna služba Sveučilišta Utah (Utah State University Extension), koja izdaje upute za kućne vrtove, za rajčice preporučuje [razmak](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/) od 45 do 60 cm između biljaka u redu i 90 do 120 cm između redova. Indeterminantnim sortama treba više mjesta nego determinantnima. Za vrlo kompaktne sorte za posude držite se upute s vrećice sjemena.
 
- 
+### Tlo i zalijevanje
 
-Tlo i zalijevanje
+Rajčica najbolje raste u plodnom tlu bogatom organskom tvari, iz kojeg višak vode lako otječe (dobro drenirano tlo). Zalijevajte redovito, ali umjereno, jer stalno mokro tlo pogoduje truljenju korijena. Vodu usmjerite u tlo uz stabljiku, a ne po listovima.
 
-Paradajz voli dobro drenirana, plodna tla bogata organskom materijom. Pripazite na redovito zalijevanje, ali izbjegavajte prekomjerno natapanje koje može uzrokovati truljenje korijena. Zalijevajte direktno u korijenu kako bi se izbjeglo vlaženje lišća.
+Koliko često i u koje doba dana zalijevati, opisuje članak o [zalijevanju rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/). Neujednačena vlaga u tlu povezuje se i s [vršnom truleži](https://www.cultivias.com/povrce/zasto-rajcica-trune-odozdo-vrsna-trulez/), tamnom mrljom koja se pojavi na dnu ploda.
 
- 
+### Prihrana
 
-Prihrana
+Rajčica troši mnogo hranjiva. Prije sadnje tlo obogatite kompostom ili gnojivom koje sadrži dušik, fosfor i kalij. Tijekom rasta (vegetacije) biljke prihranjujte otprilike jednom mjesečno.
 
-Paradajz je biljka koja voli hranjive tvari, pa je važno obogatiti tlo kompostom ili gnojivima bogatim kalijem, fosforom i dušikom. Tijekom vegetacije, prihranjujte biljke svaki mjesec.
+### Potpora i rezanje
 
- 
+Determinantne sorte u pravilu se ne zakidaju, odnosno ne uklanjaju im se bočni izdanci, jer upravo na njima raste dio uroda. Dovoljno je ukloniti nekoliko donjih listova da zrak bolje struji oko biljke.
 
-Podrška i rezanje
+Stabljika im je obično čvrsta, no dio vrtlara oko biljke postavi kavez kako se grane ne bi prelomile pod težinom plodova.
 
-Determinantne sorte obično ne trebaju rezanje jer su bočni izdanci zapravo korisni za povećanje prinosa. Umjesto toga, samo uklonite neke listove pri dnu biljke kako bi se osigurala bolja cirkulacija zraka.
+### Zaštita od bolesti
 
- Iako determinantne sorte obično imaju čvrste stabljike, neki vrtlari pružaju podršku u obliku kaveza kako bi podržali teški urod.
+I determinantne sorte mogu napasti bolesti poput plamenjače i pepelnice. Plamenjača ostavlja smeđe mrlje na listovima i plodovima, a pepelnica bijelu, praškastu prevlaku na listovima. Rizik smanjuju razmak koji omogućuje strujanje zraka i zalijevanje bez kvašenja lišća.
 
- 
+### Berba
 
-Zaštita od bolesti
+Kad plodovi sazriju, berite ih u nekoliko navrata. Budući da većina dozrije gotovo istodobno, možete ih odmah iskoristiti ili preraditi u zimnicu. Zato se determinantne sorte najčešće biraju za umake i konzerviranje.
 
-Iako su determinantne sorte manje sklone bolestima u odnosu na indeterminantne sorte, i dalje je važno provoditi preventivne mjere za zaštitu biljaka od bolesti poput plamenjače i pepelnice.
+## Indeterminantne sorte paradajza: kontinuirani uzgoj
 
-Osigurajte dobru cirkulaciju zraka i izbjegavajte vlaženje lišća.
+Indeterminantne sorte nemaju unaprijed određenu visinu. Glavna stabljika raste sve dok je biljka zdrava i dok joj odgovaraju uvjeti, pa biljka može doseći 3 metra ili više. Raste poput penjačice i treba je voditi uz potporu.
 
- 
-
-Berba
-
-Kada plodovi sazriju, berbu možete obaviti u nekoliko navrata.
-
-S obzirom na to da plodovi sazrijevaju gotovo u isto vrijeme, možete ih ubrati i koristiti odmah ili konzervirati za kasniju upotrebu. Ova karakteristika čini determinantne sorte idealnima za konzerviranje i pripremu umaka.
-
- 
-
-## Indeterminantne sorte paradajza: Kontinuirani uzgoj
-
-Za razliku od determinantnih sorti, indeterminantne sorte paradajza imaju neograničen rast. Ove biljke imaju više vinsku strukturu i mogu rasti do 3 metra ili čak i više.
-
-Glavna stabljika će nastaviti rasti sve dok je biljka zdrava i zadovoljna uvjetima.
-
-Plodovi se razvijaju kontinuirano tijekom cijele sezone, od ljeta do prvoga jesenskog mraza, što čini ove sorte idealnim za one koji žele kontinuirani prinos.
-
- 
-
-Indeterminantne sorte nastavljaju „proizvoditi“ plodove tijekom cijele sezone.
-
-Međutim, zahtijevaju više održavanja, uključujući redovito rezanje i vezivanje uz jake potpore.
-
- 
+Plodovi se razvijaju postupno, od ljeta do prvog jesenskog mraza. Za takav urod treba više rada: biljku redovito zakidate i vežete uz čvrstu potporu.
 
 ## Prednosti indeterminantnih sorti paradajza
 
-Indeterminantne sorte nude svoje jedinstvene prednosti:
-
- 
-
-Kontinuirani prinos
-
- Indeterminantne sorte daju plodove kontinuirano od ljeta do prvoga mraza, što znači da ćete imati svježe paradajze dostupne tijekom cijele sezone.
-
- 
-
-Veći ukupni prinos
-
- Iako je prinos po biljci sporiji, ukupni godišnji prinos indeterminantnih sorti često je veći od determinantnih.
-
- 
-
-Bolji okus
-
-Mnogi vrtlari tvrde da indeterminantne sorte, posebice cherry rajčice i beefsteak sorte, imaju bolji i kompleksniji okus. Za izbor sorte prema okusu pogledajte [popis najukusnijih sorti](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/).
-
- 
-
-Fleksibilnost
-
- Možete brati plodove kako sazrijevaju, što je idealno za svježe konzumiranje.
-
- 
+* **duga berba** – svježe rajčice imate od ljeta do prvog mraza
+* **veći ukupni urod** – plodovi stižu sporije, ali ukupni urod u sezoni često je veći nego kod determinantnih sorti
+* **okus** – mnogi vrtlari smatraju da indeterminantne sorte, osobito cherry i beefsteak (sorte s krupnim, mesnatim plodovima), imaju bogatiji okus; sorte koje se ističu okusom izdvojili smo u popisu [najukusnijih sorti](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/)
+* **berba po potrebi** – plodove berete kako dozrijevaju, za jelo u svježem stanju
 
 ## Popularne indeterminantne sorte
 
-Brandywine: Poznata po svom bogatom, složenom i gotovo voćnom okusu, ova sorta daje velike, mesne plodove. Idealna je za svježe konzumiranje i salate.
-
- 
-
-Cherokee Purple: Tamne, ljubičaste boje s intenzivnim, blago dimljenim okusom, ova sorta je favorit mnogih vrtlara.
-
- 
-
-Green Zebra: Zelena rajčica s prugama, koja nudi osvježavajući, blago kiselkasti okus.
-
- 
-
-San Marzano: Duguljasta rajčica, cijenjena zbog niskog udjela sjemenki i mesnate strukture, što je čini savršenom za pripremu umaka i konzerviranje.
-
- 
+* **Brandywine** – krupni, mesnati plodovi bogatog, gotovo voćnog okusa. Najčešće se jede svježa i u salatama.
+* **Cherokee Purple** – tamnoljubičasti plodovi intenzivnog, blago dimljenog okusa. Omiljena je među vrtlarima.
+* **Green Zebra** – zelena rajčica s prugama, osvježavajućeg i blago kiselkastog okusa.
+* **San Marzano** – duguljasta rajčica s malo sjemenki i mesnatom unutrašnjošću, cijenjena za umake i zimnicu.
 
 ## Kako uzgajati indeterminantne sorte paradajza?
 
-Rezanje i održavanje
+### Rezanje i održavanje
 
-Indeterminantne sorte trebaju redovito rezanje kako bi ostale produktivne tijekom cijele sezone. Uklanjanje bočnih izdanaka i održavanje biljke na 1-2 glavne stabljike omogućava boljoj cirkulaciji zraka i većem prinosu.
+Indeterminantne sorte treba redovito zakidati. To znači uklanjati bočne izdanke koji rastu između lista i stabljike (zaperke) i biljku voditi na jednu do dvije glavne stabljike. Tako zrak bolje struji, a biljka više snage usmjerava u plodove.
 
-*Rezanje je kontinuirani zadatak tijekom sezone.*
+*Zakidanje traje cijelu sezonu.*
 
- 
+### Potpora i vezanje
 
-Podrška i vezivanje
+Biljke mogu narasti vrlo visoko, pa trebaju čvrst kolac, rešetku ili mrežu. Stabljiku redovito privezujte kako biljka ne bi polegla.
 
-Indeterminantne sorte trebaju jake potpore jer mogu postati vrlo velike. Trebate redovito vezati biljku uz potporu kako bi je održali u kontroli.
+### Kontinuirani prinos
 
- 
-
-Kontinuirani prinos
-
-Indeterminantne sorte trebaju redovito zalijevanje i prihrane tijekom cijele sezone kako bi ostale produktivne. Plodovi će se razvijati kontinuirano, što znači da ćete imati svježe paradajze dostupne tijekom cijele sezone.
-
- 
+Da bi rađale do jeseni, indeterminantne sorte trebaju redovito zalijevanje i prihranu tijekom cijele sezone. Zauzvrat ćete svježe plodove brati sve do prvog mraza.
 
 ## Odabir između determinantnih i indeterminantnih sorti
 
-Odluka između determinantnih i indeterminantnih sorti ovisi o vašim potrebama i dostupnom prostoru:
+Izbor ovisi o tome koliko imate mjesta i vremena te što želite raditi s plodovima.
 
- 
+![Infografika: usporedba determinantnih i indeterminantnih sorti rajčice po visini, berbi, potpori i zakidanju, uz upozorenje da se determinantnim sortama ne zakidaju bočni izdanci](/images/articles/infografika-determinantne-indeterminantne-rajcice.webp)
 
-Odaberite determinantne sorte ako:
+Odaberite determinantne sorte ako:
 
-* Trebate brzi urod za konzerviranje ili pripremu umaka
-* Imate ograničen prostor (mali vrt, balkon, terasa)
-* Trebate jednostavnije održavanje
-* Trebate brzo sazrijevanje (rane sorte)
-* Trebate niske sorte za kontejnersko vrtlarenje
+* trebate brz urod za zimnicu ili umake – većina plodova sazrije u isto vrijeme
+* imate malo mjesta – mali vrt, balkon ili terasu
+* želite jednostavnije održavanje – bez stalnog zakidanja i vezanja
+* trebate rane sorte – plodovi brzo dozrijevaju
+* uzgajate u posudama – niske sorte stanu u tegle
 
-Odaberite indeterminantne sorte ako:
+Odaberite indeterminantne sorte ako:
 
-* Trebate kontinuirani prinos svježih paradajza tijekom sezone
-* Imate dovoljno prostora za veće biljke
-* Ste voljni investirati vrijeme u rezanje i održavanje
-* Trebate duži period berbe
-* Trebate sorte s boljim okusom za svježe konzumiranje
+* želite svježe rajčice cijelu sezonu
+* imate dovoljno mjesta za visoke biljke
+* imate vremena za redovito zakidanje i vezanje
+* želite duže razdoblje berbe
+* birate sorte s bogatijim okusom za jelo u svježem stanju
 
-## Ostale vrste paradajza: Raznolikost oblika i veličina
+## Ostale vrste paradajza: raznolikost oblika i veličina
 
-Osim klasifikacije po determinantnosti i vremenu sazrijevanja, paradajz se može klasificirati i po drugim karakteristikama:
-
- 
+Osim po načinu rasta i vremenu dozrijevanja, rajčice se razlikuju i po veličini i namjeni ploda.
 
 ### Krupne sorte paradajza
 
-Krupne sorte daju veće plodove, često od 200 grama pa i više. Primjeri uključuju ‘Volovsko srce‘, ‘Brandywine‘ i ‘Cherokee Purple’. Ove sorte su često indeterminantne i idealne za svježe konzumiranje, salate i rezanje.
-
- 
+Krupne sorte daju plodove od 200 grama i teže. Među njima su „Volovsko srce”, „Brandywine” i „Cherokee Purple”. Većina ih je indeterminantna, a plodovi se najčešće jedu svježi, u salatama ili narezani.
 
 ### Sorte za kuhanje i umake
 
-Neke sorte su posebno pogodne za pripremu umaka, juha i konzerviranje. Primjeri uključuju ‘Roma‘, ‘San Marzano’ i druge duguljaste sorte s nižim udjelom vode i više mesnate strukture.
-
- 
+Za umake, juhe i zimnicu biraju se duguljaste sorte s manje vode i mesnatijom unutrašnjošću, poput „Rome” i „San Marzana”. Koliko kalorija imaju svježa rajčica, passata (procijeđena kuhana rajčica) i gotov umak, usporedili smo u pregledu [kalorija u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
 
 ### Cherry rajčica i male sorte
 
-Cherry rajčice su male, slatke sorte idealne brze „snackove“ i salate. Često su indeterminantne i daju kontinuirani prinos tijekom sezone.
+Cherry rajčice imaju male, slatke plodove za grickanje i salate. Uglavnom su indeterminantne i rađaju cijelu sezonu.
 
-Pročitajte i: [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
+## Izvori
+
+- Savjetodavna služba Sveučilišta Utah (Utah State University Extension) – [Sadnja, razmak i prorjeđivanje rajčice, paprike i patlidžana (Planting, Spacing & Thinning)](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)
