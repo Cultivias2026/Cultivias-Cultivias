@@ -21,7 +21,9 @@ noindex: false
 ---
 ## Koliki razmak odabrati za niske, visoke i cherry rajčice?
 
-Razmak birajte prema tome kako biljka raste i kako je podupirete, a ne samo prema imenu sorte. Niske (grmolike) rajčice prestanu rasti kad dosegnu određenu visinu, a stručno se zovu determinantne. Visoke, stručno indeterminantne, rastu cijelu sezonu. [University of Maryland Extension u vodiču za rajčice](https://extension.umd.edu/resource/growing-tomatoes-home-garden) navodi širi vrtni raspon: približno 45 do 90 cm između biljaka i 120 do 150 cm između redova.
+Razmak ovisi o tome kako biljka raste i kako je podupirete, a manje o imenu sorte. Niske, grmolike rajčice prestanu rasti kad dosegnu određenu visinu i stručno se zovu [determinantne](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/). Visoke, indeterminantne sorte rastu cijelu sezonu i trebaju više mjesta.
+
+Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension), jedna od američkih sveučilišnih službi koje izdaju upute za vrtlare, u [vodiču za rajčice u kućnom vrtu](https://extension.umd.edu/resource/growing-tomatoes-home-garden) navodi širi raspon: približno 45 do 90 cm između biljaka i 120 do 150 cm između redova.
 
 ![Infografika: razmaci sadnje rajčica u centimetrima, pogled odozgo na gredicu te vrijednosti za niske i visoke sorte i za kavez](/images/articles/infografika-razmak-sadnje-rajcica.webp)
 
@@ -33,46 +35,46 @@ Razmak birajte prema tome kako biljka raste i kako je podupirete, a ne samo prem
 | Cherry, niska ili kompaktna | prema uputi na vrećici ili sadnici | prema širini biljke i prolazu | Je li biljka stvarno niska ili samo ima sitne plodove |
 | Cherry, visoka i bujna | kao za visoku rajčicu | kao za visoku rajčicu | Potpora i oblikovanje biljke |
 
-Tablica uspoređuje smjernice Utaha i Marylanda. Ne propisuje jedan razmak za svaki vrt. Maryland za kaveze navodi najmanje četiri stope, to jest oko 120 cm. Uputa za vašu sortu ima prednost pred pretpostavkom da su sve niske ili sve cherry biljke iste.
+Tablica objedinjuje smjernice savjetodavnih službi sveučilišta Utah i Maryland, pa ne propisuje jedan razmak za svaki vrt. Za kaveze Maryland navodi najmanje četiri stope, odnosno oko 120 cm. Uputa za vašu sortu uvijek ima prednost, jer nisu sve niske ili sve cherry rajčice jednako bujne.
 
 ## Zašto cherry rajčica može trebati mnogo prostora?
 
-Cherry znači samo da je plod sitan, otprilike veličine trešnje. Biljka može biti niska, ali može imati i duge, snažne izdanke. Zato na vrećici sjemena ili na sadnici potražite piše li da je biljka niska (determinantna) ili visoka (indeterminantna). Tu podjelu objašnjava [Cultiviasov pregled sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/).
+Naziv cherry odnosi se samo na plod, koji je sitan, otprilike veličine trešnje. Biljka može biti niska, ali može imati i duge, snažne izdanke. Zato na vrećici sjemena ili na sadnici provjerite piše li da je biljka niska (determinantna) ili visoka (indeterminantna). Niske cherry sorte dobro uspijevaju i [u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/).
 
-Visoke se rajčice tijekom sezone stalno izdužuju, pa potpora ne služi samo da plodovi ne leže na zemlji. Biljka na njoj i raste.
+Visoke rajčice izdužuju se cijelu sezonu. Potpora im zato ne služi samo da plodovi ne leže na zemlji, nego i da biljka uz nju raste.
 
 ## Kako izmjeriti razmak prije sadnje?
 
-Mjerite od sredine jedne rupe za sadnju do sredine sljedeće. Najprije uzicom označite red, postavite potpore i ostavite prolaz za zalijevanje i berbu. Tek onda rasporedite sadnice.
+Razmak se mjeri od sredine jedne rupe za sadnju do sredine sljedeće. Najprije uzicom označite red, postavite potpore i ostavite prolaz za [zalijevanje](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/) i berbu. Tek tada rasporedite sadnice.
 
-[University of Minnesota Extension u uputama za vrtne rajčice](https://extension.umn.edu/vegetables/growing-tomatoes) preporučuje da se potpora postavi već pri sadnji. Ako kavez dodate tek kad se biljka razgrana, možete oštetiti korijen i izdanke. Ostale korake pročitajte u [vodiču za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/).
+Savjetodavna služba Sveučilišta Minnesota (University of Minnesota Extension) u [uputama za rajčice u vrtu](https://extension.umn.edu/vegetables/growing-tomatoes) preporučuje da se potpora postavi već pri sadnji. Ako kavez dodate tek kad se biljka razgrana, možete oštetiti korijen i izdanke. Ostale korake opisuje [vodič za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/).
 
 ## Koja je najčešća pogreška?
 
-**Najčešća je pogreška ostaviti premalo mjesta za odraslu biljku.** Male sadnice u proljeće izgledaju kao da su daleko jedna od druge. Kasnije im se krošnje spoje i zatvore prolaz. Lišće se dodiruje, a vezanje i berba postaju teži.
+**Najčešće se odraslim biljkama ostavi premalo mjesta.** U proljeće male sadnice izgledaju daleko jedna od druge, no do ljeta im se krošnje spoje i zatvore prolaz. Lišće se dodiruje, a vezanje i berba postaju teži.
 
-Ne skraćujte prolaz između redova da biste smjestili više biljaka. Ako ne znate koliko je sorta bujna, pročitajte uputu na vrećici sjemena ili pitajte u rasadniku.
+Ne skraćujte prolaz između redova kako biste smjestili još koju biljku. Ako ne znate koliko je sorta bujna, pročitajte uputu na vrećici sjemena ili pitajte u rasadniku.
 
 ## Često postavljana pitanja
 
 ### Koliki je razmak sadnje niskih rajčica?
 
-Za početak 45 do 60 cm u redu. Koliko točno, ovisi o bujnosti sorte i uputi na vrećici ili sadnici.
+Za početak 45 do 60 cm u redu. Točan razmak ovisi o bujnosti sorte i uputi na vrećici ili sadnici.
 
 ### Koliki razmak trebaju rajčice u kavezu?
 
-Maryland preporučuje najmanje oko 120 cm između kaveza. To je više nego kod rajčica vezanih uz uski kolac.
+Savjetodavna služba Sveučilišta Maryland preporučuje najmanje oko 120 cm između kaveza. To je više nego za rajčice vezane uz uski kolac.
 
 ### Sade li se cherry rajčice gušće?
 
-Ne automatski. Provjerite je li biljka niska ili visoka i bujna.
+Ne automatski. Najprije provjerite je li biljka niska ili visoka i bujna.
 
 ### Je li razmak od 30 cm dovoljan?
 
-Za vrtne rajčice nemojte ga uzimati kao pravilo. Tako gusto smijete saditi samo ako uputa kaže da je sorta vrlo kompaktna.
+Za [rajčice](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) u vrtu to nije pravilo. Tako gusto sadite samo ako uputa kaže da je sorta vrlo kompaktna.
 
 ## Izvori
 
-- [Utah State University Extension: Planting, Spacing & Thinning](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)
-- [University of Maryland Extension: Growing Tomatoes in a Home Garden](https://extension.umd.edu/resource/growing-tomatoes-home-garden)
-- [University of Minnesota Extension: Growing tomatoes in home gardens](https://extension.umn.edu/vegetables/growing-tomatoes)
+- Savjetodavna služba Sveučilišta Utah (Utah State University Extension) – [Sadnja, razmak i prorjeđivanje (Planting, Spacing & Thinning)](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)
+- Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension) – [Uzgoj rajčica u kućnom vrtu (Growing Tomatoes in a Home Garden)](https://extension.umd.edu/resource/growing-tomatoes-home-garden)
+- Savjetodavna služba Sveučilišta Minnesota (University of Minnesota Extension) – [Uzgoj rajčica u kućnim vrtovima (Growing tomatoes in home gardens)](https://extension.umn.edu/vegetables/growing-tomatoes)
