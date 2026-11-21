@@ -8,6 +8,7 @@ perex: Rajčica se botanički klasificira kao voće, ali se u kulinarskom kontek
   u botaničkoj i kulinarskoj klasifikaciji.
 readTime: 3
 publishedAt: 2024-09-02
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -20,55 +21,36 @@ related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
+[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) je botanički voće, a u kuhinji povrće. Botanika voćem smatra dio biljke koji se razvija iz cvijeta i sadrži sjeme, a rajčica nastaje iz cvijeta i ima sjemenke. Kuhinja voće i povrće razlikuje prema okusu i upotrebi, pa rajčicu, koja ide u slana jela, svrstava u povrće. U nastavku saznajte koja tri botanička kriterija rajčicu čine voćem i kako je o tome presudio američki Vrhovni sud.
 
-Voće je dio biljke koji se razvija iz cvijeta i sadrži sjeme. Budući da [rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) nastaje iz cvijeta biljke i sadrži sjemenke, botanički se svrstava u voće.
+## Kako kuhinja dijeli voće i povrće
 
-U kuhinji se voće i povrće klasificiraju prema **okusu i uporabi u jelima**. Voće se obično konzumira sirovo, ima slatkast okus i koristi se u desertima, dok se povrće koristi u slanim jelima.
+U kuhinji se voće i povrće razlikuju prema **okusu i upotrebi u jelima**. Voće se obično jede sirovo, slatkastog je okusa i dodaje se desertima, a povrće se koristi u slanim jelima.
 
-Budući da se rajčica često koristi u slanim jelima, poput **salata, umaka i juha**, u kulinarskom se kontekstu tretira kao povrće. Neke od[ najukusnijih sorta rajčice](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/) nezaobilazan su dio svake kuhinje i mnogih recepata.
+Budući da se rajčica najčešće stavlja u slana jela, poput **salata, [umaka](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/) i juha**, u kuhinji se smatra povrćem. Neke od [najukusnijih sorti rajčice](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/) nezaobilazne su u mnogim receptima.
 
+## Zašto je rajčica botanički voće
 
+Rajčica se **botanički** svrstava u voće zbog načina na koji se razvija.
 
-Rajčica se **botanički** klasificira kao voće zbog načina na koji se razvija.
+**1. Razvija se iz cvijeta**
 
-**1.Razvija se iz cvijeta:**
+Botanika voće definira kao dio biljke koji nastaje iz oprašenog cvijeta. Nakon oprašivanja (prijenosa peluda na tučak cvijeta) cvijet se razvija u plod u kojem je sjeme. Rajčica raste iz cvijeta biljke rajčice, što je čini **voćem**.
 
+**2. Sadrži sjemenke**
 
+Drugi **botanički kriterij** je sjeme unutar ploda. Rajčica ima sjemenke u mesnatom dijelu, iako ih neke [sorte](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), poput San Marzana, imaju vrlo malo.
 
-Voće se u botanici definira kao dio biljke koji nastaje iz oprašenog cvijeta. Nakon oprašivanja, cvijet proizvodi plod, koji sadrži sjeme.
+**3. Služi razmnožavanju biljke**
 
+Plod je biljci sredstvo za širenje sjemena. **Rajčica**, kao plod biljke rajčice, širi sjeme iz kojeg rastu nove biljke.
 
+## Što su o tome rekli botaničari i sud
 
-Rajčica raste iz cvijeta biljke rajčice, što je čini **voćem.**
+Većina botaničara u prošlim stoljećima znala je za razliku između botaničkog i kuhinjskog pojma voća.
 
-**2.Sadrži sjemenke:**
+**Carl Linnaeus**, švedski botaničar iz 18. stoljeća, razvio je binarnu nomenklaturu, sustav u kojem svaka biljka i životinja dobiva dvodijelni znanstveni naziv. U djelu **„Species Plantarum”** iz 1753. godine rajčici je dao znanstveni naziv *Solanum lycopersicum* i svrstao je među biljke koje daju plodove, što znači da je u botaničkom smislu voće.
 
+**Najpoznatiji spor o tome je li rajčica voće ili povrće** vodio se u Sjedinjenim Američkim Državama. U slučaju „Nix protiv Heddena” iz 1893. godine Vrhovni sud SAD-a odlučivao je treba li rajčicu cariniti kao **povrće ili voće**.
 
-
-
-
- Još jedan **botanički kriterij** za voće je prisutnost sjemenki unutar ploda. Rajčica ima sjemenke unutar svog mesnatog dijela, što je još jedan pokazatelj da je **voće.**
-
-**3.Dio biljne reprodukcije:**
-
-
-
- Voće je sredstvo pomoću kojeg biljke šire svoje sjeme. **Rajčica**, kao plod biljke rajčice, ima funkciju širenja sjemena kako bi omogućila rast novih biljaka.
-
- 
-
-Većina botaničara u prošlim stoljećima bila je svjesna razlike između botaničkog i kulinarskog pojma “voća”.
-
-**Carl Linnaeus**, švedski botaničar iz 18. stoljeća, često se spominje u kontekstu klasifikacije biljaka.
-
-On je razvio binarnu nomenklaturu, sistem u kojem se **biljkama i životinjama** daje dvodijelni naziv.
-
-U svom radu **“Species Plantarum”** iz 1753. godine, Linnaeus je dao znanstveni naziv rajčici (Solanum lycopersicum) i svrstao je među biljke koje proizvode plodove, što implicira da je rajčica voće u botaničkom smislu.
-
-**Prvi zapisani slučaj klasifikacije rajčice kao voća** u širem kontekstu može se povezati s pravnom odlukom u Sjedinjenim Američkim Državama.
-
-U čuvenom slučaju “Nix v. Hedden” iz 1893. godine, Vrhovni sud SAD-a raspravljao je o tome treba li se rajčica cariniti kao **povrće ili voće**.
-
-Iako su obje strane priznale da je rajčica **botanički voće**, sud je odlučio da se zbog njenog uobičajenog korištenja u kuhanju treba smatrati povrćem u trgovinskim terminima.
-
-Pročitajte i: [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
+Sud je prihvatio da je rajčica **botanički voće**, ali je presudio da je zbog uobičajene upotrebe u kuhanju u trgovini treba smatrati povrćem.

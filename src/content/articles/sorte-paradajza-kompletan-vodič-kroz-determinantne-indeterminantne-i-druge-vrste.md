@@ -27,7 +27,7 @@ related_articles:
 
 ## Što su determinantne sorte paradajza?
 
-Determinantne sorte rastu do unaprijed određene visine, obično od 60 cm do 1 metra, a zatim prestaju rasti i snagu usmjeravaju u plodove. Zovu ih i niskim, grmolikim ili patuljastim sortama. Plodovi se zameću rano, a većina ih sazrije u kratkom razdoblju.
+Determinantne sorte rastu do unaprijed određene visine, ovisno o sorti obično od 60 cm do 1,5 metra, a zatim prestaju rasti i snagu usmjeravaju u plodove. Zovu ih i niskim, grmolikim ili patuljastim sortama. Plodovi se zameću rano, a većina ih sazrije u kratkom razdoblju.
 
 Zbog niskog rasta često ne trebaju kolac ni drugu potporu. Zato se dobro uklapaju u manji vrt, na terasu ili [balkon](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/). Iako su niže od indeterminantnih, u kratkom vremenu mogu dati velik urod.
 
@@ -152,4 +152,5 @@ Cherry rajčice imaju male, slatke plodove za grickanje i salate. Uglavnom su in
 
 ## Izvori
 
+- Savjetodavna služba Sveučilišta Sjeverna Karolina (NC State Extension) – [Determinantne rajčice: vodič kroz kompaktne sorte (Determinate Tomatoes: Your Guide to Compact and Delicious Choices)](https://beaufort.ces.ncsu.edu/2025/04/determinate-tomatoes-your-guide-to-compact-and-delicious-choices)
 - Savjetodavna služba Sveučilišta Utah (Utah State University Extension) – [Sadnja, razmak i prorjeđivanje rajčice, paprike i patlidžana (Planting, Spacing & Thinning)](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)

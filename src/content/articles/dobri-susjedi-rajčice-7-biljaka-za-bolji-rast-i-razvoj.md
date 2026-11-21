@@ -6,6 +6,7 @@ image: /images/articles/zrioba-rajčice-od-zelene-do-crvene-.webp
 perex: Rajčica je jedna od najpopularnijih povrtnih biljaka u vrtovima diljem svijeta.
 readTime: 3
 publishedAt: 2024-09-01
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -17,123 +18,62 @@ related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
+Biljke posađene uz rajčicu mogu odbijati štetnike, čuvati vlagu u tlu ili jednostavno ne smetati njezinu rastu, a neke joj štete jer dijele iste bolesti. Takvo planiranje vrta zove se združena sadnja. Većina preporuka temelji se na iskustvu vrtlara, a samo je dio potvrđen istraživanjima. Cjelovit pregled uzgoja i njege donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/).
 
-Bez obzira jeste li iskusni vrtlar ili početnik, odabir pravih biljaka kao **susjeda rajčicama** može značajno utjecati na njihov rast, zdravlje i konačni urod. Cjelovit pregled uzgoja i njege rajčice donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/).
-
-
-
-U ovom članku pročitajte uz koje se povrće i biljke preporučuje [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koje bi trebali izbjegavati.
-
-
-
-
+U nastavku saznajte uz koje biljke se preporučuje [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koje je bolje držati podalje.
 
 ## Najpoznatiji dobri susjedi rajčice:
 
-
-
 ### **Bosiljak**
 
-
-
-**Bosiljak** je poznat kao jedan od najboljih susjeda rajčicama. Ne samo da poboljšava okus rajčica kada se sade u blizini, već također pomaže odbiti **štetne insekte** poput muha i komaraca. Kombinacija **rajčica i bosiljka** u vrtu ili u istoj posudi često rezultira većim prinosima i zdravijim biljkama.
-
-
+**Bosiljak** se najčešće spominje kao dobar susjed rajčici. Vrtlari smatraju da poboljšava okus rajčice i odbija **kukce** poput muha i komaraca, a neki tvrde i da rajčice i bosiljak u istoj gredici ili posudi daju veći urod. Za te tvrdnje nema čvrstih dokaza. Odbija li bosiljak doista komarce, provjerili smo u članku [biljke protiv komaraca](https://www.cultivias.com/vijesti/biljke-protiv-komaraca-mit-ili-stvarna-pomo%C4%87/).
 
 ### **Češnjak**
 
-
-
-**Češnjak** je još jedna izvrsna biljka za sadnju uz rajčice. On pomaže u odbijanju lisnih uši, paukova i drugih štetnika koji mogu napasti **rajčice**. Osim toga, **češnjak** poboljšava okus rajčica i može smanjiti rizik od razvoja gljivičnih bolesti.
-
-
+**Češnjak** se sadi uz rajčicu jer se smatra da njegov jak miris odbija lisne uši, grinje i druge štetnike koji napadaju **rajčice**. Neki vrtlari vjeruju da smanjuje i rizik od gljivičnih bolesti i da poboljšava okus rajčice, no ni to nije potvrđeno.
 
 ### **Luk**
 
+Kao i češnjak, **luk** se sadi uz rajčicu radi zaštite od štetnika. Lako se uzgaja i može se posaditi između redova rajčica. Koliko mjesta ostaviti između redova, pogledajte u članku o [razmaku sadnje rajčica](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/).
 
-
-Slično češnjaku, **luk** također pruža zaštitu rajčicama od različitih štetnika. Luk je lako uzgajati i može se posaditi između redova rajčica kako bi pomogao u zaštiti od insekata.
-
-
-
-Luk i rajčice se dobro nadopunjuju u **kulinarskim receptima**, što ih čini odličnim partnerima i u vrtu.
-
-
+Luk i rajčica dobro se slažu i u **kuhinji**, pa ih mnogi i u vrtu sade zajedno.
 
 ### **Mrkva**
 
-
-
-**Mrkva i rajčice** se dobro slažu jer nemaju zajedničkih bolesti ili štetnika koji bi mogli utjecati na obje biljke. Mrkva raste pod zemljom, dok rajčica raste iznad tla, što znači da ne konkuriraju za prostor.
-
-
-
-Ova kombinacija omogućava optimalno korištenje prostora u vrtu.
-
-
+**[Mrkva](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/) i rajčica** dobro se slažu jer nemaju zajedničkih bolesti ni štetnika. Mrkva raste pod zemljom, a rajčica iznad tla, pa se ne natječu za prostor i gredica je bolje iskorištena. Koje biljke odgovaraju samoj mrkvi, opisuje članak o [dobrim i lošim susjedima mrkve](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
 
 ### **Salata**
 
+**Salata** ima plitak korijen, pa ne smeta korijenu rajčice. Pokriva tlo i pomaže da se vlaga dulje zadrži, što rajčici dobro dođe u vrućim ljetnim mjesecima.
 
+Salata brzo raste, pa se obično ubere prije nego što rajčice počnu dozrijevati. Tako se dvije biljke manje natječu za hranjiva.
 
-**Salata** je odličan susjed za rajčice jer ima plitak korijenov sustav koji ne ometa rast rajčica. Salata može pomoći u zadržavanju vlage u tlu, što je korisno za rajčice, osobito tijekom vrućih ljetnih mjeseci.
+### **Kadifica i neven**
 
+Ove dvije cvjetnice često se brkaju. Učinak protiv **nematoda** (sitnih crva koji napadaju korijen) istraživan je kod kadifice (*Tagetes*), a ne kod nevena (*Calendula*). U [kineskom istraživanju](https://pubmed.ncbi.nlm.nih.gov/36385308/) objavljenom 2022. u znanstvenom časopisu Scientific Reports kadifica uzgojena prije duhana smanjila je pojavu nematoda korijenskih kvržica u sljedećem usjevu.
 
-
-Ubrzan **rast salate** omogućuje vrtlarima da ubiru njezine plodove prije nego što rajčice počnu sazrijevati, čime se smanjuje konkurencija za hranjive tvari.
-
-
-
-### **Neven**
-
-
-
-**Neven** je cvijet koji ne samo da uljepšava vrt, već i pruža značajne prednosti rajčicama. Ova biljka pomaže u odbijanju **nematoda (štetnih glista)** i drugih insekata, a može privući korisne oprašivače u vrt.
-
-
-
-Sadnja nevena uz **rajčice** može pomoći u smanjenju potrebe za kemijskim sredstvima za zaštitu biljaka.
-
-
+Obje cvjetnice uljepšavaju vrt i privlače korisne kukce i oprašivače, pa uz njih može trebati manje sredstava za zaštitu bilja.
 
 ### **Menta**
 
+**[Menta](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)** se također spominje kao dobar susjed rajčici, jer se smatra da odbija lisne uši, muhe i mrave. Dokazi su, kao i kod većine ovih biljaka, uglavnom iskustveni.
 
-
-**[Menta](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)** je još jedna biljka koja može biti koristan susjed rajčicama. Pomaže u odbijanju različitih štetnika, uključujući lisne uši, muhe i mrave.
-
-
-
-Iako menta može biti invazivna ako se ne kontrolira, **sadnja mente u posudama** ili odvojenim dijelovima vrta može donijeti brojne prednosti.
-
-
+Menta se brzo širi i lako preraste gredicu, pa je najbolje uzgajati je [u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/) ili u odvojenom dijelu vrta.
 
 ## **Loši susjedi rajčica- biljke i povrće koje treba izbjegavati**
 
-
-
-Iako je važno znati koje biljke dobro surađuju s rajčicama, jednako je važno znati i koje biljke treba **izbjegavati saditi** u njihovoj blizini.
-
-
-
-Neke biljke mogu negativno utjecati na rast, **zdravlje i urod rajčica**, pa ih je najbolje držati na sigurnoj udaljenosti. Donosimo popis biljaka i povrća koje su loši susjedi rajčicama.
-
-
+Neke biljke mogu loše utjecati na rast, **zdravlje i urod rajčica**, pa ih je bolje saditi dalje od njih. Ovo su najpoznatiji loši susjedi.
 
 ### **Krumpir**
 
-
-
-**Krumpir i rajčice** pripadaju istoj botaničkoj porodici (Solanaceae), što znači da dijele slične bolesti i štetnike. Sadnja krumpira blizu rajčica može povećati rizik od širenja bolesti poput plamenjače, koja može uništiti obje kulture. Krumpir može iscrpiti tlo od hranjivih tvari koje su potrebne rajčicama za pravilan rast.
-
-
+**Krumpir i rajčica** pripadaju istoj botaničkoj porodici, pomoćnicama (Solanaceae), pa dijele iste bolesti i štetnike. Ako ih posadite blizu, lakše se širi plamenjača, bolest koja može uništiti oba usjeva. Obje biljke trebaju i mnogo hranjiva iz tla.
 
 ### **Kukuruz**
 
+**Kukuruz** i rajčica također nisu dobri susjedi.
 
+Kukuruz privlači štetnike poput kukuruznog moljca i pamukove sovice, čije gusjenice mogu napasti i rajčicu.
 
-**Kukuruz** i rajčice također nisu najbolji susjedi u vrtu.
+## Izvori
 
-
-
-Kukuruz je poznat po privlačenju kukaca poput kukuruznog moljca, koji može napasti i rajčice.
+- Huang i sur., istraživanje (2022.) – [Utjecaj kadifice (Tagetes erecta) na mikroorganizme u tlu i nematode (Effect of marigold on soil microbial communities in continuously cropped tobacco fields)](https://pubmed.ncbi.nlm.nih.gov/36385308/), Scientific Reports

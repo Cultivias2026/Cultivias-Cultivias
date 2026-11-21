@@ -24,7 +24,9 @@ noindex: false
 ---
 ## Koliko kalorija ima jedna rajčica?
 
-[Srednji plod težak 123 g](https://fdc.nal.usda.gov/food-details/170457/nutrients) ima približno **22 kcal**, ali veće i manje rajčice daju drukčiji rezultat. Razlike u veličini dio su raznolikosti [sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), pa jedna rajčica nije uvijek ista porcija. Za račun koristite masu dijela koji jedete, bez peteljke.
+Prema bazi podataka FoodData Central američkog Ministarstva poljoprivrede (USDA), [srednji plod težak 123 g](https://fdc.nal.usda.gov/food-details/170457/nutrients) ima približno **22 kcal**, a veće i manje rajčice daju drukčiji rezultat. Razlike u veličini dio su raznolikosti [sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), pa jedna rajčica nije uvijek ista porcija. Za račun koristite masu dijela koji jedete, bez peteljke.
+
+[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) se u kuhinji računa kao povrće, iako je botanički plod, o čemu više piše članak [je li rajčica voće ili povrće](https://www.cultivias.com/povrce/je-li-raj%C4%8Dica-vo%C4%87e-ili-povr%C4%87e-saznajte-odmah/).
 
 Ako je režete za salatu, jednom odvojite 100 g u svoju zdjelicu i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, ali puna zdjelica neće uvijek imati istu masu.
 
@@ -36,13 +38,13 @@ Ako je režete za salatu, jednom odvojite 100 g u svoju zdjelicu i zapamtite kol
 | Dvostruki koncentrat (vrlo gusta pasta od rajčice) | 96 kcal | 15 g | oko 14 kcal |
 | Umak s genovskim bosiljkom | 56 kcal | 125 g | 70 kcal |
 
-Passata, koncentrat i umak u tablici proizvodi su Mutti. Njihove brojke služe kao konkretni primjeri, jer druge recepture mogu imati drukčije kalorijske vrijednosti.
+Passata, koncentrat i umak u tablici proizvodi su talijanskog proizvođača konzervirane rajčice Mutti, a brojke su preuzete s njihovih deklaracija. Služe kao konkretni primjeri, jer druge recepture mogu imati drukčije kalorijske vrijednosti.
 
 ![Infografika: kalorije rajčice prema obliku. Jedan plod od 123 g ima oko 22 kcal, 150 g kućno smrznute oko 27 kcal, 150 g passate 54 kcal, 15 g dvostrukog koncentrata oko 14 kcal i 125 g umaka s bosiljkom 70 kcal](/images/articles/infografika-rajcica-kalorije.webp)
 
 ### Koliko kalorija ima salata od rajčice?
 
-Porcija od 250 g same rajčice ima **45 kcal**, dok kalorije cijele salate ovise o dodacima. Samo 10 g maslinova ulja dodaje još [oko 88 kcal](https://fdc.nal.usda.gov/food-details/171413/nutrients). Sir i preljev također se računaju zasebno, pa zdjelica salate nije kalorijski jednaka rajčici koja je u njoj.
+Porcija od 250 g same rajčice ima **45 kcal**, dok kalorije cijele salate ovise o dodacima. Samo 10 g maslinova ulja dodaje još [oko 88 kcal](https://fdc.nal.usda.gov/food-details/171413/nutrients), prema istoj bazi USDA. Sir i preljev također se računaju zasebno, pa zdjelica salate nije kalorijski jednaka rajčici koja je u njoj.
 
 ## Ima li smrznuta rajčica više kalorija?
 
@@ -66,7 +68,7 @@ Dodavanjem vode ukupne kalorije koncentrata ostaju iste, ali se raspoređuju u v
 
 ## Koliko kalorija ima gotovi umak od rajčice?
 
-Gotovi umak može uz rajčicu sadržavati ulje i druge sastojke, pa nije isto što i jednostavna passata. [Umak s genovskim bosiljkom](https://www.mutti.com/products/pasta-sauce-with-genovese-basil-pdo/) iz tablice (genovski bosiljak je mirisna sorta iz okolice Genove) ima 56 kcal na 100 g, odnosno 70 kcal u 125 g; sadrži maslinovo ulje i povrće, bez dodanog šećera. Za drugo pakiranje pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima), a tjesteninu i sir računajte zasebno jer nisu uključeni u kalorije umaka.
+Gotovi umak može uz rajčicu sadržavati ulje i druge sastojke, pa nije isto što i jednostavna passata. [Umak s genovskim bosiljkom](https://www.mutti.com/products/pasta-sauce-with-genovese-basil-pdo/) iz tablice (genovski bosiljak je mirisna sorta iz okolice Genove, a bosiljak je i jedan od [dobrih susjeda rajčice](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/) u vrtu) ima 56 kcal na 100 g, odnosno 70 kcal u 125 g; sadrži maslinovo ulje i povrće, bez dodanog šećera. Za drugo pakiranje pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima), a tjesteninu i sir računajte zasebno jer nisu uključeni u kalorije umaka.
 
 ## Kako računati kalorije domaćeg umaka?
 
@@ -80,6 +82,6 @@ Primjer računa za zamišljeni umak: 1 kg rajčice (180 kcal) i 30 g maslinova u
 
 Ne moraju biti jednaki. Mililitri mjere volumen, a grami masu, pa je passatu ili umak najjednostavnije odvagati kad su kalorije izražene na 100 g. Količina ulivena u mjernu čašu ne mora imati jednaku masu u gramima. Primjer računa (zamišljena masa): ako ulivenu passatu izvažete i teži 220 g, to je 2,2 × 36 = oko 79 kcal.
 
-Petnaest grama koncentrata iz tablice ima oko 14 kcal, a 150 g passate 54 kcal. Zato usporedba tih porcija bolje opisuje količinu koju dodajete jelu nego usporedba jednakih 100 g.
+Petnaest grama koncentrata iz tablice ima oko 14 kcal, a 150 g passate 54 kcal. Zato usporedba tih porcija bolje opisuje količinu koju dodajete jelu nego usporedba jednakih 100 g. Na isti način usporedili smo kalorije [mrkve](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/) te [naranče i soka od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

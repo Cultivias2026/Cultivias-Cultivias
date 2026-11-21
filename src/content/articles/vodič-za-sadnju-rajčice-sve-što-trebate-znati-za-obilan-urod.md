@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/rajčica-u-tegli.webp
 perex: Rajčica je jedna od najomiljenijih kultura u vrtovima diljem svijeta,
   cijenjena zbog svog bogatog okusa i svestranosti u kuhinji.
-readTime: 4
+readTime: 6
 publishedAt: 2024-09-03
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,181 +19,126 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-
-Pravilna sadnja rajčice ključna je za postizanje zdravih biljaka i obilnog uroda.
-
-Ovaj sveobuhvatni vodič provest će vas kroz sve korake i metode sadnje, od sjetve sjemena do uzgoja na balkonu, kako biste osigurali uspjeh u vašem vrtu.
-
-
+[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) daje dobar urod ako se posadi u pravo vrijeme, na sunčano mjesto i s dovoljno razmaka. Većina vrtlara sadi kupljene presadnice u svibnju, a sjeme se u zatvorenom sije već u ožujku. U nastavku saznajte kako odabrati sortu, kada i kako sijati, kako presaditi biljke u vrt, plastenik ili teglu te koje biljke saditi uz rajčicu.
 
 ## Planiranje sadnje: odabir sorte i pravog trenutka
 
-Prije nego što zabodete prvu lopatu u zemlju, ključno je dobro isplanirati sadnju. To uključuje odabir [odgovarajuće sorte](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) i poštivanje kalendara sadnje prilagođenog vašoj klimi.
-
-
+Prije nego što zabodete prvu lopatu u zemlju, isplanirajte sadnju. Odaberite [odgovarajuću sortu](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) i držite se kalendara sadnje za svoje podneblje.
 
 ### Odabir sorte rajčice
 
-Postoji na stotine sorti rajčica, a dijele se u dvije glavne skupine prema načinu rasta:
+Postoje stotine sorti rajčice, a prema načinu rasta dijele se u dvije glavne skupine.
 
 #### Determinantne sorte (grmolike)
 
- Ove sorte rastu do određene visine (obično oko 1-1.5 metar), nakon čega prestaju rasti i svu energiju usmjeravaju u stvaranje plodova.
+Rastu do određene visine, ovisno o sorti obično od 60 cm do 1,5 m, a zatim prestaju rasti i snagu usmjeravaju u plodove. Savjetodavna služba Sveučilišta Sjeverna Karolina (NC State Extension) [navodi](https://beaufort.ces.ncsu.edu/2025/04/determinate-tomatoes-your-guide-to-compact-and-delicious-choices) da većina plodova sazrije u kratkom razdoblju, pa se te sorte biraju za zimnicu.
 
- Svi plodovi sazrijevaju u relativno kratkom vremenskom periodu (obično unutar dva tjedna). 
-
-Idealne su za uzgoj u posudama, na balkonima i za vrtlare koji žele ubrati veliku količinu rajčica odjednom, primjerice za konzerviranje.
+Najbolje odgovaraju za uzgoj u posudama i na balkonu te vrtlarima koji žele odjednom ubrati mnogo rajčica, primjerice za konzerviranje.
 
 #### Indeterminantne sorte (penjačice)
 
- Ove sorte rastu i proizvode plodove tijekom cijele sezone, sve do prvog mraza. Mogu doseći visinu i do 3 metra te zahtijevaju čvrstu potporu.
+Rastu i rađaju cijelu sezonu, sve do prvog mraza. Mogu narasti do 3 metra i trebaju čvrstu potporu.
 
- Odličan su izbor ako želite kontinuiranu berbu svježih plodova za salate i sendviče tijekom cijelog ljeta.
+Dobar su izbor ako cijelo ljeto želite brati svježe plodove za salate i sendviče.
 
 ## Kalendar sadnje
 
-**Sadnja rajčice iz sjemena (u zatvorenom)**
+**Sjetva sjemena u zatvorenom**
 
-Sjetva sjemena u zatvorenom prostoru obično započinje 6-8tjedana prije posljednjeg očekivanog mraza. U kontinentalnim krajevima to jenajčešće u ožujku.
+Sjeme se u zatvorenom sije 6–8 tjedana prije posljednjeg očekivanog mraza. U kontinentalnim krajevima to je najčešće u ožujku.
 
 **Sadnja presadnica na otvoreno**
 
-Presađivanje mladih biljaka (presadnica ili flanaca) naotvoreno vrši se kada prođe svaka opasnost od mraza i kada se tlo dovoljnozagrije. U većini krajeva, to je obično u svibnju. 
+Presadnice, koje se zovu i flanci, sade se na otvoreno kad prođe opasnost od mraza i kad se tlo dovoljno zagrije. U većini krajeva to je u svibnju.
 
 ## Sadnja rajčice iz sjemena: korak po korak
 
-Uzgoj rajčice iz sjemena daje vam pristup širem izboru sorti i potpunu kontrolu nad rastom biljke od samog početka.
+Kad rajčicu uzgajate iz sjemena, birate između više sorti i od početka pratite rast biljke.
 
-
-
-* Odabir sjemena i posuda 
-
-Odaberite kvalitetno sjeme željene sorte. Za sjetvu koristite male posudice, kontejnere za presadnice ili čaše od jogurta s rupicama na dnu za drenažu.
-
-* Priprema supstrata
-
- Koristite kvalitetan, rahli supstrat za sjetvu. On mora biti prozračan i bogat hranjivim tvarima kako bi osigurao dobar početak za mlade biljke.
-
-* Sjetva sjemena rajčice: 
-
-U svaku posudicu posijte 2-3 sjemenke na dubinu od otprilike 0.5 cm. Lagano ih prekrijte supstratom i nježno zalijte prskalicom kako ne biste isprali sjeme.
-
-* Klijanje i njega
-
- Posude prekrijte prozirnom folijom ili poklopcem kako biste stvorili efekt staklenika i održali vlagu.
-
- Optimalna temperatura za klijanje je između 20-25°C. Čim sjeme proklija (obično za 5-10 dana), uklonite foliju i stavite posudice na najsvjetlije moguće mjesto, poput prozorske daske.
-
-* Pikiranje i presađivanje flanaca
-
- Kada biljke razviju prva dva prava lista, vrijeme je za pikiranje. Pažljivo presadite svaku biljku u zasebnu, veću posudu. Ovo su sada vaše mlade sadnice, poznate i kao flanci ili presadnice rajčice.
+1. **Odabir sjemena i posuda** – odaberite kvalitetno sjeme željene sorte. Za sjetvu poslužit će male posudice, kontejneri za presadnice ili čaše od jogurta s rupicama na dnu kroz koje otječe višak vode.
+2. **Priprema supstrata** – supstrat je zemlja za sjetvu. Treba biti rahao, prozračan i hranjiv, kako bi mlade biljke dobro krenule.
+3. **Sjetva** – u svaku posudicu posijte 2–3 sjemenke, oko 0,5 cm duboko. Lagano ih prekrijte supstratom i nježno zalijte prskalicom, da ne isperete sjeme.
+4. **Klijanje i njega** – posude prekrijte prozirnom folijom ili poklopcem, da se zadrži vlaga kao u malom stakleniku. Sjeme najbolje klije na 20–25 °C. Čim proklija, obično za 5–10 dana, uklonite foliju i posudice stavite na najsvjetlije mjesto, primjerice na prozorsku dasku.
+5. **Pikiranje** – kad biljke razviju prva dva prava lista, svaku pažljivo presadite u zasebnu, veću posudu. To se zove pikiranje, a tako dobivate presadnice ili flance.
 
 ## Sadnja rajčice na otvorenom: vodič za vrt
 
-Kada vaše sadnice ojačaju i vanjski uvjeti to dopuste, vrijeme je za sadnju u vrt.
-
-
+Kad presadnice ojačaju i vrijeme to dopusti, vrijeme je za sadnju u vrt.
 
 ### Priprema tla i lokacije
 
-Odaberite najsunčanije mjesto u vrtu, jer rajčice trebaju najmanje 6-8 sati direktnog sunca dnevno. 
+Odaberite najsunčanije mjesto u vrtu, jer rajčica treba najmanje 6–8 sati izravnog sunca dnevno.
 
-Tlo treba biti duboko prekopano, rahlo, dobro drenirano i obogaćeno kompostom ili zrelim stajskim gnojem.
+Tlo treba duboko prekopati i obogatiti kompostom ili zrelim stajskim gnojem. Mora biti rahlo, a višak vode mora iz njega lako otjecati (dobro drenirano tlo).
 
+### Kaljenje sadnica (prilagodba)
 
-
-### Kaljenje sadnica ( prilagodba)
-
-Prije konačne sadnje, sadnice je potrebno postepeno privikavati na vanjske uvjete. 
-
-Tijekom 7-10 dana, iznosite ih van na nekoliko sati dnevno, postepeno povećavajući vrijeme koje provode na suncu i vjetru.
-
-
+Prije sadnje presadnice treba postupno priviknuti na vanjske uvjete. Tijekom 7–10 dana iznosite ih van na nekoliko sati dnevno i svaki dan ih ostavite malo dulje na suncu i vjetru.
 
 ## Pravilan razmak sadnje rajčice u vrtu ili plasteniku
 
-Poštivanje pravilnog razmaka ključno je za zdravlje biljaka i dobru cirkulaciju zraka, što smanjuje rizik od bolesti.
+Dovoljan razmak omogućuje strujanje zraka između biljaka, a to smanjuje rizik od bolesti. Savjetodavne službe američkih sveučilišta Utah i Maryland navode ove razmake:
 
+* **determinantne (grmolike) sorte** – 45–60 cm u redu i 90–120 cm između redova
+* **indeterminantne (visoke) sorte** – 45–90 cm u redu i 120–150 cm između redova, jer trebaju više mjesta
 
+Tablicu za niske, visoke i cherry rajčice te za uzgoj u kavezu donosi članak o [razmaku sadnje rajčica](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/).
 
-* Determinantne (grmolike) sorte: Sadite ih na razmak od 40-50 cm unutar reda, s međurednim razmakom od 60-70 cm.
-* Indeterminantne (visoke) sorte: Zahtijevaju više prostora. Preporučeni razmak sadnje je 60-70 cm u redu i najmanje 80-100 cm između redova.
+## Tehnika sadnje: zašto se preporučuje saditi dublje?
 
-Tablicu s razmakom za niske, visoke i cherry rajčice te za uzgoj u kavezu pogledajte u članku [Razmak sadnje rajčica](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/).
+Rajčica na dijelu stabljike koji je pod zemljom pušta adventivno korijenje, odnosno dodatno korijenje koje izrasta iz same stabljike.
 
-## Tehnika sadnje: zašto se preproučuje saditi dublje?
-
-Rajčice imaju sposobnost puštanja adventivnog korijenja duž cijele stabljike koja se nađe pod zemljom.
-
-Zato se preporučuje saditi ih dublje nego što su bile u posudi. 
-
-Uklonite donjih par listova i posadite sadnicu tako da veći dio stabljike bude u zemlji. To će potaknuti razvoj snažnijeg korijenskog sustava i stabilnije biljke.
-
-
+Zato je sadite dublje nego što je rasla u posudi. Uklonite nekoliko donjih listova i posadite presadnicu tako da veći dio stabljike bude u zemlji. Biljka će razviti jači korijen i bit će stabilnija.
 
 ## Sadnja rajčice na foliju
 
-Sadnja rajčice na foliju (crnu ili crvenu) popularna je tehnika koja donosi brojne prednosti:
+Sadnja na crnu ili crvenu foliju česta je tehnika s nekoliko prednosti:
 
+* **manje korova** – folija ne propušta svjetlo, pa korov ne raste
+* **ujednačenija vlaga** – voda ispod folije sporije isparava
+* **toplije tlo** – folija zagrijava zemlju, pa biljke ranije krenu
+* **čišći plodovi** – plodovi ne leže na zemlji, pa rjeđe trunu
 
-
-* Sprječava rast korova.
-* Održava vlagu u tlu.
-* Zgrijava tlo, što pogoduje ranijem rastu.
-* Čuva plodove od kontakta sa zemljom, smanjujući truljenje.
-
-Postupak je jednostavan, nakon pripreme i gnojenja gredice, prekrijte je folijom, učvrstite rubove zemljom, a zatim na mjestima sadnje izrežite rupe u koje ćete posaditi sadnice.
-
-
+Nakon pripreme i gnojenja gredicu prekrijte folijom, rubove učvrstite zemljom i na mjestima sadnje izrežite rupe za presadnice.
 
 ## Sadnja rajčice u paru
 
-Neki vrtlari prakticiraju sadnju rajčice u paru, odnosno sadnju dvije sadnice u jednu, nešto širu sadnu jamu.
+Neki vrtlari sade rajčice u paru, odnosno dvije presadnice u jednu, nešto širu sadnu jamu. To se najčešće radi s indeterminantnim sortama, koje se zatim vode na jednu ili dvije grane.
 
-Ova tehnika može biti korisna kod indeterminantnih sorti koje se zatim vode na jednu ili dvije grane.
-
-Smatra se da ovakav način sadnje potiče kompeticiju koja može rezultirati jačim biljkama, no važno je osigurati dovoljno hranjivih tvari i vode za obje biljke.
-
-
+Smatra se da međusobno natjecanje daje jače biljke, no za to nema čvrstih dokaza. Obje biljke trebaju dovoljno hranjiva i vode, a u tegli to ne radite.
 
 ## Uzgoj rajčice na balkonu: sadnja u teglama i kantama
 
-Nemate li vrt, ne morate se odreći domaćih rajčica. Uzgoj rajčice na balkonu izuzetno je popularan i uspješan.
+Ako nemate vrt, rajčicu možete uzgajati na balkonu.
 
+* **posuda** – za jednu rajčicu uzmite teglu ili kantu od najmanje 15 litara, a još bolje 20–30 litara. U većoj posudi zemlja se sporije suši. Rupe na dnu su obavezne.
+* **sorta** – za tegle i kante najbolje su determinantne, grmolike i patuljaste sorte. Na balkonu se često uzgajaju cherry rajčice.
+* **supstrat i sadnja** – koristite kvalitetnu, hranjivu zemlju za povrće. U svaku posudu posadite samo jednu presadnicu, i to dublje.
+* **zalijevanje i prihrana** – zemlja u posudama brže se suši, pa zalijevajte redovito. Kad se pojave prvi plodovi, prihranjujte tekućim gnojivom za plodovito povrće otprilike svaka dva tjedna, prema uputi proizvođača.
 
-
-* Odabir posude: Ključ uspjeha je dovoljno velika posuda. Za sadnju rajčice u tegli ili kanti, odaberite posude minimalnog volumena 20-30 litara. Što je posuda veća, to bolje. Obavezno mora imati drenažne rupe.
-* Odabir sorte: Za sadnju u tegle i kante, najbolje su determinantne, grmolike i patuljaste sorte. Sadnja cherry rajčice je posebno popularna za balkonski uzgoj.
-* Supstrat i sadnja: Koristite kvalitetan, hranjiv supstrat za povrće. Posadite jednu sadnicu po posudi, primjenjujući tehniku dublje sadnje.
-* Zalijevanje i prihrana: Tlo u posudama se brže suši, stoga je potrebno redovito zalijevanje. Prihranjujte tekućim gnojivom za plodovito povrće svaka 2 tjedna nakon što se pojave prvi plodovi.
-
-Više o odabiru tegle, supstrata i prihrani pročitajte u članku [Uzgoj rajčica u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), a o rasporedu zalijevanja u članku [Zalijevanje rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/).
+Više o odabiru tegle, zemlje i prihrani pročitajte u članku o [uzgoju rajčica u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), a koliko često zalijevati, u članku o [zalijevanju rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/).
 
 ## Sadnja rajčice u plasteniku
 
-Sadnja rajčice u plasteniku omogućuje raniji početak sezone i produžetak berbe u jesen. U zaštićenom prostoru, biljke su zaštićene od nepovoljnih vremenskih uvjeta.
+U plasteniku sezona počinje ranije i berba traje dulje u jesen, a biljke su zaštićene od nepovoljnog vremena.
 
-Važno je osigurati dobro prozračivanje plastenika kako bi se spriječila pojava bolesti zbog visoke vlage. Razmak sadnje može biti nešto gušći nego na otvorenom, ali i dalje je važno osigurati protok zraka.
-
-
+Plastenik redovito prozračujte, jer visoka vlaga pogoduje bolestima. Biljke možete saditi nešto gušće nego na otvorenom, ali zrak između njih i dalje mora strujati.
 
 ## Dobri susjedi rajčice
 
-Kombinirana sadnja može značajno poboljšati zdravlje i prinos vaših rajčica.
+Neke biljke posađene uz rajčicu mogu odbijati štetnike, popraviti tlo ili na drugi način pomoći rastu. To su [dobri susjedi rajčice](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/). Dokazi za većinu tih učinaka uglavnom su iskustveni:
 
-  [Dobri susjedi rajčice](https://www.cultivias.com/povrce/dobri-susjedi-raj%C4%8Dice-7-biljaka-za-bolji-rast-i-razvoj/) su biljke koje odbijaju štetnike, poboljšavaju tlo ili na drugi način pomažu u rastu.
+* **bosiljak** – smatra se da poboljšava okus rajčice i odbija komarce i mušice
+* **češnjak i luk** – odbijaju lisne uši i druge štetnike
+* **neven i kadifica** – odbijaju nematode, sitne crve koji napadaju korijen, i druge kukce
+* **salata i špinat** – pokrivaju tlo i čuvaju vlagu
 
+***Rajčicu ne sadite uz krumpir, jer se plamenjača s jedne biljke lako prenese na drugu. Izbjegavajte i blizinu komorača i kukuruza.***
 
+Uz ove upute, bez obzira na način koji odaberete, imate dobre izglede da ovog ljeta uberete zrele, sočne plodove iz vlastitog vrta. Sorte koje se ističu okusom izdvojili smo u popisu [najukusnijih sorti paradajza](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/).
 
-* Bosiljak: Smatra se da poboljšava okus rajčice i odbija komarce i mušice.
-* Češnjak i luk: Odbijaju lisne uši i druge štetnike.
-* Neven i kadifica: Odbijaju nematode u tlu i druge insekte.
-* Salata i špinat: Pokrivaju tlo i čuvaju vlagu.
+## Izvori
 
-***Izbjegavajte sadnju rajčice uz krumpir (zbog prijenosa plamenjače), komorač i kukuruz.***
-
-
-
-Slijedeći ove detaljne upute, bez obzira na metodu koju odaberete, na dobrom ste putu da ovog ljeta uživate u sočnim i ukusnim plodovima iz vlastitog uzgoja.
-
-Pročitajte i: [najukusnije sorte paradajza](https://www.cultivias.com/povrce/koje-su-najukusnije-sorte-paradajza-u-na%C5%A1im-krajevima/).
+- Savjetodavna služba Sveučilišta Sjeverna Karolina (NC State Extension) – [Determinantne rajčice: vodič kroz kompaktne sorte (Determinate Tomatoes: Your Guide to Compact and Delicious Choices)](https://beaufort.ces.ncsu.edu/2025/04/determinate-tomatoes-your-guide-to-compact-and-delicious-choices)
+- Savjetodavna služba Sveučilišta Utah (Utah State University Extension) – [Sadnja, razmak i prorjeđivanje (Planting, Spacing & Thinning)](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)
+- Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension) – [Uzgoj rajčica u kućnom vrtu (Growing Tomatoes in a Home Garden)](https://extension.umd.edu/resource/growing-tomatoes-home-garden)

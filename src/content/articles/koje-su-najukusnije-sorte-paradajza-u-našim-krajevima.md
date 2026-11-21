@@ -6,8 +6,9 @@ image: /images/articles/cherry-rajcica.webp
 perex: "Paradajz je nezaobilazna kultura u vrtovima diljem Balkana i Hrvatske, a
   izbor prave sorte ključan je za postizanje izvanrednog okusa i obilnog uroda.
   "
-readTime: 1
+readTime: 5
 publishedAt: 2024-08-28
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -20,173 +21,110 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-
-Rajčica (paradajz) je jedna od najpopularnijih povrtnih kultura, a postoji više od 10.000 različitih sorti širom svijeta. [Sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) razlikuju se po veličini, obliku, boji, okusu i namjeni, ali ne sve sorte jednako dobro uspijevaju u našim klimatskim uvjetima.
-
-
+[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) (paradajz) jedna je od najpopularnijih povrtnih kultura, a u svijetu postoji više od 10.000 sorti. [Sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) razlikuju se po veličini, obliku, boji, okusu i namjeni, a ne uspijevaju sve jednako dobro u našim klimatskim uvjetima. U nastavku saznajte po čemu se prepoznaje ukusna sorta i koje se kod nas najčešće izdvajaju okusom.
 
 ## Što čini sortu “najukusnijom”?
 
-Okus rajčice ovisi o nekoliko faktora: količini šećera, kiselosti, aromatskim spojevima i teksturi ploda.
+Okus rajčice ovisi o udjelu šećera, kiselosti, aromatskim tvarima i teksturi ploda.
 
-Najukusnije sorte obično imaju višu razinu šećera, bogatiju aromu i mesnatiju teksturu. U našim klimatskim uvjetima, sorte koje najbolje uspijevaju su one prilagođene toplijim temperaturama i koje mogu izdržati lokalnu vlagu i bolesti.
-
-
+Sorte koje se smatraju najukusnijima obično imaju više šećera, bogatiju aromu i mesnatiji plod. U našim krajevima najbolje uspijevaju sorte koje podnose toplinu i lokalnu vlagu te se dobro nose s uobičajenim bolestima.
 
 ## Volovsko Srce (Oxheart)
 
-Volovsko srce, poznato i kao Oxheart, je jedna od najpopularnijih i najukusnijih sorti rajčice u našim krajevima, osobito na Balkanu.
+Volovsko srce, poznato i kao Oxheart, jedna je od najomiljenijih sorti rajčice u našim krajevima i na Balkanu.
 
-Ova sorta je prepoznatljiva po velikim, mesnatim plodovima srcolikog oblika, koji mogu težiti od 200 do 600 grama, što je čini savršenom za svježe konzumiranje.
+Prepoznaje se po velikim, mesnatim plodovima u obliku srca, teškima od 200 do 600 grama. Plodovi su sočni, bogatog i blago slatkastog okusa.
 
+Najčešće se jede svježe, u salatama i sendvičima, gdje se mesnati plod i okus najbolje osjete. Volovsko srce je indeterminantna sorta, što znači da raste visoko poput penjačice i treba potporu.
 
+Najbolje uspijeva u toplijim krajevima, na sunčanom mjestu, uz redovito zalijevanje i tlo iz kojeg višak vode lako otječe.
 
-Njene rajčice su izuzetno sočne, s bogatim i blagim slatkastim okusom koji je teško nadmašiti.
+Relativno je otporna na bolesti, ali je osjetljiva na neujednačenu vlagu, zbog koje plodovi mogu pucati. Zato zalijevajte redovito i umjereno, kako opisuje članak o [zalijevanju rajčica](https://www.cultivias.com/povrce/zalijevanje-rajcica-koliko-cesto-i-kako/).
 
-Idealne su za svježu konzumaciju, salate i sendviče, gdje se njihova mesnata tekstura i bogat okus najbolje iskazuju. Volovsko srce je indeterminantna sorta, što znači da raste kao visoka “loza” koja zahtijeva potporu, ali rezultat je itekako vrijedan uloženog truda.
-
-
-
-U našim klimatskim uvjetima, Volovsko srce najbolje uspijeva u toplim dijelovima zemlje s puno sunca, uz redovito zalijevanje i dobro drenirano tlo.
-
- Iako je relativno otporna na bolesti, ova sorta je osjetljiva na prekomjernu vlagu, što može uzrokovati pucanje plodova – važno je paziti na redovito, ali umjereno zalijevanje.
-
-
-
-Njena glavna prednost je izvanredan okus. To je sorta koju preporučujemo svim vrtlarima koji žele doista najukusniju rajčicu, čak i ako zahtijeva malo više pažnje u uzgoju.
-
-
+Glavna joj je prednost okus, pa je preporučujemo vrtlarima koji su spremni uložiti nešto više truda u uzgoj.
 
 ## San Marzano: sorta za umake i konzerviranje
 
-San Marzano rajčica je duguljasta sorta, posebno cijenjena u talijanskoj kuhinji, ali izuzetno popularna i u našim krajevima. Ova sorta je omiljena za pripremu umaka, paste i konzerviranja zbog svoje mesnate teksture, malog udjela sjemenki i bogatog, malo kiselkastog okusa.
+San Marzano je duguljasta talijanska sorta, cijenjena u talijanskoj kuhinji i rado uzgajana i kod nas. Zbog mesnatog ploda, malo sjemenki i bogatog, blago kiselkastog okusa najčešće se koristi za umake, pastu od rajčice i zimnicu.
 
+Najbolje raste u toplijim krajevima i treba redovito zalijevanje.
 
+Biljke su indeterminantne, odnosno rastu visoko i trebaju potporu, a zauzvrat se plodovi beru dulje.
 
-Plodovi su idealni za one koji žele konzervirati vlastitu proizvodnju ili pripremiti domaće umake i paste.
-
-U našim klimatskim uvjetima, San Marzano rajčice najbolje rastu u toplim dijelovima zemlje, a potrebno ih je redovito zalijevati.
-
-Biljke su indeterminantne, što znači da rastu kao visoke loze koje trebaju potporu, ali to omogućava duži period berbe.
-
-
-
-Prednost ove sorte je njena otpornost na bolesti, visoka produktivnost i konzistentna kvaliteta plodova.
-
-
+Prednosti su joj visok prinos i ujednačena kvaliteta plodova, a u pravilu dobro podnosi uobičajene bolesti.
 
 ## Cherry rajčica: slatka i otporna sorta
 
-Cherry rajčica je malena, okrugla sorta koja je postala sve popularnija u našim vrtovima. Ova sorta raste brzo i daje plodove tijekom cijele sezone, što je čini idealno za kontinuirani prinos.
+Cherry rajčice nisu jedna sorta, nego skupina sorti sa sitnim, okruglim plodovima, sve popularnija u našim vrtovima. Brzo rastu i rađaju cijelu sezonu.
 
-Cherry rajčice mogu biti crvene, žute ili čak crne, a poznate su po svom slatkom okusu koji se sviđa cijeloj obitelji.
+Plodovi mogu biti crveni, žuti, pa i gotovo crni, a poznati su po slatkom okusu koji se sviđa cijeloj obitelji.
 
+Većina cherry sorti je indeterminantna, ali ima i determinantnih, koje su niže i trebaju manje mjesta.
 
+U našim uvjetima cherry rajčice u pravilu dobro podnose bolesti i vremenske nepogode, pa su pouzdan izbor. Lako se uzgajaju, čak i [u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/).
 
-Biljke su često indeterminantne, ali postoje i determinantne sorte koje su kompaktnije i ne zahtijevaju puno prostora.
-
-U našim klimatskim uvjetima, Cherry rajčice su izuzetno otporne na bolesti i vremenskim neprilikama, što ih čini pouzdanim izborom. Prednost ove sorte je jednostavan uzgoj, čak i u posudama na balkonu, te visoka otpornost na bolesti.
-
-
-
-Za vrtlare u našim krajevima koji žele sortu koja će sigurno uspjeti, Cherry rajčica je odličan izbor. Slatki plodovi su savršeni za snackanje direktno sa biljke, a djeca ih također obožavaju.
-
-
+Za vrtlare koji žele sortu koja će gotovo sigurno uspjeti, cherry rajčica je dobar izbor. Slatki plodovi beru se i jedu izravno s biljke, a djeca ih osobito vole.
 
 ## Beefsteak: velika sorta za sendviče i salate
 
-Beefsteak je jedna od najvećih sorti rajčice, s plodovima koji mogu težiti i do 500 grama (pola kilograma,).
+Beefsteak nije jedna sorta, nego skupina sorti s najkrupnijim plodovima, koji mogu biti teški i do 500 grama.
 
- Ova sorta je idealna za svježu konzumaciju, posebno za sendviče zbog svog mesnatog i sočnog ploda. Biljke su indeterminantne i trebaju potporu kako bi izdržale težinu velikih plodova.
+Plodovi su mesnati i sočni, pa se najčešće jedu svježi, osobito u sendvičima. Biljke su indeterminantne i trebaju čvrstu potporu kako bi izdržale težinu plodova.
 
+Najbolje rastu u toplijim krajevima, na sunčanom mjestu, uz redovito zalijevanje i prihranu.
 
-
-U našim klimatskim uvjetima, Beefsteak rajčice najbolje rastu u toplim dijelovima zemlje, u sunčanim pozicijama, a zahtijevaju redovito zalijevanje i prihranu.
-
-Prednost ove sorte je njen veliki prinos i intenzivan okus. Ako ste u potrazi za sortom koja će vam omogućiti impresivne, velike plodove za svježe konzumiranje, Beefsteak je odličan izbor.
-
-
+Prednosti su im velik prinos i izražen okus. Ako želite velike plodove za jelo u svježem stanju, beefsteak sorte dobar su izbor.
 
 ## Roma: pouzdana sorta za konzerviranje
 
-Roma je sorta rajčice poznata po jajolikom obliku i gustom mesu s malo sjemenki.
+Roma je sorta jajolikog oblika, gustog mesa i s malo sjemenki.
 
-Ova sorta je popularna za pripremu umaka, paste i konzerviranja, što je čini omiljenom sortom za vrtlare koji žele konzervirati vlastitu proizvodnju.
+Koristi se za umake, pastu od rajčice i zimnicu, pa je omiljena među vrtlarima koji sami prerađuju urod.
 
- Roma rajčice su determinantne, što znači da rastu kao grmovi i ne zahtijevaju puno prostora.
+Roma je determinantna sorta, odnosno raste kao grm i ne treba mnogo mjesta.
 
+U našim je uvjetima vrlo pouzdana.
 
+Poznata je po otpornosti na bolesti i dobrom prinosu, i u manje povoljnim godinama. Plodovi dugo traju, a uzgoj je jednostavan.
 
-U našim klimatskim uvjetima, Roma je izuzetno pouzdana sorta.
-
-Ove rajčice su poznate po otpornosti na bolesti i visokim prinosima, čak i u manje povoljnim godinama. Njihova prednost je dug rok trajanja, jednostavan uzgoj, čak i u manje povoljnim klimatskim uvjetima, i konzistentna kvaliteta.
-
-
-
-Roma je idealna sorta za početnike i za one koji žele sortu koja će sigurno uspjeti bez puno dodatne pažnje. Ako trebate sortu za konzerviranje ili pripremu umaka, Roma je pouzdana i iskušana sorta.
-
-
+Dobar je izbor za početnike i za sve koji trebaju sortu za zimnicu ili umake.
 
 ## Brandywine: sorta za ljubitelje bogatog okusa
 
-Brandywine je stara sorta rajčice poznata po velikim, mesnatim plodovima i jedinstvenom, bogatom okusu. Ova sorta je omiljena među ljubiteljima rajčice zbog svoje bogate arome koja podsjeća na naslijeđe starih sorti.
+Brandywine je stara sorta poznata po velikim, mesnatim plodovima bogate arome, kakvu ljubitelji rajčice povezuju sa starim sortama.
 
-Biljke su indeterminantne i mogu biti prilično visoke, pa je potrebno osigurati čvrstu potporu.
+Biljke su indeterminantne i mogu narasti prilično visoko, pa trebaju čvrstu potporu.
 
+Kod nas traži dugu sezonu i mnogo sunca, pa je zahtjevnija za uzgoj. Tko uloži taj trud, dobiva okus kakav se rijetko nalazi kod modernih hibrida.
 
-
-U našim klimatskim uvjetima, Brandywine zahtijeva dugačku vegetacijsku sezonu i puno sunca, što je čini izazovnijom za uzgoj. Međutim, za one koji su voljni uložiti dodatni napor, rezultat je okus koji se rijetko nalazi u modernim hibridima.
-
-Njihova prednost je izvanredan okus koji je teško nadmašiti.
-
-
+Glavna joj je prednost okus.
 
 ## Black Krim: egzotična sorta sa okusom dima
 
-Black Krim je sorta rajčice koja potječe s Krima, poznata po tamnocrvenoj, gotovo crnoj boji ploda.
+Black Krim potječe s Krima, a prepoznaje se po tamnocrvenoj, gotovo crnoj boji ploda.
 
-Ova sorta ima bogat, blago dimljeni okus, što je čini popularnom za salate i svježu konzumaciju.
+Ima bogat, blago dimljeni okus, pa se najčešće jede u salatama i svježa.
 
-Biljke su indeterminantne i u našim klimatskim uvjetima najbolje rastu u toplim dijelovima zemlje.
+Biljke su indeterminantne i najbolje rastu u toplijim krajevima.
 
+Osjetljiva je na neujednačenu vlagu, pa je zalijevajte pažljivo, da plodovi ne pucaju.
 
+Prednosti su joj neobičan, dimljeni okus i upečatljiv izgled ploda.
 
-Black Krim rajčice su osjetljive na vlagu i zahtijevaju pažljivo zalijevanje kako bi se spriječila pojava pukotina na plodu.
-
-Prednost ove sorte je njen jedinstven, dimljeni okus i atraktivan izgled koji će sigurno privući pažnju.
-
-Ova sorta je odličan izbor za one koji žele nešto drugačije i vizualno privlačno u svom vrtu.
-
-
+Dobar je izbor za vrtlare koji žele nešto drukčije u svom vrtu.
 
 ## Kako odabrati najukusniju sortu za Vaš vrt?
 
-Odabir najukusnije sorte paradajza u našim krajevima ovisi o nekoliko faktora:
+Izbor ovisi o nekoliko stvari:
 
-
-
-Klima i lokacija: U toplim dijelovima zemlje (Dalmacija, Primorje), sve sorte će bolje uspijevati. U kontinentalnim dijelovima, preporučujemo sorte koje brže sazrijevaju i otporne su na bolesti.
-
-
-
-Dostupan prostor: Ako imate mali vrt ili balkon, odaberite determinantne sorte ili Cherry rajčice. Ako imate veći vrt, indeterminantne sorte kao Volovsko srce i Brandywine mogu dati veće prinose.
-
-
-
-Namjena: Za svježe konzumiranje, odaberite Volovsko srce, Beefsteak ili Brandywine. Za konzerviranje i umake, odaberite San Marzano ili Roma.
-
-
+* **klima i položaj** – u toplijim krajevima, poput Dalmacije i Primorja, većina sorti bolje uspijeva. U kontinentalnim krajevima birajte sorte koje brže dozrijevaju i otporne su na bolesti.
+* **prostor** – za mali vrt ili balkon odaberite determinantne sorte ili cherry rajčice. U većem vrtu indeterminantne sorte, poput Volovskog srca i Brandywinea, mogu dati veći urod.
+* **namjena** – za jelo u svježem stanju odaberite Volovsko srce, beefsteak sorte ili Brandywine, a za zimnicu i umake San Marzano ili Romu.
 
 ## Zaključak: kombinacija sorti za najbolje rezultate
 
-Umjesto da birate samo jednu sortu, preporučujemo da kombinirate nekoliko sorti kako biste osigurali raznolikost okusa i kontinuirani prinos tijekom cijele sezone.
+Umjesto jedne sorte posadite nekoliko njih. Tako ćete imati različite okuse i berbu kroz cijelu sezonu.
 
-Kombinacija Volovskog srca za svježe konzumiranje, San Marzana za umake i Cherry rajčice za kontinuirani prinos dat će vam najbolje od svega.
+Primjerice, Volovsko srce za jelo u svježem stanju, San Marzano za umake i cherry rajčice za stalnu berbu pokrivaju većinu potreba.
 
-
-
-U našim klimatskim uvjetima, sve navedene sorte mogu uspjeti ako im osigurate dovoljno sunca, redovito zalijevanje i dobro drenirano tlo.
-
-Svaka sorta ima svoje jedinstvene karakteristike i prednosti, a odabir ovisi o vašim preferencijama i dostupnom prostoru.
-
-Pročitajte i: [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/) i [kalorije u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
+Sve navedene sorte mogu uspjeti u našim uvjetima ako imaju dovoljno sunca, redovito zalijevanje i tlo iz kojeg voda dobro otječe. Kako ih posaditi, opisuje [vodič za sadnju rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koliko kalorija ima svježa rajčica, a koliko umak, pregled [kalorija u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
