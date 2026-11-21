@@ -22,7 +22,7 @@ noindex: false
 ---
 ## Koliko kalorija ima porcija svježih kupina?
 
-U zdjelicu možete odvojiti [150 g svježih kupina](https://fdc.nal.usda.gov/food-details/173946/nutrients), što daje oko **65 kcal**, ili 200 g, što daje 86 kcal. Šaka, puna zdjelica ili jedna kupina nemaju stalnu masu. Jednom izvažite 100 g u svojoj zdjelici i zapamtite razinu voća, pa ćete lakše procijeniti sljedeću porciju.
+Prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA), [150 g svježih kupina](https://fdc.nal.usda.gov/food-details/173946/nutrients) koje odvojite u zdjelicu daje oko **65 kcal**, ili 200 g, što daje 86 kcal. Šaka, puna zdjelica ili jedna kupina nemaju stalnu masu. Jednom izvažite 100 g u svojoj zdjelici i zapamtite razinu voća, pa ćete lakše procijeniti sljedeću porciju.
 
 Ako kupine dodajete jogurtu ili zobenim pahuljicama, ove brojke opisuju samo voće. Kalorije ostatka doručka pribrajaju se zasebno, kao i šećer ili drugi dodaci koje stavite preko bobica.
 
@@ -41,23 +41,23 @@ Brojke za liofilizirane kupine i džem vrijede za dva proizvoda opisana u nastav
 
 Kupine koje kod kuće zamrznete bez dodataka možete približno računati kao svježe, oko 43 kcal na 100 g, ako upotrijebite i sok koji otpuste. **Samo zamrzavanje ne stvara dodatne kalorije.**
 
-Za nezaslađene zamrznute kupine postoji i podatak od [64 kcal na 100 g](https://fdc.nal.usda.gov/food-details/171710/nutrients), ali on ne znači da je zamrzavanje povećalo energiju istih plodova. Za kupovno pakiranje pročitajte njegovu deklaraciju (natpis sa sastojcima i hranjivim vrijednostima). Ako spremate vlastiti urod, korisni su i [savjeti o berbi i čuvanju kupina](https://www.cultivias.com/voce/kupina-sve-%C5%A1to-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti/).
+Za nezaslađene zamrznute kupine ista baza navodi [64 kcal na 100 g](https://fdc.nal.usda.gov/food-details/171710/nutrients), ali on ne znači da je zamrzavanje povećalo energiju istih plodova. Za kupovno pakiranje pročitajte njegovu deklaraciju (natpis sa sastojcima i hranjivim vrijednostima). Ako spremate vlastiti urod, korisni su i [savjeti o berbi i čuvanju kupina](https://www.cultivias.com/voce/kupina-sve-%C5%A1to-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti/).
 
 ## Zašto su sušene kupine kaloričnije na 100 g?
 
-Sušene kupine imaju više kalorija na istu masu jer se [sušenjem uklanja voda iz voća](https://extension.colostate.edu/resource/drying-fruits/). Energija tako ostaje u manjoj masi, pa 100 g sušenih kupina nije usporedivo sa 100 g svježih bobica po količini početnog voća.
+Sušene kupine imaju više kalorija na istu masu jer se sušenjem uklanja voda iz voća, objašnjava [Savjetodavna služba Sveučilišta Colorado State (Colorado State University Extension)](https://extension.colostate.edu/resource/drying-fruits/). Energija tako ostaje u manjoj masi, pa 100 g sušenih kupina nije usporedivo sa 100 g svježih bobica po količini početnog voća.
 
 Kod uobičajeno sušenih kupina brojka ovisi o tome koliko je vode ostalo i jesu li dodani drugi sastojci. Zato vrijednost jednog sušenog proizvoda ne treba prenositi na sve ostale. Primjer računa: ako 100 g svježih kupina (43 kcal) osušite na 20 g, tih je 43 kcal sada u 20 g, odnosno oko 215 kcal na 100 g.
 
 ### Koliko kalorija imaju liofilizirane kupine?
 
-Liofilizacija je sušenje zamrzavanjem, a ne obično zamrzavanje svježih plodova niti uobičajeno sušenje toplinom. [Liofilizirane kupine Nuts.com](https://nuts.com/products/freeze-dried-blackberries), čiji su jedini sastojak kupine, imaju 33 kcal na 10 g, odnosno približno 330 kcal na 100 g.
+Liofilizacija je sušenje zamrzavanjem, a ne obično zamrzavanje svježih plodova niti uobičajeno sušenje toplinom. [Liofilizirane kupine američke internetske trgovine Nuts.com](https://nuts.com/products/freeze-dried-blackberries), čiji su jedini sastojak kupine, imaju 33 kcal na 10 g, odnosno približno 330 kcal na 100 g.
 
 Za dodatak doručku možete izvagati 10 g, što daje 33 kcal, ili 20 g, što daje 66 kcal. To su kalorije ovog proizvoda, pa se brojka ne prenosi na konvencionalno sušene ili zaslađene kupine.
 
 ## Koliko kalorija ima džem od kupina?
 
-Džem se razlikuje od svježih kupina po manjoj količini vode i dodacima koji zaslađuju namaz. [Smucker’s džem od kupina](https://www.smuckers.com/fruit-spreads/jam/blackberry-jam) sadrži kupine i kukuruzne sirupe (zasladivače od kukuruznog škroba) te ima 50 kcal na porciju od 20 g, odnosno približno 250 kcal na 100 g. Domaći namaz s drukčijim omjerom sastojaka neće nužno imati istu vrijednost.
+Džem se razlikuje od svježih kupina po manjoj količini vode i dodacima koji zaslađuju namaz. [Džem od kupina američkog proizvođača Smucker’s](https://www.smuckers.com/fruit-spreads/jam/blackberry-jam) sadrži kupine i kukuruzne sirupe (zasladivače od kukuruznog škroba) te ima 50 kcal na porciju od 20 g, odnosno približno 250 kcal na 100 g. Domaći namaz s drukčijim omjerom sastojaka neće nužno imati istu vrijednost.
 
 Za namaz na kruhu jednom izvažite koliko džema zahvatite svojom žlicom ili žličicom. Nije svaka žlica teška 20 g. Porcija te mase daje 50 kcal prije nego što pribrojite kruh ili maslac.
 
@@ -76,5 +76,7 @@ Da, kupine imaju vlastitu energiju i bez dodatnog šećera. Ako se voće ukuha u
 Gnječenje ne mijenja ukupne kalorije iste porcije ako ništa ne dodajete ni odbacujete. Pasiranje (provlačenje kroz sito) i cijeđenje soka drukčiji su postupci jer odvajaju sjemenke i dio pulpe (kašastog dijela ploda), pa se energija svih početnih kupina ne može pripisati samo onome što ostane.
 
 Zdjelica s odvaganih 200 g svježih kupina ima 86 kcal, dok 20 g prikazanog džema ima 50 kcal. Kad kupine mijenjate namazom, usporedite količinu na kruhu s količinom bobica u zdjelici, ne samo njihove vrijednosti na 100 g.
+
+Za usporedbu pogledajte i kalorije drugih bobica: [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/), [ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/) i [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

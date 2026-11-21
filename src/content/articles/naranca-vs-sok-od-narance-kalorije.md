@@ -22,11 +22,11 @@ noindex: false
 ---
 ## Koliko kalorija ima jedna naranča?
 
-Srednja naranča s [131 g jestivog dijela ima oko 62 kcal](https://www.ars.usda.gov/is/np/NutritiveValueofFoods/NutritiveValueofFoods.pdf), a polovica takvog ploda oko 31 kcal. Manji i veći plodovi neće dati istu porciju. Ako oguljene kriške zajedno teže 150 g, imaju oko 71 kcal.
+Prema publikaciji američkog Ministarstva poljoprivrede (USDA) o hranjivoj vrijednosti namirnica, srednja [naranča](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/) s [131 g jestivog dijela ima oko 62 kcal](https://www.ars.usda.gov/is/np/NutritiveValueofFoods/NutritiveValueofFoods.pdf), a polovica takvog ploda oko 31 kcal. Manji i veći plodovi neće dati istu porciju. Ako oguljene kriške zajedno teže 150 g, imaju oko 71 kcal.
 
 Naranču zato važite nakon guljenja. Cijeli plod s korom uključuje i dio koji nećete pojesti, pa njegova masa nije dobra za račun kalorija jestivog dijela.
 
-Za lakšu procjenu jednom stavite 100 g oguljenih kriški u svoju zdjelicu i zapamtite razinu voća. Ta količina ima [47 kcal](https://tools.myfooddata.com/nutrition-facts/169097/100g), bez obzira na broj kriški.
+Za lakšu procjenu jednom stavite 100 g oguljenih kriški u svoju zdjelicu i zapamtite razinu voća. Ta količina ima 47 kcal, prema bazi [FoodData Central](https://fdc.nal.usda.gov/food-details/169097/nutrients), bez obzira na broj kriški.
 
 | Oblik | kcal na 100 g ili 100 ml | Konkretna porcija | kcal porcije |
 | --- | ---: | --- | ---: |
@@ -36,7 +36,7 @@ Za lakšu procjenu jednom stavite 100 g oguljenih kriški u svoju zdjelicu i zap
 | Isti 100% sok s pulpom | 45 kcal/100 ml | Veća čaša, 250 ml | oko 113 |
 | Napitak s 25% soka, primjer | 44 kcal/100 ml | Čaša, 250 ml | 110 |
 
-Brojke za napitke odnose se na Rauch Happy Day 100% Orange Fruchtfleisch i Orange Sunshine. Druga pakiranja i recepture mogu se razlikovati.
+Brojke za napitke odnose se na sokove Rauch Happy Day 100% Orange Fruchtfleisch i Orange Sunshine austrijskog proizvođača Rauch. Druga pakiranja i recepture mogu se razlikovati.
 
 ![Infografika: kalorije naranče i soka. Srednja naranča od 131 g ima oko 62 kcal, 100 g kućno smrznutih komada oko 47 kcal, čaša od 2 dl stopostotnog soka 90 kcal, čaša od 250 ml oko 113 kcal i napitak s 25 % soka 110 kcal](/images/articles/infografika-naranca-kalorije.webp)
 
@@ -54,7 +54,7 @@ Ta razlika dolazi iz usporedbe različitih porcija, a ne iz stvaranja kalorija c
 
 Za domaći cijeđeni sok ne treba zbrajati kalorije svih naranči koje ste upotrijebili, jer dio ploda ostaje u ostatku nakon cijeđenja (kožica, bjelkasti dio ispod nje i dio pulpe). Računa se ono što je završilo u čaši.
 
-Okvirni izračun: izmjerite koliko ste mililitara soka dobili i pomnožite s 0,45 kcal po mililitru. [USDA podaci za svježe cijeđeni sok navode 45 kcal na 100 g](https://tools.myfooddata.com/nutrition-facts/169098/100g), a slično ima i kupovni stopostotni sok iz tablice. Čaša od 200 ml tako ima oko 90 kcal (200 × 0,45), a čaša od 250 ml oko 113 kcal. Ako sok zasladite, dodajte oko 4 kcal po gramu [šećera](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/).
+Okvirni izračun: izmjerite koliko ste mililitara soka dobili i pomnožite s 0,45 kcal po mililitru. [Baza FoodData Central (USDA) za svježe cijeđeni sok navodi 45 kcal na 100 g](https://fdc.nal.usda.gov/food-details/169098/nutrients), a slično ima i kupovni stopostotni sok iz tablice. Čaša od 200 ml tako ima oko 90 kcal (200 × 0,45), a čaša od 250 ml oko 113 kcal. Ako sok zasladite, dodajte oko 4 kcal po gramu [šećera](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/).
 
 Koliko naranči treba za čašu? Prema istom izvoru jedna srednja naranča daje oko 86 g soka, što je oko 39 kcal, a čaša od 248 g ima oko 112 kcal. Za čašu od 2 dl zato treba oko dvije do tri naranče. Sok jedne naranče (oko 39 kcal) ima manje kalorija od cijelog ploda (oko 62 kcal) jer dio ploda ostane u ostatku nakon cijeđenja.
 
@@ -62,11 +62,11 @@ Drukčije je kada blendate cijeli oguljeni jestivi dio i ništa ne procijedite: 
 
 ### Je li sok s pulpom isto što i cijeli plod?
 
-Nije: pulpa znači da sok sadrži čestice ploda, ali ne i sve što biste pojeli u oguljenoj naranči. [Cijelo i narezano voće sadrži vlakna, dok ih sokovi imaju malo ili nimalo](https://pubs.nmsu.edu/_e/E141/index.html) (vlakna su dio voća koji se ne probavlja, a daje osjećaj sitosti), pa natpis „s pulpom” nije dovoljan za izjednačavanje tih oblika.
+Nije: pulpa znači da sok sadrži čestice ploda, ali ne i sve što biste pojeli u oguljenoj naranči. Cijelo i narezano voće sadrži vlakna, dok ih sokovi imaju malo ili nimalo, navodi [Savjetodavna služba Sveučilišta New Mexico State (NMSU Extension)](https://pubs.nmsu.edu/_e/E141/index.html) (vlakna su dio voća koji se ne probavlja, a daje osjećaj sitosti), pa natpis „s pulpom” nije dovoljan za izjednačavanje tih oblika.
 
 ## Ima li sok iz koncentrata više kalorija?
 
-Oznaka „iz koncentrata” (sok zgusnut uklanjanjem vode) sama po sebi ne znači više kalorija. Pri pripremi takvog soka [koncentriranom voćnom soku vraća se voda](https://www.fao.org/input/download/standards/10154/CXS_247e.pdf), pa gotov napitak nije isto što i nerazrijeđeni koncentrat. Za kalorije čaše računa se sok spreman za piće. Primjer: ako na pakiranju soka spremnog za piće piše 45 kcal na 100 ml, čaša od 200 ml ima 2 × 45 = 90 kcal.
+Oznaka „iz koncentrata” (sok zgusnut uklanjanjem vode) sama po sebi ne znači više kalorija. Pri pripremi takvog soka koncentriranom voćnom soku vraća se voda, kako propisuje [međunarodna norma za voćne sokove Codex Alimentarius (FAO i WHO)](https://www.fao.org/input/download/standards/10154/CXS_247e.pdf), pa gotov napitak nije isto što i nerazrijeđeni koncentrat. Za kalorije čaše računa se sok spreman za piće. Primjer: ako na pakiranju soka spremnog za piće piše 45 kcal na 100 ml, čaša od 200 ml ima 2 × 45 = 90 kcal.
 
 ### Jesu li nektar i napitak s manje voća manje kalorični?
 
@@ -91,5 +91,7 @@ Primjer računa za zamišljeni recept: 500 g oguljene naranče (235 kcal) i 300 
 Jednom izvažite koliko namaza zahvatite svojom žličicom ili žlicom. Tako ćete znati masu porcije na kruhu, umjesto da svaku punu žlicu računate jednako.
 
 Srednja oguljena naranča iz primjera ima oko 62 kcal, a čaša od 250 ml prikazanog stopostotnog soka oko 113 kcal. Kad uspoređujete doručak s narančom i doručak sa sokom, računajte plod koji pojedete ili količinu koju stvarno ulijete u čašu.
+
+Ako uspoređujete sokove od različitog voća, pogledajte i kalorije soka od [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/) i matičnog soka od [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

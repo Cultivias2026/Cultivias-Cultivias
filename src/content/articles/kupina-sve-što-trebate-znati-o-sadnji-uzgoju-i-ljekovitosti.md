@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/zreli-plodovi-crne-kupine.webp
 perex: Kupina, sočno i tamno voće koje nas ljeti mami iz grmova uz putove i iz
   vrtova, puno je više od obične poslastice.
-readTime: 6
+readTime: 10
 publishedAt: 2026-01-17
+updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,185 +19,176 @@ related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
 ---
 
-
-Ova skromna bobica, znanstveno poznata kao *Rubus fruticosus*, ima bogatu povijest koja seže tisućama godina unatrag, a njezina upotreba u prehrani i narodnoj medicini duboko je ukorijenjena u tradiciji mnogih kultura.
-
-Od obilja antioksidansa koji štite naše tijelo do vlakana koja potiču probavu, ovo voće nudi nevjerojatan spektar dobrobiti. U ovom sveobuhvatnom vodiču istražit ćemo sve što kupinu čini tako posebnom.
+Kupina (*Rubus fruticosus*) bobičasto je voće koje raste i divlje, uz rubove šuma i puteva, i u vrtovima, gdje se danas sade sorte bez trnja. Plodovi imaju malo kalorija, a izvor su vlakana, vitamina C i K te mangana. U nastavku saznajte što kupina sadrži, što o njezinu djelovanju kažu istraživanja, kako se priprema čaj od lista te kako kupinu posaditi, orezati, ubrati i čuvati.
 
 ## Što je kupina i kako izgleda?
 
-Kupina je višegodišnji grm iz porodice ruža (*Rosaceae*), u koju spadaju i maline, jagode te same ruže.
+Kupina je višegodišnji grm iz porodice ruža (*Rosaceae*), u koju pripadaju i maline, jagode i same ruže.
 
-Njezin latinski naziv, *Rubus fruticosus*, odnosi se na široku skupinu srodnih vrsta koje rastu diljem Europe, Azije i Sjeverne Amerike.
+Latinski naziv *Rubus fruticosus* odnosi se na široku skupinu srodnih vrsta koje rastu diljem Europe, Azije i Sjeverne Amerike.
 
-Prepoznatljiva je po svojim dugim, povijenim granama koje su često prekrivene trnjem, iako danas postoje i brojne sorte bez bodlji.
+Prepoznatljiva je po dugim, povijenim izbojima koji su često prekriveni trnjem, iako danas postoje i brojne sorte bez trnja. Listovi su složeni, najčešće od tri do pet nazubljenih listića.
 
- Listovi su joj složeni, najčešće sastavljeni od tri do pet manjih, nazubljenih listića. U kasno proljeće i rano ljeto, grm se ukrašava nježnim bijelim ili ružičastim cvjetovima koji privlače pčele i druge oprašivače.
+Krajem proljeća i početkom ljeta grm cvate bijelim ili ružičastim cvjetovima, koje posjećuju pčele i drugi oprašivači. Plodovi tijekom sazrijevanja mijenjaju boju iz zelene u crvenu, a zatim u sjajnu crnu ili tamnoljubičastu.
 
- Iz tih cvjetova razvijaju se plodovi, koje tijekom sazrijevanja mijenjaju boju od zelene, preko crvene, do konačne, sjajne crne ili tamnoljubičaste boje.
+Tamnu boju daju antocijani, biljni pigmenti s antioksidativnim djelovanjem.
 
-Upravo ta tamna boja potječe od antocijana, moćnih antioksidansa koji kupini daju njezinu iznimnu nutritivnu vrijednost.
-
-Postoji temeljna razlika između divlje kupine, koja raste samoniklo uz rubove šuma i puteva, i pitome ili uzgojene kupine, koja se sadi u vrtovima i na plantažama i često ima krupnije i slađe plodove.
+Divlja kupina raste samoniklo uz rubove šuma i puteva, a uzgojena se sadi u vrtovima i nasadima i obično ima krupnije i slađe plodove.
 
 ## Kemijski sastojci i spojevi
 
-Ono što kupinu čini superhranom njezin je iznimno bogat kemijski sastav.
+Kupina sadrži mnogo polifenola, biljnih spojeva s antioksidativnim djelovanjem. Među njima su najvažniji antocijani, pigmenti koji joj daju tamnu boju.
 
-Ona je jedan od najbogatijih prirodnih izvora antocijana, biljnih pigmenata koji joj daju karakterističnu tamnu boju i djeluju kao snažni antioksidansi.
+Najzastupljeniji antocijan u kupini je cijanidin-3-O-glukozid, koji se u laboratorijskim istraživanjima pokazao protuupalnim.
 
-Glavni među njima je [cijanidin-3-O-glukozid](https://hr.lsherb.com/info/what-are-the-benefits-of-anthocyanin-3-o-gluco-76748915.html), za koji su brojne studije pokazale da ima snažno protuupalno djelovanje.
+Kupina sadrži i druge fenolne spojeve: elagitanine, galnu i kavenu kiselinu te flavonoide poput kvercetina i rutina. Pregledni rad Zia-Ul-Haqa i suradnika u časopisu Molecules (2014.) navodi da ukupni polifenoli u kupinama variraju od oko 289 do više od 700 mg na 100 g, ovisno o sorti, zrelosti i uvjetima uzgoja.
 
-Osim antocijana, kupine sadrže i širok spektar drugih fenolnih spojeva, poput galične kiseline, kofeinske kiseline i flavonoida kao što su kvercetin i rutin. Ovi spojevi štite naše stanice od oštećenja uzrokovanih slobodnim radikalima, čime pomažu u prevenciji kroničnih bolesti. Jedna opsežna [znanstvena analiza](https://pmc.ncbi.nlm.nih.gov/articles/PMC6271759/) pokazala je da ukupni sadržaj polifenola u kupinama može varirati od 289 do čak preko 700 mg na 100 grama svježeg voća, ovisno o sorti, zrelosti i uvjetima uzgoja.
-
-To kupinu svrstava u sam vrh voća po antioksidativnom kapacitetu.
+Po tome je kupina među bobičastim voćem s više polifenola. Antioksidativna aktivnost izmjerena u laboratoriju, međutim, ne znači automatski da kupina štiti od bolesti.
 
 ## Nutritivna vrijednost kupine
 
-Osim što je bogata bioaktivnim spojevima, kupina je i nutritivno vrlo vrijedna namirnica. Sadrži malo kalorija, a puno važnih nutrijenata. Brojke za svježe, zamrznute i sušene kupine te džem donosi članak [kupine i kalorije](https://www.cultivias.com/voce/kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu/).
+Kupina ima malo kalorija, a mnogo vlakana. Brojke za svježe, zamrznute i sušene kupine te džem donosi članak o [kalorijama kupina](https://www.cultivias.com/voce/kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu/).
 
-Jedna šalica svježih kupina (oko 144 grama) ima samo 62 kalorije, što je čini idealnim izborom za one koji paze na tjelesnu težinu.
+Podaci u tablici potječu iz baze FoodData Central američkog Ministarstva poljoprivrede (USDA), a postotci su izračunati prema referentnim unosima za odrasle iz Uredbe (EU) br. 1169/2011.
 
-Izuzetno je bogata prehrambenim vlaknima – ista ta šalica sadrži čak 7.6 grama vlakana, što je gotovo trećina preporučenog dnevnog unosa.
+| Sastojak u 100 g svježih kupina | Količina | Udio referentnog dnevnog unosa |
+| --- | --- | --- |
+| Energija | 43 kcal | – |
+| Ugljikohidrati | 9,6 g | – |
+| Vlakna | 5,3 g | – |
+| Bjelančevine | 1,4 g | – |
+| Masti | 0,5 g | – |
+| Vitamin C | 21 mg | 26 % |
+| Vitamin K | 19,8 µg | 26 % |
+| Mangan | 0,65 mg | 32 % |
+| Kalij | 162 mg | 8 % |
+| Željezo | 0,62 mg | 4 % |
 
-Vlakna su bitna za zdravu probavu, pomažu u regulaciji razine šećera u krvi i daju osjećaj sitosti.
+Šalica svježih kupina, oko 144 g, ima 62 kcal i 7,6 g vlakana, što je otprilike trećina referentnog unosa vlakana od 25 g. Vlakna pomažu probavi, usporavaju porast šećera u krvi i daju osjećaj sitosti.
 
-Kupine su također izvrstan izvor vitamina C, koji je važan za imunitet i zdravlje kože, te vitamina K, koji igra ključnu ulogu u zgrušavanju krvi i zdravlju kostiju.
+Kupina je izvor vitamina C, vitamina K i mangana. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, ti hranjivi sastojci imaju sljedeće uloge:
 
-Od minerala, ističe se mangan, koji sudjeluje u brojnim metaboličkim procesima. Zbog niskog udjela šećera i niskog glikemijskog indeksa (oko 25), kupine su pogodne i za prehranu dijabetičara.
+* **vitamin C** – pridonosi normalnoj funkciji imunosnog sustava, zaštiti stanica od oksidativnog stresa i smanjenju umora
+* **mangan** – pridonosi održavanju normalnih kostiju, stvaranju vezivnog tkiva i normalnom stvaranju energije
+* **vitamin K** – pridonosi normalnom zgrušavanju krvi i održavanju normalnih kostiju
 
-**Vitamin C:** Doprinosi normalnoj funkciji imunološkog sustava, zaštiti stanica od oksidativnog stresa te smanjenju umora i iscrpljenosti.
+Kupina ima i nizak glikemijski indeks (pokazatelj koliko brzo hrana podiže šećer u krvi), oko 25, pa se može uklopiti i u prehranu osoba s dijabetesom, uz praćenje ukupne količine ugljikohidrata.
 
-**Mangan:** Ima ključnu ulogu u održavanju normalnih kostiju i stvaranju vezivnog tkiva te doprinosi normalnom metabolizmu stvaranja energije.
-
-**Vitamin K:** Doprinosi normalnom zgrušavanju krvi i održavanju zdravlja kostiju.
-
-![](/images/articles/nutritivne_vrijednosti_2.jpg)
+Osobe koje uzimaju lijekove protiv zgrušavanja krvi iz skupine antagonista vitamina K, poput varfarina, ne moraju izbjegavati kupine, ali neka ih jedu u ujednačenim količinama i o većim promjenama prehrane razgovaraju s liječnikom.
 
 ## Zdravstvene prednosti kupine
 
-Redovita konzumacija kupina može donijeti brojne zdravstvene koristi, što potvrđuju i znanstvena istraživanja.
+Redovito jedenje voća, pa tako i kupina, dio je zdrave prehrane. Pregledni rad američkih znanstvenika Kaume i suradnika (2012.) navodi, međutim, da je istraživanja o djelovanju samih polifenola iz kupine na ljude malo.
 
- Njihova najistaknutija karakteristika je iznimno visok antioksidativni kapacitet, koji pomaže u neutralizaciji štetnih slobodnih radikala i smanjenju oksidativnog stresa u tijelu.
+Flavonoidi i antocijani iz kupina u laboratorijskim i pokusima na životinjama smanjuju upalne procese i oksidativni stres. Američki portal o prehrani Verywell Fit navodi da bi mogli pomoći i zdravlju krvnih žila, no za to još nema dovoljno istraživanja na ljudima.
 
- Flavonoidi i antocijani iz kupina, kako sugeriraju [studije](https://www.verywellfit.com/blackberry-nutrition-facts-calories-and-health-benefits-4109221), mogu pomoći u smanjenju upalnih procesa u arterijama i poboljšanju cirkulacije.
+Vlakna iz kupine pomažu probavi. Netopljiva vlakna potiču redovito pražnjenje crijeva, a topljiva su hrana dobrim crijevnim bakterijama.
 
-Visok udio vlakana čini kupine odličnim saveznikom zdrave probave. Netopiva vlakna potiču redovito pražnjenje crijeva, dok topiva vlakna služe kao hrana dobrim bakterijama u crijevima.
-
-Zbog značajnog udjela željeza i vitamina C, koji poboljšava apsorpciju željeza, kupina se tradicionalno preporučuje osobama koje pate od anemije.
-
-**Željezo:** Doprinosi normalnom stvaranju crvenih krvnih stanica i hemoglobina, transportu kisika u tijelu te smanjenju umora.
+Kupina **nije izvor željeza**: 100 g sadrži 0,62 mg, oko 4 % referentnog unosa. Vitamin C iz kupine može pomoći da tijelo bolje iskoristi željezo iz biljne hrane, slično kao kod [crnog ribiza i željeza](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/), ali anemiju (slabokrvnost) treba liječiti liječnik, a ne voće.
 
 ## Čaj od listova kupine - priprema i prednosti
 
-Iako su plodovi najpoznatiji dio biljke, listovi kupine također imaju dugu tradiciju korištenja u narodnoj medicini, prvenstveno u obliku čaja.
+Osim plodova, u narodnoj se medicini koriste i listovi kupine, ponajviše za čaj. Sadrže tanine, tvari opora okusa, pa se čaj tradicionalno koristio kod blagog proljeva i za ispiranje kod upala u ustima i grlu.
 
-Zbog toga se tradicionalno koristio za ublažavanje probavnih tegoba poput proljeva i za smirivanje upala u usnoj šupljini i grlu. Priprema je jednostavna: jednu do dvije žličice suhih listova kupine prelijte s 250 ml vruće vode i ostavite da odstoji 10-15 minuta. Nakon toga procijedite.
+**Priprema:** jednu do dvije žličice suhih listova prelijte s 250 ml vruće vode i ostavite da odstoji 10 do 15 minuta, a zatim procijedite.
 
-Novija [istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC8750396/) potvrđuju da listovi kupine sadrže značajne količine antioksidansa, slično kao i plodovi, te pokazuju antimikrobno djelovanje. Iako su potrebna daljnja istraživanja kako bi se potvrdili svi tradicionalni navodi, čaj od lista kupine predstavlja ugodan i potencijalno koristan napitak, osobito tijekom sezone prehlada i viroza.
+Laboratorijska istraživanja potvrđuju da listovi kupine sadrže mnogo antioksidansa, osobito elagitanina, i da djeluju protiv nekih mikroorganizama. Klinička istraživanja na ljudima nedostaju, pa čaj od lista kupine treba smatrati ugodnim napitkom koji može pomoći kod blagih tegoba, a ne lijekom.
 
-## Sadnja i zgoj
+Ako proljev traje dulje od tri dana, ako se pojavi krv u stolici ili visoka temperatura, ili ako je riječ o maloj djeci, javite se liječniku.
 
-Uzgajanje kupina u vlastitom vrtu može biti izuzetno isplativo, jer jedan dobro održavan grm može godinama donositi obilje plodova.
+## Sadnja i uzgoj
 
-Kupine vole sunčane položaje, stoga im osigurajte mjesto koje dobiva najmanje 6-8 sati izravnog sunca dnevno.
+Kupina u vrtu godinama daje obilje plodova. Najbolje rađa na sunčanom, zaštićenom mjestu s najmanje 6 do 8 sati izravnog sunca dnevno, a rodi i u laganoj sjeni, navodi Kraljevsko hortikulturno društvo (Royal Horticultural Society, RHS).
 
-Tlo bi trebalo biti dobro drenirano, blago kiselo do neutralno (pH od 5.5 do 6.5) i bogato organskom tvari. Prije sadnje, tlo obogatite kompostom ili zrelim stajskim gnojem.
+Tlo neka bude propusno, slabo kiselo do neutralno (pH 5,5 do 6,5) i bogato organskom tvari. Prije sadnje obogatite ga kompostom ili zrelim stajskim gnojem.
 
-Sadnice kupina sade se u proljeće, nakon što prođe opasnost od mraza.
+Kupine se najčešće prodaju u posudama. Najbolje ih je saditi od sredine jeseni do ranog proljeća, dok biljka miruje, prema RHS-u. Sadnja u proljeće, nakon zadnjih mrazova, također je moguća, ali tada mladu biljku treba redovito zalijevati.
 
- Razmak sadnje ovisi o sorti i načinu uzgoja, ali općenito se preporučuje razmak od 1 do 1.5 metara unutar reda, te 2.5 do 3 metra između redova.
+Razmak ovisi o sorti i načinu uzgoja. U nasadima se uspravne sorte sade na 1 do 1,5 m unutar reda i 2,5 do 3 m između redova, a bujne sorte koje se vežu na žicu RHS sadi na 2,5 do 4,5 m.
 
-Budući da grane kupine mogu biti duge i povijene, neophodno je osigurati im potporu u obliku žice, ograde ili pergole. Redovito zalijevanje je ključno, osobito tijekom sušnih razdoblja i u fazi razvoja plodova.
+Grane kupine duge su i povijene, pa im treba potpora od žice, ograde ili pergole. Redovito zalijevanje važno je osobito u sušnim razdobljima i dok se razvijaju plodovi.
 
 ## Razmnožavanje kupine - reznice i izdanci
 
-Kupine se relativno lako razmnožavaju, a najčešće metode su korištenje reznica ili izdanaka.
+Kupina se lako razmnožava reznicama, vršnim izdancima i izdancima iz korijena.
 
-Razmnožavanje reznicama najbolje je raditi u kasno ljeto ili ranu jesen. Odaberite zdravu, poludrvenastu granu i odrežite vrh dužine 15-20 cm. Uklonite donje listove i zabodite reznicu u posudu s vlažnim supstratom (mješavinu treseta i pijeska).
-
-Posudu s reznicama držite na toplom i svijetlom mjestu, ali zaštićeno od izravnog sunca.
-
- Još jednostavnija metoda, specifična za kupine, je razmnožavanje vršnim izdancima. Krajem ljeta, vrh jedne duge, zdrave grane savijte prema tlu i zakopajte ga nekoliko centimetara u zemlju.
-
-Vrh će se tijekom jeseni i zime ukorijeniti. U proljeće, ukorijenjeni izdanak možete odvojiti od matične biljke i presaditi na željeno mjesto. Neke sorte kupina također stvaraju korijenove izdanke koji se mogu pažljivo iskopati i presaditi.
+* **reznice** – krajem ljeta ili početkom jeseni odrežite vrh zdrave, poludrvenaste grane dug 15 do 20 cm, uklonite donje listove i zabodite ga u posudu s vlažnim supstratom, mješavinom treseta i pijeska; posudu držite na toplom i svijetlom mjestu, ali ne na izravnom suncu
+* **vršni izdanci** – krajem ljeta vrh duge, zdrave grane savijte do tla i zakopajte nekoliko centimetara duboko; vrh se ukorijeni do proljeća, kad ga odvojite od matične biljke i presadite
+* **izdanci iz korijena** – neke sorte tjeraju izdanke iz korijena, koje možete pažljivo iskopati i presaditi
 
 ## Orezivanje kupine - tehnike i doba
 
-Orezivanje je jedna od najvažnijih mjera u uzgoju kupina, bitna za održavanje zdravlja biljke, poticanje rodnosti i lakšu berbu. Kupine donose plod na jednogodišnjim izbojima koji su izrasli prethodne sezone.
+Orezivanje je jedna od najvažnijih mjera u uzgoju kupine. Kupina rađa na izbojima koji su izrasli prethodne godine, a nakon berbe ti izboji odumiru i treba ih ukloniti.
 
-Nakon što donesu plod, ti izboji odumiru i treba ih ukloniti.
+* **uklanjanje izboja koji su rodili** – nakon berbe ili u kasnu jesen do tla odrežite sve izboje koji su te godine dali plodove
+* **prorjeđivanje mladih izboja** – ostavite 4 do 6 najjačih i najzdravijih novih izboja po biljci
+* **prikraćivanje** – nove izboje skratite na 1,5 do 1,8 m i privežite uz potporu
 
-Glavno orezivanje obavlja se u kasnu jesen ili rano proljeće. Tada se do zemlje odrežu svi izboji koji su te godine donijeli plod (suhi izboji).
-
- Istovremeno se prorjeđuju novi, ovogodišnji izboji, ostavljajući 4 do 6 najjačih i najzdravijih po grmu. Ti novi izboji se zatim prikraćuju na visinu od oko 1.5 do 1.8 metara i vežu uz potporanj.
-
-Tijekom vegetacije, provodi se i takozvano [pinciranje](https://net.hr/magazin/uradi-sam/pinciranje-kupina-5464bbd6-b9f3-11ec-8521-0242ac120029) – prikraćivanje vrhova novih izboja kada dosegnu određenu visinu, kako bi se potaknulo grananje i formiranje više rodnih grančica. Pravilno orezivanje osigurava bolju prozračnost grma, smanjuje rizik od bolesti i osigurava krupnije i kvalitetnije plodove.
+Tijekom ljeta provodi se i [pinciranje](https://net.hr/magazin/uradi-sam/pinciranje-kupina-5464bbd6-b9f3-11ec-8521-0242ac120029), prikraćivanje vrhova novih izboja kad dosegnu željenu visinu, kako bi se razgranali i dali više rodnih grančica. Pravilno orezan grm prozračniji je, rjeđe obolijeva i daje krupnije plodove.
 
 ## Česti problemi i bolesti kupine
 
-Kao i svaka biljka, i kupina je podložna napadu određenih bolesti i štetnika. Jedna od najčešćih bolesti je siva plijesan (Botrytis cinerea), gljivica koja napada cvjetove i plodove, osobito u vlažnim uvjetima, uzrokujući njihovo truljenje.
+* **siva plijesan** (*Botrytis cinerea*) – gljivična bolest koja napada cvjetove i plodove, osobito po vlažnom vremenu, i uzrokuje njihovo truljenje; najbolja je zaštita prozračan grm
+* **kupinina grinja** – sitna grinja zbog koje dijelovi ploda ostaju crveni, tvrdi i ne dozrijevaju
+* **octena mušica ploda** (*Drosophila suzukii*) – sitna mušica koja polaže jaja u zrele plodove, a ličinke se razvijaju u njima; pomaže redovita i česta berba
+* **žućenje lišća** – najčešće je znak nedostatka željeza (kloroze), osobito na vapnenastom tlu; rješava se gnojivima sa željezom i zakiseljavanjem tla
 
-Dobra prozračnost grma, postignuta pravilnim orezivanjem, najbolja je preventiva. Od štetnika, česta je kupinina grinja, koja uzrokuje deformaciju i crvenilo plodova koji ne sazrijevaju pravilno, te kupinina mušica, čije ličinke buše plodove.
-
-Žućenje lišća najčešće je znak nedostatka hranjivih tvari, prvenstveno željeza (kloroza), što se rješava primjenom odgovarajućih gnojiva.
-
-Zimsko prskanje bakrenim preparatima pomaže u suzbijanju prezimljujućih oblika bolesti, dok se tijekom vegetacije mogu koristiti ekološki prihvatljivi pripravci na bazi koprive, preslice ili sumpora.
+Zimsko prskanje bakrenim pripravcima pomaže suzbiti uzročnike bolesti koji prezimljuju na izbojima. Tijekom vegetacije koriste se i ekološki pripravci na bazi koprive, preslice ili sumpora. Koristite samo sredstva registrirana u Hrvatskoj za kupinu i pridržavajte se karence, broja dana koji mora proći od prskanja do berbe.
 
 ## Koju sortu odabrati?
 
-Sorte se prvenstveno dijele na one s bodljama i one bez bodlji (thornfree). Sorte bez bodlji, poput 'Loch Ness', 'Triple Crown', 'Black Satin' i 'Chester', znatno su popularnije za amaterski uzgoj jer olakšavaju orezivanje i berbu.
+Sorte se ponajprije dijele na one s trnjem i one bez trnja. Sorte bez trnja, poput 'Loch Ness', 'Triple Crown', 'Black Satin' i 'Chester', popularnije su u kućnim vrtovima jer olakšavaju orezivanje i berbu.
 
-Sorta 'Loch Ness' cijenjena je zbog svoje otpornosti i krupnih, slatkih plodova. 'Triple Crown' je poznata po iznimnoj aromi i velikom prinosu, dok je 'Chester' kasna sorta koja produžuje sezonu berbe.
+* **'Loch Ness'** – cijenjena zbog otpornosti i krupnih, ukusnih plodova
+* **'Triple Crown'** – poznata po aromi i velikom urodu
+* **'Chester'** – kasna sorta, koja produljuje sezonu berbe
+* **'Navaho'** – uspravna sorta bez trnja, pogodna za manje vrtove jer joj ne treba velika potpora
 
-'Navaho' je uspravna sorta bez bodlji, idealna za manje vrtove jer ne zahtijeva veliki potporanj. Od sorti s bodljama, ističu se one koje daju plodove iznimne kvalitete, ali su zahtjevnije za održavanje.
-
-Pri odabiru sorte, obratite pažnju i na vrijeme dozrijevanja (rane, srednje ili kasne sorte) kako biste si osigurali što dužu sezonu uživanja u svježim plodovima.
+Sorte s trnjem često daju vrlo kvalitetne plodove, ali su zahtjevnije za održavanje. Pri odabiru gledajte i vrijeme dozrijevanja, jer kombinacijom ranih, srednjih i kasnih sorti dobivate dulju sezonu berbe.
 
 ## Branje i čuvanje
 
-Pravo vrijeme za berbu je kada plodovi poprime duboku, sjajnu crnu boju i lako se odvajaju od peteljke uz lagani pritisak.
+Kupine su zrele kada su tamne i sjajne te se lako odvajaju od peteljke uz lagani pritisak. Ako plod morate povući, vjerojatno još nije potpuno zreo.
 
-Ako plod morate povući, vjerojatno još nije potpuno zreo.
+Najbolje ih je brati ujutro, nakon što se rosa osuši, jer su tada najčvršće.
 
-Najbolje ih je brati ujutro, nakon što se rosa osuši, jer su tada najčvršći.
-
-Svježe ubrane kupine vrlo su osjetljive i ne mogu dugo stajati. U hladnjaku, u plitkoj i prozračnoj posudi, mogu se očuvati dva do tri dana.
-
-Nemojte ih prati sve do neposredno prije konzumacije, jer vlaga ubrzava kvarenje.
-
-Za dugotrajnije čuvanje, zamrzavanje je najbolja opcija.
-
-Kupine rasporedite na pladanj u jednom sloju i stavite u zamrzivač. Nakon što se smrznu, prebacite ih u vrećice ili posude. Na taj način sačuvat će oblik i većinu nutritivnih vrijednosti, te će biti spremne za upotrebu u smoothiejima, kolačima ili džemovima tijekom cijele godine.
+* **u hladnjaku** – svježe kupine traju dva do tri dana, u plitkoj i prozračnoj posudi; operite ih tek prije jela, jer vlaga ubrzava kvarenje
+* **u zamrzivaču** – rasporedite ih na pladanj u jednom sloju, zamrznite pa prebacite u vrećice ili posude; tako zadržavaju oblik i prikladne su za smoothie, kolače i džem tijekom cijele godine
 
 ## Kulinarske primjene - recepti i pripremanje
 
-Njezin slatko-kiseli okus savršeno se uklapa u razna slatka i slana jela. Najjednostavniji način uživanja je u svježim plodovima, samostalno ili kao dodatak jogurtu, zobenim pahuljicama i voćnim salatama.
+Slatkokiseo okus kupine dobro se uklapa u slatka i slana jela. Najjednostavnije ih je jesti svježe, same ili s jogurtom, zobenim pahuljicama i u voćnim salatama.
 
- Ipak, najpoznatija je po prerađevinama koje nam omogućuju da u njezinom okusu uživamo cijele godine.
+* **džem** – klasik zimnice; može se pripremiti i s manje šećera ili bez šećera, uz chia sjemenke kao zgušnjivač, ali takav džem čuvajte u hladnjaku i brzo potrošite, jer se bez dovoljno šećera brže kvari
+* **sirup** – kuhani ili hladno pripremljeni sirup osnova je za osvježavajuće sokove, a od njega se radi i liker
+* **matični sok** – dobiva se hladnim prešanjem i ima najintenzivniji okus
+* **deserti** – kolač s jogurtom, cheesecake, pite i muffini
+* **vino od kupina** – tradicionalno piće bogata okusa i boje
 
-Džem od kupina klasik je svake zimnice, a može se pripremiti s manje ili čak bez dodanog šećera, koristeći prirodne zgušnjivače poput chia sjemenki.
-
- Sirup od kupina, bilo kuhani ili hladno cijeđeni, odlična je osnova za osvježavajuće sokove, dok se od njega može napraviti i ukusan liker.
-
-Za one koji traže najintenzivniji okus i nutritivnu vrijednost, tu je matični sok od kupina, dobiven hladnim prešanjem.
-
-U slastičarstvu, kupine su zvijezda brojnih deserata: od jednostavnog kolača s jogurtom, preko kremastog cheesecakea, do osvježavajućih pita i muffina. Ne treba zaboraviti ni vino od kupina, tradicionalno piće bogatog okusa i boje, koje se cijeni i zbog svojih blagotvornih svojstava.
-
-Pročitajte i: [ogrozd, zaboravljeno supervoće](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) i [crni ribiz: sve što trebate znati](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
+Pročitajte i članke o [ogrozdu](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/), [crnom ribizu](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) i [aroniji](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), drugom bobičastom voću koje se lako uzgaja u vrtu.
 
 ## Divlja kupina
 
-Šetnja prirodom u kasno ljeto često nas nagradi prizorom grmova prepunih sočnih, tamnih plodova – divljih kupina.
+Krajem ljeta grmovi divljih kupina uz rubove šuma, na čistinama i uz poljske putove puni su sočnih, tamnih plodova. Plodovi divlje kupine obično su sitniji i kiseliji od uzgojenih, ali mnogi tvrde da imaju intenzivniju aromu.
 
-One rastu samoniklo uz rubove šuma, na čistinama i uz poljske puteve. Iako su plodovi divlje kupine obično sitniji i kiseliji od onih uzgojenih, mnogi tvrde da imaju intenzivniju i bogatiju aromu.
+Istraživanje talijanskih znanstvenika sa Sveučilišta Basilicata, objavljeno u časopisu Journal of Berry Research, pokazalo je da divlje kupine iz južne Italije imaju više većine bioaktivnih spojeva od uzgojenih. Pregled u časopisu Molecules navodi i da divlje kupine imaju više topljive suhe tvari, uglavnom šećera. To ne znači da su ljekovitije, nego samo da su drukčijeg sastava.
 
-Glavna razlika, potvrđena i [znanstvenim istraživanjima](https://pmc.ncbi.nlm.nih.gov/articles/PMC6271759/), leži u kemijskom sastavu. Divlja kupina često sadrži značajno veće koncentracije bioaktivnih spojeva, posebice [elaginske kiseline](https://bs.sxytorganic.com/knowledge/what-is-ellagic-acid) i određenih flavonoida, što joj daje snažnija ljekovita svojstva.
-
-Bere se kada plodovi postanu potpuno crni i mekani na dodir. Prilikom branja u prirodi, važno je birati lokacije udaljene od prometnica i zagađenja. Iako su manje i zahtijevaju više truda pri branju, divlje kupine su pravi dar prirode, idealne za pripremu džemova i sirupa autentičnog, punog okusa.
+Divlja se kupina bere kad su plodovi potpuno crni i mekani. Berite ih daleko od prometnica i polja koja se prskaju, a prije jela ih dobro operite.
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
+
+## Izvori
+
+- Američko Ministarstvo poljoprivrede, baza FoodData Central – [Kupine, sirove (Blackberries, raw)](https://fdc.nal.usda.gov/food-details/173946/nutrients)
+- Zia-Ul-Haq i sur., pregledni rad (2014.) – [Kupina: sastojci, biološko djelovanje i primjena (Rubus fruticosus L.: Constituents, Biological Activities and Health Related Uses)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6271759/), Molecules
+- Kaume i sur., pregledni rad (2012.) – [Plod kupine: sastav, metabolizam i zdravstvene dobrobiti (The blackberry fruit: a review on its composition and chemistry, metabolism and bioavailability, and health benefits)](https://pubmed.ncbi.nlm.nih.gov/22082199/), Journal of Agricultural and Food Chemistry
+- Laboratorijsko istraživanje listova kupine (2021.) – [Listovi kupine kao funkcionalna hrana? (Blackberry Leaves as New Functional Food?)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8750396/), Antioxidants
+- Sveučilište Basilicata, znanstveni rad – [Nutritivna svojstva divljeg bobičastog voća iz južne Italije (Nutraceutical properties of wild berry fruits from Southern Italy)](https://content.iospress.com/articles/journal-of-berry-research/jbr140), Journal of Berry Research
+- Američki nacionalni institut za zdravlje, Ured za dodatke prehrani (NIH ODS) – [Vitamin K (Vitamin K Fact Sheet for Consumers)](https://ods.od.nih.gov/factsheets/VitaminK-Consumer/)
+- Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kupinu (How to Grow Blackberries)](https://www.rhs.org.uk/fruit/blackberries-and-hybrid-berries)
+- Verywell Fit, američki portal o prehrani – [Kupine: hranjive vrijednosti i dobrobiti (Blackberry Nutrition Facts and Health Benefits)](https://www.verywellfit.com/blackberry-nutrition-facts-calories-and-health-benefits-4109221)
+- Net.hr, hrvatski portal – [Pinciranje kupina](https://net.hr/magazin/uradi-sam/pinciranje-kupina-5464bbd6-b9f3-11ec-8521-0242ac120029)
