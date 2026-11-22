@@ -126,6 +126,8 @@ Ako uzimate lijekove ili razmišljate o koncentriranom ekstraktu, nemojte ga uvo
 | **Ekstrakt i dodatak prehrani** | Prodaju se kao kapsule, tablete ili tekući pripravci.         | Nisu lijek i njihov sastav može znatno varirati.             |
 | **Prirodno bojilo**             | Daje crvenu, ljubičastu ili tamnu nijansu hrani.              | Boja potječe od antocijana.                                  |
 
+Kod kuće se aronija najčešće [cijedi u sok](https://www.cultivias.com/voce/sok-od-aronije/), [zamrzava](https://www.cultivias.com/voce/smrznuta-aronija/) ili [kuha u pekmez](https://www.cultivias.com/voce/pekmez-od-aronije/), a svaki od tih postupaka opisujemo u zasebnom vodiču.
+
 Ostalo sezonsko voće opisano je u rubrici [Voće](https://www.cultivias.com/voce/).
 
 ## Kako se aronija koristila u narodu?

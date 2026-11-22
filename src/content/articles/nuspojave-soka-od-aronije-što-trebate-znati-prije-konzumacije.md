@@ -84,6 +84,8 @@ Ako ste zdravi, sok od aronije možete piti kao i druge voćne sokove, uz nekoli
 * **kvalitetan proizvod** – birajte 100-postotni sok bez dodanog šećera i konzervansa
 * **savjet liječnika** – ako imate zdravstvenih tegoba ili uzimate lijekove, prije redovitog pijenja pitajte liječnika
 
+Ako sok radite sami, pogledajte kako se [domaći sok od aronije priprema i čuva](https://www.cultivias.com/voce/sok-od-aronije/). Sok koji samo iscijedite nije pasteriziran, pa ga djeca, trudnice, starije osobe i osobe oslabljenog imuniteta trebaju izbjegavati.
+
 Ako sok pijete zbog sastava, korisno je znati i što aronija sadrži te koliko su dokazi o njezinu djelovanju zapravo čvrsti. Sličan tamni sok daju i [bazgine bobice](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/), koje se, za razliku od aronije, ne smiju jesti sirove.
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***

@@ -16,6 +16,7 @@ related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - je-li-aronija-štetna-po-naše-zdravlje
+  - smrznuta-aronija
 metaTitle: "Aronija kalorije: svježe i smrznute bobice, sok i prah"
 metaDescription: "Svježa aronija ima 50 kcal na 100 g. Pogledajte kalorije porcija soka, sušenih bobica i praha te što se mijenja zamrzavanjem i pripremom džema."
 noindex: false
@@ -40,13 +41,13 @@ Sok, sušene bobice i prah u tablici proizvodi su njemačkog proizvođača Aroni
 
 ## Ima li smrznuta aronija drukčije kalorije?
 
-Cijele bobice zamrznute kod kuće bez dodataka možete računati približno kao svježe, oko 50 kcal na 100 g. Ta procjena odnosi se na same bobice, dok kod zamrzavanja sa šećerom ili u voćnoj mješavini treba uračunati i ostale sastojke.
+Cijele bobice zamrznute kod kuće bez dodataka možete računati približno kao svježe, oko 50 kcal na 100 g. Ta procjena odnosi se na same bobice, dok kod zamrzavanja sa šećerom ili u voćnoj mješavini treba uračunati i ostale sastojke. Postupak korak po korak opisuje vodič [kako zamrznuti aroniju bez šećera](https://www.cultivias.com/voce/smrznuta-aronija/).
 
 ## Koliko kalorija ima sok od aronije?
 
 Matični sok nije sirup. To je 100 % sok dobiven prešanjem (istiskivanjem soka iz ploda pod pritiskom), a [proizvod iz tablice](https://www.aronia-original.de/en/products/aronia-not-from-concentrate-juice-100ml) ima 46 kcal na 100 ml, odnosno **23 kcal u 50 ml**. Kod mješavina s drugim voćem ili dodanim šećerom kalorije ovise i o tim sastojcima, pa za pakiranje koje koristite pročitajte deklaraciju (natpis sa sastojcima i hranjivim vrijednostima).
 
-Za domaći sok izmjerite koliko ste mililitara dobili i pomnožite s podatkom za sličan kupovni sok: 200 ml × 0,46 kcal = oko 92 kcal. To je samo okvirna procjena jer sastav domaćeg soka ovisi o bobicama i prešanju, a dodani [šećer](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/) pribrojite posebno (oko 4 kcal po gramu).
+Za domaći sok izmjerite koliko ste mililitara dobili i pomnožite s podatkom za sličan kupovni sok: 200 ml × 0,46 kcal = oko 92 kcal. To je samo okvirna procjena jer sastav domaćeg soka ovisi o bobicama i prešanju, a dodani [šećer](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/) pribrojite posebno (oko 4 kcal po gramu). Kako ga iscijediti i čuvati, opisuje vodič za [pripremu domaćeg soka od aronije](https://www.cultivias.com/voce/sok-od-aronije/).
 
 ### Je li matični sok isto što i koncentrat?
 
@@ -72,7 +73,7 @@ Ovisi o tome koliko grama stane u žličicu. Jednom izvažite količinu koju dod
 
 Njihove kalorije ovise o receptu: količini bobica, šećera i drugih sastojaka te masi gotovog jela. Kod džema se ukuhavanjem (kuhanjem do guste smjese) smanjuje količina vode, a dodani šećer ulazi u ukupnu energiju.
 
-Primjer računa za zamišljeni džem: 500 g aronije (250 kcal) i 300 g šećera (1200 kcal) daju ukupno 1450 kcal. Ako nakon kuhanja izvažete 700 g džema, to je oko 207 kcal na 100 g, a 20 g namaza ima oko 41 kcal.
+Primjer računa za zamišljeni džem: 500 g aronije (250 kcal) i 300 g šećera (1200 kcal) daju ukupno 1450 kcal. Ako nakon kuhanja izvažete 700 g džema, to je oko 207 kcal na 100 g, a 20 g namaza ima oko 41 kcal. Recept s jabukom i savjete o tome kako postići [gustoću i okus pekmeza od aronije](https://www.cultivias.com/voce/pekmez-od-aronije/) donosi zaseban članak.
 
 U kompotu (voće kuhano ili čuvano u tekućini) je bitno jedete li samo plodove ili i zaslađenu tekućinu. Kod umaka uračunajte sastojke koji ostaju u jelu; zato tim pripremama ne odgovara brojka svježih bobica na 100 g.
 
