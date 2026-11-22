@@ -41,7 +41,7 @@ Za zaštitu je važniji **PMD** (p-mentan-3,8-diol), spoj koji se u maloj količ
 
 [Pregledni rad o biljnim repelentima objavljen 2011. u časopisu Malaria Journal](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/) navodi da je PMD tada bio jedini repelent biljnog podrijetla koji je CDC preporučio i za područja u kojima komarci prenose bolesti poput malarije. U istraživanjima koja autori navode 30 % PMD-a na koži štitio je od komaraca 96,88 % tijekom 4 sata, a maramice s PMD-om u laboratoriju su davale 90 % zaštite tijekom 6 sati.
 
-Danas CDC na popisu preporučenih aktivnih tvari uz DEET, pikaridin i IR3535 navodi OLE i PMD, a kao tvari biljnog podrijetla izdvaja OLE i 2-undekanon.
+Danas CDC na popisu preporučenih aktivnih tvari uz DEET, pikaridin (izvan SAD-a poznat kao ikaridin) i IR3535 navodi OLE i PMD, a kao tvari biljnog podrijetla izdvaja OLE i 2-undekanon.
 
 ### Kako citronelal djeluje na komarce?
 
@@ -162,7 +162,7 @@ Biljni repelenti uglavnom štite kratko. U spomenutom usporednom istraživanju i
 Repelenti s OLE-om ili PMD-om ne koriste se kod djece mlađe od 3 godine. Za stariju djecu birajte registrirani repelent, nanosite ga prema uputi i ne stavljajte ga na dječje ruke, oči i usta. Čisto eterično ulje nije prikladno kao repelent za djecu.
 
 **Može li limunski eukaliptus zamijeniti DEET?**
-Registrirani repelenti s OLE-om ili PMD-om prihvaćena su zamjena: CDC ih preporučuje uz DEET, pikaridin i IR3535. U višim koncentracijama štite nekoliko sati, a DEET u višim koncentracijama obično štiti dulje. Čisto eterično ulje nije zamjena ni za jedan od tih proizvoda.
+Registrirani repelenti s OLE-om ili PMD-om prihvaćena su zamjena: CDC ih preporučuje uz DEET, pikaridin i IR3535. U višim koncentracijama štite nekoliko sati, a DEET u višim koncentracijama obično štiti dulje. Ako putujete u krajeve u kojima komarci prenose malariju ili dengu, odaberite registrirani repelent dugog djelovanja i savjetujte se s liječnikom putne medicine. Čisto eterično ulje nije zamjena ni za jedan od tih proizvoda.
 
 **Gdje kupiti eterično ulje limunskog eukaliptusa u Hrvatskoj?**
 U ljekarnama, specijaliziranim prodavaonicama prirodnih pripravaka i putem interneta. Tražite proizvod koji kao botanički izvor navodi *Corymbia citriodora* ili *Eucalyptus citriodora*. Za zaštitu od komaraca ipak birajte repelent s PMD-om ili OLE-om.

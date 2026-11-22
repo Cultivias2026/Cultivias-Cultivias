@@ -48,6 +48,8 @@ Među stotinama vrsta eukaliptusa nekoliko ih se izdvaja otpornošću, izgledom 
 | Rast | brz, do 1 m godišnje |
 | Upotreba | vrtno stablo ili grm, tegla, grane za bukete |
 
+Okrugle mlade listove biljka razvija i nakon jače rezidbe. RHS zato za *E. gunnii* opisuje rezanje do panja krajem zime ili početkom proljeća, nakon kojeg izrastaju novi izboji s mladim listovima.
+
 Iako mnogi misle da je ova vrsta bezopasna, **listovi *E. gunnii* nisu sigurni za pse i mačke**. Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) eukaliptus navodi kao otrovan za pse, mačke i konje. Znakovi trovanja su slinjenje, povraćanje, proljev, potištenost i slabost.
 
 ### Eucalyptus polyanthemos: Okrugli listovi za aranžmane
@@ -169,6 +171,6 @@ Eukaliptusi su vrlo raznolika skupina biljaka, od golemih stabala do grmova čij
 
 - Europska agencija za lijekove (EMA) – [Eukaliptusovo ulje, biljni lijek (Eucalypti aetheroleum)](https://www.ema.europa.eu/en/medicines/herbal/eucalypti-aetheroleum)
 - Merghni i sur., laboratorijsko istraživanje (2023.) – [1,8-cineol oštećuje membranu i izaziva oksidativni stres kod MRSA (1,8-Cineol (Eucalyptol) Disrupts Membrane Integrity and Induces Oxidative Stress in Methicillin-Resistant Staphylococcus aureus)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10376866/), Antioxidants
-- Kraljevsko hortikulturno društvo (RHS) – [profil biljke Eucalyptus gunnii](https://www.rhs.org.uk/Plants/6888/Eucalyptus-gunnii/Details)
+- Kraljevsko hortikulturno društvo (RHS) – [profil biljke Eucalyptus gunnii](https://www.rhs.org.uk/Plants/6888/Eucalyptus-gunnii/Details) i [Rezidba eukaliptusa (Eucalyptus: pruning)](https://www.rhs.org.uk/plants/eucalyptus/pruning-guide)
 - Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) – [Eukaliptus (Eucalyptus)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus)
 - Američki centar za kontrolu i prevenciju bolesti (CDC) – [Repelenti protiv malarije i drugih bolesti koje prenose komarci (Insect Repellents Help Prevent Malaria and Other Diseases Spread by Mosquitoes)](https://www.cdc.gov/malaria/resources/repellents.html)
