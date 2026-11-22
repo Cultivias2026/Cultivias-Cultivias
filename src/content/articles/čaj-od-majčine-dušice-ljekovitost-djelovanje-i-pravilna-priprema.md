@@ -9,8 +9,9 @@ perex: Čaj od majčine dušice (Thymus serpyllum) moćan je biljni napitak s
   i karvakrola, aktivnih spojeva koji dokazano inhibiraju rast bakterija i
   gljivica. Za djecu je siguran u vrlo blagim dozama, dok se trudnicama i
   osobama s cirozom jetre preporučuje oprez i savjetovanje s liječnikom.
-readTime: 5
+readTime: 8
 publishedAt: 2026-07-10
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -21,109 +22,139 @@ related_articles:
   - čaj-od-kamilice
   - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
-Jedan je od onih tradicionalnih napitaka koji su preživjeli test vremena, a danas njihovu vrijednost potvrđuju i moderna znanstvena [istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/). Bilo da ga kupujete u rinfuzi, berete sami ili tražite provjerene brendove poput **Subana** i **Siladija**, važno je znati kako ga pravilno pripremiti i kada ga je sigurno koristiti.
 
-U ovom detaljnom vodiču prolazimo kroz sve aspekte ovog ljekovitog napitka, od njegovog djelovanja na **želudac i prostatu**, do specifičnih uputa za **djecu i trudnice**.
+Čaj od majčine dušice tradicionalni je napitak kod kašlja, prehlade i probavnih tegoba, a znanstvenici danas istražuju koliko su ta svojstva potkrijepljena dokazima. Bilo da ga kupujete u rinfuzi, berete sami ili birate domaće proizvođače poput **Subana** i **Siladija**, važno je znati kako ga pravilno pripremiti i kada ga je sigurno piti. U nastavku saznajte što pokazuju istraživanja o djelovanju na **kašalj, probavu, prostatu i kožu**, kako se čaj priprema te što trebaju znati **roditelji, trudnice** i osobe s bolestima jetre.
 
 ## Što je majčina dušica i zašto je ljekovita?
 
-**Majčina dušica** (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice usnača (Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom, aromatičnom mirisu koji potječe od njezinog **eteričnog ulja**.
+[Majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice usnača (Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom mirisu, koji potječe od njezina **eteričnog ulja**.
 
-Njezina ljekovitost krije se upravo u tom eteričnom ulju, koje čini manje od 1% ukupne mase biljke, ali sadrži visoke koncentracije **timola** i **karvakrola**. Ovi fenolni monoterpeni nositelji su snažnog antimikrobnog djelovanja. Prema [studiji objavljenoj u časopisu Frontiers in Nutrition (2024.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), majčina dušica također je bogata fenolnim kiselinama (poput **ružmarinske kiseline**) i flavonoidima (**luteolin, apigenin**) koji tijelu pružaju snažnu antioksidativnu zaštitu.
+Eterično ulje čini manje od 1 % mase biljke, ali sadrži puno **timola** i **karvakrola**. Ti fenolni spojevi u laboratorijskim pokusima djeluju protiv bakterija i gljivica. Prema [preglednom radu objavljenom 2024. u časopisu Frontiers in Nutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), majčina dušica sadrži i fenolne kiseline, poput **ružmarinske kiseline**, te flavonoide **luteolin** i **apigenin**, koji djeluju kao antioksidansi.
 
-Zanimljivo je da **Europska agencija za lijekove (EMA)** [službeno priznaje preparate na bazi timijana](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba) za ublažavanje produktivnog kašlja povezanog s prehladom, što dodatno potvrđuje terapijsku vrijednost ove biljke.
+**Europska agencija za lijekove (EMA)** [priznaje pripravke od timijana](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba), bliskog srodnika majčine dušice, kao tradicionalni biljni lijek za produktivni kašalj (kašalj sa sluzi) kod prehlade. Ocjena se temelji na dugogodišnjoj upotrebi i odnosi se na vrste *Thymus vulgaris* i *Thymus zygis*.
 
 ## Ljekovito djelovanje čaja od majčine dušice
 
-Čaj od [majčine dušice](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) najpoznatiji je kao prirodna potpora **dišnom sustavu**, no njegova primjena seže puno dalje. U nastavku navodimo glavna djelovanja za koja postoji znanstvena ili snažna tradicionalna potpora.
+Čaj od majčine dušice najpoznatiji je kao pomoć kod tegoba **dišnog sustava**, a koristi se i kod probavnih tegoba. U nastavku su glavna djelovanja, uz napomenu koliko su dokazana.
 
 ### Potpora kod kašlja i bronhitisa
 
-Majčina dušica djeluje kao ekspektorans i spazmolitik. To znači da pomaže u **razrjeđivanju nakupljene sluzi** u plućima i istovremeno opušta grčeve bronhijalnih mišića. Zbog toga je iznimno korisna kod **produktivnog kašlja, akutnog bronhitisa** i općih simptoma prehlade.
+Majčinoj dušici pripisuje se ekspektorans djelovanje, odnosno **razrjeđivanje sluzi** i lakše iskašljavanje. Smatra se i spazmolitikom, tvari koja opušta grčeve mišića dišnih puteva. Ta su svojstva poznata iz tradicionalne upotrebe i laboratorijskih istraživanja, a kod ljudi su ispitana uglavnom s timijanom.
+
+U [kliničkom ispitivanju](https://pubmed.ncbi.nlm.nih.gov/17063641/) objavljenom 2006. godine odrasli s **akutnim bronhitisom** 11 dana su uzimali sirup s timijanom i bršljanom ili placebo. Broj napadaja kašlja uz sirup se smanjio za 68,7 %, a uz placebo za 47,6 %. Kod prehlade se tradicionalno pije i [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+
+Ako kašalj traje dulje od tjedan dana ili se pogoršava, ili ako imate visoku temperaturu, otežano disanje ili gnojan iskašljaj, javite se liječniku.
 
 ### Antimikrobno i antifungalno djelovanje
 
-Zahvaljujući timolu i karvakrolu, čaj od majčine dušice pokazuje sposobnost inhibicije rasta različitih patogena. [Znanstvena analiza iz 2022. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147557/) potvrdila je da ovi spojevi učinkovito djeluju protiv bakterija poput ***Staphylococcus aureus*** i ***Escherichia coli***, te gljivica iz roda ***Candida***. Također, majčina dušica može narušiti mikrobne biofilmove, strukture u kojima se bakterije štite od antibiotika.
+Timol i karvakrol u laboratoriju koče rast različitih mikroorganizama. [Pregledni rad iz 2022. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147557/) o timijanu, srodniku majčine dušice, navodi da njegovo eterično ulje djeluje na bakterije poput ***Staphylococcus aureus*** i ***Escherichia coli*** te gljivice roda ***Candida***. Razara i biofilmove, zaštitne slojeve u kojima se bakterije skrivaju od antibiotika.
+
+Ti se rezultati odnose na eterično ulje i izdvojene spojeve u laboratoriju, a ne na čaj. Čaj od majčine dušice ne može zamijeniti antibiotik ili lijek protiv gljivica. Slično vrijedi i za [kadulju](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/), čije je antimikrobno djelovanje također ispitano uglavnom u laboratoriju.
 
 ### Čaj od majčine dušice za želudac i probavu
 
-Ovaj napitak tradicionalno se koristi za ublažavanje probavnih tegoba. Njegovo karminativno djelovanje pomaže u smanjenju **nadutosti i plinova**, dok spazmolitička svojstva ublažavaju **grčeve u želucu i crijevima**. Neka pretklinička istraživanja sugeriraju da bi ekstrakti majčine dušice mogli biti korisni i kao potpora kod upalnih bolesti crijeva (IBD) i sindroma iritabilnog crijeva (IBS).
+Ovaj napitak tradicionalno se koristi kod probavnih tegoba. Pripisuje mu se karminativno djelovanje, odnosno pomoć kod **nadutosti i plinova**, te ublažavanje **grčeva u želucu i crijevima**. Pretklinička istraživanja, provedena u laboratoriju i na životinjama, upućuju na moguću korist kod upalnih bolesti crijeva (IBD) i sindroma iritabilnog crijeva (IBS). Ispitivanja na ljudima zasad nema dovoljno, pa čaj ne može zamijeniti liječenje tih bolesti.
 
 ### Majčina dušica za prostatu
 
-Iako se čaj od majčine dušice ne smatra primarnim lijekom za prostatu (poput vrbovice ili koprive), njegova **protuupalna i antioksidativna** svojstva mogu pružiti opću potporu zdravlju muškog reproduktivnog sustava. [Neka in vitro istraživanja](https://pubmed.ncbi.nlm.nih.gov/24932974/) pokazala su da određeni spojevi iz meda od majčine dušice mogu smanjiti vitalnost stanica **raka prostate**, no potrebna su daljnja klinička ispitivanja kako bi se potvrdio direktan učinak čaja na prostatu kod ljudi.
+Čaj od majčine dušice ne smatra se lijekom za prostatu, a za tu se namjenu tradicionalno koriste druge biljke, poput vrbovice ili korijena koprive. Pretpostavka da njegova **protuupalna i antioksidativna** svojstva pomažu zdravlju prostate nije istražena.
+
+Ponekad se spominje grčko [laboratorijsko istraživanje](https://pubmed.ncbi.nlm.nih.gov/24932974/) iz 2014. godine. Ono je ispitalo spoj koji se nalazi samo u medu od timijana, a ne u čaju, i to na stanicama **raka prostate** u kulturi. Taj nalaz ne govori ništa o djelovanju čaja kod ljudi.
+
+Ako imate poteškoće s mokrenjem, učestalo noćno mokrenje ili krv u mokraći, javite se liječniku.
 
 ### Majčina dušica i akne
 
-Protuupalna i antibakterijska svojstva čine majčinu dušicu zanimljivom u **dermatologiji**. Iako se za akne češće koriste lokalni pripravci (poput tinktura ili razrijeđenog eteričnog ulja), pijenje čaja može pomoći u smanjenju sistemske upale u tijelu. [Istraživanje objavljeno u časopisu International Journal of Antimicrobial Agents (2022.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503056/) potvrdilo je da nanoemulzija eteričnog ulja majčine dušice značajno smanjuje upalni odgovor u modelima akni i smanjuje bakterijsko opterećenje. Ranija istraživanja su već bila pokazala da timijan spada među biljke s najjačim antibakterijskim djelovanjem prema bakteriji *Propionibacterium acnes*, koja je odgovorna za nastanak akni.
+Zbog djelovanja na bakterije majčina dušica zanimljiva je i u **dermatologiji**, no dokazi se odnose na eterično ulje, a ne na čaj. [Egipatsko istraživanje](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503056/) objavljeno 2022. godine u časopisu Microorganisms usporedilo je pet eteričnih ulja. Ulje timijana (*Thymus vulgaris*) najjače je djelovalo na bakterije povezane s aknama, *Cutibacterium acnes* (ranije *Propionibacterium acnes*) i *Staphylococcus epidermidis*. U obliku nanoemulzije, sitnih kapljica ulja raspršenih u vodi, smanjilo je upalu i broj bakterija kod životinja s aknama.
+
+Takvih dokaza za ljude nema, kao ni dokaza da pijenje čaja smanjuje upalu u tijelu ili akne. Eterično ulje timijana jako nadražuje kožu, pa ga nerazrijeđeno ne nanosite na lice.
 
 ## Kako pravilno pripremiti čaj od majčine dušice?
 
-Priprema čaja od majčine dušice vrlo je jednostavna, ali zahtijeva poštivanje jednog ključnog pravila: **čaj se nikada ne smije kuhati**. Kuhanjem bi isparila dragocjena eterična ulja koja su nositelji ljekovitosti.
+Priprema je jednostavna, uz jedno pravilo: **čaj se ne kuha**, nego prelijeva kipućom vodom. Kuhanjem bi isparilo dio eteričnog ulja.
 
-**Standardni recept za pripremu:**
+**Postupak za odrasle:**
 
 1. U šalicu stavite **1 do 2 čajne žličice** sušene majčine dušice (rinfuza).
 2. Prelijte s **2 decilitra kipuće vode**.
-3. **Odmah poklopite šalicu.** Ovo je iznimno važno kako eterična ulja ne bi isparila.
+3. **Odmah poklopite šalicu**, kako eterično ulje ne bi isparilo.
 4. Ostavite da stoji **10 do 15 minuta**.
 5. Procijedite i po želji zasladite medom.
 
-Preporučuje se piti **2 do 3 šalice** svježe pripremljenog čaja dnevno. Ako koristite filter vrećice (poput onih iz DM-a ili ljekarni), postupak je isti, ali rinfuza općenito nudi snažniju aromu i višu koncentraciju aktivnih tvari.
+Odrasli obično piju **2 do 3 šalice** svježe pripremljenog čaja dnevno. Filter vrećice pripremaju se jednako, a rinfuza obično ima jaču aromu. **Med ne dajte djeci mlađoj od godine dana**, jer može sadržavati spore bakterije koja kod dojenčadi uzrokuje botulizam, teško trovanje živčanog sustava.
+
+![Infografika: čaj od majčine dušice za odrasle – 1 do 2 čajne žličice sušene biljke na 2 dl kipuće vode, poklopljeno 10 do 15 minuta, 2 do 3 šalice dnevno, kašalj dulji od tjedan dana treba pregledati liječnik, uz upozorenje da se djeci mlađoj od četiri godine čaj ne daje kao lijek bez savjeta pedijatra, da se med ne daje djeci mlađoj od godine dana, da se u trudnoći i tijekom dojenja ne koristi kao lijek te da se ne pije kod alergije na usnače](/images/articles/infografika-majcina-dusica-caj.webp)
 
 ## Čaj od majčine dušice za djecu
 
-Majčina dušica smatra se jednom od **sigurnijih biljaka za djecu**, posebno kada je riječ o ublažavanju dječjeg kašlja i prehlade. Ipak, doze moraju biti prilagođene dječjoj dobi i težini.
+Majčina dušica često se daje djeci kod kašlja i prehlade, ali za djecu vrijede strože granice nego za odrasle. Prema Europskoj agenciji za lijekove, većina pripravaka od timijana namijenjena je odraslima i djeci starijoj od 12 godina, a samo neki i djeci starijoj od četiri godine. Mlađima od četiri godine EMA takve pripravke ne preporučuje.
 
-[Pedijatrijske smjernice](https://simplypediatrics.com/herbal-tea-dosing-children/) za doziranje biljnih čajeva preporučuju sljedeće količine **vrlo blagog čaja**:
+Zato se pridržavajte ovih pravila:
 
-* **Mala djeca (1-3 godine):** 1 do 2 jušne žlice blago pripremljenog čaja.
-* **Predškolci (4-6 godina):** Četvrtina šalice (oko 60 ml).
-* **Školska djeca (7-12 godina):** Pola šalice (oko 120 ml).
+* **djeca mlađa od četiri godine** – čaj im ne dajte kao lijek bez savjeta **pedijatra**
+* **djeca od 4 do 12 godina** – koristite pripravke s doziranjem za tu dob na uputi ili se prethodno posavjetujte s pedijatrom ili ljekarnikom
+* **blaži čaj** – ako pedijatar odobri čaj, pripremite ga blaže nego za odrasle, s otprilike **pola žličice** suhe biljke na šalicu vode
+* **dojenčad** – med ne dodajte u čaj djeci mlađoj od godine dana
+* **alergije** – djetetu koje je alergično na metvicu, kadulju ili druge usnače čaj ne dajte
 
-Čaj za djecu trebao bi biti blaži od onog za odrasle (otprilike **pola žličice** suhe biljke na šalicu vode). Uvijek se preporučuje konzultacija s **pedijatrom** prije uvođenja biljnih čajeva u prehranu djeteta, posebno ako dijete ima povijest alergija.
+Odmah se javite liječniku ako dijete otežano diše, ima visoku temperaturu ili kašalj traje dulje od tjedan dana. Dijete mlađe od tri mjeseca s povišenom temperaturom treba odmah pregledati liječnik.
 
 ## Majčina dušica u trudnoći
 
-Korištenje čaja od majčine dušice tijekom trudnoće zahtijeva oprez. Iako se male količine koje se koriste kao **začin u hrani** smatraju potpuno sigurnima, [konzumacija u terapijskim dozama (poput jakih čajeva) se ne preporučuje](https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme).
+Majčina dušica u malim količinama, kao **začin u hrani**, smatra se sigurnom i u trudnoći. Za veće, ljekovite količine, primjerice jak čaj, nema dovoljno pouzdanih podataka, navodi [WebMD](https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme). EMA za timijan navodi da sigurnost u trudnoći i tijekom dojenja nije utvrđena, pa ga u tom razdoblju ne preporučuje kao lijek.
 
-Glavni razlog za oprez je taj što neki spojevi u majčinoj dušici mogu djelovati kao blagi **stimulansi maternice**, što teoretski povećava rizik od preuranjenih trudova. Zbog nedostatka pouzdanih kliničkih studija koje bi potvrdile potpunu sigurnost, većina medicinskih izvora, uključujući WebMD, savjetuje trudnicama da izbjegavaju konzumaciju čaja i drže se isključivo **kulinarskih količina**.
+Trudnice i dojilje zato majčinu dušicu neka koriste kao začin, a prije pijenja čaja u ljekovite svrhe neka se posavjetuju s liječnikom ili ljekarnikom.
 
 ## Nuspojave, oprez i kontraindikacije
 
-Iako je čaj od majčine dušice općenito vrlo siguran za većinu ljudi, postoje određene situacije u kojima je potreban oprez.
+Čaj od majčine dušice većina ljudi dobro podnosi, ali u nekim je situacijama potreban oprez.
 
 ### Moguće nuspojave
 
-Kod osjetljivih osoba, pretjerana konzumacija može izazvati blage probavne smetnje poput **mučnine ili žgaravice**. **Alergijske reakcije** su moguće, posebice kod osoba koje su alergične na druge biljke iz porodice usnača (poput origana, lavande ili metvice).
+Kod osjetljivih osoba veće količine mogu izazvati blage probavne smetnje, poput **mučnine ili žgaravice**. Moguće su i **alergijske reakcije**, osobito kod osoba alergičnih na druge usnače, poput origana, lavande ili metvice. Ako nakon pijenja čaja primijetite oticanje usana, jezika ili grla ili otežano disanje, odmah potražite hitnu medicinsku pomoć.
 
 ### Oprez: Ciroza jetre i majčina dušica
 
-Osobe s ozbiljnim oštećenjima jetre, poput ciroze, trebaju biti iznimno oprezne. Iako [neka istraživanja na životinjama](https://pmc.ncbi.nlm.nih.gov/articles/PMC3932235/) pokazuju da ekstrakti majčine dušice mogu imati hepatoprotektivno (zaštitno) djelovanje na jetru, visoke koncentracije eteričnih ulja (posebno **timola**) mogu dodatno opteretiti već kompromitiranu jetru koja ih mora metabolizirati. Čaj je znatno blaži od eteričnog ulja, no pacijenti s **cirozom jetre** obavezno se moraju posavjetovati sa svojim **hepatologom** prije redovite konzumacije.
+Osobe s teškim bolestima jetre, poput ciroze, trebaju biti posebno oprezne s biljnim pripravcima. U [istraživanju na miševima](https://pmc.ncbi.nlm.nih.gov/articles/PMC3932235/) eterično ulje timijana štitilo je jetru od oštećenja paracetamolom. To ipak ne znači da je majčina dušica korisna ili sigurna kod bolesti jetre u ljudi.
+
+Čaj je mnogo blaži od eteričnog ulja, ali podataka o njegovoj primjeni kod ciroze nema. Osobe s **cirozom jetre** zato se prije redovitog pijenja moraju posavjetovati sa svojim **hepatologom**, liječnikom specijalistom za bolesti jetre.
 
 ### Interakcije s lijekovima
 
-Majčina dušica može usporiti zgrušavanje krvi. Stoga se ne preporučuje uzimanje velikih količina čaja u kombinaciji s antikoagulansima (lijekovima za razrjeđivanje krvi) zbog povećanog rizika od krvarenja. Preporučuje se **prestanak konzumacije najmanje dva tjedna** prije planiranih kirurških zahvata.
-
-Pročitajte i: [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) i [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
+U laboratorijskim istraživanjima i pokusima na životinjama ekstrakt timijana usporavao je zgrušavanje krvi, iako kod ljudi taj učinak nije potvrđen. Zato se uz antikoagulanse, lijekove protiv zgrušavanja krvi, ne preporučuje piti veće količine čaja. Američko društvo anesteziologa savjetuje da se sve biljne pripravke prestane uzimati **dva do tri tjedna** prije planiranog kirurškog zahvata, a o čaju koji redovito pijete obavijestite liječnika. Ako redovito uzimate lijekove, o pijenju čaja posavjetujte se s liječnikom ili ljekarnikom.
 
 ## Rinfuza ili filter vrećice: što je bolje?
 
-Pitanje rinfuza ili filter vrećica jedno je od najčešćih kod kupaca biljnih čajeva. Za majčinu dušicu, odgovor je gotovo uvijek isti: **rinfuza je bolja za terapeutske svrhe**.
+Pitanje rinfuze ili filter vrećica jedno je od najčešćih kod kupnje biljnih čajeva. Za majčinu dušicu odgovor je uglavnom isti: **za ljekovitu upotrebu bolja je rinfuza**.
 
-**Rinfuza** (sušena zelena biljka u rasutom stanju) zadržava višu koncentraciju eteričnih ulja jer je biljka manje mljevena i manje izložena zraku. Filter vrećice često sadrže sitno samljevenu biljku koja je izgubila dio aromatičnih spojeva još u procesu pakiranja. Razlika u okusu je odmah primjetna: čaj od rinfuze ima **snažniji, zeleniji i aromatičniji** okus.
+**Rinfuza**, sušena biljka u rasutom stanju, zadržava više eteričnog ulja, jer je manje usitnjena i manje izložena zraku. Filter vrećice često sadrže sitno samljevenu biljku, koja dio aromatičnih tvari izgubi već pri pakiranju. Razlika se osjeti u okusu: čaj od rinfuze ima **jači i svježiji** okus.
 
-Ipak, **filter vrećice** imaju svoje prednosti: praktičnije su za pripremu na poslu ili u pokretu, točno doziranje je jednostavnije, a nema potrebe za cjedilom. Za svakodnevnu konzumaciju u manjim dozama, vrećice su sasvim prihvatljiv izbor. Za intenzivniju primjenu kod akutnih simptoma prehlade ili bronhitisa, preporuča se rinfuza.
+**Filter vrećice** ipak imaju prednosti: praktičnije su na poslu i na putu, doziranje je jednostavnije i ne treba cjedilo. Za svakodnevno pijenje u manjim količinama sasvim su prihvatljiv izbor, a kod jačih simptoma prehlade ili bronhitisa preporučuje se rinfuza. Isto vrijedi i za druge biljne čajeve, poput [čaja od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) i [čaja od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
 ## Gdje kupiti čaj od majčine dušice i koja je cijena?
 
-Čaj od majčine dušice lako je dostupan u Hrvatskoj. Možete ga pronaći u **ljekarnama**, specijaliziranim trgovinama zdrave hrane, ali i u običnim supermarketima i drogerijama (poput **DM-a**).
+Čaj od majčine dušice lako je dostupan u Hrvatskoj. Možete ga pronaći u **ljekarnama**, specijaliziranim prodavaonicama zdrave hrane, supermarketima i drogerijama, primjerice u **DM-u**.
 
-Kupci najčešće biraju između dvije opcije:
+Kupci najčešće biraju između dvije mogućnosti:
 
-1. **Rinfuza (sušena zelena biljka):** Preporučena opcija za terapeutske svrhe jer zadržava najviše eteričnih ulja. Poznati domaći proizvođači poput **Subana** i **Siladija** nude pakiranja od 40 do 50 grama po cijeni od **2,00 do 4,00 eura**.
-2. **Filter vrećice:** Praktičnije za brzu pripremu, no često sadrže sitnije mljevenu biljku koja brže gubi aromu. Cijene se kreću od **1,50 do 3,00 eura** za pakiranje od 20 vrećica.
+* **rinfuza (sušena zelena biljka)** – zadržava najviše eteričnog ulja; domaći proizvođači poput **Subana** i **Siladija** nude pakiranja od 40 do 50 g po cijeni od približno **2 do 4 eura**
+* **filter vrećice** – praktičnije su za brzu pripremu, ali biljka je sitnije usitnjena i brže gubi aromu; pakiranje od 20 vrećica stoji približno **1,50 do 3 eura**
 
-Ako želite maksimalnu kvalitetu, potražite **"zelenu majčinu dušicu"** u biljnim ljekarnama ili kod provjerenih travara.
+Cijene su okvirne i razlikuju se od trgovine do trgovine. Za najbolju kvalitetu potražite **"zelenu majčinu dušicu"** u biljnim ljekarnama ili kod provjerenih travara. Za ljekovitu upotrebu najsigurniji su registrirani biljni lijekovi s timijanom iz ljekarne, s točnim doziranjem i uputom.
 
-> **Napomena:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.
+**NAPOMENA/DISCLAIMER:**
+
+**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.**
+
+## Izvori
+
+- Jalil i sur., sustavni pregled (2024.) – [Majčina dušica: pregled dokaza o prehrambenim i zdravstvenim koristima (Wild thyme (Thymus serpyllum L.): a review of the current evidence of nutritional and preventive health benefits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), Frontiers in Nutrition
+- Hammoudi Halat i sur., pregledni rad (2022.) – [Timijan: biološka, kemijska i terapijska svojstva (A Focused Insight into Thyme: Biological, Chemical, and Therapeutic Properties of an Indigenous Mediterranean Herb)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9147557/), Nutrients
+- Kemmerich i sur., randomizirano, dvostruko slijepo kliničko ispitivanje s placebom (2006.) – [Kombinacija ekstrakata timijana i bršljana kod akutnog bronhitisa (Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough)](https://pubmed.ncbi.nlm.nih.gov/17063641/), Arzneimittel-Forschung
+- Kassi i sur., laboratorijsko istraživanje na stanicama raka prostate (2014.) – [Spoj iz meda od timijana i stanice raka prostate (A monoterpene, unique component of thyme honeys, induces apoptosis in prostate cancer cells via inhibition of NF-κB activity and IL-6 secretion)](https://pubmed.ncbi.nlm.nih.gov/24932974/), Phytomedicine
+- Abdelhamed i sur., laboratorijsko istraživanje i istraživanje na životinjama (2022.) – [Antibakterijsko i protuupalno djelovanje nanoemulzije ulja timijana kod akni (Antibacterial and Anti-Inflammatory Activities of Thymus vulgaris Essential Oil Nanoemulsion on Acne Vulgaris)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503056/), Microorganisms
+- Grespan i sur., istraživanje na miševima (2014.) – [Zaštitno djelovanje ulja timijana na jetru oštećenu paracetamolom (Hepatoprotective Effect of Pretreatment with Thymus vulgaris Essential Oil in Experimental Model of Acetaminophen-Induced Injury)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3932235/), Evidence-Based Complementary and Alternative Medicine
+- Europska agencija za lijekove (EMA) – [Timijan, biljni lijek (Thymi herba)](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba) i [Cvijet bazge, biljni lijek (Sambuci flos)](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos)
+- WebMD – [Timijan (Thyme)](https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme)
+- Dječja bolnica Nationwide Children's – [Što treba znati o biljnim pripravcima i operaciji (What to Know About Herbs and Surgery)](https://www.nationwidechildrens.org/family-resources-education/family-resources-library/what-to-know-about-herbs-and-surgery)
+- Savjetodavna služba Sveučilišta Michigan State (MSU Extension) – [Zašto dojenčadi ne treba davati med (Why you should avoid feeding honey to an infant)](https://www.canr.msu.edu/news/babies_and_honey_dont_go_together)

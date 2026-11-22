@@ -105,7 +105,7 @@ Europska agencija za lijekove (EMA) list kadulje priznaje kao tradicionalni bilj
 
 ### Upale grla i dišnih puteva
 
-Grgljanje čaja od kadulje stari je kućni lijek za grebanje i bol u grlu. Tradicionalno se koristi i kod afti, malih bolnih ranica na sluznici usta. Za grgljanje se tradicionalno koristi i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), a kod kašlja [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/), koji EMA priznaje kao pomoć pri iskašljavanju kod prehlade.
+Grgljanje čaja od kadulje stari je kućni lijek za grebanje i bol u grlu. Tradicionalno se koristi i kod afti, malih bolnih ranica na sluznici usta. Za grgljanje se tradicionalno koristi i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), a kod kašlja [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/). Njezinu srodnicu, timijan, EMA priznaje kao pomoć pri iskašljavanju kod prehlade.
 
 Kadulja ne liječi bakterijsku upalu krajnika (anginu), koja se liječi antibiotikom. Javite se liječniku ako uz grlobolju imate visoku temperaturu, gnojne naslage na krajnicima, otežano gutanje ili disanje, ili ako tegobe traju dulje od tjedan dana.
 
@@ -188,7 +188,7 @@ Proizvode od kadulje potražite u ljekarnama, specijaliziranim prodavaonicama zd
 
 - Europska agencija za lijekove (EMA) – [List kadulje, biljni lijek (Salviae officinalis folium)](https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium)
 - Europska agencija za lijekove (EMA) – [Javna izjava o eteričnom ulju kadulje (Public statement on Salvia officinalis L., aetheroleum)](https://www.ema.europa.eu/en/documents/public-statement/public-statement-salvia-officinalis-l-aetheroleum_en.pdf)
-- Europska agencija za lijekove (EMA) – [Cvijet kamilice, biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) i [Majčina dušica, biljni lijek (Thymi herba)](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba)
+- Europska agencija za lijekove (EMA) – [Cvijet kamilice, biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) i [Timijan, biljni lijek (Thymi herba)](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba)
 - Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), američki Nacionalni instituti za zdravlje – [Kadulja (Sage)](https://www.nccih.nih.gov/health/sage)
 - Baza podataka o lijekovima i dojenju (LactMed) američkih Nacionalnih instituta za zdravlje – [Kadulja (Sage)](https://www.ncbi.nlm.nih.gov/books/NBK501816/)
 - Halicioglu i sur., prikaz dvaju slučajeva (2011.) – [Otrovanje kaduljom kod novorođenčeta i djeteta (Toxicity of Salvia officinalis in a newborn and a child: an alarming report)](https://pubmed.ncbi.nlm.nih.gov/21907890/), Pediatric Neurology
