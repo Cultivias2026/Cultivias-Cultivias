@@ -7,6 +7,7 @@ perex: Kamilica, sa svojim nježnim bijelim cvjetovima i umirujućim mirisom,
   jedna je od najomiljenijih ljekovitih biljaka na svijetu.
 readTime: 3
 publishedAt: 2025-06-07
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -14,6 +15,44 @@ tags:
   - kamilica
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Kamilica ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Matricaria chamomilla* (njemačka) i *Chamaemelum nobile* (rimska), porodica glavočika (Asteraceae)"
+    - k: Vrsta biljke
+      v: Njemačka je jednogodišnja i sama se rasijava, rimska je trajnica
+    - k: Visina
+      v: Njemačka 40–60 cm, rimska do 30 cm
+    - k: Položaj
+      v: Puno sunce, najmanje 6 sati dnevno; podnosi laganu polusjenu
+    - k: Tlo
+      v: Propusno, blago kiselo do neutralno (pH 5,6–7,5)
+    - k: Sjetva
+      v: Sjeme se ne prekriva zemljom jer klija na svjetlu; niče za 7–14 dana
+    - k: Razmak
+      v: 15–20 cm nakon prorjeđivanja
+    - k: Tegla
+      v: Za njemačku promjer najmanje 30 cm i dubina 20 cm, uz rupe na dnu
+    - k: Zalijevanje
+      v: Mlade biljke redovito, ukorijenjene dobro podnose sušu
+    - k: Kućni ljubimci
+      v: Američko društvo za zaštitu životinja (ASPCA) rimsku kamilicu navodi kao otrovnu za pse i mačke
+  izvori:
+    - "[RHS, uzgoj kamilice](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)"
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)"
+kalendar:
+  napomena: Mjeseci vrijede za kontinentalne krajeve. Kamilica se može sijati i u jesen, o čemu piše vodič [Kamilica, biljka naših baka](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/).
+  redovi:
+    - radnja: Sjetva u vrt ili teglu
+      vrsta: sjetva
+      mjeseci: [4, 5]
+      opis: travanj – svibanj, kad prođe opasnost od mraza
+    - radnja: Cvatnja i berba
+      vrsta: berba
+      mjeseci: [6, 7, 8]
+      moguce: [9]
+      opis: lipanj – kolovoz; počinje cvasti već oko 10 tjedana nakon sjetve
 related_articles:
   - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je
   - kamilica-biljka-naših-baka
@@ -111,3 +150,4 @@ Vlastita kamilica uljepšat će vrt ili balkon i dati vam cvjetove za domaći [�
 - Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)
 - The Spruce, američki vrtlarski portal – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.thespruce.com/how-to-grow-chamomile-1402627)
 - Gardener's Path, američki vrtlarski portal – [Uzgoj kamilice u posudama (How to Grow Chamomile in Containers)](https://gardenerspath.com/plants/flowers/grow-chamomile-containers/)
+- Američko društvo za zaštitu životinja (ASPCA) – [Kamilica: otrovnost za pse, mačke i konje (Chamomile)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)

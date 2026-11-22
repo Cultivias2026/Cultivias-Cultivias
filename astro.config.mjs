@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import { rehypeBlokovi } from './src/lib/blokovi.mjs';
 
 // Vanjski linkovi u sadržaju (markdown) otvaraju se u novom tabu, interni u istom.
 const INTERNAL_HOSTS = new Set(['cultivias.com', 'www.cultivias.com']);
@@ -40,7 +41,8 @@ export default defineConfig({
   ],
   output: 'static',
   markdown: {
-    rehypePlugins: [rehypeLinkTargets],
+    // rehypeBlokovi: Ukratko, kalendar, Oprez i kalkulatori (src/lib/blokovi.mjs)
+    rehypePlugins: [rehypeLinkTargets, rehypeBlokovi],
   },
   vite: {
     plugins: [

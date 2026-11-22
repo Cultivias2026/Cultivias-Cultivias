@@ -17,6 +17,13 @@ tags:
   - zdravlje
 metaTitle: Čaj od kamilice
 noindex: false
+oprez:
+  stavke:
+    - Ne pijte ga ako ste alergični na kamilicu ili druge glavočike, poput ambrozije.
+    - Bebama mlađima od 6 mjeseci ne dajte čaj, a starijoj djeci samo uz savjet pedijatra.
+    - Ako uzimate lijekove za razrjeđivanje krvi, prije redovitog pijenja posavjetujte se s liječnikom.
+    - U trudnoći i kod kroničnih bolesti posavjetujte se s liječnikom prije pijenja većih količina.
+  vise: "#moguće-nuspojave-i-kontraindikacije-čaja-od-kamilice"
 related_articles:
   - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
   - kamilica-olakšanje-probave-nadutosti-i-grčeva

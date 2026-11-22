@@ -44,6 +44,8 @@ Passata, koncentrat i umak u tablici proizvodi su talijanskog proizvođača konz
 
 ![Infografika: kalorije rajčice prema obliku. Jedan plod od 123 g ima oko 22 kcal, 150 g kućno smrznute oko 27 kcal, 150 g passate 54 kcal, 15 g dvostrukog koncentrata oko 14 kcal i 125 g umaka s bosiljkom 70 kcal](/images/articles/infografika-rajcica-kalorije.webp)
 
+<div data-kalkulator="rajcica-kalorije"></div>
+
 ### Koliko kalorija ima salata od rajčice?
 
 Porcija od 250 g same rajčice ima **45 kcal**, dok kalorije cijele salate ovise o dodacima. Samo 10 g maslinova ulja dodaje još [oko 88 kcal](https://fdc.nal.usda.gov/food-details/171413/nutrients), prema istoj bazi USDA. Sir i preljev također se računaju zasebno, pa zdjelica salate nije kalorijski jednaka rajčici koja je u njoj.

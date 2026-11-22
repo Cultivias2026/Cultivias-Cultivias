@@ -226,3 +226,120 @@
   background: var(--color-primary);
   border-radius: 3px;
 }
+
+/* ===== Blokovi u članku: Ukratko, Kalendar radova, Oprez, Kalkulatori (src/lib/blokovi.mjs) ===== */
+#article-body .cv-blok {
+  margin: 1.75rem 0;
+  border-radius: 1rem;
+  padding: 1.15rem 1.1rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #222;
+}
+@media (min-width: 640px) {
+  #article-body .cv-blok { padding: 1.4rem 1.6rem 1.2rem; }
+}
+#article-body .cv-blok p { margin: 0; color: inherit; }
+#article-body .cv-blok i { font-style: italic; }
+#article-body .cv-blok .cv-blok__naslov {
+  display: flex; align-items: center; gap: 0.5rem;
+  font-family: 'Merriweather', Georgia, serif; font-weight: 700; font-size: 1.1rem;
+  color: #06140C; margin-bottom: 0.85rem; line-height: 1.3;
+}
+#article-body .cv-blok__naslov svg { width: 1.3rem; height: 1.3rem; flex: none; color: #3d8a67; }
+#article-body .cv-blok .cv-blok__izvor { margin-top: 0.85rem; font-size: 0.78rem; color: #5b6b62; }
+#article-body .cv-blok__izvor a { color: #3d8a67; }
+
+/* Ukratko */
+#article-body .cv-ukratko { background: #EDF6EE; border: 1px solid #b9dcc7; }
+#article-body .cv-ukratko__dl { display: grid; grid-template-columns: 1fr; column-gap: 1.75rem; margin: 0; }
+@media (min-width: 640px) {
+  #article-body .cv-ukratko__dl { grid-template-columns: 1fr 1fr; }
+}
+#article-body .cv-ukratko__dl > div { padding: 0.55rem 0; border-bottom: 1px solid #d3e9da; }
+#article-body .cv-ukratko__dl dt {
+  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+  color: #3d8a67; margin: 0 0 0.15rem;
+}
+#article-body .cv-ukratko__dl dd { margin: 0; color: #222; }
+
+/* Kalendar radova */
+#article-body .cv-kal {
+  margin-top: 1.1rem; background: #fff; border: 1px solid #d3e9da; border-radius: 0.75rem;
+  padding: 0.85rem 0.85rem 0.75rem;
+}
+#article-body .cv-kal .cv-kal__naslov { font-weight: 700; color: #06140C; font-size: 0.95rem; margin-bottom: 0.35rem; }
+#article-body .cv-kal__red { display: grid; grid-template-columns: 1fr; gap: 0.3rem; padding: 0.45rem 0; }
+@media (min-width: 640px) {
+  #article-body .cv-kal__red { grid-template-columns: 12.5rem 1fr; align-items: center; gap: 1rem; }
+}
+#article-body .cv-kal__red + .cv-kal__red:not(.cv-kal__zaglavlje) { border-top: 1px solid #eef4f0; }
+#article-body .cv-kal__zaglavlje { padding-bottom: 0; }
+#article-body .cv-kal__zaglavlje .cv-kal__opis { display: none; }
+@media (min-width: 640px) {
+  #article-body .cv-kal__zaglavlje .cv-kal__opis { display: block; }
+}
+#article-body .cv-kal__opis strong { display: block; color: #06140C; font-weight: 600; font-size: 0.9rem; }
+#article-body .cv-kal__opis > span { display: block; color: #555; font-size: 0.82rem; line-height: 1.4; }
+#article-body .cv-kal__traka { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 3px; }
+#article-body .cv-kal__traka > span { height: 1.1rem; border-radius: 4px; background: #f0f4f1; }
+#article-body .cv-kal__zaglavlje .cv-kal__traka > span {
+  height: auto; background: none; text-align: center; font-size: 0.66rem; font-weight: 600; color: #6b7c72;
+}
+#article-body .cv-kal__dug { display: none; }
+@media (min-width: 640px) {
+  #article-body .cv-kal__dug { display: inline; }
+  #article-body .cv-kal__rim { display: none; }
+}
+#article-body .cv-kal__traka .sjetva { --c: #a8d5bb; }
+#article-body .cv-kal__traka .sadnja { --c: #5cab88; }
+#article-body .cv-kal__traka .cvatnja { --c: #7fbf9f; }
+#article-body .cv-kal__traka .berba { --c: #2f7556; }
+#article-body .cv-kal__traka .rezidba,
+#article-body .cv-kal__traka .njega { --c: #8fb8a3; }
+#article-body .cv-kal__traka .on { background: var(--c); }
+#article-body .cv-kal__traka .mozda { background: repeating-linear-gradient(135deg, var(--c) 0 3px, #fff 3px 6px); }
+#article-body .cv-kal .cv-kal__nap { margin-top: 0.5rem; font-size: 0.78rem; color: #5b6b62; }
+#article-body .cv-kal__nap a { color: #3d8a67; }
+
+/* Oprez – crvena samo za upozorenja */
+#article-body .cv-oprez { background: #FBE9E7; border: 1px solid #f1c6c0; border-left: 5px solid #B3261E; }
+#article-body .cv-oprez .cv-blok__naslov,
+#article-body .cv-oprez .cv-blok__naslov svg { color: #B3261E; }
+#article-body .cv-oprez ul { list-style: none; padding: 0; margin: 0; }
+#article-body .cv-oprez li { position: relative; padding-left: 1.35rem; margin: 0 0 0.5rem; color: #222; }
+#article-body .cv-oprez li::before {
+  content: ''; position: absolute; left: 0.2rem; top: 0.55em; width: 0.5rem; height: 0.5rem;
+  background: #B3261E; transform: rotate(45deg); border-radius: 1px;
+}
+#article-body .cv-oprez .cv-oprez__vise { margin-top: 0.6rem; font-size: 0.88rem; }
+#article-body .cv-oprez__vise a { color: #B3261E; font-weight: 600; }
+#article-body .cv-oprez__vise a:hover { color: #8c1d17; }
+
+/* Kalkulatori */
+#article-body .cv-kalk { background: #fff; border: 2px solid #5cab88; }
+#article-body .cv-kalk__polja { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+@media (min-width: 640px) {
+  #article-body .cv-kalk__polja { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+#article-body .cv-kalk__polje { display: flex; flex-direction: column; justify-content: space-between; gap: 0.3rem; font-size: 0.8rem; font-weight: 600; color: #3d8a67; min-width: 0; }
+#article-body .cv-kalk__polje--siroko { grid-column: 1 / -1; }
+#article-body .cv-kalk input,
+#article-body .cv-kalk select {
+  width: 100%; font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 500; color: #06140C;
+  padding: 0.5rem 0.7rem; border: 1px solid #b9dcc7; border-radius: 0.6rem; background: #fff; min-height: 2.75rem;
+}
+#article-body .cv-kalk input:focus,
+#article-body .cv-kalk select:focus { outline: 2px solid #5cab88; outline-offset: 1px; border-color: #5cab88; }
+#article-body .cv-kalk .cv-kalk__rez {
+  margin-top: 1rem; padding: 0.85rem 1rem; background: #EDF6EE; border-radius: 0.75rem; font-size: 1rem; color: #06140C;
+}
+#article-body .cv-kalk__rez strong,
+#article-body .cv-kalk__popis strong { color: #2f7556; font-weight: 700; }
+#article-body .cv-kalk__rez strong { font-size: 1.15rem; }
+#article-body .cv-kalk .cv-kalk__podnaslov { margin-top: 1rem; font-weight: 600; color: #06140C; }
+#article-body .cv-kalk ul.cv-kalk__popis {
+  list-style: none; margin: 0.4rem 0 0; padding: 0.8rem 1rem; background: #EDF6EE; border-radius: 0.75rem;
+}
+#article-body .cv-kalk__popis li { margin: 0.2rem 0; color: #222; }
+#article-body .cv-kalk .cv-kalk__nap { margin-top: 0.75rem; font-size: 0.8rem; color: #5b6b62; }

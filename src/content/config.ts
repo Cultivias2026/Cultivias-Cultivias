@@ -44,6 +44,29 @@ const articlesCollection = defineCollection({
     canonicalUrl: z.string().optional(),
     ogImage: z.string().optional(),
     noindex: z.boolean().default(false),
+    // Okvir "Ukratko" (profil biljke) – umeće se iza uvodnog odlomka
+    ukratko: z.object({
+      naslov: z.string().optional(),
+      stavke: z.array(z.object({ k: z.string(), v: z.string() })),
+      izvori: z.array(z.string()).optional(),
+    }).optional(),
+    // Kalendar radova po mjesecima (prikazuje se unutar okvira Ukratko)
+    kalendar: z.object({
+      napomena: z.string().optional(),
+      redovi: z.array(z.object({
+        radnja: z.string(),
+        vrsta: z.enum(['sjetva', 'sadnja', 'cvatnja', 'berba', 'rezidba', 'njega']),
+        mjeseci: z.array(z.number().int().min(1).max(12)),
+        moguce: z.array(z.number().int().min(1).max(12)).optional(),
+        opis: z.string().optional(),
+      })),
+    }).optional(),
+    // Crveni okvir "Oprez" – umeće se iza uvodnog odlomka (iza okvira Ukratko)
+    oprez: z.object({
+      stavke: z.array(z.string()),
+      vise: z.string().optional(),
+      viseTekst: z.string().optional(),
+    }).optional(),
   }),
 });
 

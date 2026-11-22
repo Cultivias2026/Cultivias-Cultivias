@@ -40,6 +40,8 @@ Pripremite:
 - 50 ml vode
 - 15 ml limunova soka.
 
+<div data-kalkulator="aronija-pekmez"></div>
+
 **Očekujte mazivu voćnu kašu, ne čvrsti žele.** Gustoća i konačna količina ovisit će o sočnosti jabuke i količini vode koja ispari. Dodani pektin nije predviđen u ovom postupku. Pripremite nekoliko malih posuda; nemojte unaprijed računati na točan broj punih staklenki.
 
 1. **Omekšajte voće.** Jabuku narežite na male kockice. Stavite je u lonac s aronijom i vodom, poklopite i zagrijavajte na umjerenoj vatri. Povremeno promiješajte. Voće je spremno kada jabuku možete lako zgnječiti, a bobice počnu pucati.

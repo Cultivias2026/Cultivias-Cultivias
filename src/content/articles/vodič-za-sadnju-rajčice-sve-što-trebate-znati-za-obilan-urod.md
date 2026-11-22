@@ -7,7 +7,7 @@ perex: Rajčica je jedna od najomiljenijih kultura u vrtovima diljem svijeta,
   cijenjena zbog svog bogatog okusa i svestranosti u kuhinji.
 readTime: 6
 publishedAt: 2024-09-03
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -15,6 +15,43 @@ tags:
   - rajcica
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Rajčica ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Solanum lycopersicum*, porodica pomoćnica (Solanaceae)"
+    - k: Položaj
+      v: Puno sunce, najmanje 6–8 sati izravnog sunca dnevno
+    - k: Tlo
+      v: Rahlo, propusno, obogaćeno kompostom ili zrelim stajskim gnojem
+    - k: Razmak u redu
+      v: Niske sorte 45–60 cm, visoke 45–90 cm
+    - k: Potpora
+      v: Visoke (indeterminantne) sorte trebaju čvrstu potporu
+    - k: Tegla
+      v: Najmanje 15 litara po biljci, bolje 20–30 litara
+    - k: Mraz
+      v: Ne podnosi ga, pa se na otvoreno sadi kad prođe opasnost od mraza
+    - k: Kućni ljubimci
+      v: Listovi, stabljike i nezreli zeleni plodovi otrovni su za pse i mačke, a zreli plod nije
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant)"
+kalendar:
+  napomena: Mjeseci vrijede za kontinentalne krajeve. U plasteniku i u toplijim krajevima uz more sve kreće ranije, pa se ravnajte prema posljednjem mrazu u svom mjestu.
+  redovi:
+    - radnja: Sjetva u zatvorenom
+      vrsta: sjetva
+      mjeseci: [3]
+      opis: ožujak, 6–8 tjedana prije posljednjeg mraza
+    - radnja: Sadnja na otvoreno
+      vrsta: sadnja
+      mjeseci: [5]
+      opis: svibanj, kad prođe opasnost od mraza
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7, 8, 9]
+      moguce: [10]
+      opis: srpanj – rujan, visoke sorte do prvog mraza
 related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
   - koje-su-najukusnije-sorte-paradajza-u-našim-krajevima
@@ -84,6 +121,8 @@ Dovoljan razmak omogućuje strujanje zraka između biljaka, a to smanjuje rizik 
 * **determinantne (grmolike) sorte** – 45–60 cm u redu i 90–120 cm između redova
 * **indeterminantne (visoke) sorte** – 45–90 cm u redu i 120–150 cm između redova, jer trebaju više mjesta
 
+<div data-kalkulator="rajcica-sadnice"></div>
+
 Tablicu za niske, visoke i cherry rajčice te za uzgoj u kavezu donosi članak o [razmaku sadnje rajčica](https://www.cultivias.com/povrce/razmak-sadnje-rajcica/).
 
 ## Tehnika sadnje: zašto se preporučuje saditi dublje?
@@ -144,3 +183,4 @@ Uz ove upute, bez obzira na način koji odaberete, imate dobre izglede da ovog l
 - Savjetodavna služba Sveučilišta Sjeverna Karolina (NC State Extension) – [Determinantne rajčice: vodič kroz kompaktne sorte (Determinate Tomatoes: Your Guide to Compact and Delicious Choices)](https://beaufort.ces.ncsu.edu/2025/04/determinate-tomatoes-your-guide-to-compact-and-delicious-choices)
 - Savjetodavna služba Sveučilišta Utah (Utah State University Extension) – [Sadnja, razmak i prorjeđivanje (Planting, Spacing & Thinning)](https://extension.usu.edu/vegetableguide/tomato-pepper-eggplant/planting-spacing)
 - Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension) – [Uzgoj rajčica u kućnom vrtu (Growing Tomatoes in a Home Garden)](https://extension.umd.edu/resource/growing-tomatoes-home-garden)
+- Američko društvo za zaštitu životinja (ASPCA) – [Biljka rajčice: otrovnost za pse, mačke i konje (Tomato Plant)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant)
