@@ -9,8 +9,9 @@ perex: Limunski eukaliptus (Corymbia citriodora) je jedina biljka čiji derivat,
   koji ometa osjetila komaraca. Pruža zaštitu do 6 sati, ali nije preporučen za
   djecu mlađu od 3 godine. Može se uzgajati u tegli ili vrtu, ali sama biljka
   nije dovoljna zamjena za ulje.
-readTime: 5
+readTime: 10
 publishedAt: 2026-07-16
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -21,158 +22,166 @@ related_articles:
   - biljke-protiv-komaraca-mit-ili-stvarna-pomoć
 noindex: false
 ---
-**Limunski eukaliptus** (*Corymbia citriodora*, ranije klasificiran kao *Eucalyptus citriodora*) je visoko drvo porijeklom iz sjeveroistočne Australije, gdje naraste i do 45 metara. Prepoznatljivo je po glatkoj, blijedoj kori koja se ljušti u tankim listićima i po intenzivnom mirisu limuna koji se osjeća čak i bez dodirivanja listova.
 
-Botanički, ova vrsta više nije dio roda Eucalyptus u užem smislu, nego je premještena u rod Corymbia, koji obuhvaća oko 80 [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) s karakterističnim cvjetnim skupinama. Ipak, u svakodnevnom govoru i u prodaji se i dalje naziva limunski eukaliptus.
+Limunski eukaliptus visoko je drvo iz Australije čiji listovi mirišu na limun. Iz njegova ulja dobivaju se OLE i PMD, aktivne tvari repelenata koje američki Centar za kontrolu i prevenciju bolesti (CDC) preporučuje za zaštitu od komaraca, uz DEET i još nekoliko sastojaka. Čisto eterično ulje, međutim, nije isto što i takav repelent. U nastavku saznajte kako limunski eukaliptus odbija komarce, koliko dugo štiti, kako ga sigurno koristiti uz djecu i kućne ljubimce te kako ga uzgojiti u vrtu ili tegli.
 
-Ono što ovu vrstu razlikuje od ostalih eukaliptusa jest kemijski sastav eteričnog ulja. Dok kod većine eukaliptusa dominira **1,8-cineol** (eukaliptol), kod *Corymbia citriodora* dominira **citronelal**, aldehid koji biljci daje miris limuna i koji je odgovoran za repelentno djelovanje.
+## Što je limunski eukaliptus?
 
-## Citronelal i PMD: Kemija koja odbija komarce
+**Limunski eukaliptus** (*Corymbia citriodora*, ranije *Eucalyptus citriodora*) visoko je drvo iz sjeveroistočne Australije, gdje naraste i do 45 metara. Prepoznaje se po glatkoj, svijetloj kori koja se ljušti u tankim listićima i po jakom mirisu limuna, koji se najbolje osjeti kad protrljate list.
 
-**Citronelal** je monoterpenski aldehid koji čini 60 do 85% eteričnog ulja limunskog eukaliptusa. On sam po sebi djeluje kao repelent, ali je relativno kratkotrajan jer brzo isparava s kože.
+Botaničari su ga premjestili iz roda *Eucalyptus* u rod *Corymbia*, koji obuhvaća stotinjak vrsta, gotovo sve iz Australije. Rod je ime dobio po cvatu u obliku gronje (lat. *corymbus*). U svakodnevnom govoru i u trgovini ipak se i dalje zove limunski eukaliptus. Po čemu se razlikuju ostali eukaliptusi, opisuje [vodič kroz vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
 
-Ono što ga čini posebnim jest nusprodukt koji nastaje pri preradi eteričnog ulja. Kada se eterično ulje limunskog eukaliptusa podvrgne hidrodestilatnom procesu, nastaje **PMD** (p-mentan-3,8-diol), spoj koji je znatno stabilniji i dugotrajniji od samog citronelala. Upravo PMD je aktivna tvar u komercijalnim repelentima na bazi limunskog eukaliptusa.
+Od većine eukaliptusa razlikuje se po sastavu eteričnog ulja. U većini eukaliptusa prevladava **1,8-cineol** (eukaliptol), a u limunskom eukaliptusu **citronelal**, spoj koji ulju daje miris limuna i odbija komarce.
 
-[Sveobuhvatna studija o biljnim repelentima objavljena u časopisu Malaria Journal (2011.)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/) potvrdila je da je PMD jedini biljni repelent koji američki Centar za kontrolu i prevenciju bolesti (**CDC**) preporučuje za korištenje u područjima s endemskim bolestima koje prenose komarci, poput malarije. Ista studija navodi da 30% PMD nanese na kožu pruža 96,88% zaštite od komaraca u trajanju od 4 sata, dok 50% PMD pruža 100% zaštite 6 do 7 sati.
+## Citronelal i PMD: Kako limunski eukaliptus odbija komarce
+
+**Citronelal** je mirisni spoj (monoterpenski aldehid) koji čini 60 do 85 % eteričnog ulja limunskog eukaliptusa. I sam odbija komarce, ali kratko, jer brzo isparava s kože.
+
+**PMD** (p-mentan-3,8-diol) u ulju se prirodno nalazi tek u malim količinama. Za repelente se ulje posebno prerađuje, pri čemu se dio citronelala pretvara u PMD. Tako prerađeno ulje u SAD-u se prodaje pod nazivom **OLE** (engl. *oil of lemon eucalyptus*, ulje limunskog eukaliptusa), a PMD se proizvodi i sintetski. PMD je postojaniji od citronelala i dulje ostaje na koži, pa je upravo on aktivna tvar u repelentima na bazi limunskog eukaliptusa.
+
+Prema [preglednom radu o biljnim repelentima objavljenom 2011. u časopisu Malaria Journal](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/), PMD je tada bio jedini repelent biljnog podrijetla koji je CDC preporučio i za područja u kojima komarci prenose bolesti, poput malarije. U istom radu navodi se da je 30-postotni PMD nanesen na kožu pružao 96,88 % zaštite od uboda tijekom 4 sata. Maramice s PMD-om u laboratorijskom su ispitivanju pružale 90 % zaštite tijekom 6 sati.
+
+Danas CDC na popisu aktivnih tvari koje preporučuje navodi DEET, pikaridin (u Europi poznat kao ikaridin), IR3535, OLE, PMD i 2-undekanon. Kao sastojke biljnog podrijetla izdvaja OLE i 2-undekanon.
 
 ### Kako citronelal djeluje na komarce?
 
-Komarci lociraju ljude primarno putem ugljikova dioksida koji izdišemo, tjelesne topline i određenih kemijskih spojeva koje koža ispušta (poput mliječne kiseline i oktanola). **Citronelal** djeluje na dva načina:
+Komarci ljude pronalaze ponajprije po ugljikovu dioksidu koji izdišemo, po tjelesnoj toplini i po spojevima koje koža ispušta, poput mliječne kiseline i oktenola. Smatra se da citronelal na komarce djeluje na dva načina:
 
-1. **Maskiranje mirisa:** Citronelal prekriva mirise koji privlače komarce, čineći čovjeka teže uočljivim za insekte.
-2. **Direktna iritacija:** U višim koncentracijama, citronelal direktno iritira receptore za miris kod komaraca, odvraćajući ih od slijetanja.
+1. **Prikriva mirise** koji privlače komarce, pa ih čovjek teže pronađe.
+2. **Nadražuje receptore za miris** kod komaraca kad ga ima više, pa ih odvraća od slijetanja.
 
-Važno je razumjeti razliku između **eteričnog ulja limunskog eukaliptusa** i **OLE (Oil of Lemon Eucalyptus)** koji se prodaje kao repelent. Eterično ulje je sirovi ekstrakt koji sadrži citronelal, ali nema EPA registraciju kao repelent u SAD-u. OLE je prerađeni ekstrakt koji sadrži PMD i ima regulatornu potvrdu.
+### Eterično ulje nije isto što i repelent s OLE-om
 
-## Limunski eukaliptus vs. DEET: Usporedba učinkovitosti
+Treba razlikovati **eterično ulje limunskog eukaliptusa** i **OLE**, koji se prodaje kao repelent. Eterično ulje je neprerađeni ekstrakt koji sadrži citronelal. U SAD-u nije registrirano kao repelent, a CDC ga za tu namjenu ne preporučuje, jer njegova sigurnost i učinkovitost nisu ispitane kao kod registriranih proizvoda. OLE je prerađeni ekstrakt s PMD-om, registriran kao repelent.
 
-**DEET** (N,N-dietil-meta-toluamid) je sintetički repelent koji se koristi od 1940-ih i dugo je bio zlatni standard zaštite od komaraca. Mnogi ga smatraju najučinkovitijim dostupnim repelentom. Limunski eukaliptus (PMD) je jedina prirodna alternativa koja mu se može ravnopravno usporediti.
+## Limunski eukaliptus ili DEET: Usporedba
 
-| Karakteristika | Limunski eukaliptus (PMD) | DEET |
-| :--- | :--- | :--- |
-| **Aktivni sastojak** | p-Mentan-3,8-diol (PMD) | N,N-dietil-meta-toluamid |
-| **Porijeklo** | Prirodno (iz *Corymbia citriodora*) | Sintetičko |
-| **Trajanje zaštite** | 4 do 7 sati (ovisno o koncentraciji) | 4 do 10 sati (ovisno o koncentraciji) |
-| **CDC preporuka** | Da (jedini biljni repelent) | Da |
-| **Djeca ispod 3 god.** | Nije preporučen | Nije preporučen ispod 2 mj. |
-| **Miris** | Svjež, citrusni | Kemijski, karakterističan |
-| **Iritacija kože** | Rijetka | Moguća kod osjetljivih osoba |
-| **Cijena** | Srednja do visoka | Niska do srednja |
+**DEET** (N,N-dietil-meta-toluamid) sintetički je repelent razvijen 1940-ih. Dugo je služio kao mjerilo s kojim se uspoređuju svi ostali repelenti, a mnogi ga i danas smatraju najučinkovitijim. OLE je biljnog podrijetla, a OLE i PMD nalaze se na istom popisu CDC-a kao i DEET.
 
-Ključna prednost limunskog eukaliptusa je prihvatljiviji miris i percepcija sigurnosti kod korisnika koji izbjegavaju sintetičke kemikalije. Ključna prednost DEET-a je dulje trajanje zaštite i veća dostupnost u različitim koncentracijama.
+| Karakteristika | Repelent s OLE-om ili PMD-om | DEET |
+| --- | --- | --- |
+| **Aktivna tvar** | p-mentan-3,8-diol (PMD) | N,N-dietil-meta-toluamid |
+| **Podrijetlo** | prerađeno ulje biljke *Corymbia citriodora*; PMD se proizvodi i sintetski | sintetičko |
+| **Trajanje zaštite** | do 2 sata s 8 do 10 % OLE-a, oko 6 sati s 30 do 40 % OLE-a | ovisi o koncentraciji; s 23,8 % DEET-a u istraživanju oko 5 sati |
+| **Na popisu CDC-a** | da | da |
+| **Djeca** | ne koristi se kod djece mlađe od 3 godine | prema CDC-u od navršena 2 mjeseca; pratite dobnu granicu na deklaraciji |
+| **Miris** | svjež, na limun | kemijski, karakterističan |
+| **Nadražaj kože** | moguć kod osjetljivih osoba | moguć kod osjetljivih osoba |
+| **Cijena** | srednja do visoka | niska do srednja |
 
-## Kako koristiti eterično ulje limunskog eukaliptusa?
+Prednost repelenata s limunskim eukaliptusom je ugodniji miris, a odabiru ih i ljudi koji izbjegavaju sintetičke tvari. DEET dulje štiti i dostupan je u više koncentracija. Podaci o trajanju zaštite s OLE-om potječu od Američke akademije za pedijatriju (AAP), a za DEET iz usporednog istraživanja objavljenog 2002. u časopisu New England Journal of Medicine.
 
-Postoji nekoliko načina primjene, a svaki ima svoju svrhu i ograničenja.
+## Kako sigurno koristiti limunski eukaliptus protiv komaraca?
 
-### Primjena na kožu
+### Registrirani repelenti s OLE-om ili PMD-om
 
-Eterično ulje limunskog eukaliptusa **nikada se ne smije nanositi neorazrijeđeno direktno na kožu**. Uvijek ga razrijedite u baznom ulju (kokosovo, jojobino, bademovo) u omjeru od 10 do 20 kapi eteričnog ulja na 10 ml baznog ulja. Nanesite na izložene dijelove kože, izbjegavajući oči, usta i sluznice.
+Ako želite repelent na bazi limunskog eukaliptusa, birajte gotov proizvod koji na deklaraciji kao aktivnu tvar navodi **PMD** ili **OLE**. U SAD-u takve proizvode registrira Agencija za zaštitu okoliša (EPA), a CDC ne ispituje proizvode, nego preporučuje aktivne tvari. U Europskoj uniji repelenti za kožu stavljaju se na tržište kao biocidni proizvodi, pa se pridržavajte uputa na pakiranju: koliko često nanositi, na koje dijelove tijela i od koje dobi.
 
-Za djecu stariju od 3 godine, koristite niže koncentracije (5 do 10%) i uvijek napravite test na malom dijelu kože 24 sata unaprijed kako biste provjerili eventualnu alergijsku reakciju.
+Kod djece CDC savjetuje dva pravila koja vrijede za sve repelente:
 
-### Primjena u difuzeru
+* repelent ne nanosite djeci na ruke, oko očiju i usta, na posjekotine ni na nadraženu kožu
+* djetetu ga na lice nanosite tako da ga najprije stavite na svoje dlanove
 
-Nekoliko kapi eteričnog ulja u ultrazvučnom difuzeru može pomoći u odbijanju komaraca u zatvorenim prostorima. Ova metoda je blaža i prikladna za dulje izlaganje, ali je manje učinkovita od direktne primjene na kožu.
+Repelente čuvajte izvan dohvata djece.
 
-### Sprej za odjeću i prostor
+### Eterično ulje: Zašto nije pouzdan repelent
 
-Pomiješajte 20 kapi eteričnog ulja s 100 ml destilirane vode i jednom žličicom alkohola (koji pomaže emulgiranju). Dobiveni sprej možete nanositi na odjeću, zavjese ili prostor oko sebe. Ova metoda nije zamjena za zaštitu kože, ali može smanjiti broj komaraca u neposrednoj blizini.
+Čisto eterično ulje limunskog eukaliptusa, prema CDC-u i AAP-u, nije ispitano kao repelent ni po sigurnosti ni po učinkovitosti. Citronelal iz njega brzo isparava s kože, pa domaće mješavine štite kratko i nepredvidivo.
 
-### Komercijalni repelenti s PMD-om
+Ako eterično ulje ipak koristite, primjerice zbog mirisa, pridržavajte se ovih pravila:
 
-Ako tražite regulatornu sigurnost i standardiziranu koncentraciju, potražite komercijalne repelente koji na deklaraciji navode **OLE (Oil of Lemon Eucalyptus)** ili **PMD** kao aktivnu tvar. Ovi proizvodi su testirani prema standardima EPA (Agencija za zaštitu okoliša SAD-a) i CDC-a.
+* **nikada ga ne nanosite nerazrijeđeno** – uvijek ga dobro razrijedite u baznom ulju (kokosovom, jojobinom ili bademovom) i ne nanosite ga oko očiju, usta i na sluznice
+* **prije šire primjene napravite test** na malom dijelu kože i pričekajte 24 sata
+* **ne koristite ga kao zaštitu za djecu** – za njih birajte samo registrirani repelent s dobnom oznakom na deklaraciji
+* **difuzer** može osvježiti prostor, ali nema dokaza da štiti od uboda, a ne koristite ga u prostoriji u kojoj boravi mačka
+* **domaći sprej** od eteričnog ulja, vode i malo alkohola za odjeću ili prostor djeluje kratko i ne zamjenjuje repelent
 
-## Uzgoj limunskog eukaliptusa: Biljka u vrtu ili tegli
+## Uzgoj limunskog eukaliptusa u vrtu i tegli
 
-**Limunski eukaliptus** može se uzgajati u vrtu ili u tegli, ali treba biti svjestan da sama biljka nije dovoljna zamjena za repelent. Mirisni spojevi koje biljka ispušta u zrak su premalo koncentrirani da bi pružili ozbiljnu zaštitu od komaraca. Ipak, nekoliko biljaka na terasi ili balkonu može doprinijeti ugodnom mirisu i blago odbijati insekte. Koje biljke zaista pomažu, a koje su mit, objašnjava članak [biljke protiv komaraca](https://www.cultivias.com/vijesti/biljke-protiv-komaraca-mit-ili-stvarna-pomo%C4%87/).
+Limunski eukaliptus možete uzgajati u vrtu ili u tegli, ali sama biljka ne štiti od uboda. Mirisnih spojeva koje ispušta u zrak premalo je za ozbiljnu zaštitu od komaraca. Nekoliko biljaka na terasi ili balkonu donosi ugodan miris, osobito kad protrljate list ili po ljetnoj vrućini.
 
-### Uzgoj u vrtu
+Biljka ne podnosi jak mraz, otprilike tek do −3 °C. Na otvorenom se može uzgajati samo u najtoplijim dijelovima priobalja, gdje su mrazevi rijetki i slabi. U ostatku Hrvatske uzgajajte ga u tegli i zimi ga unesite u svijetlu, hladniju prostoriju.
 
-U mediteranskim klimatskim uvjetima, poput Dalmacije, limunski eukaliptus može se uzgajati na otvorenom. Biljka voli:
+Limunski eukaliptus voli:
 
-- **Puno sunca:** Najmanje 6 do 8 sati direktnog sunca dnevno.
-- **Dobro drenirano tlo:** Ne podnosi zamokrenje korijena. Idealno je lagano, pjeskovito ili kamenito tlo.
-- **Zaštitu od mraza:** Ova vrsta nije otporna na mraz. Na kontinentalnom dijelu Hrvatske, biljku je potrebno zaštititi ili unijeti unutra zimi.
+* **mnogo sunca** – najmanje 6 do 8 sati izravnog sunca dnevno
+* **propusno tlo** – lagano, pjeskovito ili kamenito, u kojem se voda ne zadržava oko korijena
+* **toplo ljeto** – najbolje raste pri temperaturama od 20 do 30 °C
+* **zaštitu od mraza** – ispod 0 °C mladu biljku i biljku u tegli zaštitite ili unesite u zatvoreno
 
 ### Uzgoj u tegli
 
-Za uzgoj u tegli, odaberite veliku posudu (minimalno 30 litara) s dobrim drenažnim otvorima. Koristite mješavinu vrtnog komposta i pijeska u omjeru 2:1. Biljku postavite na najsunčanije mjesto u stanu ili na balkonu.
+Odaberite veliku teglu, od najmanje 30 litara, s otvorima za otjecanje vode na dnu. Napunite je mješavinom vrtnog komposta i pijeska u omjeru 2 : 1 i postavite na najsunčanije mjesto u stanu ili na balkonu.
 
-Zalijevanje je ključno: **zalijevajte obilno, ali rijetko**, pustite da se gornji sloj tla (3 do 5 cm) osuši između zalijevanja. Prekomjerno zalijevanje je najčešći uzrok propadanja eukaliptusa u tegli. Ljeti je možda potrebno zalijevati svaki drugi dan, zimi jednom tjedno.
+Zalijevajte obilno, a prije sljedećeg zalijevanja pustite da se gornjih 3 do 5 cm zemlje prosuši. Biljci u tegli štete i zamokreni korijen i presušivanje. Ljeti je možda potrebno zalijevati svaki drugi dan, a po vrućini i češće, pa zemlju tada provjeravajte svakodnevno. Zimi je obično dovoljno zalijevanje jednom tjedno.
 
-Redovitom rezidbom možete kontrolirati veličinu biljke i potaknuti gušći rast koji ispušta više aromatičnih spojeva.
+Redovitom rezidbom ograničit ćete veličinu biljke i potaknuti gušći rast s više mladih, mirisnih listova. Ostala pravila, od odabira supstrata do zimovanja, opisuje [vodič za uzgoj eukaliptusa u tegli](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
 
 ## Sigurnost i kontraindikacije
 
 ### Djeca
 
-**PMD i eterično ulje limunskog eukaliptusa nisu preporučeni za djecu mlađu od 3 godine.** Za djecu između 3 i 12 godina, koristite niže koncentracije i izbjegavajte nanošenje na ruke (jer djeca stavljaju ruke u usta). CDC i WHO imaju konzistentne smjernice o ovom pitanju.
+Prema CDC-u, **proizvodi s OLE-om ili PMD-om ne koriste se kod djece mlađe od 3 godine**, a bebama mlađima od 2 mjeseca ne nanosi se nikakav repelent. Starijoj djeci repelent nanosite prema uputi na deklaraciji i izbjegavajte ruke, oči i usta, jer djeca ruke često stavljaju u usta. Čisto eterično ulje limunskog eukaliptusa ne koristite kao zaštitu za djecu.
 
 ### Trudnoća i dojenje
 
-Nema dovoljno kliničkih podataka o sigurnosti PMD-a u trudnoći i dojenju. Iz opreza, trudnicama se savjetuje konzultacija s liječnikom prije korištenja.
+Prema CDC-u, registrirani repelenti, uključujući one s OLE-om i PMD-om, sigurni su i učinkoviti i za trudnice i dojilje kada se koriste prema uputi. Ta preporuka ne odnosi se na čisto eterično ulje. Ako ste u nedoumici, pitajte liječnika ili ljekarnika.
 
 ### Alergije
 
-Osobe alergične na biljke iz porodice mirtovki (Myrtaceae) trebaju biti oprezne. Uvijek napravite patch test (test na malom dijelu kože) 24 sata prije šire primjene.
+Osobe alergične na biljke iz porodice mirtovki (Myrtaceae), kojoj pripadaju i eukaliptusi, trebaju biti oprezne. Prije šire primjene napravite test na malom dijelu kože i pričekajte 24 sata.
 
 ### Kućni ljubimci
 
-**Eterično ulje limunskog eukaliptusa toksično je za mačke i pse.** Mačke posebno ne mogu metabolizirati određene terpenoidne spojeve. Nemojte nanositi ulje na kućne ljubimce niti ih izlagati difuzeru s eukaliptusovim uljem. O toksičnosti za ljude, djecu i kućne ljubimce pišemo u članku [je li eukaliptus otrovan](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
+Prema američkom Centru za kontrolu otrovanja životinja (ASPCA), eukaliptus je otrovan za pse, mačke i konje, a mačke su osobito osjetljive na eterična ulja jer teže razgrađuju neke terpenske spojeve. Ulje i repelente za ljude ne nanosite na kućne ljubimce i ne izlažite ih difuzeru s eukaliptusovim uljem. Kako prepoznati trovanje i što učiniti, opisuje članak [je li eukaliptus otrovan](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
-## Limunski eukaliptus u Hrvatskoj: Gdje ga kupiti?
+## Gdje kupiti limunski eukaliptus u Hrvatskoj?
 
-Eterično ulje limunskog eukaliptusa dostupno je u ljekarnama, specijaliziranim prodavaonicama prirodnih preparata i online trgovinama. Tražite proizvode koji jasno navode **Corymbia citriodora** ili **Eucalyptus citriodora** kao botanički izvor.
+Repelente s PMD-om potražite u ljekarnama i trgovinama, a na deklaraciji provjerite aktivnu tvar. Eterično ulje limunskog eukaliptusa prodaje se u ljekarnama, specijaliziranim prodavaonicama prirodnih pripravaka i na internetu. Birajte proizvode koji kao botanički izvor jasno navode *Corymbia citriodora* ili *Eucalyptus citriodora*, ali imajte na umu da ono nije zamjena za repelent.
 
-Sadnice limunskog eukaliptusa rjeđe su dostupne u standardnim vrtnim centrima, ali ih možete pronaći u specijaliziranim rasadnicima ili naručiti online. Cijena sadnice kreće se od 5 do 15 eura, ovisno o veličini.
+Sadnice limunskog eukaliptusa rjeđe se nalaze u običnim vrtnim centrima, ali ih možete pronaći u specijaliziranim rasadnicima ili naručiti putem interneta. Cijena sadnice ovisi o veličini, okvirno od 5 do 15 eura.
 
-## Limunski eukaliptus vs. ostale prirodne alternative
+## Limunski eukaliptus i druge biljke protiv komaraca
 
-Osim limunskog eukaliptusa, postoji nekoliko drugih biljaka koje se koriste kao prirodni repelenti. Usporedba pomaže razumjeti zašto je PMD jedini biljni repelent s CDC preporukom.
+Osim limunskog eukaliptusa, kao prirodni repelenti koriste se i druge biljke. Usporedba pokazuje zašto se od njih na popisu CDC-a nalazi samo limunski eukaliptus, odnosno OLE i PMD.
 
-| Biljka | Aktivni spoj | Trajanje zaštite | CDC preporuka |
-| :--- | :--- | :--- | :--- |
-| **Limunski eukaliptus (PMD)** | p-Mentan-3,8-diol | 4 do 7 sati | **Da** |
-| Citronela | Citronelal, geraniol | 30 min do 2 sata | Ne |
-| Lavanda | Linalool | 30 min do 1 sat | Ne |
-| Neem | Azadiraktin | 1 do 3 sata | Ne |
-| Majoran | Terpinen-4-ol | Kratko | Ne |
+| Biljka | Glavni djelatni spoj | Na popisu CDC-a |
+| --- | --- | --- |
+| **limunski eukaliptus (OLE, PMD)** | p-mentan-3,8-diol | **da** |
+| citronela | citronelal, geraniol | ne |
+| lavanda | linalool | ne |
+| neem | azadiraktin | ne |
+| majoran | terpinen-4-ol | ne |
 
-Citronela je najpoznatija prirodna alternativa, ali njena zaštita traje znatno kraće od PMD-a. Limunski eukaliptus je jedina biljna opcija koja se može usporediti s DEET-om u trajanju zaštite.
-
-## Uzgoj limunskog eukaliptusa u Hrvatskoj
-
-U priobalnom dijelu Hrvatske, limunski eukaliptus se može uzgajati na otvorenom. Ova vrsta nije otporna na mraz (podnosi do oko -3°C), pa je na kontinentalnom dijelu treba uzgajati u tegli i unositi unutra zimi.
-
-Biljka voli:
-- **Puno sunca:** Minimalno 6 do 8 sati dnevno
-- **Dobro drenirano tlo:** Lagano, pjeskovito, bez zamokrenja
-- **Toplo ljeto:** Idealna temperatura za rast je 20 do 30°C
-- **Zaštitu od mraza:** Ispod 0°C biljku treba zaštititi ili unijeti unutra
-
-Mirisni listovi su najintenzivniji ljeti, kada je temperatura visoka i biljka aktivno raste. Upravo tada je i najkorisnija kao prirodni repelent na terasi ili balkonu.
-
-Za općenite savjete o uzgoju eukaliptusa u tegli, uključujući odabir supstrata i zalijevanje, pogledajte naš [vodič za uzgoj eukaliptusa kao sobne biljke u tegli](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
+Ulja ovih biljaka uglavnom štite kratko. U spomenutom istraživanju iz 2002. ispitani biljni repelenti, osim jednog na bazi sojina ulja, koji je štitio oko 95 minuta, štitili su u prosjeku kraće od 20 minuta. Proizvod s 23,8 % DEET-a štitio je oko pet sati. Citronela je najpoznatija prirodna zamjena, ali štiti znatno kraće od repelenata s PMD-om. Koje biljke u vrtu zaista pomažu, a koje su mit, objašnjava članak [biljke protiv komaraca](https://www.cultivias.com/vijesti/biljke-protiv-komaraca-mit-ili-stvarna-pomo%C4%87/).
 
 ## Česta pitanja o limunskom eukaliptusu
 
 **Je li limunski eukaliptus siguran za djecu?**
-Nije preporučen za djecu mlađu od 3 godine. Za djecu između 3 i 12 godina, koristite niže koncentracije (5 do 10%) i izbjegavajte nanošenje na ruke.
+Repelenti s OLE-om ili PMD-om ne koriste se kod djece mlađe od 3 godine. Starijoj djeci nanosite ih prema uputi s deklaracije, izbjegavajući ruke, oči i usta. Čisto eterično ulje nije prikladna zaštita za djecu.
 
 **Može li limunski eukaliptus zamijeniti DEET?**
-Može biti učinkovita alternativa u područjima s umjerenim rizikom od komaraca. U područjima s visokim rizikom od bolesti koje prenose komarci (malarija, denga), CDC preporučuje DEET ili PMD u višim koncentracijama.
+Registrirani repelenti s OLE-om ili PMD-om nalaze se na istom popisu CDC-a kao i DEET, pa mogu biti zamjena. S 30 do 40 % OLE-a štite oko 6 sati. Ako putujete u krajeve u kojima komarci prenose malariju ili dengu, odaberite registrirani repelent dugog djelovanja i savjetujte se s liječnikom putne medicine. Čisto eterično ulje nije zamjena za DEET.
 
 **Gdje kupiti eterično ulje limunskog eukaliptusa u Hrvatskoj?**
-Dostupno je u ljekarnama, specijaliziranim prodavaonicama prirodnih preparata i online. Tražite proizvode koji navode *Corymbia citriodora* ili *Eucalyptus citriodora* kao botanički izvor.
+U ljekarnama, specijaliziranim prodavaonicama prirodnih pripravaka i na internetu. Tražite proizvode koji navode *Corymbia citriodora* ili *Eucalyptus citriodora* kao botanički izvor.
 
-**Je li limunski eukaliptus toksičan za kućne ljubimce?**
-Da. Kao i svi eukaliptusi, limunski eukaliptus je toksičan za mačke i pse. Nemojte ga nanositi na kućne ljubimce niti ih izlagati difuzeru s ovim uljem.
+**Je li limunski eukaliptus otrovan za kućne ljubimce?**
+ASPCA eukaliptus navodi kao otrovan za pse, mačke i konje, a mačke su osobito osjetljive na eterična ulja. Ulje ne nanosite na ljubimce i ne koristite difuzer u prostoriji u kojoj borave. O opasnosti eukaliptusa za ljubimce piše i članak [eukaliptus je opasan za mačke i pse](https://www.cultivias.com/vijesti/popularna-mirisna-biljka-opasna-je-za-ma%C4%8Dke-i-pse-radi-se-o-eukaliptusu/).
 
 ## Zaključak
 
-Limunski eukaliptus je iznimno vrijedna biljka koja nudi jednu od rijetkih prirodnih alternativa DEET-u s ozbiljnom znanstvenom potporom. Zahvaljujući citronelalu i PMD-u, pruža stvarnu zaštitu od komaraca, a CDC ga preporučuje za korištenje čak i u područjima s malarijom. Eterično ulje je učinkovito, ali zahtijeva pravilno razrjeđivanje i oprez kod djece, trudnica i kućnih ljubimaca. Uzgoj biljke u vrtu ili tegli donosi ugodnu aromu i blagu zaštitu, ali nije zamjena za direktnu primjenu ulja.
+Limunski eukaliptus izvor je jedne od rijetkih prirodnih zamjena za DEET sa znanstvenom potporom. Pouzdano štite registrirani repelenti s OLE-om ili PMD-om, koje CDC preporučuje i za trudnice, ali ne i za djecu mlađu od 3 godine. Čisto eterično ulje nije ispitano kao repelent, pa ga koristite oprezno i ne oslanjajte se na njega kao na zaštitu. Biljka u vrtu ili tegli donosi ugodan miris, ali ne štiti od uboda.
 
----
+**NAPOMENA/DISCLAIMER:**
 
-> **Napomena:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Eterično ulje eukaliptusa, posebno u koncentriranom obliku, toksično je ako se proguta i može izazvati ozbiljne zdravstvene probleme. Uvijek se posavjetujte s liječnikom ili ljekarnarom prije korištenja, posebno kod djece, trudnica i osoba s kroničnim bolestima.
+**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Eterično ulje eukaliptusa otrovno je ako se proguta. U slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342). Prije korištenja repelenta kod djece, u trudnoći ili uz kroničnu bolest posavjetujte se s liječnikom ili ljekarnikom.**
+
+## Izvori
+
+- Maia i Moore, pregledni rad (2011.) – [Biljni repelenti protiv kukaca: djelotvornost, razvoj i ispitivanje (Plant-based insect repellents: a review of their efficacy, development and testing)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/), Malaria Journal
+- Američki Centar za kontrolu i prevenciju bolesti (CDC) – [Sprječavanje uboda komaraca (Preventing Mosquito Bites)](https://www.cdc.gov/mosquitoes/prevention/) i [Repelenti protiv malarije i drugih bolesti koje prenose komarci (Insect Repellents Help Prevent Malaria and Other Diseases Spread by Mosquitoes)](https://www.cdc.gov/malaria/resources/repellents.html)
+- Američka akademija za pedijatriju (AAP) – [Repelenti protiv kukaca (Insect Repellents)](https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Insect-Repellents.aspx), HealthyChildren.org
+- Fradin i Day, usporedno istraživanje (2002.) – [Usporedba djelotvornosti repelenata protiv uboda komaraca (Comparative efficacy of insect repellents against mosquito bites)](https://doi.org/10.1056/NEJMoa011699), New England Journal of Medicine
+- Kraljevski botanički vrtovi Victoria (VicFlora) – [opis roda Corymbia (Corymbia)](https://vicflora.rbg.vic.gov.au/flora/taxon/77be5475-a381-46ef-8a7e-2f0fd4666b1f)
+- Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) – [Eukaliptus (Eucalyptus)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus)

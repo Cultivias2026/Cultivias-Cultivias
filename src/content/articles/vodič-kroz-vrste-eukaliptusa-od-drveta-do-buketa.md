@@ -11,8 +11,9 @@ perex: Eukaliptus obuhvaća preko 700 vrsta, od kojih su neke divovska stabla, a
   višebojnom korom. Eterična ulja eukaliptusa imaju antimikrobna i repelentna
   svojstva, ali je važno znati da je eukaliptus toksičan za ljude i kućne
   ljubimce ako se ulje proguta.
-readTime: 5
+readTime: 9
 publishedAt: 2026-07-15
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -24,119 +25,141 @@ related_articles:
 noindex: false
 ---
 
-Eukaliptus je zimzelena drvenasta biljka, najčešće stablo, čiji listovi sadrže uljne žlijezde bogate eteričnim uljima. Karakterizira ga kora koja se ljušti u trakama ili pločama, te specifični cvjetovi bez latica, čije su prašnice prekrivene kapicom (operkulumom).
+Eukaliptusi su velika skupina zimzelenih stabala i grmova, uglavnom iz Australije, s više od 700 vrsta. Neki narastu u divovska stabla, a drugi se uzgajaju zbog srebrnastih listova za bukete ili zbog eteričnog ulja. U nastavku saznajte kako prepoznati eukaliptus, po čemu se razlikuju najpoznatije vrste, kako produljiti trajnost grana u vazi, što se zna o ljekovitosti eteričnog ulja i koje vrste uspijevaju u Hrvatskoj.
 
-## Najpopularnije vrste eukaliptusa: Od vrta do vaze
+## Kako prepoznati eukaliptus?
 
-Među stotinama vrsta eukaliptusa, nekoliko se ističe svojom popularnošću, bilo zbog otpornosti, estetske privlačnosti ili ljekovitih svojstava. Razlikujemo vrste koje su **primarno drveće u prirodi** od onih koje se uzgajaju kao **ukrasne sorte za bukete i vaze**. Zašto je eukaliptus omiljen u suhim buketima, pročitajte u članku [eukaliptus u modernim suhim buketima](https://www.cultivias.com/vijesti/za%C5%A1to-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima/).
+Eukaliptus je zimzelena drvenasta biljka, najčešće stablo. Listovi su mu puni sitnih uljnih žlijezda s eteričnim uljem, pa zamirišu čim ih protrljate. Kora mnogih vrsta ljušti se u trakama ili pločama. Cvjetovi nemaju latice, a u pupu su im prašnici prekriveni kapicom (operkulumom), koja otpadne kad se cvijet otvori.
 
-### Eucalyptus gunnii: Srebrni dragulj otporan na mraz
+## Najpoznatije vrste eukaliptusa: Od vrta do vaze
 
-Eucalyptus gunnii, poznat i kao cidrasti eukaliptus, **najotporniji je eukaliptus na mraz** među komercijalnim vrstama, podnoseći [temperature do -15°C](https://www.hortiqa.com). Podrijetlom iz Tasmanije, ova vrsta je iznimno popularna zbog svojih okruglih, **srebrno-plavih mladenačkih listova** i svježeg, mentolastog mirisa. Brzo raste, **do 1 metra godišnje**, te se može uzgajati kao [kompaktni grm ili stablo](https://www.hortiqa.com).
+Među stotinama vrsta eukaliptusa nekoliko je osobito popularnih, bilo zbog otpornosti, izgleda ili eteričnog ulja. Razlikujemo vrste koje su u prirodi **velika stabla** od onih koje se uzgajaju **za bukete i vaze**. Zašto je eukaliptus omiljen u suhim buketima, pročitajte u članku [eukaliptus u modernim suhim buketima](https://www.cultivias.com/vijesti/za%C5%A1to-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima/).
+
+### Eucalyptus gunnii: Srebrnasti eukaliptus otporan na mraz
+
+*Eucalyptus gunnii*, poznat i kao cidrasti eukaliptus (engl. *cider gum*), jedan je od eukaliptusa najotpornijih na mraz. Kraljevsko hortikulturno društvo (RHS) svrstava ga u skupinu otpornosti H5, odnosno među biljke koje podnose zimske temperature od −10 do −15 °C. Potječe iz Tasmanije, a popularan je zbog okruglih, **srebrnastoplavih mladih listova** i svježeg mirisa nalik na mentol. Brzo raste, **do 1 metra godišnje**, a rezidbom ga možete držati kao kompaktan grm ili uzgojiti kao stablo.
 
 | Karakteristika | Opis |
-| :--- | :--- |
+| --- | --- |
 | Podrijetlo | Tasmanija (Australija) |
-| Otpornost na mraz | Do -15°C |
-| Izgled listova | Okrugli, srebrno-plavi (mladi); duguljasti, tamnozeleni (odrasli) |
-| Miris | Svjež, mentolast |
-| Rast | Brz (do 1 m godišnje) |
-| Upotreba | Vrtno stablo/grm, ukrasni buketi, prirodni repelent |
+| Otpornost na mraz | do otprilike −15 °C (RHS H5) |
+| Izgled listova | mladi okrugli, srebrnastoplavi; stariji duguljasti, tamnozeleni |
+| Miris | svjež, nalik na mentol |
+| Rast | brz (do 1 m godišnje) |
+| Upotreba | vrtno stablo ili grm, tegla, ukrasni buketi |
 
-Eucalyptus gunnii je također cijenjen kao [prirodni repelent](https://www.hortiqa.com) protiv komaraca zahvaljujući svojim aromatičnim eteričnim uljima. Važno je napomenuti da su listovi ove vrste **sigurni za pse i mačke**, iako eterična ulja mogu iritirati osjetljive životinje pri gutanju većih količina.
+Okrugle mlade listove biljka razvija i nakon jače rezidbe. RHS zato za *E. gunnii* opisuje rezanje do panja krajem zime ili početkom proljeća, nakon kojeg izrastaju novi izboji s mladim listovima.
 
-### Eucalyptus polyanthemos (Populus): Okrugli listovi za elegantne aranžmane
+Listovi ove vrste, kao i drugih eukaliptusa, **nisu sigurni za pse i mačke**. Američki Centar za kontrolu otrovanja životinja (ASPCA) eukaliptus navodi kao otrovan za pse, mačke i konje. Zato biljku i grane u vazi držite izvan dohvata ljubimaca.
 
-Eucalyptus polyanthemos, često nazivan i Populus eukaliptus ili Silver dollar gum, zimzeleno je stablo porijeklom iz Australije, prepoznatljivo po svojim karakterističnim [okruglim, srebrno-zelenim listovima](https://www.sikito.com) u obliku srca ili novčića. **Mladi listovi su posebno cijenjeni** zbog svog oblika i boje, zbog čega je ova vrsta iznimno popularna u cvjetnim aranžmanima i buketima.
+### Eucalyptus polyanthemos: Okrugli listovi za aranžmane
 
-Listovi Eucalyptus polyanthemos zadržavaju **osvježavajući miris i teksturu čak i kada se osuše**, što ih čini idealnim za izradu vijenaca i suhih aranžmana. Ova vrsta simbolizira regeneraciju, novi početak i sjećanja, a njezina mekoća i prilagodljivost čine je omiljenim izborom za [vjenčane bukete i dekoracije](https://www.sikito.com).
+*Eucalyptus polyanthemos*, na engleskom *silver dollar gum*, zimzeleno je stablo iz Australije, prepoznatljivo po okruglim, srebrnastozelenim listovima u obliku srca ili novčića. U cvjećarnicama se grane okruglih listova često prodaju pod nazivom Populus, iako se taj trgovački naziv ne koristi uvijek za istu vrstu. **Najviše se cijene mladi listovi**, zbog oblika i boje, pa je ova vrsta vrlo popularna u cvjetnim aranžmanima i buketima.
 
-### Eucalyptus radiata: Eterično ulje za dišne puteve
+Listovi **zadržavaju miris i teksturu i kad se osuše**, pa su prikladni za vijence i suhe aranžmane. U jeziku cvijeća povezuje se s obnovom, novim početkom i sjećanjem, a zbog mekih, savitljivih grana čest je izbor za vjenčane bukete i dekoracije.
 
-Eucalyptus radiata je vrsta eukaliptusa čije je eterično ulje cijenjeno zbog svojih blagih, ali učinkovitih svojstava, posebno u podršci zdravlju dišnih puteva i [imunološkog sustava](https://www.aromaweb.com). Za razliku od Eucalyptus globulus, eterično ulje Eucalyptus radiata ima **svježiji, čišći i nešto slađi miris**, što ga čini pogodnijim za [osjetljive pojedince](https://www.aromaweb.com).
+### Eucalyptus radiata: Eukaliptus blažeg mirisa
 
-Ova vrsta ima grubu, vlaknastu koru na deblu i većim granama, dok su tanje grane prekrivene glatkom sivom korom. Listovi su kopljasti do zakrivljeni. Iako se ne koristi primarno u buketima, **njegovo eterično ulje je široko primjenjivo** u aromaterapiji i prirodnoj medicini.
+*Eucalyptus radiata* vrsta je čije se eterično ulje koristi u aromaterapiji. U usporedbi s uljem plavog eukaliptusa (*Eucalyptus globulus*), miris mu je svježiji i nešto slađi, pa ga u aromaterapiji smatraju blažim. I ovo ulje, međutim, sadrži mnogo 1,8-cineola, pa za djecu vrijede ista ograničenja kao i za ostala eukaliptusova ulja.
 
-### Dugin eukaliptus (Eucalyptus deglupta): Spektakl prirode
+Deblo i deblje grane imaju grubu, vlaknastu koru, a tanje grane glatku sivu. Listovi su kopljasti do srpasto zakrivljeni. U buketima se rijetko koristi, a uzgaja se ponajprije zbog eteričnog ulja.
 
-Dugin eukaliptus (Eucalyptus deglupta), poznat i kao Mindanao gum ili Rainbow Eucalyptus, iznimno je veliko, brzorastuće zimzeleno stablo porijeklom s otoka sjeverno od Australije, uključujući Filipine, Indoneziju i Papuu Novu Gvineju. Ono što ga čini jedinstvenim je njegova kora koja se ljušti u trakama, otkrivajući **spektakularne pruge jarkih boja** – zelene, plave, ljubičaste, narančaste i smeđe.
+### Dugin eukaliptus (Eucalyptus deglupta): Drvo šarene kore
 
-Ova višebojna kora rezultat je različitih faza oksidacije unutarnje kore koja se izlaže ljuštenjem vanjskih slojeva. Dugin eukaliptus može narasti do **60–78 metara u visinu**, s deblom promjera do 240 cm. Iako nije uobičajen u buketima, njegova **estetska vrijednost kao ukrasnog drveta je neprocjenjiva**.
+Dugin eukaliptus (*Eucalyptus deglupta*), na engleskom *Mindanao gum* ili *rainbow eucalyptus*, vrlo je veliko, brzorastuće zimzeleno stablo s otoka sjeverno od Australije, uključujući Filipine, Indoneziju i Papuu Novu Gvineju. Kora mu se ljušti u trakama i otkriva **pruge jarkih boja**: zelene, plave, ljubičaste, narančaste i smeđe.
 
-## Eukaliptus u buketima i vazama: Savjeti za dugotrajnu svježinu
+Boje nastaju jer se vanjska kora ne ljušti posvuda u isto vrijeme, a svježe otkrivena kora s vremenom mijenja boju. Dugin eukaliptus može narasti 60 do 78 metara u visinu, s deblom promjera do 240 cm. U buketima se ne koristi, a u tropskim krajevima sadi se kao ukrasno drvo.
 
-Eukaliptus je iznimno popularan dodatak buketima i cvjetnim aranžmanima zbog svoje ljepote, osvježavajućeg mirisa i dugotrajnosti. Njegovi listovi dodaju **teksturu i volumen**, a srebrno-zelene nijanse savršeno se uklapaju s raznim cvijećem.
+## Eukaliptus u buketima i vazama: Kako dulje ostaje svjež
 
-### Odabir i priprema eukaliptusa za vazu
+Eukaliptus je čest dodatak buketima i cvjetnim aranžmanima zbog izgleda, osvježavajućeg mirisa i trajnosti. Listovi daju **teksturu i volumen**, a srebrnastozelene nijanse lijepo se slažu s raznim cvijećem.
 
-Za dugotrajnu svježinu eukaliptusa u vazi, ključno je pravilno ga pripremiti. Koristite oštre škare i odrežite stabljiku **dijagonalno pod kutom od 45 stupnjeva**. To povećava površinu za [apsorpciju vode](https://www.sikito.com). Uklonite sve listove koji bi bili potopljeni u vodu u vazi, jer listovi u vodi potiču razvoj bakterija i skraćuju vijek trajanja buketa. Stavite eukaliptus u svježu vodu odmah nakon rezanja. Možete koristiti i hranidbenu otopinu za rezano cvijeće kako biste produžili svježinu.
+### Priprema eukaliptusa za vazu
+
+Da bi eukaliptus u vazi dulje trajao, pravilno ga pripremite. Oštrim škarama odrežite stabljiku **ukoso, pod kutom od 45 stupnjeva**, kako bi upijala više vode. Uklonite sve listove koji bi bili u vodi, jer u vodi trunu, potiču razvoj bakterija i skraćuju trajnost buketa. Eukaliptus odmah nakon rezanja stavite u svježu vodu. Možete dodati i hranu za rezano cvijeće.
 
 ### Njega eukaliptusa u vazi
 
-Kako bi eukaliptus ostao svjež što duže, **mijenjajte vodu svakodnevno ili svaki drugi dan** kako biste [spriječili razvoj bakterija](https://www.sikito.com). Svakih nekoliko dana ponovno odrežite vrh stabljike pod kutom kako biste osigurali bolju apsorpciju vode. Držite vazu s eukaliptusom **podalje od izravnog sunčevog svjetla, propuha i izvora topline**, jer to može ubrzati sušenje.
+* **vodu mijenjajte** svaki dan ili svaki drugi dan, kako se ne bi razvile bakterije
+* **svakih nekoliko dana** ponovno ukoso podrežite vrh stabljike, da bolje upija vodu
+* **vazu držite podalje** od izravnog sunca, propuha i izvora topline, jer ubrzavaju sušenje
 
-Eukaliptus se može koristiti i kada se osuši, zadržavajući **oblik i dio mirisa**, što ga čini idealnim za [trajne dekoracije](https://www.sikito.com).
+Eukaliptus se može koristiti i kad se osuši, jer **zadržava oblik i dio mirisa**. Kako suhe grane pretvoriti u trajnu dekoraciju, pročitajte u članku [ne bacajte suhi eukaliptus](https://www.cultivias.com/vijesti/ne-bacajte-suhi-eukaliptus-jednostavna-metoda-pretvara-ga-u-dekoraciju-koja-traje-mjesecima/).
 
-## Ljekovita svojstva i eterična ulja eukaliptusa
+## Ljekovitost eukaliptusa i eterična ulja
 
-Eukaliptus je stoljećima cijenjen u tradicionalnoj medicini, a moderna znanost potvrđuje mnoga njegova ljekovita svojstva, prvenstveno zahvaljujući **bogatom sadržaju eteričnih ulja**.
+Eukaliptus se stoljećima koristi u narodnoj medicini, ponajprije zbog eteričnog ulja. Dio tih primjena danas je priznat kao tradicionalna upotreba, ali ne i potvrđen kliničkim istraživanjima.
 
-### 1,8-cineol (eukaliptol): Ključni sastojak
+### 1,8-cineol (eukaliptol): Glavni sastojak ulja
 
-Najvažniji aktivni spoj u eteričnom ulju eukaliptusa je **1,8-cineol, poznat i kao eukaliptol**. Ovaj monoterpen ima snažna antimikrobna, protuupalna i [mukolitička svojstva](https://www.sciencedirect.com).
+Glavni djelatni spoj eteričnog ulja eukaliptusa je **1,8-cineol, poznat i kao eukaliptol**. U laboratorijskim istraživanjima djeluje protiv nekih mikroorganizama i protuupalno, a pripisuje mu se i razrjeđivanje sluzi.
 
-Studije su pokazale da 1,8-cineol ima umjereno antimikrobno djelovanje protiv različitih mikroorganizama, uključujući [bakterije i viruse](https://www.ncbi.nlm.nih.gov/pmc/) prema podacima iz baze [Oxford Academic](https://academic.oup.com). Istraživanja su također otkrila da **1,8-cineol može oštetiti integritet membrane** i izazvati oksidativni stres u stanicama otpornim na antibiotike, [poput MRSA](https://www.ncbi.nlm.nih.gov/pmc/).
+U [laboratorijskom istraživanju objavljenom 2023. u časopisu Antioxidants](https://pmc.ncbi.nlm.nih.gov/articles/PMC10376866/) 1,8-cineol je oštećivao ovojnicu (membranu) zlatnog stafilokoka otpornog na meticilin (MRSA), bakterije otporne na mnoge antibiotike, i u njoj izazivao oksidativni stres. Najmanja koncentracija koja je zaustavljala rast bakterije bila je 7,23 mg/ml, što je mnogo, a rezultati vrijede za bakterije u laboratoriju, ne za liječenje ljudi.
 
-Zbog ovih svojstava, eterično ulje eukaliptusa se često koristi u proizvodima za ublažavanje simptoma **prehlade, kašlja, bronhitisa i sinusitisa**. Pomaže u razrjeđivanju sluzi i olakšava disanje.
+Europska agencija za lijekove (EMA) eukaliptusovo ulje priznaje kao **tradicionalni biljni lijek** za ublažavanje kašlja kod prehlade i lokalizirane boli u mišićima. To znači da se ocjena temelji na dugotrajnoj upotrebi, a ne na dokazima iz kliničkih ispitivanja. EMA je razmotrila i istraživanja kod bronhitisa i astme, ali u njima je korišten čisti 1,8-cineol, a ne eukaliptusovo ulje, pa čvrsti zaključci nisu bili mogući. Ljekovito ulje dobiva se uglavnom od vrsta bogatih 1,8-cineolom: *E. globulus*, *E. polybractea* i *E. smithii*.
 
-### Limunski eukaliptus (Corymbia citriodora): Prirodni repelent
+Pripravci s eukaliptusovim uljem nisu za malu djecu: kod djece mlađe od 30 mjeseci zabranjeni su, a na usta se ne uzimaju prije 12. godine. Progutano ulje vrlo je otrovno, o čemu više piše u članku [je li eukaliptus otrovan](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
 
-Limunski eukaliptus (Corymbia citriodora, ranije Eucalyptus citriodora) je vrsta eukaliptusa čije eterično ulje sadrži **citronelal**, spoj poznat po svojim snažnim repelentnim svojstvima protiv insekata, posebno komaraca. Istraživanja su potvrdila učinkovitost ulja limunskog eukaliptusa kao **prirodne alternative sintetičkim repelentima** prema preporukama [CDC-a](https://www.cdc.gov).
+### Limunski eukaliptus (Corymbia citriodora): Sirovina za repelente
 
-## Uzgoj eukaliptusa u tegli: Zeleni dodir za dom i balkon
+Limunski eukaliptus (*Corymbia citriodora*, ranije *Eucalyptus citriodora*) u eteričnom ulju sadrži mnogo **citronelala**, spoja koji odbija kukce, osobito komarce. Američki Centar za kontrolu i prevenciju bolesti (CDC) preporučuje registrirane repelente s OLE-om ili PMD-om, tvarima dobivenima preradom ovog ulja. Čisto eterično ulje limunskog eukaliptusa CDC kao repelent ne preporučuje. Više o tome piše u članku [limunski eukaliptus protiv komaraca](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/).
 
-Iako mnoge vrste eukaliptusa narastu u velika stabla, neke se mogu uspješno uzgajati u teglama, donoseći svježinu i aromu u unutarnje prostore ili na balkone. **Eucalyptus gunnii je jedna od najpopularnijih vrsta za uzgoj u tegli** zbog svoje [otpornosti i prilagodljivosti](https://www.hortiqa.com).
+## Uzgoj eukaliptusa u tegli
 
-Za uspješan uzgoj u tegli, odaberite teglu s dobrom drenažom, po mogućnosti od terakote koja omogućuje disanje korijena. Mlade biljke presadite u teglu [promjera 17 cm ili veću](https://www.hortiqa.com). Koristite dobro drenirano tlo, blago kiselo do neutralno, i dodajte pijesak za [bolju propusnost](https://www.hortiqa.com). Eukaliptus zahtijeva **najmanje 6 sati izravnog sunca dnevno** za zdrav rast i [intenzivnu boju listova](https://www.hortiqa.com). U tegli je potrebno češće zalijevanje nego u vrtu, jer se tlo brže suši. Održavajte tlo vlažnim, ali [ne natopljenim](https://www.hortiqa.com). Gnojite umjereno u proljeće i ljeto, koristeći gnojivo s **niskim udjelom fosfora**, jer je eukaliptus osjetljiv na [previše fosfora](https://www.hortiqa.com). Redovitom rezidbom održavate željeni oblik i veličinu biljke, te potičete rast mladih, [okruglih listova](https://www.hortiqa.com).
+Iako mnoge vrste eukaliptusa narastu u velika stabla, neke se mogu uspješno uzgajati u teglama, na balkonu ili u svijetloj sobi. Za teglu se najčešće bira **Eucalyptus gunnii**, osobito sorte koje rastu sporije.
 
-## Eukaliptus u Hrvatskoj: Koje vrste rastu na našem području?
+Tegla mora imati otvore za otjecanje vode. Terakota propušta vlagu kroz stijenke, pa se zemlja u njoj brže suši. Koristite propusnu, blago kiselu do neutralnu zemlju, pomiješanu s pijeskom ili perlitom. Eukaliptusu treba **najmanje 6 sati izravnog sunca dnevno**, inače listovi izgube boju. U tegli ga treba zalijevati češće nego u vrtu, jer se zemlja brže suši: neka bude vlažna, ali ne natopljena. Prihranjujte ga umjereno u proljeće i ljeto, gnojivom s manje dušika i fosfora, a više kalija. Redovita rezidba održava oblik i veličinu biljke i potiče rast mladih, okruglih listova.
 
-Eukaliptus nije autohtona hrvatska biljka, ali je **prisutan na Jadranu više od stoljeća**. Najzastupljenija vrsta je Eucalyptus globulus (plavi eukaliptus), koji naraste u visoka stabla s karakterističnom bijelom korom i intenzivnim mirisom. Vidljiv je duž cijele dalmatinske obale, posebno u **Splitu, Zadru i na otocima**.
+Koliko veliku teglu odabrati, kada presađivati i kako eukaliptus prezimiti, opisuje [vodič za uzgoj eukaliptusa u tegli](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/).
 
-Za uzgoj u vrtu ili tegli u kontinentalnoj Hrvatskoj, preporučuje se otporniji **Eucalyptus gunnii** koji podnosi i kontinentalne zime. Na Jadranu je moguć uzgoj i Globulusa, ali zbog brzog rasta brzo postaje prevelik za prosječne vrtove.
+## Eukaliptus u Hrvatskoj: Koje vrste rastu kod nas?
 
-## Usporedba vrsta eukaliptusa: Brzi pregled
+Eukaliptus nije autohtona hrvatska biljka, ali se u toplijem dijelu priobalja već dugo sadi kao ukrasno stablo u parkovima i vrtovima. Najčešće se spominje plavi eukaliptus (*Eucalyptus globulus*), visoko stablo glatke, svijetle kore i jakog mirisa.
 
-Za lakši odabir, evo sažete usporedbe najpopularnijih vrsta:
+Za vrt u kontinentalnoj Hrvatskoj najbolji je izbor otporniji *Eucalyptus gunnii*. Podnosi mraz do otprilike −15 °C, ali u jakim zimama, s još nižim temperaturama, može stradati, pa mladu biljku i onu u tegli zimi zaštitite. Na Jadranu se može uzgajati i plavi eukaliptus, ali zbog brzog rasta brzo preraste prosječan vrt.
 
-| Vrsta | Otpornost na mraz | Primjena | Posebnost |
-| :--- | :--- | :--- | :--- |
-| E. gunnii | Do -15°C | Vrt, tegla, buketi | Najotpornija komercijalna vrsta |
-| E. polyanthemos | Do -7°C | Buketi, aranžmani | Okrugli listovi u obliku novčića |
-| E. radiata | Do -10°C | Eterično ulje, aromaterapija | Blaži miris od Globulusa |
-| E. globulus | Do -5°C | Eterično ulje, vrtno stablo | Najraširenija vrsta na Jadranu |
-| E. deglupta | Nije otporan | Ukrasno drvo (tropski) | Višebojna kora |
-| Corymbia citriodora | Do -3°C | Repelent, aromaterapija | Miris limuna, PMD repelent |
+## Usporedba vrsta eukaliptusa: Kratki pregled
+
+| Vrsta | Otpornost na mraz (približno) | Primjena | Posebnost |
+| --- | --- | --- | --- |
+| E. gunnii | do −15 °C | vrt, tegla, buketi | jedna od najotpornijih vrsta |
+| E. polyanthemos | do −7 °C | buketi, aranžmani | okrugli listovi u obliku novčića |
+| E. radiata | do −10 °C | eterično ulje, aromaterapija | blaži miris od plavog eukaliptusa |
+| E. globulus | do −5 °C | eterično ulje, vrtno stablo | najčešće spominjan na Jadranu |
+| E. deglupta | ne podnosi mraz | ukrasno drvo u tropima | višebojna kora |
+| Corymbia citriodora | do −3 °C | sirovina za repelente | miris limuna |
+
+Vrijednosti otpornosti na mraz okvirne su i ovise o starosti biljke, položaju i tome koliko dugo mraz traje.
 
 ## Česta pitanja o vrstama eukaliptusa
 
 **Koja vrsta eukaliptusa ima najjači miris?**
-Eucalyptus globulus ima **najintenzivniji, medicinski miris** bogat 1,8-cineolom. [Limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/) (Corymbia citriodora) ima karakterističan miris limuna. Za ukrasne svrhe, Gunnii i Populus imaju blaži, ugodniji miris.
+Plavi eukaliptus (*Eucalyptus globulus*) ima **najjači, ljekovit miris**, jer mu je ulje bogato 1,8-cineolom. Limunski eukaliptus (*Corymbia citriodora*) ima karakterističan miris limuna. Ukrasni *E. gunnii* i Populus imaju blaži, ugodniji miris.
 
-**Koja vrsta eukaliptusa je dobra za eterično ulje?**
-Eucalyptus globulus i Eucalyptus radiata su **primarne komercijalne vrste za proizvodnju eteričnog ulja**. Radiata se smatra blažom i prikladnijom za aromaterapiju, dok Globulus ima višu koncentraciju 1,8-cineola.
+**Koje se vrste eukaliptusa koriste za eterično ulje?**
+Prema EMA-i, ljekovito eukaliptusovo ulje dobiva se uglavnom od vrsta *E. globulus*, *E. polybractea* i *E. smithii*, koje su bogate 1,8-cineolom. Ulje *E. radiata* češće se koristi u aromaterapiji, jer se smatra blažim.
 
-**Može li se Dugin eukaliptus uzgajati u Hrvatskoj?**
-Teško. Eucalyptus deglupta je **tropska vrsta koja ne podnosi mraz**. Može se uzgajati kao sobna biljka u tegli, ali neće postići puni potencijal ni u mediteranskoj klimi.
+**Može li se dugin eukaliptus uzgajati u Hrvatskoj?**
+Teško. *Eucalyptus deglupta* je **tropska vrsta koja ne podnosi mraz**. Kao mlada biljka može se neko vrijeme držati u tegli, u grijanoj i vrlo svijetloj prostoriji, ali je zahtjevan i ni u mediteranskoj klimi ne dosegne pravu veličinu.
 
-**Koja vrsta eukaliptusa je najotpornija na mraz?**
-**Eucalyptus gunnii** je među najotpornijima, podnosi do -15°C. Slijedi ga E. pauciflora (Snow Gum). Za kontinentalnu Hrvatsku, **ove dvije vrste su najsigurniji izbor**.
+**Koja je vrsta eukaliptusa najotpornija na mraz?**
+**Eucalyptus gunnii** je među najotpornijima i podnosi do otprilike −15 °C. Vrlo je otporan i snježni eukaliptus (*E. pauciflora*). Za kontinentalnu Hrvatsku **ove dvije vrste najsigurniji su izbor**.
 
-Za detaljniji vodič o uzgoju eukaliptusa u tegli, uključujući savjete o zalijevanju, supstratu i zimovanju, pogledajte naš vodič za uzgoj [eukaliptusa kao sobne biljke](https://www.cultivias.com/bilje/eukaliptus-kao-sobna-biljka-vodi%C4%8D-za-uzgoj-i-njegu-u-tegli/) u tegli.
+**Je li eukaliptus u vazi opasan za mačku?**
+Može biti. ASPCA eukaliptus navodi kao otrovan za mačke, pse i konje, a mačke rado grickaju lišće iz vaze. Buket stavite na mjesto do kojeg mačka ne može doći. Više o tome piše u članku [eukaliptus je opasan za mačke i pse](https://www.cultivias.com/vijesti/popularna-mirisna-biljka-opasna-je-za-ma%C4%8Dke-i-pse-radi-se-o-eukaliptusu/).
 
 ## Zaključak
 
-Eukaliptus je iznimno raznolik i koristan rod biljaka, čije se vrste kreću od monumentalnih stabala do elegantnih ukrasnih grana za bukete. Bilo da se radi o otpornom Eucalyptus gunnii, dekorativnom Eucalyptus polyanthemos, ljekovitom Eucalyptus radiata ili vizualno impresivnom Duginom eukaliptusu, **svaka vrsta nudi jedinstvene karakteristike i primjene**. Njegova eterična ulja, bogata 1,8-cineolom i citronelalom, pružaju antimikrobna i repelentna svojstva, čineći ga vrijednim u medicini i kao prirodni repelent. Pravilnim uzgojem i njegom, eukaliptus može obogatiti svaki dom i vrt, no uvijek je ključno biti svjestan **njegove potencijalne toksičnosti**. Sigurnosne napomene detaljnije obrađuje članak [toksičnost eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/).
+Eukaliptusi su vrlo raznolika skupina biljaka, od golemih stabala do grana za bukete. Otporni *Eucalyptus gunnii*, dekorativni *Eucalyptus polyanthemos*, aromatični *Eucalyptus radiata* i šareni dugin eukaliptus imaju različite osobine i namjene. Eterična ulja bogata 1,8-cineolom ili citronelalom koriste se u tradicionalnoj medicini i za repelente, a znanstvena potvrda njihova djelovanja zasad je skromnija od tradicije. Uz pravilnu njegu eukaliptus može uljepšati dom i vrt, ali uvijek imajte na umu da su njegovo ulje i listovi otrovni ako se progutaju, osobito za djecu i kućne ljubimce.
 
-> **Medicinski disclaimer:** Informacije u ovom članku služe isključivo u edukativne svrhe i ne smiju se smatrati medicinskim savjetom. Eterično ulje eukaliptusa, posebno u koncentriranom obliku, toksično je ako se proguta i može izazvati ozbiljne zdravstvene probleme kod ljudi i kućnih ljubimaca (posebno pasa i mačaka). Simptomi trovanja mogu uključivati povraćanje, proljev, slabost, pa čak i napadaje. Uvijek se savjetujte s kvalificiranim zdravstvenim radnikom prije upotrebe eukaliptusa u medicinske svrhe. Držite eterična ulja eukaliptusa izvan dohvata djece i kućnih ljubimaca. U slučaju gutanja, odmah potražite medicinsku pomoć.
+**NAPOMENA/DISCLAIMER:**
 
+**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Eterično ulje eukaliptusa otrovno je ako se proguta i može izazvati povraćanje, proljev, slabost, pa i napadaje, kod ljudi i kod kućnih ljubimaca. Eterična ulja držite izvan dohvata djece i životinja. U slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342), a za ljubimce veterinara. Prije upotrebe eukaliptusa u ljekovite svrhe posavjetujte se s liječnikom ili ljekarnikom.**
+
+## Izvori
+
+- Europska agencija za lijekove (EMA) – [Eukaliptusovo ulje, biljni lijek (Eucalypti aetheroleum)](https://www.ema.europa.eu/en/medicines/herbal/eucalypti-aetheroleum)
+- Merghni i sur., laboratorijsko istraživanje (2023.) – [1,8-cineol (eukaliptol) narušava cjelovitost membrane i izaziva oksidativni stres kod MRSA (1,8-Cineol (Eucalyptol) Disrupts Membrane Integrity and Induces Oxidative Stress in Methicillin-Resistant Staphylococcus aureus)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10376866/), Antioxidants
+- Kraljevsko hortikulturno društvo (RHS) – [profil roda Eucalyptus](https://www.rhs.org.uk/plants/6876/eucalyptus/details), [profil biljke Eucalyptus gunnii](https://www.rhs.org.uk/Plants/6888/Eucalyptus-gunnii/Details) i [Rezidba eukaliptusa (Eucalyptus: pruning)](https://www.rhs.org.uk/plants/eucalyptus/pruning-guide)
+- Američki Centar za kontrolu i prevenciju bolesti (CDC) – [Sprječavanje uboda komaraca (Preventing Mosquito Bites)](https://www.cdc.gov/mosquitoes/prevention/) i [Repelenti protiv malarije i drugih bolesti koje prenose komarci (Insect Repellents Help Prevent Malaria and Other Diseases Spread by Mosquitoes)](https://www.cdc.gov/malaria/resources/repellents.html)
+- Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) – [Eukaliptus (Eucalyptus)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus)
