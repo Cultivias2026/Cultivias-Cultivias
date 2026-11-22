@@ -133,12 +133,25 @@ const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
 // Oznake članka: prikazuju se kao #hashtag; link samo ako tema ima vlastitu stranicu.
 const tagCounts = new Map<string, number>();
 for (const a of allArticles) for (const t of knownTags(a.data.tags)) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
-const articleTags = knownTags(article.data.tags).map(key => ({
-  key,
-  label: tagLabel(key),
-  name: TAGS[key].name,
-  href: (tagCounts.get(key) ?? 0) >= MIN_ARTICLES ? `${base}${tagPath(key).slice(1)}` : null,
-}));
+const ownTags = knownTags(article.data.tags);
+const ownPlant = ownTags.find(k => TAGS[k].group === 'biljka' && (tagCounts.get(k) ?? 0) >= MIN_ARTICLES);
+const articleTags = ownTags.map(key => {
+  const isPlant = TAGS[key].group === 'biljka';
+  let href: string | null = null;
+  let title = `Svi članci: ${TAGS[key].name}`;
+  if (isPlant) {
+    if ((tagCounts.get(key) ?? 0) >= MIN_ARTICLES) href = `${base}${tagPath(key).slice(1)}`;
+  } else if (ownPlant) {
+    // tema unutar biljke: npr. Uzgoj na članku o rajčici vodi na uzgoj rajčice
+    href = `${base}${tagPath(ownPlant).slice(1)}?tema=${key}`;
+    title = `${TAGS[ownPlant].name} – ${TAGS[key].name.toLowerCase()}`;
+  } else {
+    // bez biljke: tema unutar kategorije članka
+    href = `${base}${article.data.category}/?tema=${key}`;
+    title = `${categoryLabel} – ${TAGS[key].name.toLowerCase()}`;
+  }
+  return { key, label: tagLabel(key), name: TAGS[key].name, href, title };
+});
 ---
 
 <BaseLayout
@@ -237,7 +250,7 @@ const articleTags = knownTags(article.data.tags).map(key => ({
               {articleTags.map(tag => (
                 <li>
                   {tag.href ? (
-                    <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>{tag.label}</a>
+                    <a href={tag.href} class="tag-chip" title={tag.title}>{tag.label}</a>
                   ) : (
                     <span class="tag-chip tag-chip--plain">{tag.label}</span>
                   )}
@@ -326,7 +339,7 @@ const articleTags = knownTags(article.data.tags).map(key => ({
               <span class="text-sm font-semibold text-gray-400 mr-1">Teme:</span>
               {articleTags.map(tag => (
                 tag.href ? (
-                  <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>{tag.label}</a>
+                  <a href={tag.href} class="tag-chip" title={tag.title}>{tag.label}</a>
                 ) : (
                   <span class="tag-chip tag-chip--plain">{tag.label}</span>
                 )

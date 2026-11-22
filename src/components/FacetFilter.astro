@@ -1,0 +1,117 @@
+---
+/**
+ * Filtar članaka po biljci, temi i kategoriji (na istoj stranici).
+ * Stavke koje se filtriraju: elementi s atributom data-item unutar istog
+ * [data-facet-scope] roditelja, s atributima data-biljka, data-tema, data-kat
+ * (vrijednosti odvojene razmakom). Odabir se upisuje u URL (?biljka=…&tema=…).
+ * Bez JavaScripta vidi se cijeli popis, a gumbi su obični linkovi.
+ */
+interface Option { value: string; label: string; count: number; href: string }
+interface Facet { key: 'biljka' | 'tema' | 'kat'; title: string; options: Option[] }
+interface Props { facets: Facet[]; total: number; extraLink?: { href: string; label: string } }
+
+const { facets, total, extraLink } = Astro.props;
+const shown = facets.filter(f => f.options.length > 1);
+---
+
+{shown.length > 0 && (
+  <div class="facet-filter" data-facet-root data-total={total}>
+    {shown.map(f => (
+      <div class="facet-row">
+        <p class="facet-title">{f.title}</p>
+        <div class="tag-scroller -mx-4 sm:mx-0">
+          <ul class="flex sm:flex-wrap gap-2 overflow-x-auto sm:overflow-visible list-none m-0 px-4 sm:px-0 pb-1">
+            <li class="flex-shrink-0"><a href="?" class="tag-chip is-active" data-facet={f.key} data-value="" aria-pressed="true">Sve</a></li>
+            {f.options.map(o => (
+              <li class="flex-shrink-0">
+                <a href={o.href} class="tag-chip" data-facet={f.key} data-value={o.value} aria-pressed="false">{o.label}<span class="tag-count" data-count>{o.count}</span></a>
+              </li>
+            ))}
+            <li class="flex-shrink-0 w-2 sm:hidden" aria-hidden="true"></li>
+          </ul>
+        </div>
+      </div>
+    ))}
+    <p class="facet-status">
+      <span data-facet-status aria-live="polite"></span>
+      <a href="?" class="facet-reset" data-facet-reset hidden>Prikaži sve</a>
+      {extraLink && <a href={extraLink.href} class="facet-extra">{extraLink.label}</a>}
+    </p>
+  </div>
+)}
+
+<script>
+  function clanci(n: number) {
+    const d = n % 10, h = n % 100;
+    if (d === 1 && h !== 11) return 'članak';
+    if (d >= 2 && d <= 4 && (h < 12 || h > 14)) return 'članka';
+    return 'članaka';
+  }
+
+  function init(root: HTMLElement) {
+    const scope = root.closest('[data-facet-scope]') ?? document.body;
+    const items = [...scope.querySelectorAll<HTMLElement>('[data-item]')];
+    const chips = [...root.querySelectorAll<HTMLAnchorElement>('a[data-facet]')];
+    const facets = [...new Set(chips.map(c => c.dataset.facet!))];
+    const statusEl = root.querySelector<HTMLElement>('[data-facet-status]');
+    const resetEl = root.querySelector<HTMLAnchorElement>('[data-facet-reset]');
+    const state: Record<string, string> = {};
+
+    const params = new URLSearchParams(location.search);
+    for (const f of facets) {
+      const v = params.get(f) ?? '';
+      state[f] = v && chips.some(c => c.dataset.facet === f && c.dataset.value === v) ? v : '';
+    }
+
+    const vals = (el: HTMLElement, f: string) => (el.dataset[f] ?? '').split(' ').filter(Boolean);
+    const match = (el: HTMLElement, except?: string) =>
+      facets.every(f => f === except || !state[f] || vals(el, f).includes(state[f]));
+
+    function render(updateUrl: boolean) {
+      let shown = 0;
+      for (const el of items) {
+        const ok = match(el);
+        el.hidden = !ok;
+        if (ok) shown++;
+      }
+      for (const c of chips) {
+        const f = c.dataset.facet!, v = c.dataset.value!;
+        const active = state[f] === v;
+        c.classList.toggle('is-active', active);
+        c.setAttribute('aria-pressed', active ? 'true' : 'false');
+        if (v) {
+          const n = items.filter(el => match(el, f) && vals(el, f).includes(v)).length;
+          const cnt = c.querySelector('[data-count]');
+          if (cnt) cnt.textContent = String(n);
+          c.parentElement!.hidden = n === 0 && !active;
+        }
+      }
+      const any = facets.some(f => state[f]);
+      if (statusEl) statusEl.textContent = any ? `Prikazano ${shown} od ${items.length} ${clanci(items.length)}` : '';
+      if (resetEl) resetEl.hidden = !any;
+      if (updateUrl) {
+        const p = new URLSearchParams();
+        for (const f of facets) if (state[f]) p.set(f, state[f]);
+        const q = p.toString();
+        history.replaceState(null, '', location.pathname + (q ? `?${q}` : '') + location.hash);
+      }
+    }
+
+    for (const c of chips) {
+      c.addEventListener('click', e => {
+        e.preventDefault();
+        const f = c.dataset.facet!, v = c.dataset.value!;
+        state[f] = state[f] === v ? '' : v;
+        render(true);
+      });
+    }
+    resetEl?.addEventListener('click', e => {
+      e.preventDefault();
+      for (const f of facets) state[f] = '';
+      render(true);
+    });
+    render(false);
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-facet-root]').forEach(init);
+</script>

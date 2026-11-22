@@ -2,7 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
-import { publishedTags, clanciLabel } from '../../lib/tags';
+import { publishedTags, clanciLabel, buildFacets, itemAttrs, CAT_LABELS } from '../../lib/tags';
+import FacetFilter from '../../components/FacetFilter.astro';
 import { TAGS, knownTags, tagPath, tagLabel } from '../../data/tags';
 
 export async function getStaticPaths() {
@@ -15,13 +16,14 @@ const def = TAGS[tagKey];
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = tagPath(tagKey);
 
-const categoryLabels: Record<string, string> = { voce: 'Voće', povrce: 'Povrće', bilje: 'Bilje', vijesti: 'Vijesti' };
+const categoryLabels = CAT_LABELS;
 
-// Srodne teme: oznake koje se najčešće pojavljuju uz ovu
-const published = new Map(allTags.map(t => [t.key, t.count]));
-const co = new Map<string, number>();
-for (const a of articles) for (const t of knownTags(a.data.tags)) if (t !== tagKey && published.has(t)) co.set(t, (co.get(t) ?? 0) + 1);
-const related = [...co.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([key]) => key);
+// Filtar na stranici: na stranici biljke biraju se teme, na stranici teme biljke;
+// kategorija se nudi samo ako su članci iz više kategorija.
+const publishedKeys = new Set(allTags.map(t => t.key));
+const isPlant = def.group === 'biljka';
+const facets = buildFacets(articles, { base, publishedKeys, biljka: !isPlant, tema: isPlant, kat: true });
+const mainCat = articles[0]?.data.category;
 
 const jsonLd = await buildGraph([
   webPageNode({
@@ -53,6 +55,7 @@ const jsonLd = await buildGraph([
 ---
 
 <BaseLayout title={def.metaTitle} description={def.metaDescription} canonical={path} jsonLd={jsonLd}>
+  <div data-facet-scope>
   <div class="bg-white border-b border-bg-pale">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
       <nav class="mb-4" aria-label="Navigacijska staza">
@@ -67,23 +70,14 @@ const jsonLd = await buildGraph([
       <h1 class="text-2xl sm:text-4xl font-bold text-dark font-heading">{def.name}: svi članci</h1>
       <p class="text-gray-600 mt-3 max-w-3xl font-body leading-relaxed">{def.intro}</p>
       <p class="text-sm text-primary font-semibold mt-3">{articles.length} {clanciLabel(articles.length)}</p>
-      {related.length > 0 && (
-        <div class="mt-5">
-          <p class="text-sm font-semibold text-gray-400 mb-2">Srodne teme</p>
-          <ul class="flex flex-wrap gap-2 list-none p-0 m-0">
-            {related.map(key => (
-              <li><a href={`${base}${tagPath(key).slice(1)}`} class="tag-chip">{tagLabel(key)}<span class="tag-count">{published.get(key)}</span></a></li>
-            ))}
-          </ul>
-        </div>
-      )}
+      <FacetFilter facets={facets} total={articles.length} extraLink={{ href: `${base}tema/`, label: 'Sve teme →' }} />
     </div>
   </div>
 
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {articles.map(article => (
-        <ArticleCard
+        <div class="h-full" {...itemAttrs(article)}><ArticleCard
           title={article.data.title}
           slug={article.slug}
           category={article.data.category}
@@ -93,7 +87,7 @@ const jsonLd = await buildGraph([
           perex={article.data.perex}
           publishedAt={article.data.publishedAt}
           variant="default"
-        />
+        /></div>
       ))}
     </div>
     <p class="mt-10 text-sm text-gray-500 font-body">
@@ -104,5 +98,6 @@ const jsonLd = await buildGraph([
         </>
       ))}
     </p>
+  </div>
   </div>
 </BaseLayout>

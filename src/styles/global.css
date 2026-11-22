@@ -65,6 +65,12 @@
   .tag-chip--plain { color: #6b7280; }
   .tag-chip.is-active { background-color: var(--color-primary-dark); border-color: var(--color-primary-dark); color: #ffffff; }
   .tag-chip .tag-count { @apply ml-1.5 text-xs font-semibold; opacity: .7; }
+  .facet-filter { @apply mt-6 sm:mt-8 space-y-4; }
+  .facet-title { @apply text-xs font-semibold uppercase tracking-widest text-gray-400 mb-2; }
+  .facet-status { @apply text-sm text-gray-500 flex flex-wrap gap-x-4 gap-y-1 items-center; min-height: 1.25rem; }
+  .facet-status a { color: var(--color-primary-dark); font-weight: 600; text-decoration: none; }
+  .facet-status [data-facet-status]:empty { display: none; }
+  .facet-status a:hover { text-decoration: underline; }
   .tag-scroller { position: relative; }
   .tag-scroller ul { scrollbar-width: none; -webkit-overflow-scrolling: touch; }
   .tag-scroller ul::-webkit-scrollbar { display: none; }
