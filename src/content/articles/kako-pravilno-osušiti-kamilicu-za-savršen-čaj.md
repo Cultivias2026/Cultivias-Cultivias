@@ -10,7 +10,9 @@ publishedAt: 2025-06-07
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - kamilica
+  - cajevi
 metaTitle: Kako pravilno osušiti kamilicu za savršen čaj!
 noindex: false
 related_articles:

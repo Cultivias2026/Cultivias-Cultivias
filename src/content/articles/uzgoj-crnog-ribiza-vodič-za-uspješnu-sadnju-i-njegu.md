@@ -14,7 +14,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - crni-ribiz
+  - uzgoj
 noindex: false
 related_articles:
   - berba-crnog-ribiza-kako-i-kada

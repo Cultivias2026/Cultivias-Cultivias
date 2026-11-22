@@ -12,7 +12,8 @@ publishedAt: 2026-10-16
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - plave-zone
 related_articles:
   - 5-mjesta-5-načina-život-kako-su-plave-zone-postale-globalni-fenomen
   - sardinija-i-dugovječnost-što-stvarno-stoji-iza-priče-o-plavoj-zoni

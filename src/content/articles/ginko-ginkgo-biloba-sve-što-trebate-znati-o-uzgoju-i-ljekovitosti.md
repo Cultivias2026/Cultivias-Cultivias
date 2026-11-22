@@ -11,7 +11,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - uzgoj
+  - zdravlje
 metaTitle: "Ginko (ginkgo biloba): sve što trebate znati o uzgoju i ljekovitosti"
 noindex: false
 related_articles:

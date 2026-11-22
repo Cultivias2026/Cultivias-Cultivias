@@ -12,7 +12,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - menta
+  - uzgoj
 metaTitle: Kako uzgojiti mentu u tegli kod kuće?
 noindex: false
 related_articles:

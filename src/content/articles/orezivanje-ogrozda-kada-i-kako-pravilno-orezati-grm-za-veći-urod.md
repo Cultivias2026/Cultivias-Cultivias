@@ -18,7 +18,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - uzgoj
 metaTitle: "Orezivanje ogrozda: Kada i kako pravilno orezati grm za veći urod?"
 noindex: false
 related_articles:

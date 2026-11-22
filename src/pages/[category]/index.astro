@@ -2,6 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { publishedTags, clanciLabel } from '../../lib/tags';
+import { TAGS, knownTags, tagPath } from '../../data/tags';
 import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
@@ -43,6 +45,14 @@ const allArticles = (await getCollection('articles'))
   .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime());
 
 const categoryPath = `/${category}/`;
+
+// Tabovi tema: oznake članaka ove kategorije koje imaju vlastitu stranicu
+const publishedKeys = new Set((await publishedTags()).map(t => t.key));
+const tabCounts = new Map<string, number>();
+for (const a of allArticles) for (const t of knownTags(a.data.tags)) if (publishedKeys.has(t)) tabCounts.set(t, (tabCounts.get(t) ?? 0) + 1);
+const tabs = [...tabCounts.entries()]
+  .sort((a, b) => (TAGS[a[0]].group === TAGS[b[0]].group ? 0 : TAGS[a[0]].group === 'biljka' ? -1 : 1) || b[1] - a[1] || TAGS[a[0]].hash.localeCompare(TAGS[b[0]].hash, 'hr'))
+  .map(([key, count]) => ({ key, count, hash: TAGS[key].hash, name: TAGS[key].name }));
 
 const jsonLd = await buildGraph([
   webPageNode({
@@ -98,12 +108,26 @@ const jsonLd = await buildGraph([
           <h1 class="text-3xl sm:text-4xl font-bold text-dark font-heading">{meta.label}</h1>
           <p class="text-gray-500 mt-1 max-w-2xl font-body">{meta.description}</p>
           <p class="text-sm text-primary font-semibold mt-2">
-            {allArticles.length} {allArticles.length === 1 ? 'članak' : 'članaka'}
+            {allArticles.length} {clanciLabel(allArticles.length)}
           </p>
         </div>
       </div>
     </div>
   </div>
+
+  {tabs.length > 0 && (
+    <nav class="bg-white border-b border-bg-pale" aria-label={`Teme u kategoriji ${meta.label}`}>
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <ul class="flex gap-2 overflow-x-auto list-none p-0 m-0 pb-1" style="scrollbar-width: thin;">
+          <li><span class="tag-chip is-active" aria-current="page">Sve<span class="tag-count">{allArticles.length}</span></span></li>
+          {tabs.map(tab => (
+            <li><a href={`${base}${tagPath(tab.key).slice(1)}`} class="tag-chip" title={`Svi članci: ${tab.name}`}>#{tab.hash}<span class="tag-count">{tab.count}</span></a></li>
+          ))}
+          <li><a href={`${base}tema/`} class="tag-chip tag-chip--plain">Sve teme →</a></li>
+        </ul>
+      </div>
+    </nav>
+  )}
 
   <!-- Articles grid -->
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

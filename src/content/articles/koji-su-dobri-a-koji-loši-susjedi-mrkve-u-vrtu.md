@@ -14,7 +14,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - mrkva
+  - uzgoj
 related_articles:
   - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
   - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena

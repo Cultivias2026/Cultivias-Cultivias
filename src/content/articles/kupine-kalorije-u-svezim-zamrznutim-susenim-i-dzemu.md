@@ -11,7 +11,8 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - kalorije
 related_articles:
   - kupina-sve-što-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti
   - ogrozd-kalorije-svjezi-plod-kompot-dzem

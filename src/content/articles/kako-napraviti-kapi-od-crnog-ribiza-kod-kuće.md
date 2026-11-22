@@ -11,7 +11,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - crni-ribiz
+  - recepti
 noindex: false
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu

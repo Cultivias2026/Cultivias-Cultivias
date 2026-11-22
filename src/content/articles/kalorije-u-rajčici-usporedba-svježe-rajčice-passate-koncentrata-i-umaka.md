@@ -11,7 +11,9 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - rajcica
+  - kalorije
 related_articles:
   - je-li-rajčica-voće-ili-povrće-saznajte-odmah
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

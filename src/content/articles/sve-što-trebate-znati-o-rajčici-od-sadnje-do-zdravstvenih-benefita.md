@@ -11,7 +11,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - rajcica
+  - uzgoj
+  - zdravlje
 metaTitle: "Sve što trebate znati o rajčici: od sadnje do zdravstvenih benefita"
 noindex: false
 related_articles:

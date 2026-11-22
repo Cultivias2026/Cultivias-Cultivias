@@ -11,7 +11,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - kamilica
+  - cajevi
+  - zdravlje
 metaTitle: Čaj od kamilice
 noindex: false
 related_articles:

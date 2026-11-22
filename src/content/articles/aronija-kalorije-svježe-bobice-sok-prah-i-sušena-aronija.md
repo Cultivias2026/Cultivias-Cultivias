@@ -11,7 +11,9 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - aronija
+  - kalorije
 related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije

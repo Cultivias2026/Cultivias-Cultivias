@@ -10,7 +10,10 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - mediteransko-bilje
+  - cajevi
+  - zdravlje
 noindex: false
 related_articles:
   - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu

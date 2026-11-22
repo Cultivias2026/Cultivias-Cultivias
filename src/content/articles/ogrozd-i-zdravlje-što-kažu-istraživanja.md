@@ -12,7 +12,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - zdravlje
 metaTitle: Ogrozd i zdravlje! Što kažu istraživanja?
 ogImage: /images/articles/zreli-plodovi-ogrozda.webp
 noindex: false

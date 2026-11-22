@@ -15,7 +15,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - bazga
+  - zdravlje
 metaTitle: "Bazga (zova): sve o ovoj moćnoj i poznatoj biljci"
 noindex: false
 related_articles:

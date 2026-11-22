@@ -14,7 +14,9 @@ publishedAt: 2025-07-18
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - crni-ribiz
+  - uzgoj
 metaTitle: "Berba crnog ribiza: kako i kada!"
 noindex: false
 related_articles:

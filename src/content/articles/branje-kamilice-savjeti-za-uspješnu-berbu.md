@@ -10,7 +10,10 @@ publishedAt: 2025-06-06
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - kamilica
+  - uzgoj
+  - cajevi
 metaTitle: Branje kamilice- savjeti za uspješnu berbu!
 noindex: false
 related_articles:

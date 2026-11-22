@@ -10,7 +10,9 @@ publishedAt: 2025-06-07
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - kamilica
+  - uzgoj
 noindex: false
 related_articles:
   - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je

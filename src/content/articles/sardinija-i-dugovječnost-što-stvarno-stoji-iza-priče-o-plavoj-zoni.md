@@ -12,7 +12,8 @@ publishedAt: 2026-09-18
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - plave-zone
 related_articles:
   - 5-mjesta-5-načina-život-kako-su-plave-zone-postale-globalni-fenomen
   - okinawa-i-dugovječnost-što-su-starije-generacije-jele-i-kako-su-živjele

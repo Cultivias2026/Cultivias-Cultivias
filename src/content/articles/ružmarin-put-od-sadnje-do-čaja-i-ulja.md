@@ -14,7 +14,11 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - mediteransko-bilje
+  - uzgoj
+  - cajevi
+  - zdravlje
 metaTitle: "Ružmarin: put od sadnje do čaja i ulja"
 noindex: false
 related_articles:

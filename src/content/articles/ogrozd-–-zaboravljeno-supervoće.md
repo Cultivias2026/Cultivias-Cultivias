@@ -17,7 +17,10 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - zdravlje
+  - uzgoj
 noindex: false
 related_articles:
   - ogrozd-i-zdravlje-što-kažu-istraživanja

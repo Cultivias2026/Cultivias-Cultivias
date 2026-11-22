@@ -11,7 +11,8 @@ publishedAt: 2026-08-17
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - naranca
 related_articles:
   - naranča-vitaminska-bomba-u-jednoj-čaši
   - naranca-vs-sok-od-narance-kalorije

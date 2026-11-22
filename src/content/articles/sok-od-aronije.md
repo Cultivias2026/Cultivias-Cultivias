@@ -9,7 +9,9 @@ publishedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - aronija
+  - recepti
 related_articles:
   - smrznuta-aronija
   - pekmez-od-aronije

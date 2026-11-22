@@ -16,7 +16,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - uzgoj
 metaTitle: Kako posaditi i razmnožiti ogrozd?
 noindex: false
 related_articles:

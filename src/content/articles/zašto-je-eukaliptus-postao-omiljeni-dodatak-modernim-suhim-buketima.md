@@ -11,7 +11,8 @@ publishedAt: 2026-08-24
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca

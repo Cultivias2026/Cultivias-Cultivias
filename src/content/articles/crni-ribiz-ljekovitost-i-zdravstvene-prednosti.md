@@ -11,7 +11,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - crni-ribiz
+  - zdravlje
 metaTitle: "Crni ribiz: ljekovitost i zdravstvene prednosti"
 noindex: false
 related_articles:

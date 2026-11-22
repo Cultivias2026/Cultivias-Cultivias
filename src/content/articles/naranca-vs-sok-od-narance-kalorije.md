@@ -11,7 +11,9 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - naranca
+  - kalorije
 related_articles:
   - naranča-vitaminska-bomba-u-jednoj-čaši
   - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda

@@ -12,7 +12,8 @@ publishedAt: 2026-08-17
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
 noindex: false
 related_articles:
   - zašto-je-eukaliptus-postao-omiljeni-dodatak-modernim-suhim-buketima

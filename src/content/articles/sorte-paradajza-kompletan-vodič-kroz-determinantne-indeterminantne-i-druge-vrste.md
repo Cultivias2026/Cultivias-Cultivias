@@ -13,7 +13,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - rajcica
+  - uzgoj
 metaTitle: "Sorte paradajza: kompletan vodič kroz determinantne, indeterminantne
   i druge vrste"
 noindex: false

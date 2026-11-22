@@ -17,7 +17,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - eukaliptus
+  - zdravlje
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca

@@ -12,7 +12,9 @@ publishedAt: 2026-09-02
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
+  - uzgoj
 noindex: false
 related_articles:
   - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca

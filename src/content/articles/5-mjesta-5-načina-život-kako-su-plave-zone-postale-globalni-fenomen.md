@@ -12,7 +12,9 @@ publishedAt: 2026-09-11
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - plave-zone
+  - zdravlje
 noindex: false
 related_articles:
   - sardinija-i-dugovječnost-što-stvarno-stoji-iza-priče-o-plavoj-zoni

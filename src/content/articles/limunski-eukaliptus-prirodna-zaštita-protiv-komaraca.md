@@ -16,7 +16,10 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
+  - zdravlje
+  - uzgoj
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa

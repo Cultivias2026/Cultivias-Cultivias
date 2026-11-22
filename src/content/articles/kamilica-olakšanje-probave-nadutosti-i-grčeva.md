@@ -14,7 +14,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - kamilica
+  - zdravlje
+  - cajevi
 metaTitle: "Kamilica: olakšanje probave, nadutosti i grčeva"
 noindex: false
 related_articles:

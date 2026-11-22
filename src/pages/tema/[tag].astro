@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
+import { publishedTags, clanciLabel } from '../../lib/tags';
+import { TAGS, knownTags, tagPath } from '../../data/tags';
+
+export async function getStaticPaths() {
+  const tags = await publishedTags();
+  return tags.map(t => ({ params: { tag: t.key }, props: { tagKey: t.key, articles: t.articles, allTags: tags.map(x => ({ key: x.key, count: x.articles.length })) } }));
+}
+
+const { tagKey, articles, allTags } = Astro.props;
+const def = TAGS[tagKey];
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const path = tagPath(tagKey);
+
+const categoryLabels: Record<string, string> = { voce: 'Voće', povrce: 'Povrće', bilje: 'Bilje', vijesti: 'Vijesti' };
+
+// Srodne teme: oznake koje se najčešće pojavljuju uz ovu
+const published = new Map(allTags.map(t => [t.key, t.count]));
+const co = new Map<string, number>();
+for (const a of articles) for (const t of knownTags(a.data.tags)) if (t !== tagKey && published.has(t)) co.set(t, (co.get(t) ?? 0) + 1);
+const related = [...co.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([key]) => key);
+
+const jsonLd = await buildGraph([
+  webPageNode({
+    type: 'CollectionPage',
+    path,
+    name: `${def.name} | Cultivias`,
+    description: def.metaDescription,
+    hasBreadcrumb: true,
+    extra: { mainEntity: { '@id': `${abs(path)}#list` }, about: { '@type': 'Thing', name: def.name } },
+  }),
+  breadcrumbNode(path, [
+    { name: 'Naslovnica', path: '/' },
+    { name: 'Teme', path: '/tema/' },
+    { name: `#${def.hash}`, path },
+  ]),
+  {
+    '@type': 'ItemList',
+    '@id': `${abs(path)}#list`,
+    name: def.name,
+    numberOfItems: articles.length,
+    itemListElement: articles.map((a, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: abs(`/${a.data.category}/${a.slug}/`),
+      name: a.data.title,
+    })),
+  },
+]);
+---
+
+<BaseLayout title={def.metaTitle} description={def.metaDescription} canonical={path} jsonLd={jsonLd}>
+  <div class="bg-white border-b border-bg-pale">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+      <nav class="mb-4" aria-label="Navigacijska staza">
+        <ol class="flex items-center gap-2 text-sm text-gray-400 flex-wrap">
+          <li><a href={base} class="hover:text-primary transition-colors">Naslovnica</a></li>
+          <li aria-hidden="true"><span class="text-gray-300">/</span></li>
+          <li><a href={`${base}tema/`} class="hover:text-primary transition-colors">Teme</a></li>
+          <li aria-hidden="true"><span class="text-gray-300">/</span></li>
+          <li class="text-dark font-medium">#{def.hash}</li>
+        </ol>
+      </nav>
+      <p class="text-primary font-semibold font-body mb-1">#{def.hash}</p>
+      <h1 class="text-3xl sm:text-4xl font-bold text-dark font-heading">{def.name}: svi članci</h1>
+      <p class="text-gray-600 mt-3 max-w-3xl font-body leading-relaxed">{def.intro}</p>
+      <p class="text-sm text-primary font-semibold mt-3">{articles.length} {clanciLabel(articles.length)}</p>
+      {related.length > 0 && (
+        <div class="mt-5">
+          <p class="text-sm font-semibold text-gray-400 mb-2">Srodne teme</p>
+          <ul class="flex flex-wrap gap-2 list-none p-0 m-0">
+            {related.map(key => (
+              <li><a href={`${base}${tagPath(key).slice(1)}`} class="tag-chip">#{TAGS[key].hash}<span class="tag-count">{published.get(key)}</span></a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {articles.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          slug={article.slug}
+          category={article.data.category}
+          author={article.data.author}
+          readTime={article.data.readTime}
+          image={article.data.image}
+          perex={article.data.perex}
+          publishedAt={article.data.publishedAt}
+          variant="default"
+        />
+      ))}
+    </div>
+    <p class="mt-10 text-sm text-gray-500 font-body">
+      Pogledajte i <a href={`${base}tema/`} class="text-primary hover:text-primary-dark">sve teme</a> ili kategorije
+      {Object.entries(categoryLabels).map(([k, v], i, arr) => (
+        <>
+          <a href={`${base}${k}/`} class="text-primary hover:text-primary-dark">{v}</a>{i < arr.length - 2 ? ', ' : i === arr.length - 2 ? ' i ' : '.'}
+        </>
+      ))}
+    </p>
+  </div>
+</BaseLayout>

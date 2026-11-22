@@ -12,7 +12,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - aronija
+  - zdravlje
 noindex: false
 related_articles:
   - je-li-aronija-štetna-po-naše-zdravlje

@@ -12,7 +12,11 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - mediteransko-bilje
+  - zdravlje
+  - uzgoj
+  - cajevi
 noindex: false
 related_articles:
   - kadulja-i-ljekovitost-zašto-bi-mogla-biti-dobar-izbor

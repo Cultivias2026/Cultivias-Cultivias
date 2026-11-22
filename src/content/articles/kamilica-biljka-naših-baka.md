@@ -11,7 +11,11 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - kamilica
+  - zdravlje
+  - uzgoj
+  - cajevi
 noindex: false
 related_articles:
   - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli

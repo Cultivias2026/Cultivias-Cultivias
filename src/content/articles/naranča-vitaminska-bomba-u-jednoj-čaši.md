@@ -11,7 +11,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - naranca
+  - zdravlje
 metaTitle: "Naranča: vitaminska bomba u jednoj čaši"
 noindex: false
 related_articles:

@@ -13,7 +13,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - kamilica
+  - uzgoj
 metaTitle: Uzgoj kamilice na balkonu u tegli? Da, moguće je!
 noindex: false
 related_articles:

@@ -14,7 +14,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - aronija
+  - zdravlje
 metaTitle: Je li aronija štetna po naše zdravlje?
 noindex: false
 related_articles:

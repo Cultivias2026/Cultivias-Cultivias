@@ -52,6 +52,20 @@
     width: fit-content;
   }
 
+  /* Oznake (hashtagovi) tema */
+  .tag-chip {
+    @apply inline-flex items-center text-sm font-medium px-3 py-1.5 rounded-full no-underline transition-colors whitespace-nowrap;
+    background-color: #ffffff;
+    color: var(--color-primary-dark);
+    border: 1px solid var(--color-bg-pale);
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+  }
+  a.tag-chip:hover { background-color: var(--color-bg-pale); color: var(--color-primary-dark); }
+  .tag-chip--plain { color: #6b7280; }
+  .tag-chip.is-active { background-color: var(--color-primary-dark); border-color: var(--color-primary-dark); color: #ffffff; }
+  .tag-chip .tag-count { @apply ml-1.5 text-xs font-semibold; opacity: .7; }
+
   /* Expert reviewed badge */
   .badge-expert {
     @apply inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1 rounded-full;

@@ -12,7 +12,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - uzgoj
 metaTitle: "Sorte ogrozda: Vodič kroz boje, vrste i hibride za vaš vrt"
 noindex: false
 related_articles:

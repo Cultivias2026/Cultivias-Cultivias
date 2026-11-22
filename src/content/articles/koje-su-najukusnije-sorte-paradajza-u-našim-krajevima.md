@@ -12,7 +12,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - rajcica
+  - uzgoj
 metaTitle: Koje su najukusnije sorte paradajza u našim krajevima?
 noindex: false
 related_articles:

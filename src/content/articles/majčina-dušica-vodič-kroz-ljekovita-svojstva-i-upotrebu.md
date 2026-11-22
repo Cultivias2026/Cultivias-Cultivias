@@ -12,7 +12,11 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - mediteransko-bilje
+  - zdravlje
+  - uzgoj
+  - cajevi
 metaTitle: "Majčina Dušica: vodič kroz ljekovita svojstva i upotrebu"
 noindex: false
 related_articles:

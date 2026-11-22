@@ -13,7 +13,9 @@ publishedAt: 2026-07-29
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
+  - zdravlje
 related_articles:
   - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli

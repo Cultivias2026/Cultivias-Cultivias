@@ -11,7 +11,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - menta
+  - cajevi
 metaTitle: Čaj od mente – svojstva, priprema i zanimljivosti
 noindex: false
 related_articles:

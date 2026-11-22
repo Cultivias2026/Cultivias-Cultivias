@@ -11,7 +11,9 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - ogrozd
+  - kalorije
 related_articles:
   - ogrozd-i-zdravlje-što-kažu-istraživanja
   - ogrozd--zaboravljeno-supervoće

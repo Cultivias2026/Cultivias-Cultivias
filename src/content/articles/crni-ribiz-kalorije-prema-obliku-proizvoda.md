@@ -11,7 +11,9 @@ updatedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - crni-ribiz
+  - kalorije
 related_articles:
   - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
   - berba-crnog-ribiza-kako-i-kada

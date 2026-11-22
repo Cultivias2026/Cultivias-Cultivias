@@ -11,7 +11,9 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - uzgoj
+  - zdravlje
 noindex: false
 related_articles:
   - kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu

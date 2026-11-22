@@ -11,7 +11,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - menta
+  - recepti
 noindex: false
 related_articles:
   - menta-sve-važne-informacije-o-njoj

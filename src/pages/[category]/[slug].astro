@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TAGS, MIN_ARTICLES, knownTags, tagPath } from '../../data/tags';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { buildGraph, webPageNode, breadcrumbNode, authorRef, abs, webPageId, ORG_ID, extractQuestions, faqQuestionNodes } from '../../lib/schema';
@@ -84,7 +85,7 @@ const articleJsonLd = {
   mainEntityOfPage: { '@id': webPageId(articlePath) },
   url: articleUrl,
   inLanguage: 'hr',
-  ...(article.data.tags?.length ? { keywords: article.data.tags.join(', ') } : {}),
+  ...(knownTags(article.data.tags).length ? { keywords: knownTags(article.data.tags).map(k => TAGS[k].name).join(', ') } : {}),
   articleSection: categoryLabel,
   timeRequired: `PT${article.data.readTime || 5}M`,
 };
@@ -128,6 +129,16 @@ const sidebarArticles = allArticles
   .slice(0, 4);
 
 const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
+
+// Oznake članka: prikazuju se kao #hashtag; link samo ako tema ima vlastitu stranicu.
+const tagCounts = new Map<string, number>();
+for (const a of allArticles) for (const t of knownTags(a.data.tags)) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
+const articleTags = knownTags(article.data.tags).map(key => ({
+  key,
+  hash: TAGS[key].hash,
+  name: TAGS[key].name,
+  href: (tagCounts.get(key) ?? 0) >= MIN_ARTICLES ? `${base}${tagPath(key).slice(1)}` : null,
+}));
 ---
 
 <BaseLayout
@@ -143,7 +154,7 @@ const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
     modifiedTime: article.data.updatedAt,
     author: author?.name,
     section: categoryLabel,
-    tags: article.data.tags,
+    tags: knownTags(article.data.tags).map(k => TAGS[k].name),
   }}
   jsonLd={allJsonLd}
 >
@@ -221,6 +232,20 @@ const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
             {article.data.title}
           </h1>
 
+          {articleTags.length > 0 && (
+            <ul class="flex flex-wrap gap-2 mb-6 list-none p-0" aria-label="Teme članka">
+              {articleTags.map(tag => (
+                <li>
+                  {tag.href ? (
+                    <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>#{tag.hash}</a>
+                  ) : (
+                    <span class="tag-chip tag-chip--plain">#{tag.hash}</span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          )}
+
           <blockquote class="article-perex">
             {article.data.perex}
           </blockquote>
@@ -295,14 +320,16 @@ const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
           <Content />
         </div>
 
-        {article.data.tags.length > 0 && (
+        {articleTags.length > 0 && (
           <div class="mt-8 pt-6 border-t border-bg-pale">
             <div class="flex flex-wrap gap-2 items-center">
-              <span class="text-sm font-semibold text-gray-400 mr-1">Tagovi:</span>
-              {article.data.tags.map(tag => (
-                <span class="text-xs font-medium px-3 py-1.5 rounded-full border border-bg-pale text-primary-dark bg-white hover:bg-bg-pale transition-colors cursor-pointer font-body">
-                  #{tag}
-                </span>
+              <span class="text-sm font-semibold text-gray-400 mr-1">Teme:</span>
+              {articleTags.map(tag => (
+                tag.href ? (
+                  <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>#{tag.hash}</a>
+                ) : (
+                  <span class="tag-chip tag-chip--plain">#{tag.hash}</span>
+                )
               ))}
             </div>
           </div>

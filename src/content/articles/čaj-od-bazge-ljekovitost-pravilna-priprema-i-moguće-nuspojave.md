@@ -15,7 +15,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - bazga
+  - cajevi
+  - zdravlje
 related_articles:
   - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu

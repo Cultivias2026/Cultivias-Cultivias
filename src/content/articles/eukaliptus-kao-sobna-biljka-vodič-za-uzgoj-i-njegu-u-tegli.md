@@ -16,7 +16,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - eukaliptus
+  - uzgoj
 noindex: false
 related_articles:
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa

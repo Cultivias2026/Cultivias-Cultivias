@@ -13,7 +13,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: true
-tags: []
+tags:
+  - mrkva
+  - zdravlje
+  - uzgoj
 noindex: false
 related_articles:
   - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena

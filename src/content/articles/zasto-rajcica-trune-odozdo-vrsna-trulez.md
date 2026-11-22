@@ -10,7 +10,9 @@ publishedAt: 2026-11-20
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - rajcica
+  - uzgoj
 related_articles:
   - zalijevanje-rajcica-koliko-cesto-i-kako
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

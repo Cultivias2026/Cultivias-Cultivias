@@ -11,7 +11,10 @@ updatedAt: 2026-11-21
 expert_reviewed: false
 featured: false
 editors_pick: false
-tags: []
+tags:
+  - crni-ribiz
+  - uzgoj
+  - zdravlje
 metaTitle: Crni ribiz- sve što trebate znati o njemu
 noindex: false
 related_articles:

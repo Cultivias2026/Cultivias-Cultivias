@@ -16,7 +16,9 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: true
-tags: []
+tags:
+  - ogrozd
+  - recepti
 metaTitle: "Ogrozd u kuhinji: najbolji recepti od poznatih gastro portala"
 noindex: false
 related_articles:

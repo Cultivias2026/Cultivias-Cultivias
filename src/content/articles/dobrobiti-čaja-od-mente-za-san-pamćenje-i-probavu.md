@@ -13,7 +13,10 @@ updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: false
-tags: []
+tags:
+  - menta
+  - cajevi
+  - zdravlje
 metaTitle: Dobrobiti čaja od mente za san, pamćenje i probavu
 noindex: false
 related_articles:
