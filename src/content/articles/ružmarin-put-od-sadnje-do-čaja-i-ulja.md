@@ -112,7 +112,7 @@ U količinama u kojima se koristi kao začin ružmarin je uobičajen dio prehran
 * **epilepsija** – ulja bogata kamforom i cineolom, uključujući ružmarinovo, mogu izazvati napadaje (konvulzije)
 * **alergija na ružmarin** – ne koristite ga ni kao čaj ni kao ulje
 
-**Eterično ulje ružmarina ne pijte i čuvajte ga izvan dohvata djece.** Kao i ulje [eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/), sadrži spojeve koji kod male djece mogu izazvati teško trovanje. Ako dijete proguta eterično ulje ili nakon upotrebe primijetite otežano disanje ili oticanje lica, odmah nazovite hitnu pomoć (194) ili 112.
+**Eterično ulje ružmarina ne pijte i čuvajte ga izvan dohvata djece.** Kao i ulje [eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/), sadrži spojeve koji kod male djece mogu izazvati teško trovanje. Ako dijete proguta eterično ulje ili nakon upotrebe primijetite otežano disanje ili oticanje lica, odmah nazovite hitnu pomoć (194) ili 112. Savjet o gutanju eteričnog ulja daje i Centar za kontrolu otrovanja na broj 01 2348 342, 0 do 24 sata.
 
 ## Sadnja i uzgoj ružmarina
 

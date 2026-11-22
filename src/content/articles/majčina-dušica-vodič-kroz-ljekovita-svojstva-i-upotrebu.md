@@ -111,7 +111,7 @@ Na kožu se nikad ne nanosi nerazrijeđeno, jer izaziva jak nadražaj. Timol, gl
 
 U aromaterapiji se nekoliko kapi stavlja u difuzor, a često se navodi da pročišćava zrak i olakšava disanje. Za to nema pouzdanih dokaza. Ulje nadražuje sluznice, pa ga ne koristite u difuzoru u prostoriji u kojoj borave mala djeca.
 
-**Eterično ulje majčine dušice ne pijte i čuvajte ga izvan dohvata djece.** Ulje timijana, uz ulja [eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/), kamfora i čajevca, ubraja se među eterična ulja koja su pri slučajnom gutanju najopasnija za djecu. Ako dijete proguta eterično ulje, odmah nazovite hitnu pomoć (194) ili 112.
+**Eterično ulje majčine dušice ne pijte i čuvajte ga izvan dohvata djece.** Ulje timijana, uz ulja [eukaliptusa](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/), kamfora i čajevca, ubraja se među eterična ulja koja su pri slučajnom gutanju najopasnija za djecu. Ako dijete proguta eterično ulje, odmah nazovite hitnu pomoć (194) ili 112, a savjet možete dobiti i u Centru za kontrolu otrovanja na broj 01 2348 342, koji radi 0 do 24 sata.
 
 ## Kulinarska upotreba i recepti
 
