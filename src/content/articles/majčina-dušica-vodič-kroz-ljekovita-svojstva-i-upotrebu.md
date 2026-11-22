@@ -13,7 +13,7 @@ expert_reviewed: false
 featured: true
 editors_pick: true
 tags:
-  - mediteransko-bilje
+  - majcina-dusica
   - zdravlje
   - uzgoj
   - cajevi

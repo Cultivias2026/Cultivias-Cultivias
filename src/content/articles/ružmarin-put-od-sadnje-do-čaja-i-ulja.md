@@ -15,7 +15,7 @@ expert_reviewed: false
 featured: true
 editors_pick: true
 tags:
-  - mediteransko-bilje
+  - ruzmarin
   - uzgoj
   - cajevi
   - zdravlje

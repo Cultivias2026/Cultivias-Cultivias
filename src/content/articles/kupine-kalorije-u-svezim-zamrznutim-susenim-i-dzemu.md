@@ -12,6 +12,7 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags:
+  - kupina
   - kalorije
 related_articles:
   - kupina-sve-što-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti

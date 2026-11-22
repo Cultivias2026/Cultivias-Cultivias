@@ -12,6 +12,7 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags:
+  - kupina
   - uzgoj
   - zdravlje
 noindex: false

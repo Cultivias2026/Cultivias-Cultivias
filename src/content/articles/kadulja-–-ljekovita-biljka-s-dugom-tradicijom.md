@@ -13,7 +13,7 @@ expert_reviewed: false
 featured: false
 editors_pick: true
 tags:
-  - mediteransko-bilje
+  - kadulja
   - zdravlje
   - uzgoj
   - cajevi

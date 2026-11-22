@@ -11,7 +11,7 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags:
-  - mediteransko-bilje
+  - majcina-dusica
   - cajevi
   - zdravlje
 noindex: false

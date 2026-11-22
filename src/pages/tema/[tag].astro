@@ -24,15 +24,21 @@ const publishedKeys = new Set(allTags.map(t => t.key));
 const isPlant = def.group === 'biljka';
 const facets = buildFacets(articles, { base, publishedKeys, biljka: !isPlant, tema: isPlant, kat: true });
 const mainCat = articles[0]?.data.category;
+// slika za dijeljenje: naslovna slika najnovijeg članka teme
+const coverImage: string | undefined = articles.find(a => a.data.image)?.data.image;
 
 const jsonLd = await buildGraph([
   webPageNode({
     type: 'CollectionPage',
     path,
-    name: `${def.name} | Cultivias`,
+    name: def.metaTitle,
     description: def.metaDescription,
     hasBreadcrumb: true,
-    extra: { mainEntity: { '@id': `${abs(path)}#list` }, about: { '@type': 'Thing', name: def.name } },
+    extra: {
+      mainEntity: { '@id': `${abs(path)}#list` },
+      about: { '@type': 'Thing', name: def.name },
+      ...(coverImage ? { primaryImageOfPage: { '@type': 'ImageObject', url: abs(coverImage) } } : {}),
+    },
   }),
   breadcrumbNode(path, [
     { name: 'Naslovnica', path: '/' },
@@ -54,7 +60,7 @@ const jsonLd = await buildGraph([
 ]);
 ---
 
-<BaseLayout title={def.metaTitle} description={def.metaDescription} canonical={path} jsonLd={jsonLd}>
+<BaseLayout title={def.metaTitle} description={def.metaDescription} canonical={path} jsonLd={jsonLd} {...(coverImage ? { image: coverImage } : {})}>
   <div data-facet-scope>
   <div class="bg-white border-b border-bg-pale">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

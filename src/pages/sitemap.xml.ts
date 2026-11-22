@@ -1,6 +1,6 @@
 import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
-import { TAGS, MIN_ARTICLES, knownTags, tagPath } from '../data/tags';
+import { TAGS, knownTags, tagPath, minArticles } from '../data/tags';
 
 /**
  * XML sitemap.
@@ -90,7 +90,7 @@ export const GET: APIRoute = async () => {
   // Stranice autora (bez lastmod iz istog razloga).
   const authorEntries: Entry[] = authors.map(a => ({ path: `/autor/${a.data.slug}/` }));
 
-  // Stranice tema (/tema/<oznaka>/): samo oznake s barem MIN_ARTICLES indeksabilnih članaka.
+  // Stranice tema (/tema/<oznaka>/): samo oznake s dovoljno indeksabilnih članaka (minArticles).
   // lastmod = najnoviji datum članaka koje stranica prikazuje.
   const byTag = new Map<string, Entry[]>();
   for (const a of indexable) {
@@ -100,7 +100,7 @@ export const GET: APIRoute = async () => {
     }
   }
   const tagEntries: Entry[] = [...byTag.entries()]
-    .filter(([k, list]) => k in TAGS && list.length >= MIN_ARTICLES)
+    .filter(([k, list]) => k in TAGS && list.length >= minArticles(k))
     .map(([k, list]) => ({ path: tagPath(k), lastmod: maxDate(list.map(e => e.lastmod)) }));
   const tagIndexEntry: Entry[] = tagEntries.length
     ? [{ path: '/tema/', lastmod: maxDate(tagEntries.map(e => e.lastmod)) }]

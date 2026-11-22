@@ -12,6 +12,7 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags:
+  - ginko
   - uzgoj
 related_articles:
   - ginko-ginkgo-biloba-sve-što-trebate-znati-o-uzgoju-i-ljekovitosti

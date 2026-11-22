@@ -13,7 +13,7 @@ expert_reviewed: false
 featured: false
 editors_pick: false
 tags:
-  - mediteransko-bilje
+  - kadulja
   - zdravlje
   - cajevi
 metaTitle: Kadulja i ljekovitost! Zašto bi mogla biti dobar izbor?

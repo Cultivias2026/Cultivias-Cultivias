@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { TAGS, MIN_ARTICLES, knownTags, tagPath, tagLabel } from '../../data/tags';
+import { TAGS, minArticles, knownTags, tagPath, tagLabel } from '../../data/tags';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { buildGraph, webPageNode, breadcrumbNode, authorRef, abs, webPageId, ORG_ID, extractQuestions, faqQuestionNodes } from '../../lib/schema';
@@ -132,15 +132,18 @@ const allCategories = ['voce', 'povrce', 'bilje', 'vijesti'];
 
 // Oznake članka: prikazuju se kao #hashtag; link samo ako tema ima vlastitu stranicu.
 const tagCounts = new Map<string, number>();
-for (const a of allArticles) for (const t of knownTags(a.data.tags)) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
+for (const a of allArticles) {
+  if (a.data.noindex) continue;
+  for (const t of knownTags(a.data.tags)) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
+}
 const ownTags = knownTags(article.data.tags);
-const ownPlant = ownTags.find(k => TAGS[k].group === 'biljka' && (tagCounts.get(k) ?? 0) >= MIN_ARTICLES);
+const ownPlant = ownTags.find(k => TAGS[k].group === 'biljka' && (tagCounts.get(k) ?? 0) >= minArticles(k));
 const articleTags = ownTags.map(key => {
   const isPlant = TAGS[key].group === 'biljka';
   let href: string | null = null;
   let title = `Svi članci: ${TAGS[key].name}`;
   if (isPlant) {
-    if ((tagCounts.get(key) ?? 0) >= MIN_ARTICLES) href = `${base}${tagPath(key).slice(1)}`;
+    if ((tagCounts.get(key) ?? 0) >= minArticles(key)) href = `${base}${tagPath(key).slice(1)}`;
   } else if (ownPlant) {
     // tema unutar biljke: npr. Uzgoj na članku o rajčici vodi na uzgoj rajčice
     href = `${base}${tagPath(ownPlant).slice(1)}?tema=${key}`;

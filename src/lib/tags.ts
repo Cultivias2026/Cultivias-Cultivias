@@ -1,5 +1,5 @@
 import { getCollection } from 'astro:content';
-import { TAGS, MIN_ARTICLES, knownTags } from '../data/tags';
+import { TAGS, knownTags, minArticles } from '../data/tags';
 
 /** Indeksabilni članci (kao u sitemapu): bez noindexa i bez tuđeg canonicala. */
 export async function indexableArticles() {
@@ -26,11 +26,11 @@ export async function articlesByTag() {
   return map;
 }
 
-/** Oznake koje imaju vlastitu stranicu (barem MIN_ARTICLES članaka). */
+/** Oznake koje imaju vlastitu stranicu (vidi minArticles). */
 export async function publishedTags() {
   const map = await articlesByTag();
   return [...map.entries()]
-    .filter(([, arts]) => arts.length >= MIN_ARTICLES)
+    .filter(([key, arts]) => arts.length >= minArticles(key))
     .map(([key, arts]) => ({ key, def: TAGS[key], articles: arts }));
 }
 

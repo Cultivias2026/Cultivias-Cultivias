@@ -1,9 +1,11 @@
 /**
  * Oznake (hashtagovi) članaka.
  * U frontmatteru članka upisuje se ključ (npr. `tags: [aronija, recepti]`).
- * Stranica /tema/<ključ>/ nastaje samo za oznaku s barem MIN_ARTICLES članaka.
+ * Stranica /tema/<ključ>/ nastaje za biljku s barem 2 članka, a za temu s barem 3 (minArticles).
  */
 export const MIN_ARTICLES = 3;
+/** Biljke dobivaju stranicu već od 2 članka (teme od 3). */
+export const MIN_PLANT_ARTICLES = 2;
 
 export type TagGroup = 'biljka' | 'tema';
 
@@ -85,11 +87,35 @@ export const TAGS: Record<string, TagDef> = {
     metaDescription: 'Što su jeli i kako su živjeli ljudi u plavim zonama, područjima neobično duga života, i što stvarno stoji iza priče o dugovječnosti.',
     intro: 'Plave zone su područja u kojima ljudi žive dulje od prosjeka: Okinawa, Sardinija, Ikaria, Nicoya i Loma Linda. Ovdje su naši članci o tome što su ondje jeli, kako su živjeli i što stvarno stoji iza priče o dugovječnosti.',
   },
-  'mediteransko-bilje': {
-    hash: 'mediteransko-bilje', name: 'Mediteransko bilje', group: 'biljka',
-    metaTitle: 'Kadulja, majčina dušica i ružmarin: uzgoj i čaj',
-    metaDescription: 'Članci o kadulji, majčinoj dušici i ružmarinu: uzgoj u vrtu i tegli, čajevi, ljekovitost prema EMA-i i mjere opreza s eteričnim uljima.',
-    intro: 'Kadulja, majčina dušica i ružmarin vole sunce, propusno tlo i malo vode, pa dobro uspijevaju i u vrtu i u tegli. Ovdje su naši članci o uzgoju tog bilja, čajevima i tome kada s eteričnim uljima treba biti oprezan.',
+  kadulja: {
+    hash: 'kadulja', name: 'Kadulja', group: 'biljka',
+    metaTitle: 'Kadulja: uzgoj, čaj i ljekovitost',
+    metaDescription: 'Članci o kadulji: uzgoj u vrtu i tegli, priprema čaja, što istraživanja kažu o ljekovitosti te dobne granice i oprez s eteričnim uljem.',
+    intro: 'Ljekovita kadulja raste na suhim, sunčanim mjestima uz jadransku obalu, a njezin se list stoljećima koristi za čaj i grgljanje. Ovdje su naši članci o uzgoju kadulje, čaju i tome što istraživanja doista pokazuju o njezinoj ljekovitosti.',
+  },
+  'majcina-dusica': {
+    hash: 'majčina-dušica', name: 'Majčina dušica', group: 'biljka',
+    metaTitle: 'Majčina dušica: čaj, uzgoj i ljekovitost',
+    metaDescription: 'Članci o majčinoj dušici: uzgoj, priprema čaja, ljekovitost, razlika prema timijanu te kada je potreban oprez, osobito kod djece.',
+    intro: 'Majčina dušica niska je mirisna biljka koja voli sunce i suho, kamenito tlo, a od njezinih cvjetnih vršaka priprema se čaj. Ovdje su naši članci o uzgoju, čaju i ljekovitosti majčine dušice te o tome po čemu se razlikuje od timijana.',
+  },
+  ruzmarin: {
+    hash: 'ružmarin', name: 'Ružmarin', group: 'biljka',
+    metaTitle: 'Ružmarin: sadnja, čaj i ulje',
+    metaDescription: 'Članci o ružmarinu: sadnja i uzgoj, priprema čaja i ulja s ružmarinom, sastav te mjere opreza za djecu, trudnice i kod epilepsije.',
+    intro: 'Ružmarin je zimzeleni mediteranski grm koji uz sunce i propusno tlo godinama raste u vrtu ili tegli. Ovdje su naši članci o sadnji, čaju i ulju od ružmarina te mjerama opreza.',
+  },
+  kupina: {
+    hash: 'kupina', name: 'Kupina', group: 'biljka',
+    metaTitle: 'Kupina: sadnja, uzgoj, ljekovitost i kalorije',
+    metaDescription: 'Članci o kupini: sadnja i uzgoj u vrtu, sastav i ljekovitost te kalorije svježih, zamrznutih i sušenih kupina i džema od kupina.',
+    intro: 'Kupina raste divlje uz rubove šuma, a vrtne sorte, od kojih su mnoge bez trnja, daju krupnije plodove. Ovdje su naši članci o sadnji i uzgoju kupine, njezinu sastavu i kalorijama svježih, zamrznutih i sušenih kupina te džema.',
+  },
+  ginko: {
+    hash: 'ginko', name: 'Ginko', group: 'biljka',
+    metaTitle: 'Ginko: uzgoj, rast stabla i ljekovitost',
+    metaDescription: 'Članci o ginku (Ginkgo biloba): uzgoj i brzina rasta stabla, ljekovitost prema EMA-i i istraživanjima te tko ne smije uzimati ginko.',
+    intro: 'Ginko je drvo vrlo duge povijesti koje se kod nas sadi u parkovima i vrtovima, a ekstrakt njegova lista koristi se kao biljni lijek. Ovdje su naši članci o uzgoju i rastu ginka te o tome što istraživanja pokazuju o njegovu djelovanju i kome može naškoditi.',
   },
   uzgoj: {
     hash: 'uzgoj', name: 'Uzgoj i njega', group: 'tema',
@@ -129,6 +155,11 @@ export function knownTags(tags: string[] = []): string[] {
 }
 
 export const tagPath = (key: string) => `/tema/${key}/`;
+
+/** Najmanji broj članaka da oznaka dobije vlastitu stranicu. */
+export function minArticles(key: string): number {
+  return TAGS[key]?.group === 'biljka' ? MIN_PLANT_ARTICLES : MIN_ARTICLES;
+}
 
 /** Kratki natpis oznake za gumbe i tabove, npr. "Crni ribiz", "Uzgoj", "Čajevi". */
 export function tagLabel(key: string): string {
