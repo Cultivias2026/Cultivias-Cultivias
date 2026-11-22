@@ -6,8 +6,9 @@ image: /images/articles/ljekovita-ljubičasta-kadulja-u-vrtu.webp
 perex: Kadulja ili žalfija (Salvia officinalis) jedna je od najpoznatijih
   mediteranskih biljaka i često se postavlja pitanje zašto je dobra i u čemu je
   njena ljekovitost?
-readTime: 5
+readTime: 7
 publishedAt: 2025-11-28
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -20,103 +21,90 @@ related_articles:
   - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
 ---
 
+Kadulja je stoljećima imala posebno mjesto u narodnoj medicini, a znanstvenici danas istražuju koja od njezinih tradicionalnih svojstava imaju uporište u dokazima. Većina istraživanja zasad je provedena u laboratoriju ili na životinjama, a ispitivanja na ljudima su malobrojna i mala. U nastavku saznajte što istraživanja kažu o kadulji kod upala, grlobolje, probave i bolesti desni te kada s njom treba biti oprezan.
 
-Stoljećima je zauzimala posebno mjesto u narodnoj medicini, a danas i znanost potvrđuje neka od njenih korisnih svojstava.
+## Benefiti kadulje za zdravlje
 
+[Kadulja](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) se najčešće koristi kao začin, no u narodnoj medicini stoljećima služi i kao čaj za grgljanje, probavu i znojenje. Stara izreka "Zaprijeti li smrt, po kadulju u vrt" pokazuje koliko su joj ljudi nekad vjerovali. Europska agencija za lijekove (EMA) danas njezin list priznaje kao tradicionalni biljni lijek za blage probavne tegobe, pojačano znojenje, upale u ustima i grlu te blage upale kože. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima.
 
+Kad čitate o učincima kadulje, korisno je znati o kojoj je vrsti istraživanja riječ:
 
-## **Benefiti kadulje za zdravlje**
+* **laboratorijska istraživanja (in vitro)** – ekstrakt se ispituje na stanicama ili mikroorganizmima u epruveti
+* **istraživanja na životinjama** – najčešće na štakorima ili miševima
+* **klinička ispitivanja** – provode se na ljudima, a najpouzdanija su ona s kontrolnom skupinom koja dobiva placebo
 
-
-
-Kada govorimo o kadulji, ne možemo se ograničiti samo na jedno svojstvo niti ovu biljku poniziti govoreći o njoj [isključivo kao začinu](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) ili dekoraciji. 
-
-Stara rimska izreka kaže **„Zaprijeti li smrt, po kadulju u vrt“**, i time nedvosmisleno objašnjava povjerenje starih Rimljana u biljku koju nalazimo i u suvremenoj medicini.
-
-
+Rezultati laboratorijskih istraživanja i pokusa na životinjama ne mogu se izravno prenijeti na ljude.
 
 ## Antioksidativno i protuupalno djelovanje kadulje
 
+Talijansko laboratorijsko istraživanje objavljeno 2021. godine u znanstvenom časopisu [Antioxidants](https://www.mdpi.com/2076-3921/10/2/311) ispitalo je ekstrakte listova i cvjetova kadulje s juga Italije. Ekstrakti su djelovali kao antioksidansi, odnosno neutralizirali su slobodne radikale, nestabilne molekule koje oštećuju stanice. Među djelatnim tvarima istraživači ističu ružmarinsku kiselinu, luteolin-7-glukozid i karnozol. Ružmarinsku kiselinu sadrže i druge usnače, primjerice [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
 
+U pokusima na mišjim imunosnim stanicama (makrofagima) ekstrakti su smanjili stvaranje dušikova oksida i upalnih citokina, signalnih tvari koje potiču upalu. Pritom su djelovali na NF-κB, bjelančevinu koja u stanici pokreće upalne procese. Ekstrakti su ublažili i upalu koju su u istim stanicama izazvale tvari iz stanica raka dojke. To je laboratorijski nalaz, a ne dokaz da kadulja štiti od raka ili utječe na njegov tijek.
 
-Najnovija [znanstvena istraživanja](https://www.mdpi.com/2076-3921/10/2/311?utm) potvrđuju snažan antioksidativni i protuupalni potencijal obične kadulje (*Salvia officinalis*), posebice njezinih listova i cvjetova. 
-
-Studija je pokazala da bogatstvo fitokemikalija u kadulji – prvenstveno **ružmarinske kiseline, luteolin-7-glukozida i karnosola** – učinkovito štiti stanice od oksidativnog stresa . 
-
-Osim ove zaštitne uloge, ekstrakti kadulje djeluju dubinski na molekularnoj razini blokiranjem **NF-κB faktora**, ključnog 'prekidača' za pokretanje upalnih procesa u tijelu. 
-
-Ovim mehanizmom kadulja značajno smanjuje proizvodnju dušikovog oksida i upalnih citokina, a istraživanje je prvi put istaknulo i njezinu sposobnost da ublaži specifične upalne procese povezane s napredovanjem tumorskih stanica, čime se ova biljka potvrđuje kao moćan saveznik u očuvanju staničnog zdravlja.
-
-Ekstrakti kadulje pokazuju učinak smanjenja upalnih procesa u laboratorijskim studijama. To može objasniti zašto se kadulja u tradicionalnoj medicini koristi kod blažih upala grla, promuklosti i probavnih tegoba uzrokovanih vanjskim utjecajima.
+Protuupalno djelovanje u laboratoriju može objasniti zašto se kadulja tradicionalno koristi kod blažih upala grla, promuklosti i probavnih tegoba. Ispitivanja na ljudima koja bi to potvrdila zasad nema dovoljno.
 
 ## Antimikrobni učinci kadulje
 
+Brazilsko [laboratorijsko istraživanje](https://www.agd.org/docs/default-source/self-instruction-%28gendent%29/gendent_jf19_de-oliveira-s-i.pdf) objavljeno 2019. godine u stomatološkom časopisu General Dentistry ispitalo je ekstrakt kadulje na 60 uzoraka mikroorganizama iz usne šupljine. Među njima su bile bakterije *Staphylococcus aureus* i *Streptococcus mutans*, koja uzrokuje karijes, te gljivice roda *Candida*. U koncentraciji od 50 mg/ml ekstrakt je zaustavio rast svih ispitanih mikroorganizama. Pritom nije oštetio mišje makrofage u kulturi, a smanjio je stvaranje upalnih citokina IL-1β i TNF-α.
 
+Takvi rezultati ne znače da je kadulja prirodni antibiotik. Ispitivana koncentracija od 50 mg/ml veća je od količine kadulje u šalici čaja, a pokus u epruveti ne pokazuje kako bi ekstrakt djelovao u ustima ili u tijelu. Kod bakterijskih infekcija kadulja ne može zamijeniti antibiotik koji propiše liječnik.
 
-Znanstvena studija potvrdila je iznimnu **antimikrobnu učinkovitost** ekstrakta kadulje (*Salvia officinalis*) u borbi protiv širokog spektra patogena, uključujući bakterije odgovorne za infekcije usne šupljine (*Staphylococcus aureus*, *Streptococcus mutans*) te gljivice iz roda *Candida*. 
+## Djelovanje kadulje kod upale grla i dišnih puteva
 
-[Istraživanje](https://www.agd.org/docs/default-source/self-instruction-%28gendent%29/gendent_jf19_de-oliveira-s-i.pdf?utm) je pokazalo da kadulja u odgovarajućim koncentracijama uspješno eliminira ove mikroorganizme, a pritom pokazuje **potpunu sigurnost i netoksičnost** za zdrave stanice imunološkog sustava. 
+Kadulja se tradicionalno koristi kod blažih upala grla, poznatog grebanja u grlu, kašlja i promuklosti. EMA je za upale u ustima i grlu priznaje kao tradicionalni biljni lijek. Za grgljanje se tradicionalno koristi i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), a kod kašlja [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/).
 
-Osim što djeluje kao prirodni antibiotik i antimikotik, ekstrakt je istovremeno potvrdio i snažan protuupalni učinak, smanjujući proizvodnju ključnih upalnih citokina (IL-1β i TNF-α) za više od 85%, čime se ova biljka nameće kao djelotvorna i sigurna alternativa u prevenciji i kontroli infekcija.
+[Kliničko ispitivanje](https://pubmed.ncbi.nlm.nih.gov/16504956/) objavljeno 2006. godine uključilo je 286 bolesnika s akutnom virusnom upalom ždrijela (faringitisom). Bilo je randomizirano i dvostruko slijepo: ispitanici su nasumično raspoređeni u skupine, a ni oni ni istraživači nisu znali tko dobiva pravi pripravak, a tko placebo. Sprej s 15 % ekstrakta kadulje ublažio je bol u grlu u prva dva sata nakon primjene bolje od placeba. Sprejevi s 5 i 30 % ekstrakta nisu obećavali bolji učinak od placeba, pa se s njima nije nastavilo. Od nuspojava su zabilježeni blaga suhoća i pečenje u grlu.
 
-##  Dokazano djelovanje kadulje za pomoć kod upale grla i dišnih puteva
-
-
-
-Tradicionalno se koristi za ublažavanje blažih upale grla, poznatog „grebanja u grlu“, kašlja i promuklosti. Znanstvena istraživanja podupiru da kadulja ima antimikrobni učinak, pa može doprinijeti osjećaju olakšanja kod blagih respiratornih smetnji.
-
-Klinička učinkovitost **kadulje (*Salvia officinalis*)** u liječenju akutne upale ždrijela potvrđena je opsežnom, randomiziranom i dvostruko [slijepom studijom](https://pubmed.ncbi.nlm.nih.gov/16504956/) na 286 pacijenata.
-
-Istraživanje je dokazalo da sprej s 15-postotnim ekstraktom kadulje pruža **statistički značajno i brzo olakšanje boli** u usporedbi s placebom, i to već unutar prva dva sata od primjene. 
-
-Uz visoku djelotvornost, pripravak se pokazao iznimno sigurnim za upotrebu uz izvrsnu podnošljivost, čime se kadulja etablira kao **pouzdana i znanstveno utemeljena terapija** za simptomatsko liječenje virusnih upala grla.”
+Rezultat je ohrabrujući, ali ima ograničenja. Mjerio se učinak u prva dva sata, a vodeći autor zaposlen je u tvrtki koja proizvodi biljne pripravke. Ispitan je sprej s ekstraktom, a ne čaj, pa se rezultat ne može izravno prenijeti na grgljanje čaja. Ako uz grlobolju imate visoku temperaturu, gnojne naslage na krajnicima ili otežano gutanje i disanje, javite se liječniku.
 
 ## Može li kadulja pomoći kod probave?
 
+Kadulja se u narodnoj medicini tradicionalno koristi kod probavnih tegoba, a EMA je priznaje kao tradicionalni biljni lijek za blage tegobe poput žgaravice i nadutosti.
 
+Brazilsko [istraživanje](https://pubmed.ncbi.nlm.nih.gov/19481590/) objavljeno 2009. godine ispitalo je ekstrakt kadulje na štakorima. Ekstrakt je štitio želučanu sluznicu od oštećenja alkoholom, odnosno djelovao je gastroprotektivno. Smanjio je i čir izazvan octenom kiselinom te kiselost želučanog soka. U pokusima u epruveti kočio je protonsku pumpu, enzim koji stvara želučanu kiselinu i na koji djeluju i neki lijekovi protiv žgaravice. Kao moguća djelatna tvar izdvojen je karnozol.
 
-Moderna znanost potvrdila je ono što narodna medicina odavno poznaj. Kadulja je moćan čuvar želuca. 
-
-[Istraživanje je pokazalo](https://pubmed.ncbi.nlm.nih.gov/19481590/) da ova biljka ima izvrsna "gastroprotektivna" svojstva, što znači da aktivno štiti želučanu sluznicu od oštećenja i nastanka čireva. 
-
-Zanimljivo je da kadulja pomaže u regulaciji želučane kiseline djelujući na sam izvor njezina stvaranja, funkcionirajući na vrlo sličan način kao neki suvremeni lijekovi protiv žgaravice. Za ovaj ljekoviti učinak najzaslužniji je **karnozol**, snažan prirodni spoj iz kadulje koji dokazano umiruje želudac i čuva njegovo zdravlje.
+Riječ je o pokusu na životinjama, pa se rezultati ne mogu izravno prenijeti na ljude. Kadulja nije zamjena za lijekove protiv žgaravice ili čira na želucu, a žgaravicu koja se često vraća treba pregledati liječnik. Za blage probavne tegobe EMA tradicionalno priznaje i druge biljke, primjerice [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/) i list [paprene metvice](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/).
 
 ## Kadulja za oralno zdravlje
 
+Iračko [kliničko ispitivanje](https://pmc.ncbi.nlm.nih.gov/articles/PMC11102653/) objavljeno 2024. godine uključilo je 14 osoba s parodontitisom. To je kronična upala potpornog tkiva zuba, koja vodi do povlačenja desni i klimanja zuba. Svima je stomatolog očistio zubni kamenac i površinu korijena. Nakon toga je na odabrana mjesta u ustima nanesen gel s kaduljom, a ostala su mjesta služila za usporedbu.
 
+Nakon mjesec dana krvarenje desni na mjestima s gelom znatno se smanjilo, a na kontrolnim mjestima nije. Dubina parodontnih džepova, prostora između zuba i upaljene desni, smanjila se na svim mjestima, nešto više uz gel.
 
-Spas za desni: Kadulja dokazano liječi parodontitis
+Ispitivanje je malo i kratko, a gel se koristio kao dodatak stomatološkom zahvatu, a ne umjesto njega. Rezultat ne pokazuje da kadulja liječi parodontitis niti da može zamijeniti liječenje kod stomatologa. Za takav zaključak potrebna su veća i dulja ispitivanja.
 
-Osim što čuva želudac, najnovija znanstvena istraživanja potvrđuju da je kadulja moćan saveznik u borbi protiv bolesti desni. 
+## Kadulja i bore: što pokazuju istraživanja
 
-[Klinička studija iz 2024. godine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11102653/) pokazala je da primjena gela od kadulje, neposredno nakon stomatološkog čišćenja zubnog kamenca, donosi znatno bolje rezultate nego sam zahvat. 
+Južnokorejsko [istraživanje](https://pubmed.ncbi.nlm.nih.gov/27466023/) objavljeno 2016. godine bavilo se sklareolom, tvari izdvojenom iz kadulje koja se u kozmetici koristi kao mirisni sastojak. U laboratorijskim pokusima sklareol je štitio kožne stanice od oštećenja UVB zrakama i kočio enzime koji razgrađuju kolagen, bjelančevinu koja koži daje čvrstoću. Takvo oštećenje kože suncem naziva se fotostarenje.
 
-Pacijenti kod kojih je korišten ovaj biljni pripravak zabilježili su drastično smanjenje krvarenja desni i brže zacjeljivanje dubokih parodontnih džepova. Ovi nalazi dokazuju da snažna protuupalna svojstva kadulje nisu samo mit, već nude sigurnu i učinkovitu prirodnu alternativu kemijskim sredstvima za očuvanje zdravlja usne šupljine.
+U kliničkom dijelu ispitivanja ispitanici su 12 tjedana nanosili kremu s 0,02 % sklareola. Nakon tog razdoblja nekoliko pokazatelja bora bilo je bolje nego u kontrolnoj skupini. Istraživanje je provela kozmetička tvrtka, a u sažetku rada nisu navedeni broj ispitanika ni veličina učinka. Ispitivana je izdvojena tvar u kremi, a ne čaj ili domaći pripravci od kadulje, pa usporedba s botoksom nije opravdana.
 
-## Prirodni "botoks" iz vrta: Kadulja briše bore
+## Treba li se kadulja koristiti s oprezom?
 
+Prema američkom Nacionalnom centru za komplementarno i integrativno zdravlje ([NCCIH](https://www.nccih.nih.gov/health/sage)), kadulja je vjerojatno sigurna u količinama u kojima se koristi kao začin. Ljekovita kadulja sadrži tujon, koji u velikim količinama može biti otrovan, pa kadulja u velikim dozama ili pri dugotrajnoj upotrebi može biti štetna. NCCIH ujedno navodi da korist kadulje zasad nije jasno dokazana ni za jedno stanje.
 
+Europska agencija za lijekove ljekovite pripravke od kadulje ne preporučuje mlađima od 18 godina. Sigurnu dnevnu količinu tujona procijenila je za najviše dva tjedna primjene. Oprez je potreban i u sljedećim slučajevima:
 
-Osim što liječi iznutra, kadulja se pokazala i kao moćan saveznik u borbi protiv starenja kože. 
+* **trudnoća** – zbog tujona kadulja kao lijek u trudnoći može biti štetna
+* **dojenje** – tradicionalno se koristi za smanjenje količine mlijeka, a podataka o sigurnosti za dojenčad nema
+* **epilepsija** – tujon može potaknuti napadaje (konvulzije)
+* **eterično ulje** – ne smije se piti, jer su napadaji opisani upravo nakon uzimanja ulja kadulje
+* **kronične bolesti i lijekovi** – ako se liječite ili uzimate lijekove, prije upotrebe kadulje kao lijeka posavjetujte se s liječnikom ili ljekarnikom
 
-[Znanstvena studija](https://pubmed.ncbi.nlm.nih.gov/27466023/?utm) fokusirala se na **sklareol**, poseban spoj izoliran iz kadulje, i otkrila njegovu izvanrednu sposobnost da popravi štetu nastalu utjecajem sunca (tzv. fotostarenje).
-
- Istraživanje je dokazalo da sklareol ne samo da štiti stanice kože od odumiranja uzrokovanog UV zračenjem, već i sprječava razgradnju kolagena. 
-
-Rezultati kliničkog ispitivanja na ljudima bili su nedvojbeni: nakon 12 tjedana korištenja kreme koja sadrži ovaj ekstrakt kadulje, dubina bora se značajno smanjila, a koža je postala otpornija i punija, potvrđujući kadulju kao vrhunski *anti-age* sastojak.
-
-Pročitajte i: [ružmarin od sadnje do čaja i ulja](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica: ljekovita svojstva](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
-
-## **Treba li se kadulja koristiti s oprezom?**
-
-
-
-Prema [studiji](https://www.nccih.nih.gov/health/sage) kadulja je sigurna za većinu zdravih ljudi kada se koristi kao začin ili u umjerenim ljekovitim dozama (1 do 3 šalice čaja dnevno) tijekom kraćeg razdoblja, obično do 8 tjedana.
-
-Ipak, zbog sadržaja tujona koji može biti **toksičan**, njezina se upotreba ne preporučuje trudnicama, dojiljama te osobama s epilepsijom ili bolestima jetre. Ključ njezine sigurne primjene leži u umjerenosti i pravilnoj pripremi, stoga ona treba služiti kao povremena i dragocjena potpora zdravlju, a ne kao trajna osnova prehrane.
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
+Kadulju zato koristite umjereno i povremeno, kao začin ili čaj, a ne kao svakodnevnu dugotrajnu naviku.
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kadulje u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Brindisi i sur., laboratorijsko istraživanje na staničnim kulturama (2021.) – [Antioksidativno i protuupalno djelovanje ekstrakata lista i cvijeta talijanske kadulje (New Insights into the Antioxidant and Anti-Inflammatory Effects of Italian Salvia officinalis Leaf and Flower Extracts in Lipopolysaccharide and Tumor-Mediated Inflammation Models)](https://www.mdpi.com/2076-3921/10/2/311), Antioxidants
+- de Oliveira i sur., laboratorijsko istraživanje (2019.) – [Antimikrobno djelovanje ekstrakta kadulje na bakterije i gljivice iz usne šupljine (Antimicrobial activity of noncytotoxic concentrations of Salvia officinalis extract against bacterial and fungal species from the oral cavity)](https://pubmed.ncbi.nlm.nih.gov/30644826/), General Dentistry
+- Hubbert i sur., randomizirano, dvostruko slijepo kliničko ispitivanje s placebom (2006.) – [Djelotvornost i podnošljivost spreja s kaduljom kod akutne upale ždrijela (Efficacy and tolerability of a spray with Salvia officinalis in the treatment of acute pharyngitis)](https://pubmed.ncbi.nlm.nih.gov/16504956/), European Journal of Medical Research
+- Mayer i sur., istraživanje na štakorima (2009.) – [Sastojci kadulje koji štite želudac (Gastroprotective constituents of Salvia officinalis L.)](https://pubmed.ncbi.nlm.nih.gov/19481590/), Fitoterapia
+- Aljuboori i sur., malo randomizirano kliničko ispitivanje (2024.) – [Kadulja kod parodontitisa (Clinical Effectiveness of Salvia officinalis in Periodontitis: A Split-Mouth Randomized Controlled Trial)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11102653/), Cureus
+- Park i sur., laboratorijsko i kliničko istraživanje kozmetičke tvrtke (2016.) – [Sklareol iz kadulje i bore na licu (Sclareol isolated from Salvia officinalis improves facial wrinkles via an antiphotoaging mechanism)](https://pubmed.ncbi.nlm.nih.gov/27466023/), Journal of Cosmetic Dermatology
+- Europska agencija za lijekove (EMA) – [List kadulje, biljni lijek (Salviae officinalis folium)](https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium), [Cvijet kamilice, biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) i [List paprene metvice, biljni lijek (Menthae piperitae folium)](https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium)
+- Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), američki Nacionalni instituti za zdravlje – [Kadulja (Sage)](https://www.nccih.nih.gov/health/sage)
+- Baza podataka o lijekovima i dojenju (LactMed) američkih Nacionalnih instituta za zdravlje – [Kadulja (Sage)](https://www.ncbi.nlm.nih.gov/books/NBK501816/)

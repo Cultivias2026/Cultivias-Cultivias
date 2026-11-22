@@ -6,8 +6,9 @@ image: /images/articles/biljka-kadulja-u-vrtu.webp
 perex: Kadulja ili žalfija, latinskog naziva Salvia officinalis, je višegodišnja
   polugrmovita biljka koja pripada porodici usnjača (Lamiaceae), u koju se
   ubrajaju i druge poznate aromatične biljke poput metvice, ružmarina i lavande.
-readTime: 6
+readTime: 11
 publishedAt: 2024-10-13
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -19,300 +20,180 @@ related_articles:
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 
+Kadulja je jedna od najstarijih ljekovitih i začinskih biljaka, a njezina upotreba u narodnoj medicini seže tisućama godina unatrag. Danas se najčešće koristi kao čaj i začin, a Europska agencija za lijekove (EMA) njezin list priznaje kao tradicionalni biljni lijek. U nastavku saznajte kako kadulja izgleda, koje tvari sadrži, kako se priprema čaj, kada može pomoći, kada je treba izbjegavati i kako je uzgojiti.
 
-Jedna je od najstarijih i [najcjenjenijih ljekovitih biljaka](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/), čija upotreba u narodnoj medicini seže tisućama godina unatrag.
+## Izgled i opis biljke i njezina povijest
 
-## Izgled i opis biljke i njezina fascinantna povijest
+Kadulja je polugrm, što znači da su joj stabljike u donjem dijelu drvenaste, a u gornjem zeljaste. Listovi su sivozeleni, baršunasti i duguljasti. Cijela biljka ima jak, prodoran miris, koji potječe od eteričnog ulja u listovima. Kao i ostale usnače, primjerice [metvica](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/), bogata je aromatičnim tvarima.
 
+Cvate od svibnja do srpnja. Cvjetovi su skupljeni u klasaste cvatove i najčešće su ljubičasti ili plavi, rjeđe ružičasti ili bijeli. Privlače pčele, pa je kadulja i medonosna biljka, a na jadranskim otocima od nje se dobiva kaduljin med.
 
+Kadulja se kroz povijest cijenila u mnogim kulturama:
 
-Biljku karakteriziraju drvenaste stabljike u donjem dijelu, koje nose sivozelene, baršunaste listove duguljastog oblika.
+* **stari Egipat** – prema predaji koristila se u obredima i kao sredstvo za plodnost
+* **antička Grčka i Rim** – smatrala se svetom biljkom, a Rimljani su je koristili i za konzerviranje mesa
+* **srednji vijek** – rasla je u gotovo svakom samostanskom vrtu, a Karlo Veliki naredio je njezin uzgoj na carskim imanjima
 
-Cijela biljka odiše jedinstvenim, prodornim i aromatičnim mirisom koji potječe od bogatog sadržaja eteričnih ulja.
-
-Tijekom razdoblja cvatnje, od svibnja do srpnja, kadulja razvija predivne ljubičaste, plave, ružičaste ili bijele cvjetove skupljene u klasaste cvatove, koji su izuzetno privlačni pčelama, čineći kadulju važnom medonosnom biljkom.
-
-
-
-* **Drevni Egipat**
-
-  : Egipćani su je koristili za poboljšanje plodnosti i kao dio ritualnih praksi.
-
-
-
-* **Stara Grčka i Rim**
-
-  : Grci i Rimljani smatrali su je svetom biljkom. Liječnik 
-
-  [Dioskorid ](https://ostraluka.com/index.php/zivot/132-savjeti-1719261216/48948-kadulja-se-ubraja-medu-najljekovitije-biljke)
-
-  pisao je o njezinim svojstvima zaustavljanja krvarenja i pomoć kod rana. Rimljani su je koristili u obredima i kao konzervans za meso, što je omogućilo bolju konzerviranu hranu.
-
-
-
-* **Srednji vijek**
-
-  : U srednjem vijeku bila je neizostavan dio svakog samostanskog vrta. Postojala je izreka: “Cur moriatur homo, cui Salvia crescit in horto?” (Zašto da umre čovjek u čijem vrtu raste kadulja?). Karlo Veliki je čak naredio njezin uzgoj na državnim imanjima zbog njezine važnosti u liječenju.
-
-
-
-*Njezino latinsko ime Salvia potječe od riječi “salvare”, što znači **“spasiti” ili “liječiti”**, svjedočeći o dubokom poštovanju koje su drevne civilizacije pripisivale kadulji.*
-
-
+Grčki liječnik [Dioskorid](https://ostraluka.com/index.php/zivot/132-savjeti-1719261216/48948-kadulja-se-ubraja-medu-najljekovitije-biljke) u 1. stoljeću opisao je kako kadulja zaustavlja krvarenje i pomaže zacjeljivanju rana. Iz srednjeg vijeka potječe latinska izreka "Cur moriatur homo, cui Salvia crescit in horto?", odnosno "Zašto da umre čovjek u čijem vrtu raste kadulja?". I samo ime govori o ugledu biljke: latinski naziv *Salvia* dolazi od riječi *salvare*, što znači spasiti ili liječiti.
 
 ## Ljekovita svojstva kadulje
 
+Kadulja ima složen kemijski sastav. Glavne djelatne tvari su eterično ulje, [flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi), fenolne kiseline i [tanini](https://www.enciklopedija.hr/clanak/tanini). Njihov udio ovisi o podrijetlu biljke, vremenu berbe i načinu sušenja.
 
+* **eterično ulje (1–2,5 %)** – sadrži α- i β-tujon, kamfor, 1,8-cineol (eukaliptol), borneol i α-pinen, koji daju karakterističan miris
+* **fenolne kiseline** – najviše je ružmarinske kiseline, koja djeluje kao antioksidans
+* **flavonoidi** – luteolin i apigenin pridonose antioksidativnom djelovanju
+* **tanini (do 8 %)** – stežu sluznicu (adstringentno djelovanje), zbog čega se kadulja tradicionalno koristi kod upala u ustima i grlu
 
-Kadulja ima izuzetno složeni kemijski sastav. Glavne aktivne tvari su eterična ulja, [flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi), fenolne kiseline i [tanini](https://www.enciklopedija.hr/clanak/tanini) a njihova koncentracija može varirati ovisno o geografskom podrijetlu, vremenu berbe i načinu sušenja.
+Antioksidansi su tvari koje neutraliziraju slobodne radikale, nestabilne molekule koje mogu oštetiti stanice. U laboratorijskim pokusima eterično ulje kadulje koči rast bakterija i gljivica, a ekstrakti kadulje smanjuju upalu. Takvi rezultati objašnjavaju tradicionalnu upotrebu, ali ne dokazuju da isto djeluje i u ljudskom tijelu.
 
-* **Eterična ulja**
-
-   (1-2.5%): Glavni nositelji antimikrobnog djelovanja. Sadrže mnoge spojeve nepoznate običnoj populaciji ( α-tujon i β- kamfor, 1,8-cineol (eukaliptol), borneol i α-pinen). Ovi spojevi su odgovorni za karakterističan miris.
-
-
-
-* **Fenolne kiseline**
-
-  : Ružmarinska kiselina imanajznačajniji udio. Smatra se da  može pridonijeti u neutralizaciji slobodnih radikala i smanjenju upalnih procesa u tijelu.
-
-
-
-* **Flavonoidi**
-
-  : Spojevi poput luteolina i apigenina mogu doprinijeti antioksidativnom kapacitetu kadulje i štite stanice od oštećenja.
-
-
-
-* **Tanini**
-
-   
-
-  (do 8%): Ovi spojevi imaju adstringentno (stežuće) djelovanje, što može pridonijeti kod stanja kao što su upala sluznice usta i grla, jer stvaraju zaštitni sloj i smanjuju iritaciju.
-
-
+Tujon u većim količinama djeluje otrovno na živčani sustav i može izazvati napadaje (konvulzije). Zbog njega se kadulja kao lijek koristi kratko i umjereno, o čemu više piše u dijelu o mjerama opreza.
 
 ## Najpoznatije vrste kadulja
 
+Rod *Salvia* obuhvaća više od 900 vrsta. Za kuhinju i ljekovitu upotrebu najvažnija je ljekovita kadulja, a srodne vrste i sorte uzgajaju se zbog izgleda ili mirisa.
 
+* **ljekovita kadulja (*Salvia officinalis*)** – najpoznatija vrsta, sivozelenih listova jakog mirisa i gorkog okusa; tradicionalno se koristi kod upale grla, probavnih tegoba, prehlade i pojačanog znojenja, a cijenjen je i začin
+* **ljubičasta kadulja (*Salvia officinalis* 'Purpurascens')** – sorta ljekovite kadulje s tamnoljubičastim mladim listovima; koristi se jednako kao obična, a zbog boje se često sadi u vrtovima
+* **livadna kadulja (*Salvia pratensis*)** – divlja vrsta s europskih livada i pašnjaka, visokih stabljika s ljubičastim cvjetovima; ljekovita svojstva su joj slabija, a u kuhinji se rijetko koristi
 
-Rod Salvia obuhvaća preko 900 različitih vrsta, no nekoliko njih se posebno ističe po svojim svojstvima i primjeni.
+Usporedba pet najpoznatijih vrsta i sorti:
 
-* **Ljekovita kadulja (Salvia officinalis)**
+| Vrsta kadulje | Izgled | Glavna primjena | Okus i miris |
+| --- | --- | --- | --- |
+| Ljekovita kadulja (*Salvia officinalis*) | sivozeleni, baršunasti listovi | medicina, kulinarstvo | jak, aromatičan, gorak |
+| Ljubičasta kadulja (*S. officinalis* 'Purpurascens') | mladi listovi ljubičasti | ukrasna biljka, medicina, kulinarstvo | sličan ljekovitoj, nešto blaži |
+| Livadna kadulja (*Salvia pratensis*) | zeleni listovi, visoki ljubičasti cvjetovi | medonosna biljka, narodna medicina | slabije izražen miris |
+| Bijela kadulja (*Salvia apiana*) | srebrnobijeli listovi | obredno kađenje (paljenje osušenih listova) | intenzivan, smolast miris |
+| Muškatna kadulja (*Salvia sclarea*) | veliki, srcoliki listovi | aromaterapija, parfumerija | zemljan, mošusan, slatkast |
 
-  : Ovo je najpoznatija i najviše korištena vrsta. Aromatična, višegodišnja biljka poznata po svojim snažnim ljekovitim svojstvima. Njeni sivozeleni listovi imaju karakterističan, jak miris i gorak okus. Tradicionalno mogu pridonijeti upala grla, probavnih smetnji, prehlade i prekomjernog znojenja. Osim u medicini, nezamjenjiv je začin u kulinarstvu.
-
-
-
-* **Ljubičasta kadulja (Salvia officinalis ‘Purpurascens’)**
-
-  : Ukrasna i ljekovita sorta ljekovite kadulje, prepoznatljiva po svojim atraktivnim, tamnoljubičastim listovima dok su mladi. Ova zimzelena biljka ima slična aromatična i ljekovita svojstva kao i obična kadulja te se koristi na iste načine, kako u kulinarstvu tako i u medicini. Zbog svoje dekorativnosti, čest je izbor za vrtove.
-
-
-
-* **Livadna kadulja (Salvia pratensis):**
-
-   Divlja vrsta kadulje koja prirodno raste na livadama i pašnjacima diljem Europe. Prepoznatljiva je po dugim cvjetnim stabljikama s intenzivno ljubičastim cvjetovima. Iako ima ljekovita svojstva, ona su slabije izražena nego kod ljekovite kadulje, a njezini listovi se rijetko koriste u kulinarstvu.
-
-
-
-![](/images/articles/vrste_kadulje.jpg)
+Bijela kadulja potječe iz južne Kalifornije i sjevernog Meksika, a muškatna kadulja uzgaja se ponajviše zbog eteričnog ulja.
 
 ## Proizvodi od kadulje
 
+Kadulja se koristi na više načina, ovisno o tome što se želi postići. Najpoznatiji proizvodi su čaj, eterično ulje, hidrolat i tinkture.
 
+### Čaj od kadulje
 
+Čaj je najčešći oblik primjene. Tradicionalno se pije kod probavnih tegoba, a grglja kod upale grla i usne šupljine.
 
+Priprema je jednostavna. Jednu do dvije čajne žličice osušenog lista (1–2 g) prelijte sa 150 ml kipuće vode, kako navodi EMA. Ako ćete čaj piti, poklopite ga i ostavite 3 do 5 minuta, pa će otpustiti manje tanina i gorkih tvari. Za grgljanje ga ostavite 10 do 15 minuta da bude jači. Prije upotrebe uvijek ga procijedite, a čaj za grgljanje nemojte gutati.
 
-Kadulja se može koristiti na mnogo različitih načina, ovisno o željenom učinku. Najpopularniji proizvodi su čaj, hidrolat, eterično ulje i tinkture.
+![Infografika: čaj od kadulje prema Europskoj agenciji za lijekove – za piće 1 do 2 g osušenog lista na 150 ml kipuće vode, poklopljeno 3 do 5 minuta, za grgljanje jači čaj namakan 10 do 15 minuta, primjena do dva tjedna, uz upozorenje da se kao lijek ne preporučuje mlađima od 18 godina, u trudnoći, tijekom dojenja i kod epilepsije, da se eterično ulje ne pije i čuva od djece te da inhalacija parom nosi opasnost od opeklina](/images/articles/infografika-kadulja-caj.webp)
 
-**Čaj od kadulje**
+### Inhalacija parom
 
-Čaj od kadulje je najčešći oblik primjene, poznat po svojoj sposobnosti da može pomoći ublažiti tegobe s grlom, kašljem i prehladom.
+Inhalacija parom kadulje stari je kućni postupak kod prehlade, upale sinusa i začepljenog nosa. Listovi se preliju vrelom vodom, a para se udiše ispod ručnika. Korist takve inhalacije nije dokazana, a liječnici iz centara za opekline u Nizozemskoj i Walesu upozoravaju na teške opekline. Najčešće stradaju djeca, kojima je ponekad potrebno i presađivanje kože.
 
-**Kako pripremiti čaj od kadulje?**
+**Djeci ne pripremajte inhalaciju vrelom vodom.** Ako je kao odrasla osoba ipak koristite, posudu stavite na stabilan stol, nikad u krilo, i držite je izvan dohvata djece. U vodu ne dodajte eterična ulja, poput kaduljina ili [eukaliptusova ulja](https://www.cultivias.com/bilje/je-li-eukaliptus-otrovan-toksi%C4%8Dnost-za-ljude-djecu-i-ku%C4%87ne-ljubimce/), jer su za malu djecu otrovna.
 
-Priprema je iznimno jednostavna. Prelijte jednu do dvije čajne žličice sušene kadulje s 200 ml kipuće vode. Ako čaj namjeravate piti, ostavite ga poklopljenog 3-5 minuta kako bi se otpustilo manje tanina i gorkih tvari. Ako ga koristite za grgljanje, ostavite ga 10-15 minuta za jači učinak. Uvijek procijedite prije upotrebe.
+### Eterično ulje kadulje
 
-**Kadulja za inhalaciju**
+Eterično ulje dobiva se destilacijom listova vodenom parom. Ono je koncentrirani oblik djelatnih tvari kadulje i sadrži puno tujona, cineola i kamfora. U laboratorijskim pokusima djeluje antimikrobno i protuupalno.
 
-Inhalacija parom kadulje može pridonijeti olakšavanju simptoma prehlade, upale sinusa i začepljenih dišnih puteva. Para obogaćena eteričnim uljima kadulje može pridonijeti u otvaranju dišnih puteva i može olakšati disanje.
+U aromaterapiji se koristi zbog mirisa, a često se navodi da smanjuje stres i poboljšava koncentraciju. Za te učinke, kao ni za "hormonalno balansiranje", nema pouzdanih dokaza. Na kožu se nanosi samo razrijeđeno u baznom ulju, primjerice bademovom ili maslinovom.
 
-**Postupak inhalacije:**
+**Eterično ulje kadulje ne pijte i ne koristite ga kod djece.** Europska agencija za lijekove upozorava da se njime lako prekorači najveća preporučena dnevna količina tujona. Kod novorođenčeta i malog djeteta opisani su napadaji (konvulzije) nakon slučajnog izlaganja ulju kadulje. Bočicu čuvajte izvan dohvata djece, a ulje ne koristite u trudnoći, tijekom dojenja i ako imate epilepsiju.
 
-Stavite šaku svježih ili sušenih listova kadulje u posudu s vrelom vodom. Nagnite se nad posudu, pokrijte glavu ručnikom kako biste zadržali paru i duboko udišite 5-10 minuta. Ovaj tretman pruža trenutno olakšanje kod sinusitisa.
+### Hidrolat kadulje
 
-**Eterično ulje kadulje**
-
-Eterično ulje dobiva se destilacijom vodenom parom listova ljekovite kadulje i predstavlja koncentrirani oblik njezinih aktivnih spojeva. Bogato je tujonom, cineolom i kamforom, koji mu daju snažna antiseptička i protuupalna svojstva.
-
-Koristi se u aromaterapiji za smanjenje stresa, poboljšanje koncentracije i hormonalno balansiranje. Zbog svoje jačine, mora se koristiti oprezno, razrijeđeno u baznom ulju (npr. bademovom ili maslinovom) i nikada se ne smije uzimati oralno bez stručnog nadzora.
-
-**Hidrolat Kadulje**
-
-Hidrolat, ili cvjetna vodica, je nusproizvod destilacije eteričnog ulja. Mnogo je blaži od eteričnog ulja i siguran za direktnu primjenu na koži. Koristi se kao tonik za lice, posebno za masnu i problematičnu kožu, zbog svojih blagih antiseptičkih i adstringentnih svojstava.
-
-Također je izvrstan kao osvježavajući sprej za tijelo ili kao vodica za ispiranje usta.
-
-
+Hidrolat ili cvjetna vodica nusproizvod je destilacije eteričnog ulja. Mnogo je blaži od ulja, pa se može nanositi izravno na kožu. Zbog blagog stežućeg djelovanja najčešće se koristi kao tonik za masnu kožu sklonu nečistoćama, a služi i kao osvježavajući sprej za tijelo ili vodica za ispiranje usta. I hidrolat može izazvati alergijsku reakciju, pa ga prvi put isprobajte na malom dijelu kože.
 
 ## Kada nam kadulja može pomoći?
 
+Europska agencija za lijekove (EMA) list kadulje priznaje kao tradicionalni biljni lijek za četiri primjene: blage probavne tegobe poput žgaravice i nadutosti, pojačano znojenje, upale u ustima i grlu te blage upale kože. Tradicionalni znači da se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Američki Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH) navodi da korist kadulje zasad nije jasno dokazana ni za jedno stanje. Što su pokazala pojedina istraživanja, opisuje članak o [ljekovitosti kadulje](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/).
 
+### Upale grla i dišnih puteva
 
-Kadulja je višestruko korisna, a njezina primjena je indicirana kod brojnih stanja, što potvrđuju i moderna istraživanja.
+Grgljanje čaja od kadulje stari je kućni lijek za grebanje i bol u grlu. Tradicionalno se koristi i kod afti, malih bolnih ranica na sluznici usta. Za grgljanje se tradicionalno koristi i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), a kod kašlja [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/), koji EMA priznaje kao pomoć pri iskašljavanju kod prehlade.
 
-**Pomoć kod upala grla i dišnih puteva:**
+Kadulja ne liječi bakterijsku upalu krajnika (anginu), koja se liječi antibiotikom. Javite se liječniku ako uz grlobolju imate visoku temperaturu, gnojne naslage na krajnicima, otežano gutanje ili disanje, ili ako tegobe traju dulje od tjedan dana.
 
-Grgljanje čaja od kadulje jedan je od najučinkovitijih pomoći kod upaljenog grla, angina ili afae.
+### Probavne tegobe
 
-**Pomoć kod probavnih tegoba:**
+Čaj od kadulje tradicionalno se pije kod blagih probavnih tegoba poput žgaravice i nadutosti, za što ga priznaje i EMA. Grčeve u želucu EMA ne navodi, a kod njih se tradicionalno češće koristi [kamilica](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ako tegobe traju dulje od dva tjedna ili se vraćaju, javite se liječniku.
 
-Čaj od kadulje može pridonijeti kod probave, može pomoći kod nadutosti i ublažiti grčeve u želucu.
+### Simptomi menopauze
 
-**Olakšanje simptoma menopauze:**
+Kadulja se tradicionalno koristi kod pojačanog znojenja, pa tako i kod valunga, naleta vrućine i znojenja u menopauzi. U švicarskom istraživanju iz 2011. godine 71 žena u menopauzi osam je tjedana uzimala jednu tabletu sa svježim listom kadulje na dan. Valunzi su se nakon četiri tjedna smanjili za polovicu, a nakon osam tjedana za 64 %.
 
-Kadulja je znanstveno dokazano učinkovita u smanjenju valova vrućine (valunga) i prekomjernog znojenja kod žena u menopauzi. Jedna švicarska studija pokazala je smanjenje valunga za 50% unutar 4 tjedna.
+To ipak nije dokaz učinkovitosti. Ispitivanje nije imalo kontrolnu skupinu koja je dobivala placebo, tabletu bez djelatne tvari, a vodio ga je stručnjak tvrtke koja proizvodi taj pripravak. U ispitivanjima valunga i placebo često donosi primjetno poboljšanje, pa se bez usporedne skupine ne može znati koliki je dio učinka posljedica kadulje.
 
-**Oralna higijena:**
+### Oralna higijena
 
- Redovito ispiranje usta čajem od kadulje jača desni, sprječava krvarenje i pomaže kod upale zubnog mesa (gingivitisa). Njezino antimikrobno djelovanje smanjuje broj bakterija odgovornih za karijes.
-
-
+Ispiranje usta čajem od kadulje tradicionalno se koristi kod upale desni (gingivitisa). U laboratorijskim pokusima ekstrakt kadulje kočio je rast bakterija koje uzrokuju karijes, no to ne znači da ispiranje čajem sprječava karijes ili jača desni. Kadulja ne zamjenjuje pranje zubi, zubni konac i redovite preglede, a desni koje često krvare treba pregledati stomatolog.
 
 ## Kadulja u kulinarstvu
 
+Kadulja je cijenjen začin, osobito u mediteranskoj kuhinji. Ima intenzivan, blago papren i gorak okus, pa se tradicionalno dodaje masnijim jelima. Najčešće se koristi za:
 
+* **meso** – svinjetinu, janjetinu, teletinu i perad, primjerice u talijanskom jelu saltimbocca alla romana, telećem odresku s pršutom i kaduljom
+* **tjesteninu i njoke** – umak od maslaca i kadulje jednostavan je preljev za tjesteninu, njoke ili raviole
+* **juhe i variva** – nekoliko listića obogatit će okus juhe od bundeve, graha ili leće
+* **aromatizirano ulje i ocat** – listovi se namaču u ulju ili octu
 
-Kadulja je i cijenjeni začin, posebno u mediteranskoj kuhinji. Njezin intenzivan, blago papren i gorak okus odlično se slaže s masnijim jelima jer pomaže u njihovoj probavi. Evo nekih primjera.
-
-* **Meso:**
-
-   Neizostavna je u pripremi svinjetine, janjetine, teletine i peradi. Klasični talijanski recept “Saltimbocca alla Romana” (teleći odrezak s pršutom i kaduljom) savršen je primjer.
-* **Tjestenina i njoki:**
-
-   Umak od maslaca i kadulje jednostavan je, ali izuzetno ukusan preljev za tjesteninu, njoke ili raviole.
-* **Juhe i variva:**
-
-   Nekoliko listića kadulje obogatit će okus juha od bundeve, graha ili leće.
-* **Aromatiziranje:**
-
-   Listovi kadulje mogu se koristiti za aromatiziranje ulja ili octa.
-
-
+Ulje sa svježom kaduljom ne držite na sobnoj temperaturi, jer svježe bilje u ulju može biti izvor botulizma, teškog trovanja hranom. Takvo ulje čuvajte u hladnjaku i potrošite unutar tjedan dana, savjetuje kanadsko Ministarstvo zdravstva (Health Canada).
 
 ## Moguće nuspojave i mjere opreza
 
+U količinama u kojima se koristi kao začin kadulja je vjerojatno sigurna, navodi NCCIH. Kao lijek je ipak treba [koristiti s oprezom](https://www.adiva.hr/nutricionizam/ljekovito-bilje/ipak-budite-oprezni-kadulja-lijek-nad-lijekovima-iz-prirode/), ponajprije zbog tujona. Taj spoj u velikim količinama ili pri dugotrajnoj upotrebi djeluje otrovno na živčani sustav.
 
+Moguće nuspojave su mučnina, povraćanje, bol u trbuhu, vrtoglavica i nemir. Napadaji (konvulzije) opisani su ponajprije nakon uzimanja eteričnog ulja kadulje. Europska agencija za lijekove sigurnu je dnevnu količinu tujona iz kaduljinih pripravaka procijenila za razdoblje od najviše dva tjedna, pa ih kao lijek koristite kratko. Ako tegobe ne prođu, javite se liječniku.
 
-Iako je kadulja izuzetno korisna, važno je [koristiti je s oprezom](https://www.adiva.hr/nutricionizam/ljekovito-bilje/ipak-budite-oprezni-kadulja-lijek-nad-lijekovima-iz-prirode/). Ključni spoj na koji treba obratiti pažnju je tujon, koji u visokim dozama ili pri dugotrajnoj kontinuiranoj upotrebi može biti neurotoksičan.
+Kadulju kao lijek izbjegavajte ili se prije upotrebe posavjetujte s liječnikom u sljedećim slučajevima:
 
-Prekomjerna konzumacija čaja od kadulje (više od 3-4 šalice dnevno kroz duži period) može izazvati mučninu, vrtoglavicu, povraćanje, a u ekstremnim slučajevima i konvulzije.
+* **trudnoća** – tujon može naštetiti, pa se kadulja kao lijek u trudnoći ne preporučuje
+* **dojenje** – tradicionalno se koristi za smanjenje količine mlijeka, a podataka o sigurnosti za dojenčad nema
+* **djeca i mladi** – EMA je kao lijek ne preporučuje mlađima od 18 godina
+* **epilepsija** – tujon može potaknuti napadaje
+* **alergija na kadulju** – ne koristite je ni kao čaj ni kao ulje
+* **lijekovi** – ako uzimate lijekove za šećernu bolest, krvni tlak, epilepsiju ili za smirenje, prvo pitajte liječnika ili ljekarnika
 
-Zbog toga se preporučuje piti čaj od kadulje u umjerenim količinama i s povremenim pauzama (npr. nakon dva tjedna korištenja napraviti tjedan dana pauze).
+Ako nakon upotrebe kadulje primijetite oticanje usana, jezika ili grla ili otežano disanje, odmah potražite hitnu medicinsku pomoć.
 
-* **Trudnoća i dojenje:**
-
-   Kadulja se ne preporučuje trudnicama jer može stimulirati maternicu. Dojilje bi je također trebale izbjegavati.
-
-
-
-* **Epilepsija:**
-
-   Osobe koje boluju od epilepsije trebale bi izbjegavati kadulju zbog sadržaja 
-
-  **tujona.**
-
-
-
-* **Visoki krvni tlak:**
-
-   Osobe s visokim krvnim tlakom trebaju biti oprezne jer kadulja može utjecati na tlak.
-
-
-
-* **Interakcije s lijekovima:**
-
-   Ako uzimate lijekove, posebno za dijabetes (može sniziti šećer u krvi), tlak ili sedative, obavezno se posavjetujte s liječnikom prije redovite upotrebe kadulje.
-
-
-
-***Prije svake upotrebe kadulje i njezinih pripravaka obavezno se posavjetovati s lječnikom.***
-
-
+**Prije upotrebe kadulje kao lijeka posavjetujte se s liječnikom ili ljekarnikom, osobito ako se liječite od neke bolesti.**
 
 ## Uzgoj kadulje
 
+Kadulja se lako uzgaja i, kad se primi, traži malo njege, pa je dobar izbor za početnike. Ovo su osnovna pravila:
 
-
-Uzgoj kadulje je relativno jednostavan, što je čini idealnom biljkom za početnike. Evo detaljnog vodiča za uspješan uzgoj:
-
-* **Položaj:**
-
-   Kadulja zahtijeva puno sunca, minimalno 6-8 sati dnevno. To je ključno za razvoj aromatičnih ulja.
-
-
-
-* **Tlo:**
-
-   Najbolje uspijeva na dobro dreniranom, siromašnijem tlu, čak i kamenitom ili pjeskovitom. Ne podnosi teško, vlažno tlo koje uzrokuje truljenje korijena.
-
-
-
-* **Zalijevanje:**
-
-   Jednom kada se biljka dobro ukorijeni, vrlo je otporna na sušu. Zalijevajte je umjereno, dopuštajući da se zemlja osuši između zalijevanja.
-
-
-
-* **Orezivanje:**
-
-   Redovito orezivanje potiče grmolik rast i sprječava da biljka postane drvenasta i neugledna. Glavno orezivanje obavite u rano proljeće, skraćujući grane za otprilike trećinu.
-
-
-
-* **Sjetva i razmnožavanje:**
-
-   Sjeme se može sijati u rano proljeće (do 15. ožujka) direktno u tlo ili u lijehe za kasnije presađivanje. Kadulja se može razmnožavati i reznicama tijekom ljeta.
-
-Pročitajte i: [ružmarin od sadnje do čaja i ulja](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica: ljekovita svojstva](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
-
-
+* **položaj** – puno sunca, najmanje 6 do 8 sati dnevno, jer se tada razvija najviše eteričnog ulja
+* **tlo** – propusno i siromašnije, čak kamenito ili pjeskovito; u teškom i vlažnom tlu korijen trune, a najviše joj šteti mokro tlo zimi
+* **zalijevanje** – ukorijenjena biljka dobro podnosi sušu; zalijevajte umjereno i pustite da se tlo između dva zalijevanja osuši
+* **orezivanje** – glavno orezivanje obavite u proljeće, kad krene novi rast, a nakon cvatnje ocvale stabljike skratite za otprilike trećinu
+* **staro drvo** – ne režite u drvenaste dijelove bez listova, jer iz njih rijetko potjera novi izboj
+* **sjetva** – sjeme posijte u proljeće u posudice u zatvorenom, a presadnice iznesite van kad prođu mrazevi; iz sjemena kadulja raste sporo i za berbu je spremna tek nakon otprilike godinu dana
+* **razmnožavanje reznicama** – brže je od sjetve; reznice mladih izboja uzimaju se u kasno proljeće i rano ljeto
+* **obnova** – nakon šest do sedam godina biljka postaje drvenasta i rijetka, pa na vrijeme uzgojite novu iz reznice
+* **berba** – mlade listove berite po potrebi, jer redovita berba potiče grananje
+* **sušenje** – grančice objesite na toplo, tamno i prozračno mjesto, kao kod [sušenja mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/), a suhe listove čuvajte u dobro zatvorenoj staklenci
 
 ## Gdje kupiti kvalitetne proizvode od kadulje?
 
+Kvaliteta proizvoda od kadulje utječe na njegovu djelotvornost i sigurnost. Pri kupnji pazite na sljedeće:
 
+* **sušena kadulja** – listovi trebaju zadržati sivozelenu boju i jak miris; smeđe i izblijedjele listove bez mirisa ne kupujte
+* **svježa kadulja** – listovi trebaju biti čvrsti, bez mrlja i znakova venuća
+* **latinski naziv** – ljekovitoj kadulji ponekad se podmeću srodne vrste, primjerice livadna kadulja, pa na pakiranju tražite naziv *Salvia officinalis*
+* **eterično ulje** – birajte 100 % čisto ulje provjerenog proizvođača, s navedenim latinskim nazivom, zemljom podrijetla i kemotipom (kemijskim tipom ulja prema prevladavajućem spoju), ako je naveden
+* **biljni lijekovi** – za ljekovitu upotrebu najsigurniji su registrirani biljni lijekovi iz ljekarne, s točno navedenom dozom i uputom
 
-Kvaliteta proizvoda od kadulje ključna je za njihovu učinkovitost i sigurnost. Evo na što trebate obratiti pažnju:
-
-* **Sušena kadulja:**
-
-   Birajte listove koji su zadržali sivo-zelenu boju i imaju jak, prepoznatljiv miris. Izbjegavajte smeđe, izblijedjele listove bez mirisa. Organski uzgoj je uvijek prednost.
-
-
-
-* **Svježa kadulja:**
-
-   Listovi trebaju biti čvrsti, bez mrlja ili znakova venuća.
-
-
-
-* **Eterično ulje:**
-
-   Kupujte isključivo 100% čisto, prirodno eterično ulje od provjerenih proizvođača. Na bočici mora biti naveden latinski naziv (Salvia officinalis), zemlja podrijetla i kemotip (ako je specificiran).
-
-
-
-* **Gdje tražiti:**
-
-   Provjerene izvore potražite u ljekarnama, trgovinama zdrave hrane, na tržnicama kod lokalnih uzgajivača ili u specijaliziranim online trgovinama.
-
-
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
-
-
+Proizvode od kadulje potražite u ljekarnama, specijaliziranim prodavaonicama zdrave hrane, na tržnicama kod lokalnih uzgajivača ili u provjerenim internetskim trgovinama. Ako vam je to važno, birajte kadulju iz ekološkog uzgoja.
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kadulje u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Europska agencija za lijekove (EMA) – [List kadulje, biljni lijek (Salviae officinalis folium)](https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium)
+- Europska agencija za lijekove (EMA) – [Javna izjava o eteričnom ulju kadulje (Public statement on Salvia officinalis L., aetheroleum)](https://www.ema.europa.eu/en/documents/public-statement/public-statement-salvia-officinalis-l-aetheroleum_en.pdf)
+- Europska agencija za lijekove (EMA) – [Cvijet kamilice, biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) i [Majčina dušica, biljni lijek (Thymi herba)](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba)
+- Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), američki Nacionalni instituti za zdravlje – [Kadulja (Sage)](https://www.nccih.nih.gov/health/sage)
+- Baza podataka o lijekovima i dojenju (LactMed) američkih Nacionalnih instituta za zdravlje – [Kadulja (Sage)](https://www.ncbi.nlm.nih.gov/books/NBK501816/)
+- Halicioglu i sur., prikaz dvaju slučajeva (2011.) – [Otrovanje kaduljom kod novorođenčeta i djeteta (Toxicity of Salvia officinalis in a newborn and a child: an alarming report)](https://pubmed.ncbi.nlm.nih.gov/21907890/), Pediatric Neurology
+- Bommer i sur., otvoreno ispitivanje bez kontrolne skupine (2011.) – [Podnošljivost i učinkovitost kadulje kod žena u menopauzi s valunzima (First time proof of sage's tolerability and efficacy in menopausal women with hot flushes)](https://pubmed.ncbi.nlm.nih.gov/21630133/), Advances in Therapy
+- Baartmans i sur., istraživanje nizozemskih centara za opekline (2012.) – [Inhalacija parom: teške opekline kao nuspojava (Steam inhalation therapy: severe scalds as an adverse side effect)](https://pubmed.ncbi.nlm.nih.gov/22781995/), British Journal of General Practice
+- Al Himdani i sur., istraživanje velškog centra za opekline (2016.) – [Kućni lijek ili opasnost: opekline djece od inhalacije parom (Home remedy or hazard?: management and costs of paediatric steam inhalation therapy burn injuries)](https://pubmed.ncbi.nlm.nih.gov/26917659/), British Journal of General Practice
+- Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti kadulju (How to Grow Sage)](https://www.rhs.org.uk/herbs/sage/grow-your-own)
+- Kanadsko Ministarstvo zdravstva (Health Canada) – [Savjeti za sigurnost hrane: povrće i bilje u ulju (Food safety tips for vegetables and herbs in oil)](https://www.canada.ca/en/health-canada/services/food-safety-fruits-vegetables/food-safety-tips-vegetables-herbs-oil.html)
