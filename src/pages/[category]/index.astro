@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { publishedTags, clanciLabel } from '../../lib/tags';
-import { TAGS, knownTags, tagPath } from '../../data/tags';
+import { TAGS, knownTags, tagPath, tagLabel } from '../../data/tags';
 import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
@@ -50,9 +50,11 @@ const categoryPath = `/${category}/`;
 const publishedKeys = new Set((await publishedTags()).map(t => t.key));
 const tabCounts = new Map<string, number>();
 for (const a of allArticles) for (const t of knownTags(a.data.tags)) if (publishedKeys.has(t)) tabCounts.set(t, (tabCounts.get(t) ?? 0) + 1);
+// u tabovima samo teme s barem 2 članka u ovoj kategoriji (ostale su dostupne preko »Sve teme«)
 const tabs = [...tabCounts.entries()]
+  .filter(([, count]) => count >= 2)
   .sort((a, b) => (TAGS[a[0]].group === TAGS[b[0]].group ? 0 : TAGS[a[0]].group === 'biljka' ? -1 : 1) || b[1] - a[1] || TAGS[a[0]].hash.localeCompare(TAGS[b[0]].hash, 'hr'))
-  .map(([key, count]) => ({ key, count, hash: TAGS[key].hash, name: TAGS[key].name }));
+  .map(([key, count]) => ({ key, count, label: tagLabel(key), name: TAGS[key].name }));
 
 const jsonLd = await buildGraph([
   webPageNode({
@@ -92,7 +94,7 @@ const jsonLd = await buildGraph([
 >
   <!-- Category hero -->
   <div class="bg-white border-b border-bg-pale">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
       <!-- Breadcrumbs -->
       <nav class="mb-4" aria-label="Navigacijska staza">
         <ol class="flex items-center gap-2 text-sm text-gray-400">
@@ -102,32 +104,34 @@ const jsonLd = await buildGraph([
         </ol>
       </nav>
 
-      <div class="flex items-center gap-4">
-        <span class="text-5xl" aria-hidden="true">{meta.icon}</span>
+      <div class="flex items-start sm:items-center gap-3 sm:gap-4">
+        <span class="text-4xl sm:text-5xl leading-none" aria-hidden="true">{meta.icon}</span>
         <div>
-          <h1 class="text-3xl sm:text-4xl font-bold text-dark font-heading">{meta.label}</h1>
-          <p class="text-gray-500 mt-1 max-w-2xl font-body">{meta.description}</p>
+          <h1 class="text-2xl sm:text-4xl font-bold text-dark font-heading">{meta.label}</h1>
+          <p class="text-gray-500 mt-1 max-w-2xl font-body text-[15px] sm:text-base">{meta.description}</p>
           <p class="text-sm text-primary font-semibold mt-2">
             {allArticles.length} {clanciLabel(allArticles.length)}
           </p>
         </div>
       </div>
+
+      {tabs.length > 0 && (
+        <nav class="mt-6 sm:mt-8" aria-label={`Teme u kategoriji ${meta.label}`}>
+          <p class="text-xs font-semibold uppercase tracking-widest text-gray-400 mb-3">Teme</p>
+          <div class="tag-scroller -mx-4 sm:mx-0">
+            <ul class="flex sm:flex-wrap gap-2 overflow-x-auto sm:overflow-visible list-none m-0 px-4 sm:px-0 pb-1">
+              <li class="flex-shrink-0"><span class="tag-chip is-active" aria-current="page">Sve<span class="tag-count">{allArticles.length}</span></span></li>
+              {tabs.map(tab => (
+                <li class="flex-shrink-0"><a href={`${base}${tagPath(tab.key).slice(1)}`} class="tag-chip" title={`Svi članci: ${tab.name}`}>{tab.label}<span class="tag-count">{tab.count}</span></a></li>
+              ))}
+              <li class="flex-shrink-0"><a href={`${base}tema/`} class="tag-chip tag-chip--plain">Sve teme →</a></li>
+              <li class="flex-shrink-0 w-2 sm:hidden" aria-hidden="true"></li>
+            </ul>
+          </div>
+        </nav>
+      )}
     </div>
   </div>
-
-  {tabs.length > 0 && (
-    <nav class="bg-white border-b border-bg-pale" aria-label={`Teme u kategoriji ${meta.label}`}>
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <ul class="flex gap-2 overflow-x-auto list-none p-0 m-0 pb-1" style="scrollbar-width: thin;">
-          <li><span class="tag-chip is-active" aria-current="page">Sve<span class="tag-count">{allArticles.length}</span></span></li>
-          {tabs.map(tab => (
-            <li><a href={`${base}${tagPath(tab.key).slice(1)}`} class="tag-chip" title={`Svi članci: ${tab.name}`}>#{tab.hash}<span class="tag-count">{tab.count}</span></a></li>
-          ))}
-          <li><a href={`${base}tema/`} class="tag-chip tag-chip--plain">Sve teme →</a></li>
-        </ul>
-      </div>
-    </nav>
-  )}
 
   <!-- Articles grid -->
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

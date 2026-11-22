@@ -17,11 +17,11 @@ const pathname = Astro.url.pathname;
 
 <header class="sticky top-0 z-50 bg-white shadow-sm border-b border-bg-pale">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-between h-16">
+    <div class="flex items-center justify-between h-14 sm:h-16">
 
-      <a href={base} class="flex items-center gap-3 flex-shrink-0 group" aria-label="Cultivias - Naslovnica">
-        <img src="/images/logo.webp" alt="Cultivias Logo" class="h-14 w-auto object-contain transition-transform duration-300 group-hover:scale-105" />
-        <span class="text-3xl font-bold text-primary font-heading tracking-tight">Cultivias</span>
+      <a href={base} class="flex items-center gap-2 sm:gap-3 flex-shrink-0 group" aria-label="Cultivias - Naslovnica">
+        <img src="/images/logo.webp" alt="Cultivias Logo" class="h-10 sm:h-14 w-auto object-contain transition-transform duration-300 group-hover:scale-105" />
+        <span class="text-2xl sm:text-3xl font-bold text-primary font-heading tracking-tight">Cultivias</span>
       </a>
 
       <nav class="hidden md:flex items-center gap-1" aria-label="Glavna navigacija">
@@ -104,15 +104,15 @@ const pathname = Astro.url.pathname;
 
 <div
   id="mobile-menu"
-  class="hidden fixed inset-0 z-40 bg-dark flex flex-col"
+  class="hidden fixed inset-0 z-[60] bg-dark flex flex-col"
   role="dialog"
   aria-modal="true"
   aria-label="Mobilni izbornik"
 >
-  <div class="flex items-center justify-between px-4 py-4 border-b border-white/10">
-    <a href={base} class="flex items-center gap-3" onclick="document.getElementById('mobile-menu').classList.add('hidden')">
-      <img src="/images/logo.webp" alt="Cultivias Logo" class="h-12 w-auto object-contain" />
-      <span class="text-3xl font-bold text-primary font-heading tracking-tight">Cultivias</span>
+  <div class="flex items-center justify-between px-4 h-14 border-b border-white/10">
+    <a href={base} class="flex items-center gap-2" onclick="document.getElementById('mobile-menu').classList.add('hidden')">
+      <img src="/images/logo.webp" alt="Cultivias Logo" class="h-9 w-auto object-contain" />
+      <span class="text-2xl font-bold text-primary font-heading tracking-tight">Cultivias</span>
     </a>
     <button
       id="mobile-menu-close"
@@ -125,11 +125,11 @@ const pathname = Astro.url.pathname;
     </button>
   </div>
 
-  <nav class="flex-1 flex flex-col justify-center px-8" aria-label="Mobilna navigacija">
+  <nav class="flex-1 flex flex-col px-6 pt-4 overflow-y-auto" aria-label="Mobilna navigacija">
     {navLinks.map(link => (
       <a
         href={link.href}
-        class="block text-3xl font-bold text-white hover:text-primary transition-colors py-4 border-b border-white/10 font-heading"
+        class="block text-lg font-semibold text-white hover:text-primary transition-colors py-3.5 border-b border-white/10 font-body"
         onclick="document.getElementById('mobile-menu').classList.add('hidden'); document.getElementById('hamburger-icon').classList.remove('hidden'); document.getElementById('close-icon').classList.add('hidden');"
       >
         {link.label}
@@ -137,7 +137,7 @@ const pathname = Astro.url.pathname;
     ))}
   </nav>
 
-  <div class="px-8 pb-8 text-white/40 text-sm">
+  <div class="px-6 pb-6 text-white/40 text-xs">
     © 2026 Cultivias.com
   </div>
 </div>

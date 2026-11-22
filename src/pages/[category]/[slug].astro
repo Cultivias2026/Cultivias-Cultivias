@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { TAGS, MIN_ARTICLES, knownTags, tagPath } from '../../data/tags';
+import { TAGS, MIN_ARTICLES, knownTags, tagPath, tagLabel } from '../../data/tags';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { buildGraph, webPageNode, breadcrumbNode, authorRef, abs, webPageId, ORG_ID, extractQuestions, faqQuestionNodes } from '../../lib/schema';
@@ -135,7 +135,7 @@ const tagCounts = new Map<string, number>();
 for (const a of allArticles) for (const t of knownTags(a.data.tags)) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
 const articleTags = knownTags(article.data.tags).map(key => ({
   key,
-  hash: TAGS[key].hash,
+  label: tagLabel(key),
   name: TAGS[key].name,
   href: (tagCounts.get(key) ?? 0) >= MIN_ARTICLES ? `${base}${tagPath(key).slice(1)}` : null,
 }));
@@ -187,7 +187,7 @@ const articleTags = knownTags(article.data.tags).map(key => ({
 
       <div class="min-w-0">
 
-        <div class="lg:hidden sticky top-16 z-30 bg-white border-b border-bg-pale shadow-sm mb-6">
+        <div class="lg:hidden sticky top-14 sm:top-16 z-30 bg-white border-b border-bg-pale shadow-sm mb-6">
           <div class="px-4 py-3">
             <button
               id="toc-toggle"
@@ -237,9 +237,9 @@ const articleTags = knownTags(article.data.tags).map(key => ({
               {articleTags.map(tag => (
                 <li>
                   {tag.href ? (
-                    <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>#{tag.hash}</a>
+                    <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>{tag.label}</a>
                   ) : (
-                    <span class="tag-chip tag-chip--plain">#{tag.hash}</span>
+                    <span class="tag-chip tag-chip--plain">{tag.label}</span>
                   )}
                 </li>
               ))}
@@ -326,9 +326,9 @@ const articleTags = knownTags(article.data.tags).map(key => ({
               <span class="text-sm font-semibold text-gray-400 mr-1">Teme:</span>
               {articleTags.map(tag => (
                 tag.href ? (
-                  <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>#{tag.hash}</a>
+                  <a href={tag.href} class="tag-chip" title={`Svi članci: ${tag.name}`}>{tag.label}</a>
                 ) : (
-                  <span class="tag-chip tag-chip--plain">#{tag.hash}</span>
+                  <span class="tag-chip tag-chip--plain">{tag.label}</span>
                 )
               ))}
             </div>

@@ -65,6 +65,13 @@
   .tag-chip--plain { color: #6b7280; }
   .tag-chip.is-active { background-color: var(--color-primary-dark); border-color: var(--color-primary-dark); color: #ffffff; }
   .tag-chip .tag-count { @apply ml-1.5 text-xs font-semibold; opacity: .7; }
+  .tag-scroller { position: relative; }
+  .tag-scroller ul { scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .tag-scroller ul::-webkit-scrollbar { display: none; }
+  @media (max-width: 639px) {
+    .tag-scroller::after { content: ''; position: absolute; top: 0; right: 0; bottom: 0; width: 32px; pointer-events: none;
+      background: linear-gradient(to right, rgba(255,255,255,0), #fff); }
+  }
 
   /* Expert reviewed badge */
   .badge-expert {

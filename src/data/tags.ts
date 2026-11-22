@@ -129,3 +129,10 @@ export function knownTags(tags: string[] = []): string[] {
 }
 
 export const tagPath = (key: string) => `/tema/${key}/`;
+
+/** Kratki natpis oznake za gumbe i tabove, npr. "Crni ribiz", "Uzgoj", "Čajevi". */
+export function tagLabel(key: string): string {
+  const h = TAGS[key]?.hash ?? key;
+  const s = h.replace(/-/g, ' ');
+  return s.charAt(0).toLocaleUpperCase('hr') + s.slice(1);
+}

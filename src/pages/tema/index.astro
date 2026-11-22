@@ -48,8 +48,7 @@ const jsonLd = await buildGraph([
           {g.items.map(t => (
             <li class="bg-white rounded-2xl border border-bg-pale p-5">
               <a href={`${base}${tagPath(t.key).slice(1)}`} class="no-underline">
-                <span class="text-primary font-semibold font-body">#{t.def.hash}</span>
-                <span class="block text-lg font-bold text-dark font-heading mt-1">{t.def.name}</span>
+                <span class="block text-lg font-bold text-dark font-heading">{t.def.name}</span>
                 <span class="block text-sm text-gray-500 mt-1">{t.articles.length} {clanciLabel(t.articles.length)}</span>
               </a>
             </li>

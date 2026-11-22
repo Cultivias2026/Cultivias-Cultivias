@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
 import { publishedTags, clanciLabel } from '../../lib/tags';
-import { TAGS, knownTags, tagPath } from '../../data/tags';
+import { TAGS, knownTags, tagPath, tagLabel } from '../../data/tags';
 
 export async function getStaticPaths() {
   const tags = await publishedTags();
@@ -35,7 +35,7 @@ const jsonLd = await buildGraph([
   breadcrumbNode(path, [
     { name: 'Naslovnica', path: '/' },
     { name: 'Teme', path: '/tema/' },
-    { name: `#${def.hash}`, path },
+    { name: tagLabel(tagKey), path },
   ]),
   {
     '@type': 'ItemList',
@@ -61,11 +61,10 @@ const jsonLd = await buildGraph([
           <li aria-hidden="true"><span class="text-gray-300">/</span></li>
           <li><a href={`${base}tema/`} class="hover:text-primary transition-colors">Teme</a></li>
           <li aria-hidden="true"><span class="text-gray-300">/</span></li>
-          <li class="text-dark font-medium">#{def.hash}</li>
+          <li class="text-dark font-medium">{tagLabel(tagKey)}</li>
         </ol>
       </nav>
-      <p class="text-primary font-semibold font-body mb-1">#{def.hash}</p>
-      <h1 class="text-3xl sm:text-4xl font-bold text-dark font-heading">{def.name}: svi članci</h1>
+      <h1 class="text-2xl sm:text-4xl font-bold text-dark font-heading">{def.name}: svi članci</h1>
       <p class="text-gray-600 mt-3 max-w-3xl font-body leading-relaxed">{def.intro}</p>
       <p class="text-sm text-primary font-semibold mt-3">{articles.length} {clanciLabel(articles.length)}</p>
       {related.length > 0 && (
@@ -73,7 +72,7 @@ const jsonLd = await buildGraph([
           <p class="text-sm font-semibold text-gray-400 mb-2">Srodne teme</p>
           <ul class="flex flex-wrap gap-2 list-none p-0 m-0">
             {related.map(key => (
-              <li><a href={`${base}${tagPath(key).slice(1)}`} class="tag-chip">#{TAGS[key].hash}<span class="tag-count">{published.get(key)}</span></a></li>
+              <li><a href={`${base}${tagPath(key).slice(1)}`} class="tag-chip">{tagLabel(key)}<span class="tag-count">{published.get(key)}</span></a></li>
             ))}
           </ul>
         </div>
