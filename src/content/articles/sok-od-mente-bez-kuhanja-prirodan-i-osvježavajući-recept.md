@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/prirodni-sok-od-mente-bez-kuhanja.webp
 perex: Priprema soka od mente predstavlja jedan od najjednostavnijih načina da
   uživate u prirodnom okusu ove aromatične biljke.
-readTime: 5
+readTime: 7
 publishedAt: 2025-08-04
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,261 +19,147 @@ related_articles:
   - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
 ---
 
-
-Ovaj tradicionalni recept za sok od mente bez kuhanja omogućava vam da zadržite sve vrijedne sastojke mente, dok istovremeno stvarate kristalno čist sirup koji će biti savršeno osvježenje tijekom toplih ljetnih dana.
-
-
+Ovaj tradicionalni recept priprema se bez kuhanja: listovi mente dva dana odstoje u hladnoj vodi sa šećerom i limunskom kiselinom, a dobiveni bistri sirup pije se razrijeđen vodom. Hladni postupak čuva svjež miris mente, a sirup je jednostavno pripremiti. U nastavku saznajte koji su sastojci potrebni, kako sirup pripremiti korak po korak, kako ga sigurno čuvati i koliko šećera ima.
 
 ## Zašto odabrati sok od mente bez kuhanja?
 
+Kad pripremate sok od mente bez kuhanja, **čuvate mirisna eterična ulja**, koja bi kuhanjem djelomično isparila. Zato sirup ima svježiji okus i miris, a priprema je jednostavnija.
 
-
- Kada pripravljate sok od mente bez kuhanja, **čuvate sve eterične uljne i prirodne aromate** koji se mogu izgubiti tijekom kuhanja. Ovaj pristup rezultira **intenzivnijim okusom i mirisom**, a ujedno je i jednostavniji za izvođenje.
-
-Sok predstavlja prirodnu alternativu industrijskim napicima, a njegova priprema zahtijeva samo **tri osnovna sastojka i strpljenje**.
-
-
+Za domaći sirup trebaju vam samo **četiri sastojka i malo strpljenja**. Pritom znate što je u boci, ali imajte na umu da je i domaći sirup ponajprije šećer, kao i kupovni.
 
 ## Potrebni sastojci za sok od mente bez kuhanja
 
-Za pripremu kvalitetnog soka od mente bez kuhanja trebat će vam:
+Za sirup od mente bez kuhanja trebate:
 
-•Svježi listovi mlade [mente (metvice)](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)
+* **svježe listove mlade [mente (metvice)](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/)**
+* **limunsku kiselinu** ili svježi limun
+* **kristalni šećer**
+* **čistu hladnu vodu**
 
-•Limunska kiselina ili svježi limun
+**Sastojci za 5 litara vode:**
 
-•Kristalni šećer
+* **voda** – 5 litara
+* **šećer** – 5 kg
+* **menta** – 200 do 250 g svježih listova
+* **limunska kiselina** – 15 do 20 g (jedna do dvije žlice)
 
-•Čista hladna voda
+**Napomena:** Količinu šećera i limunske kiseline možete prilagoditi ukusu. Ako želite kiseliji okus, dodajte više limunske kiseline, a mente stavite više ili manje, ovisno o tome koliko jak okus želite. Uvijek je bolje početi s manjom količinom i dodati po potrebi.
 
-
-
-**Sastojci za sok od 5 litara:**
-
-* **Voda:**
-
-   5 litara
-* **Šećer:**
-
-   5 kg
-* **Menta:**
-
-   200 do 250 g svježih listova
-* **Limunska kiselina:**
-
-   15 do 20 g (jedna do dvije žlice)
-
-
-
-**Napomena:** Količinu šećera i limunske kiseline možete prilagoditi svom ukusu. Ako želite slađi sirup, dodajte više šećera, a za kiseliji okus više limunske kiseline. Količina mente ovisi o tome koliko intenzivan okus želite. Uvijek je bolje krenuti s manjom količinom, pa po potrebi dodati još.
-
-Jednostavnost ovog recepta za sok od mente bez kuhanja leži upravo u minimalnom broju sastojaka, što omogućava da se istakne prirodni okus mente.
-
-Važno je istaknuti da se ovaj sok priprema isključivo hladnim postupkom, što čuva sve vrijedne sastojke.
-
-
+Imajte na umu da šećer i limunska kiselina sirup i čuvaju od kvarenja. Što manje šećera stavite, to sirup prije provrije ili se uplijesni, pa ga tada pripremite manje i brže potrošite.
 
 ## Korak po korak priprema soka
 
-
+Priprema traje tri dana, a svaki je korak jednostavan.
 
 ### Prvi dan pripreme – hladni postupak
 
+* **Operite svježe listove mente** pod mlazom **hladne vode**, da uklonite prašinu i nečistoće.
+* **Sitno nasjeckajte** oprane i ocijeđene listove. Sjeckanjem se oslobađaju eterična ulja, koja soku daju karakterističan okus i miris.
+* Nasjeckane listove stavite u veću posudu, pospite ih **limunskom kiselinom** i dodajte **šećer**.
+* Prelijte smjesu **hladnom vodom** i pokrijte posudu. Ostavite je da odstoji **24 sata** na sobnoj temperaturi, na hladnijem mjestu, zaštićenom od sunca.
+* Smjesu povremeno promiješajte **drvenom kuhačom** ili priborom od nehrđajućeg čelika.
 
-
-* **Operite svježe listove mente**
-
-   pod mlazom 
-
-  **hladne vode**
-
-   kako biste uklonili nečistoće. Korištenje hladne vode važno je za očuvanje eteričnih ulja i osjetljivih aromatičnih spojeva.
-* **Sitno nasjeckajte**
-
-   oprane i ocijeđene listove. Sjeckanje pomaže u oslobađanju eteričnih ulja koja soku daju karakterističan okus i miris.
-* Nasjeckane listove stavite u veću posudu, pospite ih 
-
-  **limunskom kiselinom**
-
-   i dodajte 
-
-  **šećera**
-
-  . ( ukoliko ne volite preslatko možete smanjiti preporučenu količinu šećera)
-* Prelijte smjesu 
-
-  **hladnom vodom**
-
-   i pokrijte posudu. Ostavite da odstoji 
-
-  **točno 24 sata**
-
-   na sobnoj temperaturi.
-* Smjesu temeljito promiješajte 
-
-  **drvenom kuhačom**
-
-  . Važno je ne koristiti metalnu žlicu.
-
-
+Posudu birajte od stakla, keramike ili nehrđajućeg čelika. Posude i pribor od aluminija ili bakra nisu za kisele smjese, jer kiselina iz njih otapa metal.
 
 ### Drugi dan – filtriranje i dozrijevanje bez termičke obrade
 
+Nakon 24 sata slijedi filtriranje i dozrijevanje:
 
+* **Lagano procijedite sadržaj** kroz gusto cjedilo ili nekoliko slojeva gaze. Budite nježni, da se tekućina ne zamuti.
+* U bistru tekućinu po želji **dodajte još šećera** i kolutove svježeg limuna.
+* Posudu ponovno pokrijte i ostavite da odstoji još **24 sata**.
+* Tijekom drugog dana smjesu povremeno **promiješajte drvenom kuhačom**, da se šećer potpuno otopi.
 
-Nakon 24 sata, slijedi faza filtriranja i dozrijevanja:
+### Finalno filtriranje i punjenje (3. dan)
 
-* **Lagano procijedite sadržaj**
+Nakon drugog dana sok od mente još jednom procijedite kroz fino cjedilo. Tako će sirup biti bistar, a na dnu boca neće se stvarati talog.
 
-   kroz gusto cjedilo ili nekoliko slojeva gaze. Važno je da budete nježni kako se tekućina ne bi zamutila.
-* U bistru tekućinu 
+Temeljito filtriranje važno je i za trajnost, jer sirup nije toplinski obrađen.
 
-  **dodajte dodatno šećera ( ukoliko je potrebno)**
+**Punjenje i skladištenje:**
 
-  , po želji, te kolutove svježeg limuna.
-* Smjesu ponovno pokrijte i ostavite da odstoji još 
-
-  **24 sata**
-
-  .
-* Tijekom tog drugog dana, povremeno 
-
-  **promiješajte smjesu drvenom žlicom**
-
-   kako bi se šećer u potpunosti otopio.
-
-
-
-### Finalno filtriranje i punjenje ( 3 dan)
-
-
-
-Nakon drugog dana čekanja, potrebno je još jednom procijediti sok od mente bez kuhanja kroz fino cjedilo. Ovaj korak osigurava da sirup bude kristalno čist i da se na dnu flaša neće stvarati talog.
-
-Kvalitetno filtriranje je važno za dugotrajnost i vizualnu privlačnost soka od mente bez kuhanja, jer se oslanjamo isključivo na prirodne procese bez termičke obrade.
-
-**Finalno punjenje i skladištenje**
-
-* Za punjenje koristite isključivo 
-
-  **čiste, oprane i osušene staklene boce**
-
-  .
-* Pažljivo ulijte sok, ostavljajući 
-
-  **malo prostora na vrhu**
-
-  .
-* Boce 
-
-  **hermetički zatvorite**
-
-   kako biste spriječili kontakt sa zrakom. Ovo je bitno jer sirup ne sadrži konzervanse dobivene kuhanjem.
-
-
+* Za punjenje koristite isključivo **čiste, oprane i osušene staklene boce**.
+* Pažljivo ulijte sok, ostavljajući **malo prostora na vrhu**.
+* Boce **dobro zatvorite**, da sirup ne dolazi u dodir sa zrakom.
 
 ## Čuvanje i trajnost soka
 
+Sirup koji se ne kuha nije steriliziran. Šećer i limunska kiselina usporavaju kvarenje, ali ga ne sprječavaju potpuno, pa sirup može provreti ili se uplijesniti.
 
+* **U hladnjaku** – sirup čuvajte u hladnjaku, gdje ostaje svjež do dva mjeseca. Otvorenu bocu uvijek vratite u hladnjak.
+* **U zamrzivaču** – za dulje čuvanje sirup ulijte u čiste plastične boce, ostavite prostor za širenje i zamrznite ga. Tako se čuva nekoliko mjeseci bez gubitka kvalitete.
 
-* **Kratkoročno čuvanje:**
-
-   Boce držite na suhom i tamnom mjestu. Tijekom ljeta preporučuje se čuvanje u hladnjaku, gdje sok može ostati svjež do dva mjeseca.
-
-
-
-* **Dugoročno čuvanje:**
-
-   Najbolje rješenje je zamrzavanje. Sirup ulijte u čiste plastične boce, ostavljajući prostor za širenje, i zamrznite ga. Zamrznuti sok može se čuvati nekoliko mjeseci bez gubitka kvalitete.
-
-
+**Ako se u sirupu pojave mjehurići, miris po alkoholu ili kiselom, zamućenje ili plijesan, sirup bacite.** Takav sirup je provrio ili se pokvario i ne treba ga piti.
 
 ## Prednosti soka od mente bez kuhanja
 
+Glavna prednost hladnog postupka je **očuvanje svježeg mirisa i okusa** mente, koji se kuhanjem djelomično gube. Priprema je jednostavna, a sirup je bez umjetnih aroma i bojila.
 
+Ipak, sirup od mente nije izvor vitamina. U njemu je ponajprije otopljeni šećer, pa je to osvježenje za povremeno uživanje, a ne zdravstveni napitak.
 
-Glavna prednost je **očuvanje svih eteričnih ulja i prirodnih aroma** koje se mogu izgubiti tijekom kuhanja. Ovaj hladni postupak rezultira intenzivnijim okusom i mirisom, a ujedno je i jednostavniji za izvođenje.
+## Koliko šećera i kalorija ima sok od mente?
 
-Dodatno, sok zadržava sve prirodne antioksidanse i vitamine koji su osjetljivi na visoke temperature.
+Po ovom receptu, s 5 kg šećera na 5 litara vode, 100 ml sirupa ima otprilike 60 g šećera i oko 240 kcal. Čaša od 250 ml u koju ulijete 50 ml sirupa tako sadrži oko 30 g šećera i oko 120 kcal.
 
-Ovim načinom pripreme možete biti sigurni da uživate u punoj nutritivnoj vrijednosti mente.
+Svjetska zdravstvena organizacija (WHO) savjetuje odraslima i djeci da slobodni šećeri, odnosno dodani šećer te šećer iz meda, sirupa i sokova, čine manje od 10 % dnevnog unosa energije. Za odraslu osobu to je otprilike 50 g na dan, a još bolje je manje od 25 g. Jedna čaša soka od mente tako može potrošiti veći dio te granice.
 
+Ako imate dijabetes, sirup pijte rijetko i jako razrijeđen ili birajte napitak od mente bez šećera, opisan u nastavku.
 
+## Načini posluživanja (konzumiranja)
 
-## Načini posluživanja ( konzumiranja)
+Sirup se najčešće razrjeđuje običnom ili mineralnom vodom, prema vlastitom ukusu. Za dodatnu svježinu dodajte kolutove limuna, limete ili naranče.
 
+Umjesto dodatnog šećera možete koristiti i med, koji napitku daje posebnu aromu, ali i on je šećer. **Med ne dajte djeci mlađoj od godine dana.** Može sadržavati spore bakterije koja kod dojenčadi uzrokuje botulizam, teško trovanje živčanog sustava, upozorava Savjetodavna služba Sveučilišta Michigan State prema preporukama američkog Centra za kontrolu bolesti (CDC).
 
-
-Najčešći način konzumacije je razblažavanje sa običnom ili mineralnom vodom u omjeru prema vlastitom ukusu. Za dodatnu svježinu, dodajte kolutove limuna, limete ili naranče.
-
-Ljubitelji prirodnih zaslađivača mogu umjesto dodatnog šećera koristiti med koji će dati posebnu aromu napitku. Sok od mente bez kuhanja također predstavlja izvrsnu bazu za pripremu ljetnih koktela, bilo alkoholnih ili bezalkoholnih.
-
-
-
-
+Sok od mente dobra je osnova i za ljetne koktele, s alkoholom ili bez njega. Na sličan se način, iz cvjetova, priprema i [sok od bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
 
 ## Važni savjeti za uspješnu pripremu
 
+Nekoliko savjeta pomoći će da sirup bude ukusan i trajan:
 
-
-* **Limunska kiselina:**
-
-   Budite oprezni s količinom. Previše kiseline može prekriti nježnu aromu mente, a služi i kao prirodni konzervans.
-* **Kvaliteta mente:**
-
-   Za najbolji rezultat, birajte mlade, svježe listove koji su intenzivno zeleni i aromatični. Izbjegavajte uvele ili požutjele listove.
-* **Temperatura vode:**
-
-   Uvijek koristite hladnu vodu za početnu pripremu jer topla voda može oštetiti eterična ulja mente.
-
-
+* **Limunska kiselina** – pazite na količinu: previše kiseline prekrije nježnu aromu mente, a premalo slabije čuva sirup od kvarenja.
+* **Kvaliteta mente** – birajte mlade, svježe listove intenzivno zelene boje i jakog mirisa. Izbjegavajte uvele ili požutjele listove. Mentu uzgojenu u [tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/) ili ubranu u vlastitom vrtu birajte prema savjetima iz vodiča za [berbu i sušenje mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
+* **Temperatura vode** – za početnu pripremu uvijek koristite hladnu vodu, jer topla voda brže otpušta i isparava mirisna ulja.
 
 ## Brzi napitak od mente – trenutno osvježenje
 
-
-
-Ako vam je potrebno brzo osvježenje, a **nemate vremena za izradu soka**, postoji izuzetno jednostavan način za pripremu napitka od mente u samo nekoliko minuta. Savršeno rješenje za neočekivane goste ili kad god želite nešto osvježavajuće.
+Ako vam treba brzo osvježenje, a **nemate vremena za izradu sirupa**, napitak od mente možete pripremiti za nekoliko minuta, i to bez šećera. Dobro dođe za nenajavljene goste ili vruće ljetne dane.
 
 **Priprema brzog napitka od mente**
 
-* Uzmite stabljiku mente s listovima i temeljito je operite pod mlazom hladne vode.
-* Stabljiku stavite u bokal s hladnom vodom.
-* Ostavite mentu da se namače oko 20 minuta. Eterična ulja iz listova će se prirodno osloboditi, dajući vodi nježan, osvježavajući okus.
+* Grančicu mente s listovima temeljito operite pod mlazom hladne vode.
+* Stavite je u vrč s hladnom vodom.
+* Ostavite mentu da se namače oko 20 minuta, da voda poprimi njezin blagi, osvježavajući okus.
 
 **Savjeti za posluživanje**
 
-Možete eksperimentirati s različitim vrstama mente kako biste pronašli svoju omiljenu kombinaciju okusa.
+Isprobajte različite vrste mente i pronađite okus koji vam najviše odgovara. Napitak poslužite s kockicama leda i kolutovima limuna, a ako volite slađi okus, dodajte malo meda ili šećera.
 
-Poslužite s kockicama leda i kolutovima limuna.
-
-Za slađi okus, dodajte malo meda ili šećera.
-
-
+Ako više volite topli napitak, pripremite [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
 ### Dodatni recepti za ljubitelje prirodnih napitaka
 
-Ako vas zanima priprema drugih prirodnih sirupa i sokova, preporučujemo da istražite sljedeće recepte:
+Ako vas zanima priprema drugih domaćih sirupa i sokova, pogledajte i ove recepte:
 
-[Domaći sirup od mente](https://recepti.index.hr/recept/2173-domaci-sirup-od-mente) – Za one koji žele istražiti i druge varijante pripreme sirupa od mente.
+* [Domaći sirup od mente](https://recepti.index.hr/recept/2173-domaci-sirup-od-mente) – druga varijanta pripreme sirupa od mente
+* [Sok od koprive i divlje mente](https://web.coolinarika.com/recept/sok-od-koprive-i-divlje-mente-4c3c8b9c-6390-11eb-aef6-0242ac12001f) – kombinacija koprive i divlje mente
 
-[Sok od koprive i divlje mente](https://web.coolinarika.com/recept/sok-od-koprive-i-divlje-mente-4c3c8b9c-6390-11eb-aef6-0242ac12001f) – Kombinacija koprive i divlje mente stvara jedinstveni napitak bogat vitaminima i mineralima.
-
-Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/) i [berba i sušenje mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
-
-
+Divlju mentu berite samo ako je sigurno prepoznajete: samonikla metvica *Mentha pulegium* miriše slično, ali je otrovna.
 
 ## Važna napomena o alergijskim reakcijama
 
+Neki ljudi su alergični ili osjetljivi na mentu. Alergija se može očitovati osipom, svrbežom, mučninom, probavnim smetnjama ili otežanim disanjem.
 
+Ako ste alergični na biljke iz porodice usnača (Lamiaceae) ili ste već imali neugodnu reakciju na mentu, prije pijenja soka posavjetujte se s liječnikom. Ako napitak od mente pijete prvi put, počnite s manjom količinom.
 
-Prije konzumacije soka od mente bez kuhanja ili bilo kojeg napitka od mente, važno je napomenuti da neki ljudi mogu biti alergični na mentu ili imati osjetljivost na ovu biljku. Alergijske reakcije na mentu mogu se manifestirati kroz različite simptome kao što su osip na koži, svrbež, otežano disanje, mučnina ili probavne smetnje.
-
-Ako imate poznate alergije na biljke iz porodice usnača (Lamiaceae) ili ste prethodno imali bilo kakve negativne reakcije na mentu, preporučujemo da se posavjetujete s liječnikom prije konzumacije. Također, ako prvi put konzumirate napitak od mente, počnite s manjom količinom kako biste provjerili svoju toleranciju.
-
-***U slučaju pojave bilo kakvih neobičnih simptoma nakon konzumacije, prestanite s korištenjem i potražite medicinsku pomoć ako je potrebno.***
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
+***Ako nakon pijenja primijetite neobične simptome, prestanite piti napitak. Ako vam otekne lice, usne ili grlo ili otežano dišete, odmah potražite hitnu medicinsku pomoć.***
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Svjetska zdravstvena organizacija (WHO) – [WHO poziva na smanjenje unosa šećera kod odraslih i djece (WHO calls on countries to reduce sugars intake among adults and children)](https://www.who.int/news/item/04-03-2015-who-calls-on-countries-to-reduce-sugars-intake-among-adults-and-children), 2015.
+- Savjetodavna služba Sveučilišta Michigan State (MSU Extension) – [Zašto dojenčadi ne treba davati med (Why you should avoid feeding honey to an infant)](https://www.canr.msu.edu/news/babies_and_honey_dont_go_together)
+- Američki centar za kontrolu otrovanja (Poison Control) – [Ulje metvice Mentha pulegium, potencijalno otrovan narodni lijek (Pennyroyal Oil: A Potentially Toxic Folk Remedy)](https://www.poison.org/articles/2016-mar/pennyroyal-oil)

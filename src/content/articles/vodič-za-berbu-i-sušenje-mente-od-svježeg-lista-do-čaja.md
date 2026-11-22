@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/sušeni-čaj-od-mente-u-šalici-u-filteru-spreman-za-prelijevanje-vodom.webp
 perex: Priprema domaćegčaja od mente započinje mnogo prije nego što vruća voda
   dotakne listiće.
-readTime: 3
+readTime: 4
 publishedAt: 2024-09-12
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,93 +19,66 @@ related_articles:
   - menta-sve-važne-informacije-o-njoj
 ---
 
+Pravilna berba i sušenje čuvaju aromu i djelatne tvari [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/), pa o njima ovisi koliko će domaći čaj biti mirisan. Listovi se beru prije cvatnje, kratko operu i suše na zraku ili u pećnici, a zatim čuvaju u zatvorenim staklenkama. U nastavku saznajte kada i kako brati mentu, kako je osušiti te kako je spremiti za zimu.
 
-Pravilna berba i sušenje važni su za očuvanje intenzivne arome i ljekovitih svojstava [mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
+## Kada je idealno vrijeme za berbu mente?
 
-Ovaj vodič provest će vas kroz sve korake, od branja svježih listova u vrtu do njihovog čuvanja za duge zimske mjesece.
+Najbolje vrijeme za berbu mente je neposredno prije nego što biljka procvjeta. Tada su listovi bogati eteričnim uljima, pa imaju najjači miris i okus.
 
-## **Kada je idealno vrijeme za berbu mente?**
+Mnogi vrtlari beru ujutro, kad se rosa osuši, a prije najjačeg sunca, kako bi listovi bili svježi i suhi. Birajte zdrave, zelene listove bez oštećenja i mrlja.
 
+Za veće količine koristite oštre škare ili vrtne škarice. Manju količinu listova možete ubrati i rukom, ali alat ostavlja čiste rezove i manje oštećuje stabljiku. Način berbe ovisi o tome koliko vam treba:
 
+* **za manje količine** – ako vam treba samo nekoliko listova za svježi čaj ili jelo, otkinite ih prstima s vrha biljke; to potiče grananje i rast novih listova
+* **za veće količine (sušenje)** – odrežite cijele stabljike, otprilike gornju trećinu biljke, i to tik iznad para listova; tako biljka brzo potjera nove izdanke, pa mentu možete brati više puta u sezoni
+* **najviše trećina biljke** – nikad ne režite više od trećine biljke odjednom, da je previše ne oslabite
 
-Idealno vrijeme za berbu [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) je neposredno prije nego što biljka počne cvjetati. U tom su razdoblju listovi najbogatiji eteričnim uljima, što im daje najintenzivniji miris i okus.
+Odrezane stabljike lako je obrati: listove samo povucite niz stabljiku, što je puno brže nego trgati list po list s biljke u vrtu.
 
-Preporučuje se berbu obaviti tijekom jutarnjih sati, nakon što se rosa povuče, jer je tada koncentracija ulja u listovima na vrhuncu. Birajte zdrave, zelene listove bez oštećenja.
+**Berite samo mentu koju sigurno prepoznajete.** Samonikla metvica *Mentha pulegium* (engl. pennyroyal) miriše slično klasastoj metvici, ali je otrovna za jetru i nije za čaj, upozorava američki centar za kontrolu otrovanja (Poison Control). Mentu ne berite ni uz prometnice ni na površinama koje se prskaju.
 
-Za pravilnu berbu mente koja osigurava zdravlje biljke i kvalitetu listova, preporučuje se korištenje oštrih škara ili vrtnih škarica. Iako se manja količina listova može ubrati i rukama, korištenje alata osigurava čiste rezove i smanjuje oštećenje stabljike.
+## Kako pravilno pripremiti mentu za sušenje?
 
-Metoda berbe ovisi o količini koju želite ubrati:
+Ubrane listove nježno operite pod hladnom vodom, da uklonite prašinu, zemlju i nečistoće. Zatim im uklonite višak vode: lagano ih potapkajte čistom krpom ili papirnatim ručnikom ili ih raširite na suhu podlogu da se kratko prosuše na zraku.
 
-* **Za manje količine**
+### Dvije metode sušenja mente
 
-  : Ako trebate samo nekoliko listova za svježi čaj ili jelo, jednostavno ih otkinite prstima s vrha biljke. To potiče bokorenje i rast novih listova.
-
-
-
-* **Za veće količine (sušenje)**
-
-  : Najbolja metoda je odrezati cijele stabljike. Režite otprilike gornju trećinu biljke, pazeći da rez bude čist i iznad para listova. Ovakav način berbe potiče biljku na novi rast i omogućuje vam da imate više berbi tijekom sezone. Nikada nemojte odrezati više od jedne trećine biljke odjednom kako je ne biste previše oslabili.
-
-
-
-Nakon što ste odrezali stabljike, možete jednostavno „povući“ listove s njih, što je znatno brže nego da trgate list po list izravno s biljke u vrtu. Na taj način dobivate neoštećene listove spremne za daljnji korak.
-
-
-
-## **Kako pravilno pripremiti mentu za sušenje?**
-
-
-
-Nakon što ste ubrali svježe listove, prvi korak je njihova priprema. Listove je potrebno nježno oprati pod hladnom vodom kako bi se uklonila prašina, zemlja i eventualne nečistoće.
-
- Nakon pranja, važno je ukloniti višak vode. Možete ih lagano potapkati čistom krpom ili papirnatim ručnikom, ili ih jednostavno ostaviti raširene na suhoj površini da se kratko prosuše na zraku.
-
-### **Dvije metode sušenja mente**
-
-
-
-Postoje dvije glavne metode za sušenje mente, a izbor ovisi o vašim mogućnostima i vremenu kojim raspolažete. Obje metode daju odlične rezultate ako se pravilno izvedu.
+Mentu možete sušiti na zraku ili u pećnici. Obje metode daju dobre rezultate ako ih pravilno izvedete.
 
 **Prirodno sušenje na zraku**
 
+To je tradicionalna i najjednostavnija metoda, za koju ne treba posebna oprema. Listove rasporedite u tankom sloju na čistu i suhu podlogu, poput papira za pečenje, mrežice, kartona ili platnene krpe.
 
+Listovi se ne smiju preklapati, da zrak može slobodno strujati. Ostavite ih na suhom, toplom i prozračnom mjestu, zaštićenom od izravnog sunca, koje uništava eterična ulja i boju listova.
 
-Ovo je tradicionalna i najjednostavnija metoda koja ne zahtijeva posebnu opremu. Listove mente rasporedite u tankom sloju na čistu, suhu površinu, poput papira za pečenje, mrežaste podloge, kartona ili platnene krpe.
-
-Važno je da se listovi ne preklapaju kako bi zrak mogao slobodno cirkulirati. Ostavite ih na suhom, toplom i prozračnom mjestu, zaštićenom od izravne sunčeve svjetlosti koja može uništiti eterična ulja i boju listova.
-
-Proces sušenja na zraku obično traje između 5 i 7 dana, ovisno o vlažnosti zraka i debljini listova. Znat ćete da su suhi kada postanu lomljivi pod prstima.
+Sušenje na zraku obično traje 5 do 7 dana, ovisno o vlažnosti zraka i debljini listova. Listovi su suhi kad se lome pod prstima.
 
 **Sušenje u pećnici**
 
-Ako želite ubrzati proces, sušenje u pećnici je odlična alternativa. Zagrijte pećnicu na najnižu moguću temperaturu, idealno između 40°C i 50°C.
+Ako želite brže, mentu osušite u pećnici, na najnižoj temperaturi, po mogućnosti između 40 i 50 °C. Listove rasporedite u jednom sloju na lim obložen papirom za pečenje, a vrata pećnice ostavite malo odškrinuta, da vlaga može izlaziti.
 
-Listove mente rasporedite u jednom sloju na lim za pečenje prekriven papirom. Vrata pećnice ostavite lagano odškrinuta kako bi vlaga mogla izlaziti.
+Sušenje u pećnici traje nekoliko sati, pa listove redovito provjeravajte, da ne izgore. Gotovi su kad su potpuno suhi i krhki.
 
- Sušenje u pećnici traje nekoliko sati, stoga je potrebno redovito provjeravati stanje listova kako ne bi izgorjeli. Listovi su gotovi kada postanu potpuno suhi i krhki.
+| Metoda sušenja | Temperatura | Trajanje | Savjeti |
+| --- | --- | --- | --- |
+| Na zraku | sobna temperatura | 5 do 7 dana | prozračno, suho mjesto, bez izravnog sunca |
+| U pećnici | 40 do 50 °C | nekoliko sati | odškrinuta vrata pećnice, redovita provjera |
 
+## Čuvanje posušenih listova mente
 
+Kad su listovi potpuno suhi, pravilno ih spremite, da sačuvaju miris i kvalitetu. Pohranite ih u dobro zatvorene posude, najbolje staklene, koje ih štite od vlage, zraka i stranih mirisa.
 
-## **Čuvanje posušenih listova mente**
+Čuvajte ih na suhom, hladnom i tamnom mjestu, poput smočnice ili kuhinjskog ormarića. Tako će vaša domaća menta zadržati aromu do sljedeće berbe. Ako se na listovima pojave mrlje ili plijesan, ili ako izgube miris, bacite ih.
 
+Svježe listove uvijek ćete imati pri ruci ako mentu [uzgajate u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/), a kako od suhih listova pripremiti [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/), opisuje zaseban članak.
 
+## Dodatni savjet: mljevenje mente u prah
 
-Jednom kada su listovi potpuno suhi, pravilno skladištenje je bitnoje  za očuvanje njihove kvalitete.
+Potpuno suhe listove možete samljeti u fini prah u blenderu ili mlincu za kavu. Prah se lako dozira i pogodan je za brzu pripremu čaja, a možete ga puniti i u prazne filter-vrećice za čaj.
 
-Suhe listove pohranite u hermetički zatvorene posude, po mogućnosti staklene, kako biste ih zaštitili od vlage, zraka i drugih mirisa.
+Mljevena menta brže gubi aromu od cijelih listova, pa meljite manje količine. Prah čuvajte u dobro zatvorenoj posudi, na tamnom mjestu.
 
-Čuvajte ih na suhom, hladnom i tamnom mjestu, poput smočnice ili kuhinjskog ormarića.
+## Izvori
 
-Na ovaj način, vaša domaća menta zadržat će svoju prepoznatljivu aromu i ljekovitost tijekom cijele zime.
-
-Pročitajte i: [uzgoj mente u tegli](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/).
-
-## **Dodatni savjet: mljevenje mente u prah**
-
-
-
-Za još jednostavniju upotrebu, potpuno suhe listove možete samljeti u fini prah pomoću blendera ili mlinca za kavu.
-
-Prah je lakši za doziranje i idealan za brzu pripremu čaja, a možete ga čak i pakirati u prazne čajne vrećice. Mljevenu mentu također čuvajte u hermetički zatvorenoj posudi na tamnom mjestu.
-
-Metoda SušenjaTemperaturaTrajanjeKljučni SavjetiPrirodno na zrakuSobna temperatura5-7 danaProzračno, tamno i suho mjesto; bez direktnog sunca.U pećnici40-50°CNekoliko satiOdškrinuta vrata pećnice; redovita provjera.
+- Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti mentu (How to Grow Mint)](https://www.rhs.org.uk/herbs/mint/grow-your-own)
+- Američki centar za kontrolu otrovanja (Poison Control) – [Ulje metvice Mentha pulegium, potencijalno otrovan narodni lijek (Pennyroyal Oil: A Potentially Toxic Folk Remedy)](https://www.poison.org/articles/2016-mar/pennyroyal-oil)

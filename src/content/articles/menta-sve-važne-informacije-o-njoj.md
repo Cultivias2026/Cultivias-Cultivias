@@ -5,8 +5,9 @@ author: redakcija
 image: /images/articles/zelena-menta.webp
 perex: Menta je biljka čiji miris i okus gotovo svi prepoznajemo. Njena svježina
   prožima sve, od slatkiša i pića do kozmetičkih proizvoda.
-readTime: 3
+readTime: 5
 publishedAt: 2024-09-07
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -18,100 +19,92 @@ related_articles:
   - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
 
-
-No, menta je mnogo više od puke arome. Kroz povijest, cijenjena je zbog svojih ljekovitih svojstava i široke primjene u kulinarstvu i narodnoj medicini.
-
-Ovaj članak vodit će vas kroz sve što trebate znati o ovoj svestranoj biljci, uz oprez i upućivanje na provjerene izvore kada se radi o njenim zdravstvenim učincima.
+Menta je ljekovita i začinska biljka koja se stoljećima koristi u kuhinji i narodnoj medicini, a danas je jedan od najpopularnijih okusa na svijetu. Većina vrsta lako se uzgaja, a listovi se koriste svježi i sušeni, za čaj, sokove i jela. U nastavku saznajte što je menta, po čemu se razlikuju njezine vrste, kako je uzgojiti, što o njezinu djelovanju kažu stručna tijela i kada s njom treba biti oprezan.
 
 ## Što je menta?
 
+Menta (*Mentha*) rod je biljaka iz porodice usnača (Lamiaceae), kojoj pripadaju i [kadulja](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/). Rod obuhvaća dvadesetak vrsta i brojne križance, jer se metvice lako međusobno križaju. Takav je i najpoznatiji križanac, paprena metvica, koja je nastala križanjem vodene i klasaste metvice, navodi Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), dio američkih Nacionalnih instituta za zdravlje.
 
+Osjećaj hlađenja u ustima daje mentol, koji prevladava u paprenoj metvici. Nemaju ga sve vrste u istoj mjeri: klasasta metvica ima ga vrlo malo, a njezin blaži okus potječe od spoja karvona.
 
-Menta, ili latinski Mentha, je rod biljaka iz porodice usnača (Lamiaceae) koji obuhvaća više od 25 vrsta i stotine sorti. Ono što sve vrste mente povezuje jest prisutnost mentola, organskog spoja koji joj daje karakterističan osjećaj hlađenja i svježine.
-
-Iako je danas rasprostranjena diljem svijeta, njeno podrijetlo veže se za Europu i Aziju. Raste kao samonikla biljka, ali se i vrlo uspješno uzgaja u vrtovima i teglama.
+Menta je trajnica, odnosno višegodišnja biljka koja se širi podzemnim izdancima. Podrijetlo roda veže se uz Europu i Aziju, a danas raste i uzgaja se diljem svijeta.
 
 ## Povijest mente
 
+Menta se koristi tisućama godina. Zapisi iz antičke Grčke, Rima i Egipta spominju je kao lijek za probavne tegobe, navodi NCCIH.
 
-
-Upotreba mente seže tisućama godina u prošlost. Stari Egipćani koristili su je u balzamiranju i kao lijek za probavne smetnje. U antičkoj Grčkoj i Rimu, menta je bila simbol gostoprimstva; njome su se trljali stolovi kako bi se dočekali gosti, a koristila se i za aromatiziranje vina i umaka. Kroz srednji vijek, menta je postala neizostavan dio samostanskih vrtova diljem Europe, gdje su je redovnici uzgajali zbog njenih ljekovitih svojstava i koristili za osvježavanje daha i liječenje raznih tegoba.
-
-Svestranost mente omogućila joj je primjenu u najrazličitijim industrijama. Njena upotreba seže daleko izvan kuhinje:
+U antičko doba bila je i simbol gostoprimstva. Rimski pjesnik Ovidije u priči o Baukidi i Filemonu opisuje kako domaćini prije dolaska gostiju trljaju stol svježom mentom. U srednjem vijeku menta se uzgajala u samostanskim vrtovima diljem Europe, gdje su je redovnici koristili za osvježavanje daha i kao ljekovitu biljku.
 
 ## Upotreba mente
 
+Menta se koristi daleko izvan kuhinje:
 
+* **prehrambena industrija** – od žvakaćih guma, bombona i čokolade do sladoleda i likera, menta je jedan od najpopularnijih okusa
+* **kozmetika i njega usta** – zbog osvježavajućeg okusa i mirisa čest je sastojak pasta za zube, vodica za ispiranje usta, šampona i krema
+* **aromaterapija** – eterično ulje paprene metvice razrijeđeno se utrljava u kožu sljepoočnica kod blage glavobolje; Europska agencija za lijekove (EMA) takvu primjenu ne preporučuje mlađima od 18 godina
+* **narodna medicina** – tradicionalno se koristi u obliku čajeva, tinktura i obloga
 
-* **Prehrambena industrija:**
-
-   Od žvakaćih guma, bombona i čokolada do sladoleda i likera, menta je jedan od najpopularnijih okusa na svijetu.
-* **Kozmetička industrija:**
-
-   Zbog svojih antiseptičkih i osvježavajućih svojstava, čest je sastojak u pastama za zube, vodicama za ispiranje usta, šamponima i kremama.
-* **Aromaterapija:**
-
-   Eterično ulje mente koristi se za poticanje koncentracije, ublažavanje glavobolje i smanjenje stresa.
-* **Narodna medicina:**
-
-   Tradicionalno se koristi u obliku čajeva, tinktura i obloga za ublažavanje raznih zdravstvenih tegoba.
-
-
+**Eterično ulje mente ne nanosite djeci mlađoj od dvije godine**, jer ga EMA za tu dob ne dopušta. Mentol iz ulja kod male djece može izazvati grč grkljana i otežano disanje. Eterično ulje ne pijte nerazrijeđeno, a čuvajte ga izvan dohvata djece.
 
 ## Vrste mente
 
+Najpoznatije su dvije vrste:
 
+* **paprena metvica (*Mentha × piperita*)** – ima puno mentola, pa je okus snažan i hladan; najčešće se koristi za čaj
+* **klasasta ili zelena metvica (*Mentha spicata*)** – blažeg je i slađeg okusa i češće se koristi u kuhinji, primjerice u salatama, jelima od janjetine i koktelima
 
-Iako postoji mnogo vrsta, nekoliko ih se posebno ističe po svojoj popularnosti i primjeni. Najpoznatije su paprena metvica (Mentha piperita), poznata po visokom udjelu mentola, i klasasta ili zelena metvica (Mentha spicata), koja ima blaži okus i češće se koristi u kulinarstvu.
+Paprena metvica obično je neplodna i ne daje sjeme, pa se razmnožava podzemnim izdancima i reznicama, navodi Savjetodavna služba Sveučilišta Arizona. Sjeme koje se prodaje kao "paprena metvica" zato često ne daje pravu paprenu metvicu.
+
+**Metvica *Mentha pulegium* (engl. pennyroyal) nije za čaj.** Raste i samoniklo na vlažnim mjestima, a miriše slično klasastoj metvici. Sadrži pulegon, spoj koji oštećuje jetru: njezino eterično ulje vrlo je otrovno i već jedna žlica (15 ml) može izazvati teško trovanje, navodi baza LiverTox američkih Nacionalnih instituta za zdravlje. Teška trovanja zabilježena su i kod dojenčadi kojoj je dan čaj od te biljke, zamijenjene s običnom mentom. Ne berite divlju mentu za čaj ako niste sigurni o kojoj je vrsti riječ.
 
 ## Uzgoj i berba mente
 
+Menta se lako uzgaja, ali se brzo i nekontrolirano širi. Dobro raste na suncu i u polusjeni, a voli vlažno tlo. Ako se pitate [kako uzgojiti mentu kod kuće](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/), najvažnije je osigurati joj dovoljno vlage i ograničiti joj prostor, primjerice uzgojem u tegli.
 
-
-Menta je zahvalna biljka za uzgoj, no poznata je po svojoj invazivnosti i brzom širenju. Ako se pitate [kako uzgojiti mentu kod kuće](https://www.cultivias.com/bilje/kako-uzgojiti-mentu-u-tegli-kod-ku%C4%87e/), najvažnije je osigurati joj dovoljno vlage i kontrolirati njen rast, primjerice sadnjom u tegle.
-
-Pravilna berba ključna je za očuvanje arome, a [detaljne upute o tome kada i kako brati i sušiti mentu](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) osigurat će vam zalihu za cijelu godinu.
+Za najbolju aromu menta se bere redovito, a za sušenje neposredno prije cvatnje. Kada i kako brati i sušiti listove, opisuje vodič za [berbu i sušenje mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/), uz koji ćete imati zalihu za cijelu godinu.
 
 ## Zdravstvene koristi mente
 
+Mnoge tvrdnje o ljekovitosti mente prenose se generacijama, pa im treba pristupiti s oprezom. Znanstvena istraživanja najčešće se bave eteričnim uljem ili ekstraktima, a njihovi se rezultati ne mogu izravno prenijeti na čaj. Prije korištenja biljnih pripravaka u terapijske svrhe posavjetujte se s liječnikom ili ljekarnikom.
 
+### Čaj od mente: zdravstvene prednosti
 
-Mnoge tvrdnje o ljekovitosti mente prenose se generacijama, no važno je pristupiti im s dozom opreza.
+[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu i prirodno je bez kofeina. Djelovanje ovisi o vrsti mente i načinu pripreme. Što pokazuju istraživanja o čaju za san, pamćenje i probavu, opisuje članak o [dobrobitima čaja od mente](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/).
 
- Iako se menta tradicionalno [koristi za ublažavanje raznih tegoba](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/), znanstvene studije često su fokusirane na specifične vrste i pripravke, poput ulja ili ekstrakata, te njihovi rezultati nisu uvijek primjenjivi na, primjerice, čaj od mente. Uvijek je preporučljivo konzultirati se s liječnikom prije korištenja biljnih pripravaka u terapeutske svrhe.
+### Čaj od mente za probavu
 
-**Čaj od mente: zdravstvene prednosti**
+Europska agencija za lijekove (EMA) list paprene metvice priznaje kao tradicionalni biljni lijek za ublažavanje probavnih tegoba poput loše probave i nadutosti. Ta se procjena temelji na dugogodišnjoj sigurnoj primjeni, jer kliničkih ispitivanja nema dovoljno. Primjena se odnosi na odrasle i djecu stariju od četiri godine, a ako tegobe traju dulje od dva tjedna ili se pogoršaju, treba se javiti liječniku.
 
-[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu. Cijenjen je zbog svog okusa, ali i potencijalnih blagodati. Ipak, važno je znati da učinci mogu varirati ovisno o vrsti mente i načinu pripreme.
+**Ako imate žgaravicu ili refluks (vraćanje želučane kiseline u jednjak), čaj od mente može pogoršati tegobe**, upozorava EMA.
 
-**Čaj od mente za probavu**
+### Čaj od mente protiv nadutosti
 
-Smatra se da menta potiče proizvodnju žuči, što može olakšati probavu masne hrane. Mnogi piju čaj od mente nakon obroka kako bi ublažili osjećaj težine, a detaljnije o tome kako čaj od mente utječe na probavu možete saznati iz provjerenih izvora.
+Menta se tradicionalno koristi kod nadutosti i plinova. U laboratorijskim istraživanjima opušta glatke mišiće probavnog sustava, pa može olakšati izlazak plinova. Za iritabilni kolon (sindrom iritabilnog crijeva) dokazi postoje za ulje paprene metvice u kapsulama koje se otapaju tek u crijevima, a ne za čaj, navodi NCCIH.
 
-**Čaj od mente protiv nadutosti**
+### Čaj od mente za smirenje
 
-Zahvaljujući svom karminativnom djelovanju, menta se često preporučuje za smanjenje nadutosti i plinova. Opuštajući učinak na mišiće crijeva može pomoći u oslobađanju zarobljenih plinova. Više o tome kako čaj od mente pomaže protiv nadutosti pročitajte u specijaliziranim člancima.
+Topli čaj bez kofeina mnogima je ugodan večernji napitak, a neke miris mente opušta. Njegov učinak na stres i tjeskobu ipak nije dokazan: o tome postoje tek mala, preliminarna istraživanja. O iskustvima s čajem od mente za smirenje piše i portal [Catino](https://catino.com.hr/bilje/menta/caj-od-mente-za-smirenje/).
 
-**Čaj od mente za smirenje**
+### Sok od mente
 
-Umirujući miris mente mnogima pomaže da se opuste. Iako ne sadrži kofein, što ga čini idealnim večernjim napitkom, njegov učinak na smanjenje stresa i anksioznosti predmet je mnogih rasprava. Za one koji traže prirodnu pomoć za opuštanje, korisno je istražiti kako [čaj od mente djeluje na smirenje](https://catino.com.hr/bilje/menta/caj-od-mente-za-smirenje/).
+Osim čaja, ljeti se priprema i [sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/). Domaći sirup sadrži puno šećera, pa ga razrjeđujte vodom i pijte umjereno, kao i gazirana pića. Najjednostavnija osvježavajuća varijanta bez šećera je grančica mente namočena u vrču hladne vode.
 
-**Sok od mente**
+## Menta i metvica: glavne razlike
 
-Osim čaja, [osvježavajući sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/) savršen je ljetni napitak. Priprema je jednostavna, a kombinacija mente, limuna i vode pruža trenutno osvježenje i hidrataciju. To je zdravija alternativa gaziranim pićima, a ujedno i odličan način za iskoristiti višak mente iz vrta.
+Menta i metvica nazivi su za isti rod biljaka (*Mentha*). Metvica je hrvatski botanički naziv, a menta naziv preuzet iz latinskog koji se češće koristi u svakodnevnom govoru, pa Hrvatska enciklopedija pod natuknicom menta upućuje na metvicu.
 
-## **Menta i metvica: glavne razlike**
-
-
-
-Za kraj, važno je još jednom naglasiti razliku. Iako u svakodnevnom govoru često miješamo ove pojmove, “menta” je naziv za cijeli rod biljaka, dok se pojam “metvica” često odnosi na specifične vrste unutar tog roda, poput paprene ili klasaste metvice.
-
-Razumijevanje glavnih razlika između mente i metvice može vam pomoći da odaberete pravu vrstu za svoje potrebe, bilo da se radi o kuhanju, pripremi čaja ili uzgoju u vrtu.
-
-
-
-***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
+Za odabir biljke zato je važnije znati o kojoj je vrsti riječ. Paprena metvica odgovara onima koji vole snažan, hladan okus u čaju, a klasasta metvica onima koji traže blaži okus za kuhinju i napitke.
 
 **NAPOMENA/DISCLAIMER:**
 
 **Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
+
+## Izvori
+
+- Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), američki Nacionalni instituti za zdravlje – [Ulje paprene metvice (Peppermint Oil)](https://www.nccih.nih.gov/health/peppermintoil)
+- Europska agencija za lijekove (EMA) – [List paprene metvice, biljni lijek (Menthae piperitae folium)](https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium) i [Ulje paprene metvice, biljni lijek (Menthae piperitae aetheroleum)](https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-aetheroleum)
+- Baza LiverTox američkih Nacionalnih instituta za zdravlje – [Ulje metvice Mentha pulegium (Pennyroyal Oil)](https://www.ncbi.nlm.nih.gov/books/NBK548673/)
+- Američki centar za kontrolu otrovanja (Poison Control) – [Ulje metvice Mentha pulegium, potencijalno otrovan narodni lijek (Pennyroyal Oil: A Potentially Toxic Folk Remedy)](https://www.poison.org/articles/2016-mar/pennyroyal-oil)
+- Savjetodavna služba Sveučilišta Arizona – [Paprena metvica (Mentha x piperita)](https://yavapaiplants.extension.arizona.edu/mentha-x-piperita)
+- Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti mentu (How to Grow Mint)](https://www.rhs.org.uk/herbs/mint/grow-your-own)
+- Hrvatska enciklopedija, Leksikografski zavod Miroslav Krleža – [natuknica menta](https://enciklopedija.hr/clanak/menta)
