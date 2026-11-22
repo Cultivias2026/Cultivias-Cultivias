@@ -3,14 +3,14 @@ title: Koji su dobri, a koji loši susjedi mrkve u vrtu?
 category: povrce
 author: redakcija
 image: /images/articles/sadnica-mrkve-u-vrtu.webp
-perex: Razmišljate o sadnji mrkve ove sezone? Niste jedini. No, jeste li znali
-  da uspjeh vaše berbe uvelike ovisi o tome tko "živi" u susjedstvu vaše mrkve?
-  Koncept poznat kao združena sadnja može biti presudan faktor između kržljavih
-  korijena i bogatog uroda. U ovom vodiču otkrivamo s kojim biljkama mrkva
-  stvara savršenu simbiozu i koje treba samo ukratko spomenuti kao loše susjede.
+perex: >-
+  Razmišljate o sadnji mrkve ove sezone? Na berbu utječu i biljke koje rastu uz
+  nju. Združena sadnja mrkvi može malo pomoći, ali ne zamjenjuje dobro tlo i
+  njegu. U ovom vodiču otkrivamo s kojim se biljkama mrkva dobro slaže, a koje
+  joj je bolje ne saditi u blizini.
 readTime: 7
 publishedAt: 2026-05-20
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: false

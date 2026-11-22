@@ -3,13 +3,14 @@ title: Je li eukaliptus otrovan? Toksičnost za ljude, djecu i kućne ljubimce
 category: bilje
 author: redakcija
 image: /images/articles/eukaliptus-u-kući-u-tegli.webp
-perex: " Eukaliptus i njegovo eterično ulje toksični su za ljude, pse, mačke i
-  konje. Aktivni spoj 1,8-cineol (eukaliptol) uzrokuje simptome koji se javljaju
-  unutar 10 do 30 minuta od gutanja i mogu uključivati konvulzije, gubitak
-  svijesti i respiratornu depresiju. Već 2 do 3 ml čistog eteričnog ulja može
-  izazvati ozbiljne simptome kod djece. Nema specifičnog antidota. Biljka u
-  tegli nije opasna na dodir, ali eterično ulje nikada ne smije biti dostupno
-  djeci ni kućnim ljubimcima."
+perex: >-
+  Eukaliptus i njegovo eterično ulje toksični su za ljude, pse, mačke i konje.
+  Aktivni spoj 1,8-cineol (eukaliptol) uzrokuje simptome koji se javljaju unutar
+  10 do 30 minuta od gutanja i mogu uključivati konvulzije, gubitak svijesti i
+  respiratornu depresiju. Već 2 do 3 ml čistog eteričnog ulja kod djeteta može
+  izazvati pospanost i nesiguran hod, a 5 ml i više komu. Nema specifičnog
+  antidota. Biljka u tegli nije opasna na dodir, ali eterično ulje nikada ne
+  smije biti dostupno djeci ni kućnim ljubimcima.
 readTime: 8
 publishedAt: 2026-07-16
 updatedAt: 2026-11-22

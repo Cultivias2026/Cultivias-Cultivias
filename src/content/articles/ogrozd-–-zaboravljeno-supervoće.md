@@ -9,10 +9,11 @@ perex: >-
   neosporni.
 
 
-  Ogrozd je izvrstan izvor vitamina C, koji pruža podršku normalnoj funkciji imunološkog sustava, a bogat je i vlaknima, koja pomažu u regulaciji probave.
+  Ogrozd je izvrstan izvor vitamina C, koji pruža podršku normalnoj funkciji
+  imunološkog sustava, a izvor je i vlakana, važnih za dobru probavu.
 readTime: 10
 publishedAt: 2024-10-18
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true

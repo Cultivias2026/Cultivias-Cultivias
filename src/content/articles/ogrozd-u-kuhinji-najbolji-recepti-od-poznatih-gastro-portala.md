@@ -8,10 +8,11 @@ perex: >-
   deserata, ogrozd nudi beskonačne mogućnosti za kreativne kulinarske pothvate.
 
 
-  Ovaj članak predstavlja najbolje recepte od poznatih gastro portala, od BBC Good Food do Jamie Oliver-a.
+  Ovaj članak predstavlja najbolje recepte od poznatih gastro portala, od BBC
+  Fooda do Jamieja Olivera.
 readTime: 6
 publishedAt: 2026-01-12
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: true
 editors_pick: true

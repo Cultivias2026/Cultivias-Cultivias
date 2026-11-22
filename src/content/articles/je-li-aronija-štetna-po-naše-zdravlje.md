@@ -3,14 +3,14 @@ title: Je li aronija štetna po naše zdravlje?
 category: voce
 author: redakcija
 image: /images/articles/zrele-bobice-aronije-na-grančici.webp
-perex: >+
-  Aronija nije štetna za zdravlje ako se konzumira u skladu s preporukama
-  stručnjaka (liječnika) i unutar propisanih dnevnih doza. Preporučuje se
-  prethodno savjetovanje s liječnikom prije početka korištenja.
-
+perex: >-
+  Aronija kao voće ili sok u uobičajenim količinama za većinu ljudi nije štetna,
+  a službeno propisane dnevne doze za nju ne postoje. Oprez je potreban kod
+  koncentriranih pripravaka u trudnoći i dojenju, kod manjka željeza i uz
+  lijekove koji djeluju na imunosni sustav, pa se tada savjetujte s liječnikom.
 readTime: 4
 publishedAt: 2024-10-15
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 expert_reviewed: false
 featured: false
 editors_pick: true

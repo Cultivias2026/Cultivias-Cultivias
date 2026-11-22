@@ -3,12 +3,13 @@ title: "Limunski eukaliptus: Prirodna zaštita protiv komaraca"
 category: bilje
 author: redakcija
 image: /images/articles/grančica-s-listovima-limunskog-eukaliptusa.webp
-perex: Limunski eukaliptus (Corymbia citriodora) je jedina biljka čiji derivat,
-  PMD (p-mentan-3,8-diol), američki CDC preporučuje kao prirodnu alternativu
-  DEET-u za zaštitu od komaraca. Eterično ulje sadrži do 85% citronelala, spoja
-  koji ometa osjetila komaraca. Pruža zaštitu do 6 sati, ali nije preporučen za
-  djecu mlađu od 3 godine. Može se uzgajati u tegli ili vrtu, ali sama biljka
-  nije dovoljna zamjena za ulje.
+perex: >-
+  Limunski eukaliptus (Corymbia citriodora) izvor je OLE-a i PMD-a
+  (p-mentan-3,8-diola), aktivnih tvari repelenata koje američki CDC preporučuje
+  uz DEET. Eterično ulje sadrži do 85 % citronelala, ali čisto ulje CDC ne
+  preporučuje kao repelent. Registrirani repelenti s 30 do 40 % OLE-a štite oko
+  6 sati i ne koriste se kod djece mlađe od 3 godine. Biljka se može uzgajati u
+  tegli ili vrtu, ali sama ne štiti od uboda.
 readTime: 10
 publishedAt: 2026-07-16
 updatedAt: 2026-11-22

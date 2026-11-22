@@ -3,11 +3,13 @@ title: "Eukaliptus kao sobna biljka: Vodič za uzgoj i njegu u tegli"
 category: bilje
 author: redakcija
 image: /images/articles/eukaliptus-u-tegli.webp
-perex: Eukaliptus se može uspješno uzgajati u tegli, ali zahtijeva puno
-  direktnog sunca (min. 6 sati), redovito zalijevanje (ljeti svaki dan), dobro
-  drenirano tlo i zaštitu od mraza. Najprikladnija vrsta za teglu je Eucalyptus
-  gunnii 'Azura'. Najčešći razlog sušenja je nedostatak vode ili svjetlosti.
-  Eukaliptus je toksičan za mačke, pse i ljude ako se proguta eterično ulje.
+perex: >-
+  Eukaliptus se može uspješno uzgajati u tegli, ali zahtijeva puno direktnog
+  sunca (min. 6 sati), redovito zalijevanje (ljeti svaki dan), dobro drenirano
+  tlo i zaštitu od mraza. Najprikladnija za teglu je sorta Eucalyptus gunnii
+  'Azura'. Najčešći razlog sušenja je nedostatak vode ili svjetlosti. Eterično
+  ulje eukaliptusa otrovno je ako se proguta, a za mačke, pse i konje otrovni su
+  i listovi.
 readTime: 10
 publishedAt: 2026-07-15
 updatedAt: 2026-11-22
