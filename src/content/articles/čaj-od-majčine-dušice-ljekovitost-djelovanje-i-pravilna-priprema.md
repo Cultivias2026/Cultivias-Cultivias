@@ -3,12 +3,7 @@ title: "Čaj od majčine dušice: Ljekovitost, djelovanje i pravilna priprema"
 category: bilje
 author: redakcija
 image: /images/articles/čaj-od-majčine-dušice.webp
-perex: Čaj od majčine dušice (Thymus serpyllum) moćan je biljni napitak s
-  dokazanim antibakterijskim i protuupalnim djelovanjem. Najčešće se koristi kao
-  potpora kod kašlja, bronhitisa i probavnih tegoba. Sadrži visoke razine timola
-  i karvakrola, aktivnih spojeva koji dokazano inhibiraju rast bakterija i
-  gljivica. Za djecu je siguran u vrlo blagim dozama, dok se trudnicama i
-  osobama s cirozom jetre preporučuje oprez i savjetovanje s liječnikom.
+perex: "Čaj od majčine dušice (Thymus serpyllum) tradicionalni je biljni napitak kod kašlja, bronhitisa i probavnih tegoba. Sadrži timol i karvakrol, spojeve koji u laboratorijskim istraživanjima koče rast bakterija i gljivica. Djeci mlađoj od četiri godine ne daje se kao lijek bez savjeta pedijatra, a trudnicama i osobama s cirozom jetre preporučuje se oprez i savjetovanje s liječnikom."
 readTime: 8
 publishedAt: 2026-07-10
 updatedAt: 2026-11-22
