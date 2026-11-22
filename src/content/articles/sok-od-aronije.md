@@ -38,6 +38,8 @@ Pripremite sokovnik, posude za sok i pulpu te čistu bocu. **Provjerite dopušta
 
 **Nemojte računati da će 1 kg bobica dati 1 litru soka.** Količina ovisi o plodovima, uređaju i načinu cijeđenja. Prvu turu izmjerite mjernom posudom: tako ćete za svoj sokovnik znati koliko bobica pripremiti sljedeći put. Pulpu nemojte ponovno provlačiti kroz uređaj ako proizvođač to ne dopušta.
 
+![Infografika: sok od aronije kod kuće – za prvu turu kroz sokovnik 500 g očišćenih bobica, bez vode, šećera i kuhanja; čaša od 2 dl: 50 ml soka i 150 ml vode, a za kušanje je dovoljno 30–50 ml soka; bez sokovnika 300 g aronije i 750 ml vode za kuhani napitak, koji nije isto što i čisti sok; čuvanje: pokriven u hladnjaku za isti dan, višak zamrznuti u porcijama po 50 ml s datumom i odmrzavati u hladnjaku; svi voćni sokovi zajedno najviše 150 ml dnevno uz obrok; neprokuhani sok ne davati djeci, trudnicama, starijima ni osobama slabijeg imuniteta, ne gurati bobice prstima u uključen sokovnik, sok nije zimnica za smočnicu i ne kušati sok s plijesni, čudnim mirisom ili pjenom](/images/articles/infografika-aronija-sok.webp)
+
 ### Može li se cijediti zamrznuta aronija?
 
 **Može samo ako upute vašeg sokovnika dopuštaju odmrznuto voće.** Tada bobice potpuno odmrznite u hladnjaku i sačuvajte tekućinu koju ispuste. Više o tome pročitajte u vodiču [kako odmrznuti aroniju za preradu](https://www.cultivias.com/voce/smrznuta-aronija/). Tvrdo zamrznute bobice nemojte stavljati u nastavak za cijeđenje.

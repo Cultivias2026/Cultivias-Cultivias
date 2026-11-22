@@ -38,6 +38,8 @@ Odaberite zrele, čvrste i neoštećene bobice. Uklonite peteljke i listiće, a 
 
 **Od 1 kg bobica možete odvojiti 10 paketića po 100 g.** Na naljepnicu uz datum napišite i masu. To je primjer praktičnog pakiranja, ne porcija koju treba pojesti odjednom. Za pekmez ili kolač napravite veće pakete prema količini iz svojeg recepta.
 
+![Infografika: kako zamrznuti aroniju u pet koraka – operite pod hladnom tekućom vodom, osušite na krpi ili papirnatim ručnicima, rasporedite u jedan sloj na pladanj, zamrznite dok bobice ne budu čvrste te zapakirajte, istisnite zrak i napišite datum i masu; čuvanje na −18 °C ili niže, kvaliteta 8–12 mjeseci, od 1 kg bobica 10 paketa po 100 g; odmrzavanje u pokrivenoj posudi u hladnjaku; ne pakirajte mokre bobice, ne odmrzavajte na pultu, kupljene smrznute bobice obradite prema deklaraciji jer virusi prežive zamrzavanje i ne zamrzavajte ponovno voće koje je stajalo na toplom](/images/articles/infografika-aronija-smrznuta.webp)
+
 ## Koliko dugo čuvati smrznutu aroniju?
 
 Čuvajte je na **−18 °C ili nižoj temperaturi**, u dobro zatvorenoj ambalaži. Kao opću orijentaciju za voće uzmite [8 do 12 mjeseci za očuvanje kvalitete](https://nchfp.uga.edu/how/freeze/freeze-general-information/how-long-can-i-store-frozen-foods/). To je okvir za okus i teksturu, a ne datum nakon kojeg pravilno zamrznute bobice automatski postaju nesigurne.

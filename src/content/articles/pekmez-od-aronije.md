@@ -46,6 +46,8 @@ Pripremite:
 4. **Provjerite mazivost.** Maknite lonac s vatre, stavite žličicu namaza na hladan tanjurić i pustite da se uzorak ohladi. Ako se pri naginjanju razlijeva poput soka, još kratko ukuhavajte. Stanite kada se ohlađeni uzorak polako pomiče i može razmazati žlicom.
 5. **Odmah pripremite za hlađenje.** Namaz rasporedite u male, plitke posude otporne na toplinu. Ne ostavljajte cijeli lonac da se polako hladi preko noći.
 
+![Infografika: pekmez od aronije s jabukom – sastojci 250 g aronije, 250 g oguljene jabuke bez sjemene kućice, 200 g šećera, 50 ml vode i 15 ml limunova soka; test hladnog tanjurića: ako se uzorak razlijeva, kuhajte još kratko, a kad se polako pomiče i može razmazati, gotovo je; u hladnjak unutar 2 sata, čuvati 3–4 dana na najviše 4 °C, višak zamrznuti po 100 g; ogledno posluživanje 20 g na krišku kruha ili u 150 g jogurta; ovo nije zimnica, med ne zamjenjuje šećer 1 : 1, a predugo kuhanje ne uklanja trpkost](/images/articles/infografika-aronija-pekmez.webp)
+
 ## Što rade pektin, šećer i kiselina?
 
 **Za tradicionalni gel potreban je odgovarajući odnos pektina, šećera i kiseline.** Pektin je sastojak voća koji omogućuje želiranje. Šećer sudjeluje u stvaranju gela, a odgovarajuća kiselost pomaže njegovu oblikovanju. [Uloga sastojaka u želiranju](https://nchfp.uga.edu/how/make-jam-jelly/jams-jellies-general-information/jellied-product-ingredients/) objašnjava zašto šećer nije samo zaslađivač.
