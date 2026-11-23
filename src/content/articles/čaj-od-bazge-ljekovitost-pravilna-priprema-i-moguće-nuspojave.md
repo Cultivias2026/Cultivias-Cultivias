@@ -11,7 +11,7 @@ perex: >-
   Priprema se od 3 do 5 grama osušenih cvjetova u 250 ml kipuće vode, uz stajanje od 10 do 15 minuta. Trudnicama i djeci mlađoj od 12 godina preporučuje se oprez i savjetovanje s liječnikom. Sirovi dijelovi biljke (bobice, lišće, kora) su toksični i ne smiju se konzumirati bez termičke obrade.
 readTime: 5
 publishedAt: 2026-07-09
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -132,7 +132,7 @@ Pije se **2 do 3 šalice dnevno**. Europska agencija za lijekove za čaj navodi 
 Đumbir čaju daje ljutkast okus i također se tradicionalno pije kod prehlade, iako nije dokazano da pojačava djelovanje bazge. Za pripremu su vam potrebni:
 
 * 5 grama osušenih cvjetova bazge
-* 2 manja komadića svježe naribanog đumbira
+* komadić svježeg đumbira dug oko 1 cm, naribano
 * 250 ml kipuće vode
 * 1 žličica meda
 * Nekoliko kapi limunovog soka
@@ -205,7 +205,7 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 
 **Cvijet bazge** bogat je flavonoidima, fenolnim kiselinama i eteričnim uljima. Primarno se koristi za **respiratorne tegobe** (prehlada, gripa, sinusitis), poticanje znojenja i kao blagi diuretik. Čaj od cvijeta djeluje blaže.
 
-**Bobice crne bazge** sadrže visoke koncentracije antocijana, vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. Jedna šalica bobica sadrži oko **52 mg vitamina C** i **406 mg kalija**, a koliko kalorija imaju bobice, sok i sirup, donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
+**Bobice crne bazge** sadrže visoke koncentracije antocijana, vitamina C i B vitamina, organskih kiselina te dijetalnih vlakana. U 100 g svježih bobica ima oko **36 mg vitamina C** i **280 mg kalija**, a koliko kalorija imaju bobice, sok i sirup, donosi [pregled kalorija bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Bobice imaju snažnije antioksidativno i imunostimulirajuće djelovanje, ali se **moraju termički obraditi** (kuhati najmanje 10 minuta) jer sirove bobice sadrže toksične cijanogene glikozide.
 
 | Karakteristika    | Cvijet bazge                  | Bobice bazge             |
 | ----------------- | ----------------------------- | ------------------------ |

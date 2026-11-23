@@ -7,7 +7,7 @@ perex: Čaj od kamilice je jedan od najomiljenijih biljnih čajeva na svijetu,
   poznat po svom blagom okusu i mogućim brojnim zdravstvenim prednostima.
 readTime: 5
 publishedAt: 2024-09-29
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -36,11 +36,11 @@ related_articles:
 
 Čaj od kamilice priprema se brzo. Trebaju vam osušeni cvjetovi kamilice ili kupljene filter-vrećice.
 
-Zagrijte vodu do vrenja i prelijte je **preko cvjetova ili vrećice**.
+Za šalicu od 250 ml uzmite **1 do 2 žličice osušenih cvjetova ili jednu filter-vrećicu**. Zagrijte vodu do vrenja i prelijte je preko cvjetova ili vrećice, pa šalicu poklopite.
 
 Ostavite čaj da odstoji 5–10 minuta, ovisno o tome koliko jak želite.
 
-Po želji dodajte malo **meda ili limuna**.
+Po želji dodajte žličicu **meda** ili nekoliko kapi **limuna**.
 
 Čaj od kamilice možete piti topao ili hladan. Ohlađeni čaj koristi se i za [hladne obloge](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/).
 

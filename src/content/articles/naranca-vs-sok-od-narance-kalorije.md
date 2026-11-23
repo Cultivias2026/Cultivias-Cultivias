@@ -60,7 +60,7 @@ Za domaći cijeđeni sok ne treba zbrajati kalorije svih naranči koje ste upotr
 
 Okvirni izračun: izmjerite koliko ste mililitara soka dobili i pomnožite s 0,45 kcal po mililitru. [Baza FoodData Central (USDA) za svježe cijeđeni sok navodi 45 kcal na 100 g](https://fdc.nal.usda.gov/food-details/169098/nutrients), a slično ima i kupovni stopostotni sok iz tablice. Čaša od 200 ml tako ima oko 90 kcal (200 × 0,45), a čaša od 250 ml oko 113 kcal. Ako sok zasladite, dodajte oko 4 kcal po gramu [šećera](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/).
 
-Koliko naranči treba za čašu? Prema istom izvoru jedna srednja naranča daje oko 86 g soka, što je oko 39 kcal, a čaša od 248 g ima oko 112 kcal. Za čašu od 2 dl zato treba oko dvije do tri naranče. Sok jedne naranče (oko 39 kcal) ima manje kalorija od cijelog ploda (oko 62 kcal) jer dio ploda ostane u ostatku nakon cijeđenja.
+Koliko naranči treba za čašu? Prema istom izvoru jedna srednja naranča daje oko 86 g soka, što je oko 39 kcal. Za čašu od 2 dl zato treba oko dvije do tri naranče. Sok jedne naranče (oko 39 kcal) ima manje kalorija od cijelog ploda (oko 62 kcal) jer dio ploda ostane u ostatku nakon cijeđenja.
 
 Drukčije je kada blendate cijeli oguljeni jestivi dio i ništa ne procijedite: tada možete računati energiju svih zadržanih sastojaka. Dodana voda ne uklanja kalorije. Energija naranče samo se raspoređuje u veću količinu napitka. Primjer računa: 300 g oguljenih kriški × 0,47 = oko 141 kcal, bez obzira na to koliko vode dodate.
 

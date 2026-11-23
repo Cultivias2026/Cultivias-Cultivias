@@ -7,7 +7,7 @@ perex: Čaj od mente jedan je od najpoznatijih biljnih napitaka, prepoznatljiv p
   svojoj osvježavajućoj aromi i ugodnom okusu.
 readTime: 3
 publishedAt: 2024-09-14
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -37,7 +37,7 @@ Dobiva se prelijevanjem listova [mente](https://www.cultivias.com/bilje/menta-sv
 
 Za šalicu čaja trebate:
 
-* **mentu** – 1 do 2 žličice sušenih listova, jednu filter-vrećicu ili šaku svježih listova
+* **mentu** – 1 do 2 žličice sušenih listova, jednu filter-vrećicu ili desetak svježih listova
 * **vodu** – 150 do 200 ml kipuće ili gotovo kipuće vode
 * **po želji** – med, limun ili đumbir
 

@@ -170,7 +170,7 @@ Od osušenih cvjetova rade se i tinkture, ulja i drugi pripravci.
 
 #### Priprema čaja:
 
-Osušene cvjetove kamilice prelijte vrućom vodom i ostavite da odstoje nekoliko minuta.
+Jednu do dvije žličice osušenih cvjetova kamilice prelijte s 250 ml vruće vode, poklopite i ostavite 5 do 10 minuta.
 
 Čaj se najčešće pije kod stresa, nesanice i probavnih tegoba.
 
@@ -200,8 +200,8 @@ Inhaliranje kamilicom jednostavan je način da se ublaže simptomi prehlade, upa
 
 ### Postupak inhalacije:
 
-1. Zagrijte vodu do vrenja (100 °C) i prelijte je u veliku zdjelu.
-2. Dodajte 3–5 žlica osušenih cvjetova kamilice ili nekoliko kapi eteričnog ulja kamilice.
+1. Zagrijte oko 1 litre vode do vrenja (100 °C) i prelijte je u veliku zdjelu.
+2. Dodajte 3–5 žlica osušenih cvjetova kamilice ili 2 do 3 kapi eteričnog ulja kamilice.
 3. Nagnite glavu nad zdjelu i prekrijte se ručnikom, da para ostane ispod njega.
 4. Udišite paru 10–15 minuta, duboko dišući na nos i usta.
 5. Nakon inhalacije odmorite se nekoliko minuta.
@@ -220,11 +220,11 @@ Pazite da se ne opečete vrelom vodom ili parom. Djeci ne pripremajte inhalaciju
 
 ### Postupak:
 
-1. Pripremite čaj tako da 2–3 žlice osušenih cvjetova kamilice prelijete s 250 ml vruće vode.
+1. Pripremite čaj tako da 2–3 žlice osušenih cvjetova kamilice prelijete s 500 ml kipuće vode, poklopite i ostavite 10–15 minuta, pa procijedite.
 2. Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak na 30 minuta.
 3. U hladan čaj namočite čistu gazu ili pamučnu krpu.
 4. Lagano iscijedite višak tekućine i položite oblog na bolno mjesto.
-5. Ostavite oblog 15–20 minuta, a zatim ga uklonite.
+5. Ostavite oblog 10–15 minuta, a zatim ga uklonite.
 
 Pomaže kod:
 

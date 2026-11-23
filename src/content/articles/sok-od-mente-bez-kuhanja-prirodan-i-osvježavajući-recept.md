@@ -7,7 +7,7 @@ perex: Priprema soka od mente predstavlja jedan od najjednostavnijih načina da
   uživate u prirodnom okusu ove aromatične biljke.
 readTime: 7
 publishedAt: 2025-08-04
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -50,7 +50,7 @@ Za sirup od mente bez kuhanja trebate:
 * **voda** – 5 litara
 * **šećer** – 5 kg
 * **menta** – 200 do 250 g svježih listova
-* **limunska kiselina** – 15 do 20 g (jedna do dvije žlice)
+* **limunska kiselina** – 15 do 20 g, otprilike jedna puna žlica (najtočnije je izvagati)
 
 <div data-kalkulator="menta-sok"></div>
 
@@ -90,7 +90,7 @@ Temeljito filtriranje važno je i za trajnost, jer sirup nije toplinski obrađen
 **Punjenje i skladištenje:**
 
 * Za punjenje koristite isključivo **čiste, oprane i osušene staklene boce**.
-* Pažljivo ulijte sok, ostavljajući **malo prostora na vrhu**.
+* Pažljivo ulijte sok, ostavljajući **oko 2 cm prostora do vrha**.
 * Boce **dobro zatvorite**, da sirup ne dolazi u dodir sa zrakom.
 
 ## Čuvanje i trajnost soka
@@ -138,13 +138,13 @@ Ako vam treba brzo osvježenje, a **nemate vremena za izradu sirupa**, napitak o
 
 **Priprema brzog napitka od mente**
 
-* Grančicu mente s listovima temeljito operite pod mlazom hladne vode.
-* Stavite je u vrč s hladnom vodom.
+* Tri do četiri grančice mente temeljito operite pod mlazom hladne vode.
+* Stavite ih u vrč s 1 litrom hladne vode.
 * Ostavite mentu da se namače oko 20 minuta, da voda poprimi njezin blagi, osvježavajući okus.
 
 **Savjeti za posluživanje**
 
-Isprobajte različite vrste mente i pronađite okus koji vam najviše odgovara. Napitak poslužite s kockicama leda i kolutovima limuna, a ako volite slađi okus, dodajte malo meda ili šećera.
+Isprobajte različite vrste mente i pronađite okus koji vam najviše odgovara. Napitak poslužite s kockicama leda i kolutovima limuna, a ako volite slađi okus, dodajte žličicu meda ili šećera po čaši.
 
 Ako više volite topli napitak, pripremite [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 

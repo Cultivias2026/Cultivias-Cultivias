@@ -114,7 +114,7 @@ Podaci u tablici potječu iz baze FoodData Central američkog Ministarstva poljo
 | Kalij | 162 mg | 8 % |
 | Željezo | 0,62 mg | 4 % |
 
-Šalica svježih kupina, oko 144 g, ima 62 kcal i 7,6 g vlakana, što je otprilike trećina referentnog unosa vlakana od 25 g. Vlakna pomažu probavi, usporavaju porast šećera u krvi i daju osjećaj sitosti.
+Zdjelica od 150 g svježih kupina ima oko 65 kcal i 8 g vlakana, što je otprilike trećina referentnog unosa vlakana od 25 g. Vlakna pomažu probavi, usporavaju porast šećera u krvi i daju osjećaj sitosti.
 
 Kupina je izvor vitamina C, vitamina K i mangana. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, ti hranjivi sastojci imaju sljedeće uloge:
 

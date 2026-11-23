@@ -9,7 +9,7 @@ perex: Mrkva (Daucus carota) je jedno od najrasprostranjenijih i najomiljenijih
   teksture i bogatog nutritivnog profila.
 readTime: 24
 publishedAt: 2024-10-28
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -392,7 +392,7 @@ Sok od mrkve koncentrirani je izvor beta-karotena. U korejskom istraživanju obj
 
 Sok ipak ima manje vlakana od cijele mrkve, a u čaši se popije šećer iz više korijena, pa ga pijte umjereno, kao i [sok od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/). Najbolji je domaći sok, jer kupovni može imati dodani šećer.
 
-* **priprema** – operite 4 do 5 srednjih mrkvi, odrežite im krajeve i, ako niste sigurni kako su uzgojene, ogulite ih; narežite ih i iscijedite u sokovniku
+* **priprema** – za otprilike jednu čašu soka operite 4 do 5 srednjih mrkvi (oko 500 g), odrežite im krajeve i, ako niste sigurni kako su uzgojene, ogulite ih; narežite ih i iscijedite u sokovniku
 * **odmah popijte** – dio vitamina na zraku brzo oksidira, a sok koji ne popijete odmah držite u hladnjaku
 * **kap ulja** – dodajte nekoliko kapi lanenog ili maslinova ulja, jer masnoća pomaže upijanju beta-karotena
 
@@ -410,7 +410,7 @@ Salata je dobar prilog pečenom mesu ili ribi, a maslinovo ulje u preljevu poma�
 Pečenjem mrkva dobiva slađi i puniji okus, jer se njezini šećeri na vrućini karameliziraju. Priprema je jednostavna.
 
 * **priprema** – zagrijte pećnicu na 200 °C; manje mrkve ostavite cijele, a veće prerežite po dužini i poslažite ih na lim za pečenje
-* **začini** – prelijte ih s malo maslinova ulja, posolite, popaprite i dodajte začine po želji, primjerice ružmarin, [majčinu dušicu (timijan)](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) ili malo meda
+* **začini** – oko 500 g mrkve prelijte s 1 do 2 žlice maslinova ulja, posolite, popaprite i dodajte začine po želji, primjerice ružmarin, [majčinu dušicu (timijan)](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) ili žličicu meda
 * **pečenje** – pecite 20 do 30 minuta, dok mrkva ne omekša i ne dobije zlatnosmeđe rubove
 
 ### Mrkva u juhama i varivima

@@ -44,7 +44,7 @@ Autori ističu da su laboratorijska istraživanja pokazala protuupalno, antioksi
 
 ## Vitamin C i podrška imunitetu
 
-Crni ribiz jedno je od voća s najviše vitamina C. Jedna šalica (112 g) sadrži oko 203 mg vitamina C, gotovo tri puta više nego jedna srednja naranča.
+Crni ribiz jedno je od voća s najviše vitamina C. U 100 g svježih bobica ima oko 181 mg vitamina C, oko dva i pol puta više nego jedna srednja naranča.
 
 Europska agencija za sigurnost hrane (EFSA) odobrila je tvrdnje da vitamin C pridonosi normalnoj funkciji imunosnog sustava, smanjenju umora i iscrpljenosti te zaštiti stanica od oksidativnog stresa.
 

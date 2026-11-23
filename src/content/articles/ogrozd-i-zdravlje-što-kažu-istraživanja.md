@@ -27,7 +27,7 @@ ukratko:
       v: 27,7 mg na 100 g, 35 % referentnog dnevnog unosa
     - k: Vlakna
       v: 4,3 g na 100 g
-    - k: Šalica (oko 150 g)
+    - k: Zdjelica od 150 g
       v: 66 kcal, 6,5 g vlakana i 41,6 mg vitamina C
     - k: Dokazi
       v: Ogrozd nije lijek; istraživanja posebnih ljekovitih svojstava zasad su uglavnom laboratorijska
@@ -59,7 +59,7 @@ Brojke potječu iz baze FoodData Central američkog Ministarstva poljoprivrede (
 | Kalcij | 25 mg | 3 % |
 | Željezo | 0,31 mg | 2 % |
 
-Šalica ogrozda od oko 150 g ima 66 kcal, 6,5 g vlakana i 41,6 mg vitamina C. Koliko kalorija imaju kompot i džem, pročitajte u članku o [kalorijama ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
+Zdjelica od 150 g ogrozda ima 66 kcal, 6,5 g vlakana i 41,6 mg vitamina C. Koliko kalorija imaju kompot i džem, pročitajte u članku o [kalorijama ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/).
 
 ## Znanstvena istraživanja ljekovitih svojstava
 

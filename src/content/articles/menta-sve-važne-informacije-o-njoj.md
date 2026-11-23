@@ -114,7 +114,7 @@ Topli čaj bez kofeina mnogima je ugodan večernji napitak, a neke miris mente o
 
 ### Sok od mente
 
-Osim čaja, ljeti se priprema i [sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/). Domaći sirup sadrži puno šećera, pa ga razrjeđujte vodom i pijte umjereno, kao i gazirana pića. Najjednostavnija osvježavajuća varijanta bez šećera je grančica mente namočena u vrču hladne vode.
+Osim čaja, ljeti se priprema i [sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/). Domaći sirup sadrži puno šećera, pa ga razrjeđujte vodom i pijte umjereno, kao i gazirana pića. Najjednostavnija osvježavajuća varijanta bez šećera su tri do četiri grančice mente namočene u litri hladne vode.
 
 ## Menta i metvica: glavne razlike
 

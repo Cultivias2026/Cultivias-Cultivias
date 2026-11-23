@@ -11,7 +11,7 @@ perex: >-
   Fooda do Jamieja Olivera.
 readTime: 6
 publishedAt: 2026-01-12
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -108,10 +108,10 @@ Ovaj crumble (drobljenac) iz [zbirke recepata s ogrozdom](https://www.greatbriti
 
 > **Za punjenje od ogrozda:**
 >
-> * Ogrozd: 570 g (očišćenog)
+> * Ogrozd: 600 g (očišćenog)
 > * Smeđi kristal šećer: 100 g
-> * Limunov sok: 1 jušna žlica
-> * Cimet: ½ čajne žličice
+> * Limunov sok: 1 žlica
+> * Cimet: ½ žličice
 >
 > **Za hrskavi posip (Crumble):**
 >
@@ -121,12 +121,12 @@ Ovaj crumble (drobljenac) iz [zbirke recepata s ogrozdom](https://www.greatbriti
 > * Maslac: 130 g (hladan, narezan na kockice)
 > * Bademi u listićima: 45 g
 > * Lješnjaci: 35 g (grubo sjeckani)
-> * Muškatni oraščić: svježe nariban, po ukusu
+> * Muškatni oraščić: prstohvat, svježe nariban
 >
 > **Za kremu od vanilije (Custard):**
 >
-> * Slatko vrhnje (za šlag): 425 ml (vrhnje s visokim udjelom mliječne masti)
-> * Punomasno mlijeko: 425 ml
+> * Slatko vrhnje (za šlag): 400 ml (vrhnje s visokim udjelom mliječne masti)
+> * Punomasno mlijeko: 400 ml
 > * Vanilija: 1 mahuna
 > * Žumanjci: 4 komada
 > * Šećer: 130 g
@@ -153,13 +153,13 @@ Ova pita spaja kiselost ogrozda i jabuka s cvjetnom notom bazge, sve omotano u p
 > * Ogrozd: 1,2 kg (očišćen – bez peteljki i vrhova)
 > * Jabuke za kuhanje: 1 kg (kiselkaste sorte, npr. Granny Smith – oguljene, očišćene i narezane na četvrtine)
 > * Sitni kristal šećer: 250 g
-> * Sirup od bazge: 5 jušnih žlica (nerazrijeđen)
+> * Sirup od bazge: 5 žlica, oko 75 ml (nerazrijeđen)
 >
 > **Za prhko tijesto:**
 >
-> * Glatko brašno: 510 g (plus malo za posipanje)
-> * Sol: ½ čajne žličice fine morske soli
-> * Šećer: 1 čajna žličica
+> * Glatko brašno: 500 g (plus malo za posipanje)
+> * Sol: ½ žličice fine soli
+> * Šećer: 1 žličica
 > * Maslac: 375 g (hladan, narezan na kockice od 1 cm)
 > * Ledena voda: cca 120 ml
 > * Bjelanjak: 1 komad (za premazivanje)

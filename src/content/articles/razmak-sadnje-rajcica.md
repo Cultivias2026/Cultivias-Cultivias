@@ -37,7 +37,7 @@ Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension), 
 | Cherry, niska ili kompaktna | prema uputi na vrećici ili sadnici | prema širini biljke i prolazu | Je li biljka stvarno niska ili samo ima sitne plodove |
 | Cherry, visoka i bujna | kao za visoku rajčicu | kao za visoku rajčicu | Potpora i oblikovanje biljke |
 
-Tablica objedinjuje smjernice savjetodavnih službi sveučilišta Utah i Maryland, pa ne propisuje jedan razmak za svaki vrt. Za kaveze Maryland navodi najmanje četiri stope, odnosno oko 120 cm. Uputa za vašu sortu uvijek ima prednost, jer nisu sve niske ili sve cherry rajčice jednako bujne.
+Tablica objedinjuje smjernice savjetodavnih službi sveučilišta Utah i Maryland, pa ne propisuje jedan razmak za svaki vrt. Za kaveze Maryland navodi razmak od najmanje oko 120 cm. Uputa za vašu sortu uvijek ima prednost, jer nisu sve niske ili sve cherry rajčice jednako bujne.
 
 <div data-kalkulator="rajcica-sadnice"></div>
 

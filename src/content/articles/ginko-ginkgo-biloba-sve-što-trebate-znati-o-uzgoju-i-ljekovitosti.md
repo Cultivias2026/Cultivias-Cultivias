@@ -7,7 +7,7 @@ perex: Ginko, ili kako ga znanstvenici nazivaju Ginkgo biloba, jedno je od
   najstarijih živućih vrsta stabala na zemlji.
 readTime: 8
 publishedAt: 2026-01-19
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -100,7 +100,7 @@ Ginko se često spominje kao pomoć kod visokog tlaka, no istraživanja to ne po
 
 ## Čaj od ginka - priprema i korištenje
 
-Čaj od ginka priprema se od sušenog lišća i blagog je, pomalo gorkog okusa. Obično se 1 do 2 čajne žličice sušenog lišća preliju vrućom, ali ne kipućom vodom i ostave 5 do 10 minuta, a pije se 1 do 2 šalice dnevno.
+Čaj od ginka priprema se od sušenog lišća i blagog je, pomalo gorkog okusa. Obično se 1 do 2 čajne žličice sušenog lišća preliju s 250 ml vruće, ali ne kipuće vode i ostave 5 do 10 minuta, a pije se 1 do 2 šalice dnevno.
 
 Čaj ipak nije isto što i ekstrakt iz ljekarne. Sadrži mnogo manje djelatnih tvari, a ginkgolne kiseline iz lišća ostaju u njemu. NCCIH upozorava da su ozbiljne nuspojave opisane i nakon uzimanja neprerađene biljke. Ako ginko želite koristiti kao lijek, birajte registrirani biljni lijek sa standardiziranim ekstraktom.
 

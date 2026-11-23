@@ -10,7 +10,7 @@ perex: >-
   Stoljećima je cijenjena u narodnoj medicini diljem svijeta, a moderna znanost danas potvrđuje njezinu iznimnu vrijednost.
 readTime: 8
 publishedAt: 2026-01-13
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -207,9 +207,9 @@ Sok se čuva u staklenkama na hladnom mjestu, a pije se razrijeđen vodom ili mi
 
 ### Čaj od bazge
 
-Za ljekoviti čaj osušeni cvjetovi ili bobice bazge preliju se vrućom vodom. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+Za čaj od cvjetova osušeni cvjetovi bazge preliju se vrućom vodom. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
-Čaj od bobica sadrži više antioksidansa i ima izraženiji, voćni okus. Obično se ostavi da odstoji 5–10 minuta prije pijenja, a po želji se zasladi medom ili doda limun.
+Čaj od bobica sadrži više antioksidansa i ima izraženiji, voćni okus. Bobice se za njega ne prelijevaju vrućom vodom, nego kuhaju: 10 do 15 g suhih bobica kuha se 10 minuta u pola litre vode, ostavi još 10 minuta i procijedi. Po želji se zasladi medom ili doda limun.
 
 ### Pohana bazga: hrskavi cvatovi
 

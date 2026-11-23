@@ -7,7 +7,7 @@ perex: Kamilica je jedna od najpoznatijih ljekovitih biljaka, a njeni
   blagotvorni učinci koriste se stoljećima u tradicionalnoj medicini.
 readTime: 3
 publishedAt: 2025-04-06
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -80,7 +80,7 @@ Cvjetove kamilice stavite u posudu, prelijte ih kipućom vodom, poklopite i osta
 
 **2. Hlađenje čaja**
 
-Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak.
+Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak na oko 30 minuta.
 
 **3. Primjena obloga**
 

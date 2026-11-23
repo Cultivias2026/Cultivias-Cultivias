@@ -7,7 +7,7 @@ perex: Crni ribiz je popularna biljka poznata po svojem bogatom nutritivnom
   profilu i raznim prednostima za zdravlje.
 readTime: 6
 publishedAt: 2024-06-16
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -174,7 +174,7 @@ Ubrane bobice jedite svježe ili ih zamrznite.
 
 ### Džem od crnog ribiza
 
-Od crnog ribiza, šećera i limunova soka kuha se džem za kruh i kolače. Skuhajte 1 kg crnog ribiza sa 750 g šećera i sokom jednog limuna dok se ne zgusne. Za sok, džem i deserte pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
+Od crnog ribiza, šećera i limunova soka kuha se džem za kruh i kolače. Skuhajte 1 kg crnog ribiza sa 600 do 700 g šećera i sokom jednog limuna dok se ne zgusne. Za sok, džem i deserte pogledajte [recepte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/).
 
 ### Smoothie s crnim ribizom
 

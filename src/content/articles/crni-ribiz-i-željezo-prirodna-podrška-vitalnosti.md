@@ -45,8 +45,8 @@ Prema pravilima EU, namirnica se smije nazvati izvorom željeza tek kad 100 g sa
 
 ### Zanimljive metrike i porcije
 
-* **1 šalica (oko 112 g)** – otprilike 1,7 mg željeza
-* **četvrtina šalice (oko 28 g)** – oko 0,4 mg željeza
+* **100 g svježih bobica** – oko 1,5 mg željeza
+* **50 g, manja porcija** – oko 0,8 mg željeza
 
 Koliko kalorija imaju svježe bobice, sok i džem, donosi pregled [kalorija crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/).
 

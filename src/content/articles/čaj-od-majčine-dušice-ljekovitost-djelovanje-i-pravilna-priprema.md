@@ -6,7 +6,7 @@ image: /images/articles/čaj-od-majčine-dušice.webp
 perex: "Čaj od majčine dušice (Thymus serpyllum) tradicionalni je biljni napitak kod kašlja, bronhitisa i probavnih tegoba. Sadrži timol i karvakrol, spojeve koji u laboratorijskim istraživanjima koče rast bakterija i gljivica. Djeci mlađoj od četiri godine ne daje se kao lijek bez savjeta pedijatra, a trudnicama i osobama s cirozom jetre preporučuje se oprez i savjetovanje s liječnikom."
 readTime: 8
 publishedAt: 2026-07-10
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -99,7 +99,7 @@ Zato se pridržavajte ovih pravila:
 
 * **djeca mlađa od četiri godine** – čaj im ne dajte kao lijek bez savjeta **pedijatra**
 * **djeca od 4 do 12 godina** – koristite pripravke s doziranjem za tu dob na uputi ili se prethodno posavjetujte s pedijatrom ili ljekarnikom
-* **blaži čaj** – ako pedijatar odobri čaj, pripremite ga blaže nego za odrasle, s otprilike **pola žličice** suhe biljke na šalicu vode
+* **blaži čaj** – ako pedijatar odobri čaj, pripremite ga blaže nego za odrasle, s otprilike **pola žličice** suhe biljke na 2 dl vode
 * **dojenčad** – med ne dodajte u čaj djeci mlađoj od godine dana
 * **alergije** – djetetu koje je alergično na metvicu, kadulju ili druge usnače čaj ne dajte
 
