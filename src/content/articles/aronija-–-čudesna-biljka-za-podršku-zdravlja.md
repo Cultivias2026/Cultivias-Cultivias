@@ -16,6 +16,25 @@ tags:
   - aronija
   - zdravlje
 noindex: false
+ukratko:
+  naslov: Aronija ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Aronia melanocarpa*, crnoplodna aronija, porodica ruža (Rosaceae)"
+    - k: Što sadrži
+      v: Vlakna i mnogo polifenola, osobito antocijana, koji joj daju tamnu boju
+    - k: Okus
+      v: Trpak i opor
+    - k: Kalorije
+      v: "[50 kcal na 100 g](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/) svježih bobica"
+    - k: Voće ili lijek
+      v: Voće, a ne lijek; nema dovoljno kvalitetnih dokaza da liječi bolesti
+oprez:
+  stavke:
+    - Najviše opreza traže koncentrirani pripravci (ekstrakti, kapsule, matični sok), a ne svježe voće.
+    - Uz stalnu terapiju, u trudnoći i dojenju, kod kroničnih bolesti i prije dodataka za djecu pitajte liječnika ili ljekarnika.
+    - Uz kemoterapiju ili zračenje koncentrirane pripravke ne uzimajte bez dogovora s onkologom.
+  vise: "#tko-treba-biti-oprezan-s-pripravcima-od-aronije"
 related_articles:
   - je-li-aronija-štetna-po-naše-zdravlje
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije

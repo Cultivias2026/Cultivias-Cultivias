@@ -17,6 +17,19 @@ tags:
   - uzgoj
 metaTitle: Koje su najukusnije sorte paradajza u našim krajevima?
 noindex: false
+ukratko:
+  naslov: Koju sortu za što
+  stavke:
+    - k: Za salatu i sendviče
+      v: Volovsko srce, beefsteak sorte i Brandywine
+    - k: Za umake i zimnicu
+      v: San Marzano i Roma
+    - k: Za balkon i mali vrt
+      v: Cherry rajčice i determinantne sorte
+    - k: Za neobičan okus
+      v: Black Krim, tamnog ploda i blago dimljenog okusa
+    - k: Klima
+      v: U toplijim krajevima, poput Dalmacije i Primorja, većina sorti bolje uspijeva
 related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

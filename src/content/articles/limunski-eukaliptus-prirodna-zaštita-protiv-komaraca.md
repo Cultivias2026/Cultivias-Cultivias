@@ -20,6 +20,29 @@ tags:
   - eukaliptus
   - zdravlje
   - uzgoj
+ukratko:
+  naslov: Limunski eukaliptus ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Corymbia citriodora* (ranije *Eucalyptus citriodora*), porodica mirtovki (Myrtaceae)"
+    - k: Miris
+      v: Na limun, zbog citronelala, koji čini 60–85 % eteričnog ulja
+    - k: Protiv komaraca
+      v: Djeluju registrirani repelenti s OLE-om ili PMD-om; čisto eterično ulje nije pouzdan repelent
+    - k: Biljka na balkonu
+      v: Ugodno miriše, ali sama ne štiti od uboda
+    - k: Otpornost na mraz
+      v: Samo slabi mrazevi, otprilike do −3 °C
+    - k: Uzgoj u kontinentalnoj Hrvatskoj
+      v: U tegli od najmanje 30 litara, a zimi u svijetloj prostoriji
+oprez:
+  stavke:
+    - Repelente s OLE-om ili PMD-om ne koristite kod djece mlađe od 3 godine.
+    - Čisto eterično ulje ne koristite kod djece i nikad ga ne nanosite nerazrijeđeno na kožu.
+    - Ako ste alergični na mirtovke, prije šire primjene napravite test na malom dijelu kože i pričekajte 24 sata.
+    - Eterično ulje ne nanosite na kućne ljubimce; eukaliptus je otrovan za pse, mačke i konje.
+  vise: "#sigurnost-i-mjere-opreza"
+  viseTekst: Više o sigurnosti i mjerama opreza
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa

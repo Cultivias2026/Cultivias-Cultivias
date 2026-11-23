@@ -15,6 +15,13 @@ tags:
   - menta
   - recepti
 noindex: false
+oprez:
+  stavke:
+    - Ako ste alergični na usnače ili ste već imali reakciju na mentu, prije pijenja se posavjetujte s liječnikom.
+    - Ako vam otekne lice, usne ili grlo ili otežano dišete, odmah potražite hitnu medicinsku pomoć.
+    - "Divlju mentu berite samo ako je sigurno prepoznajete: samonikla *Mentha pulegium* miriše slično, ali je otrovna."
+    - Med ne dajte djeci mlađoj od godine dana.
+    - Sirup je vrlo sladak; uz dijabetes ga pijte rijetko i jako razrijeđen.
 related_articles:
   - menta-sve-važne-informacije-o-njoj
   - kako-uzgojiti-mentu-u-tegli-kod-kuće
@@ -44,6 +51,9 @@ Za sirup od mente bez kuhanja trebate:
 * **šećer** – 5 kg
 * **menta** – 200 do 250 g svježih listova
 * **limunska kiselina** – 15 do 20 g (jedna do dvije žlice)
+
+<div data-kalkulator="menta-sok"></div>
+
 
 **Napomena:** Količinu šećera i limunske kiseline možete prilagoditi ukusu. Ako želite kiseliji okus, dodajte više limunske kiseline, a mente stavite više ili manje, ovisno o tome koliko jak okus želite. Uvijek je bolje početi s manjom količinom i dodati po potrebi.
 

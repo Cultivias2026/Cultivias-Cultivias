@@ -20,6 +20,10 @@ tags:
   - recepti
 metaTitle: Recepti i ideje od crnog ribiza
 noindex: false
+oprez:
+  stavke:
+    - U mousseu su bjelanjci sirovi; koristite pasterizirane ili ga ne dajte trudnicama, maloj djeci, starijim osobama i osobama oslabljenog imuniteta.
+    - Za pekmez, sok i sirup koristite čiste i sterilizirane staklenke i boce.
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
   - crni-ribiz-kalorije-prema-obliku-proizvoda

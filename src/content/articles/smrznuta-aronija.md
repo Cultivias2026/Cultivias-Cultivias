@@ -12,6 +12,21 @@ editors_pick: false
 tags:
   - aronija
   - recepti
+ukratko:
+  naslov: Smrznuta aronija ukratko
+  stavke:
+    - k: Priprema
+      v: Zrele, čvrste bobice bez peteljki operite i dobro osušite
+    - k: Zamrzavanje
+      v: U jednom sloju na pladnju, zatim u vrećice bez viška zraka; šećer ni sirup nisu potrebni
+    - k: Temperatura
+      v: −18 °C ili niže
+    - k: Koliko čuvati
+      v: 8 do 12 mjeseci za očuvanje kvalitete
+    - k: Odmrzavanje
+      v: U pokrivenoj posudi u hladnjaku, ne na pultu
+    - k: Kupljene smrznute bobice
+      v: Ako deklaracija traži kuhanje, kuhajte ih i prije dodavanja u smoothie
 related_articles:
   - sok-od-aronije
   - pekmez-od-aronije

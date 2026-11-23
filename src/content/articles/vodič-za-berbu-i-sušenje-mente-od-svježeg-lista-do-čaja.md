@@ -16,6 +16,21 @@ tags:
   - cajevi
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Berba i sušenje mente ukratko
+  stavke:
+    - k: Kada brati
+      v: Neposredno prije cvatnje, kad su listovi najbogatiji eteričnim uljima
+    - k: Doba dana
+      v: Ujutro, kad se rosa osuši, a prije najjačeg sunca
+    - k: Sušenje na zraku
+      v: 5–7 dana, u jednom sloju, na suhom, toplom i prozračnom mjestu bez izravnog sunca
+    - k: Sušenje u pećnici
+      v: Na najnižoj temperaturi, po mogućnosti 40–50 °C, s malo odškrinutim vratima
+    - k: Kad je gotovo
+      v: Listovi se lome pod prstima
+    - k: Čuvanje
+      v: U dobro zatvorenim staklenkama, na suhom, hladnom i tamnom mjestu, do sljedeće berbe
 related_articles:
   - kako-uzgojiti-mentu-u-tegli-kod-kuće
   - čaj-od-mente--svojstva-priprema-i-zanimljivosti

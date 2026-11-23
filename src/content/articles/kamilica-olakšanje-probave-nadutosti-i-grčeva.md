@@ -20,6 +20,12 @@ tags:
   - cajevi
 metaTitle: "Kamilica: olakšanje probave, nadutosti i grčeva"
 noindex: false
+oprez:
+  stavke:
+    - Ne pijte je ako ste alergični na kamilicu ili druge glavočike, poput ambrozije.
+    - Prije nego što bebi date čaj, posavjetujte se s pedijatrom; bebama mlađima od 6 mjeseci preporučuje se samo majčino mlijeko.
+    - Ako probavne tegobe traju dulje od tjedan dana ili se ponavljaju, javite se liječniku.
+    - Čir na želucu i infekcija bakterijom *Helicobacter pylori* liječe se lijekovima; čaj nije zamjena za liječenje.
 related_articles:
   - čaj-od-kamilice
   - kamilica-biljka-naših-baka

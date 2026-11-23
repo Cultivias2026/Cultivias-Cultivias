@@ -20,6 +20,39 @@ tags:
   - eukaliptus
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Eukaliptus u tegli ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "Rod *Eucalyptus*, porodica mirtovki (Myrtaceae)"
+    - k: Najbolja sorta za teglu
+      v: "*E. gunnii* 'Azura', koja raste sporije i dobro podnosi rezidbu"
+    - k: Sunce
+      v: Najmanje 6 sati izravnog sunca dnevno, a najbolje raste uz 8 sati
+    - k: Tegla i supstrat
+      v: Tegla od 12 do 20 litara s otvorima na dnu; propusna zemlja pH 6,0–7,0, npr. 2 dijela zemlje za lončanice i 1 dio perlita ili pijeska
+    - k: Zalijevanje
+      v: Od travnja do sredine listopada svaki dan, zimi otprilike dvaput tjedno uz provjeru zemlje
+    - k: Zima
+      v: Kod mraza ispod otprilike −5 °C teglu omotajte ili biljku unesite u hladnu prostoriju u kojoj se ne smrzava
+    - k: Kućni ljubimci
+      v: Otrovan je za pse, mačke i konje (ASPCA), a eterično ulje i za djecu ako ga progutaju
+kalendar:
+  napomena: Prema savjetima britanskog RHS-a i rasadnika Hardy Eucalyptus, navedenima u članku.
+  redovi:
+    - radnja: Rezidba
+      vrsta: rezidba
+      mjeseci: [2, 3]
+      moguce: [6]
+      opis: veljača – ožujak, a drugi termin početkom lipnja
+    - radnja: Prihrana
+      vrsta: njega
+      mjeseci: [4, 5, 6, 7, 8, 9]
+      opis: travanj – rujan, svakih 10–14 dana, na pola doze
+    - radnja: Svakodnevno zalijevanje
+      vrsta: njega
+      mjeseci: [4, 5, 6, 7, 8, 9, 10]
+      opis: travanj – sredina listopada
 related_articles:
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
   - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce

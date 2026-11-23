@@ -19,6 +19,14 @@ tags:
   - bazga
   - cajevi
   - zdravlje
+oprez:
+  stavke:
+    - Djeci mlađoj od 12 godina čaj od bazge dajte samo uz savjet pedijatra.
+    - Za čaj koristite cvjetove; lišće, grančice i sirove bobice sadrže cijanogene glikozide.
+    - U trudnoći i dojenju prije pijenja se posavjetujte s liječnikom.
+    - Ako uzimate lijekove za dijabetes, krvni tlak, diuretike ili primate kemoterapiju, prvo pitajte liječnika.
+    - Kod alergije na pelud moguće su alergijske reakcije.
+  vise: "#nuspojave-i-kontraindikacije"
 related_articles:
   - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu

@@ -13,6 +13,21 @@ editors_pick: false
 tags:
   - rajcica
   - uzgoj
+ukratko:
+  naslov: Vršna trulež ukratko
+  stavke:
+    - k: Kako izgleda
+      v: Smeđa ili vodenasta mrlja na donjem kraju ploda, koja se širi, udubljuje i postane tamna i kožasta
+    - k: Uzrok
+      v: Nedostatak kalcija u plodu, najčešće zbog neujednačene vlage u zemlji
+    - k: Je li zarazna
+      v: Nije, ne uzrokuju je gljivice ni bakterije
+    - k: Što učiniti
+      v: Zalijevajte ravnomjerno, malčirajte i pazite da voda otječe
+    - k: Kalcij
+      v: Ne dodaje se naslijepo, nego tek ako to pokaže analiza tla
+    - k: Može li se jesti
+      v: Ako je mrlja suha i ograničena, odrežite je s malo zdravog tkiva; mekan, pljesniv ili smrdljiv plod bacite
 related_articles:
   - zalijevanje-rajcica-koliko-cesto-i-kako
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

@@ -16,6 +16,13 @@ tags:
   - zdravlje
 metaTitle: "Crni ribiz: ljekovitost i zdravstvene prednosti"
 noindex: false
+oprez:
+  stavke:
+    - Dodaci crnog ribiza ne preporučuju se kod poremećaja zgrušavanja krvi ni pred operacijom, jer mogu usporiti zgrušavanje.
+    - Trudnice, dojilje i osobe koje uzimaju lijekove neka se prije uzimanja dodataka posavjetuju s liječnikom.
+    - Dodaci prehrani i ulje sjemenki mogu izazvati mekšu stolicu, blagi proljev i plinove.
+  vise: "#moguće-nuspojave"
+  viseTekst: Više o mogućim nuspojavama
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
   - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti

@@ -19,6 +19,44 @@ tags:
   - cajevi
 metaTitle: "Majčina Dušica: vodič kroz ljekovita svojstva i upotrebu"
 noindex: false
+ukratko:
+  naslov: Majčina dušica ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Thymus serpyllum*, porodica usnača (Lamiaceae)"
+    - k: Vrsta biljke
+      v: Niska, puzava trajnica; srodni timijan (*Thymus vulgaris*) raste uspravno
+    - k: Cvatnja
+      v: Lipanj – rujan, sitnim ružičastim do ljubičastim cvjetovima
+    - k: Položaj i tlo
+      v: Puno sunce i propusno, siromašno, pjeskovito ili kamenito tlo
+    - k: Zalijevanje
+      v: Umjereno, tek kad se zemlja potpuno osuši; ne podnosi mokro tlo zimi
+    - k: Sadnja
+      v: U proljeće ili jesen; iz sjemena je za berbu spremna tek nakon otprilike godinu dana
+    - k: Orezivanje
+      v: Nakon cvatnje skratite je za otprilike trećinu, ali ne u stari, drvenasti dio
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [4, 5, 9, 10]
+      opis: u proljeće ili jesen
+    - radnja: Cvatnja
+      vrsta: cvatnja
+      mjeseci: [6, 7, 8, 9]
+      opis: lipanj – rujan
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [6, 7, 8]
+      opis: u punoj cvatnji, za sunčanih dana, obično lipanj – kolovoz
+oprez:
+  stavke:
+    - Ako ste alergični na usnače, poput metvice, origana ili kadulje, može izazvati alergijsku reakciju.
+    - Uz lijekove protiv zgrušavanja krvi ne uzimajte veće količine.
+    - U trudnoći i dojenju koristite je kao začin, a u ljekovite svrhe samo uz savjet liječnika.
+    - Ako vam oteknu usne, jezik ili grlo ili otežano dišete, odmah potražite hitnu medicinsku pomoć.
+  vise: "#nuspojave-i-mjere-opreza"
 related_articles:
   - čaj-od-majčine-dušice-ljekovitost-djelovanje-i-pravilna-priprema
   - kadulja--ljekovita-biljka-s-dugom-tradicijom

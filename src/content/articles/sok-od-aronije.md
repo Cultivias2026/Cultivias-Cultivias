@@ -12,6 +12,21 @@ editors_pick: false
 tags:
   - aronija
   - recepti
+ukratko:
+  naslov: Sok od aronije ukratko
+  stavke:
+    - k: Bobice
+      v: 500 g za manju turu, a 1 kg samo ako to dopušta vaš sokovnik
+    - k: Dodaci
+      v: Voda, šećer i limun za samo cijeđenje nisu potrebni
+    - k: Prinos
+      v: 1 kg bobica ne daje 1 litru soka, pa prvu turu izmjerite
+    - k: Primjer porcije
+      v: Za čašu od 2 dl 50 ml soka i 150 ml vode
+    - k: Čuvanje
+      v: Pokriven u hladnjaku za isti dan, a višak zamrznite u porcijama od 50 ml
+    - k: Sigurnost
+      v: Iscijeđen sok nije pasteriziran, pa ga djeca, trudnice, starije osobe i osobe oslabljenog imuniteta trebaju izbjegavati
 related_articles:
   - smrznuta-aronija
   - pekmez-od-aronije

@@ -16,6 +16,44 @@ tags:
   - uzgoj
   - zdravlje
 noindex: false
+ukratko:
+  naslov: Kupina ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Rubus fruticosus*, skupina srodnih vrsta iz porodice ruža (Rosaceae)"
+    - k: Položaj
+      v: Sunčano i zaštićeno, najmanje 6–8 sati sunca; rodi i u laganoj sjeni
+    - k: Tlo
+      v: Propusno, pH 5,5–6,5, bogato organskom tvari
+    - k: Razmak
+      v: Uspravne sorte 1–1,5 m u redu i 2,5–3 m između redova; bujne sorte na žici 2,5–4,5 m
+    - k: Rodnost
+      v: Rađa na prošlogodišnjim izbojima, koji nakon berbe odumiru
+    - k: Sorte bez trnja
+      v: "'Loch Ness', 'Triple Crown', 'Black Satin' i 'Chester'"
+    - k: Zrelost i čuvanje
+      v: Tamni, sjajni plodovi koji se lako odvajaju; u hladnjaku traju 2–3 dana
+    - k: Kalorije
+      v: "[43 kcal na 100 g](https://www.cultivias.com/voce/kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu/)"
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11, 3]
+      moguce: [12, 1, 2]
+      opis: od sredine jeseni do ranog proljeća, dok biljka miruje
+    - radnja: Pinciranje
+      vrsta: njega
+      mjeseci: [6, 7, 8]
+      opis: tijekom ljeta, kad novi izboji dosegnu željenu visinu
+    - radnja: Reznice
+      vrsta: sadnja
+      mjeseci: [8, 9]
+      opis: krajem ljeta ili početkom jeseni
+    - radnja: Uklanjanje izboja koji su rodili
+      vrsta: rezidba
+      mjeseci: [10, 11]
+      opis: nakon berbe ili u kasnu jesen, do tla
 related_articles:
   - kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu
   - ogrozd--zaboravljeno-supervoće
@@ -110,6 +148,8 @@ Kupine se najčešće prodaju u posudama. Najbolje ih je saditi od sredine jesen
 Razmak ovisi o sorti i načinu uzgoja. U nasadima se uspravne sorte sade na 1 do 1,5 m unutar reda i 2,5 do 3 m između redova, a bujne sorte koje se vežu na žicu RHS sadi na 2,5 do 4,5 m.
 
 Grane kupine duge su i povijene, pa im treba potpora od žice, ograde ili pergole. Redovito zalijevanje važno je osobito u sušnim razdobljima i dok se razvijaju plodovi.
+
+<div data-kalkulator="kupina-sadnice"></div>
 
 ## Razmnožavanje kupine - reznice i izdanci
 

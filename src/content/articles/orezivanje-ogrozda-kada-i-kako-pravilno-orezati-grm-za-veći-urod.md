@@ -23,6 +23,29 @@ tags:
   - uzgoj
 metaTitle: "Orezivanje ogrozda: Kada i kako pravilno orezati grm za veći urod?"
 noindex: false
+ukratko:
+  naslov: Orezivanje ogrozda ukratko
+  stavke:
+    - k: Glavna rezidba
+      v: Krajem zime, u veljači, prije listanja
+    - k: Što ukloniti
+      v: Grane starije od tri godine, suhe, oštećene i polegle grane te one koje zgušnjavaju sredinu
+    - k: Prošlogodišnji izboji
+      v: Skratite ih za otprilike dvije trećine, na 3–4 pupa, a bočne na 2 pupa
+    - k: Ljetna rezidba
+      v: U lipnju i srpnju bočne izboje skratite na pet listova
+    - k: Zašto
+      v: Ogrozd najviše rađa na dvogodišnjem i trogodišnjem drvu
+kalendar:
+  redovi:
+    - radnja: Zimska rezidba
+      vrsta: rezidba
+      mjeseci: [2]
+      opis: veljača, prije listanja; glavna rezidba
+    - radnja: Ljetna rezidba
+      vrsta: rezidba
+      mjeseci: [6, 7]
+      opis: lipanj – srpanj, samo kad je grm pregust
 related_articles:
   - kako-posaditi-i-razmnožiti-ogrozd
   - ogrozd--zaboravljeno-supervoće

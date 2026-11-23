@@ -18,6 +18,19 @@ tags:
   - uzgoj
 metaTitle: Uzgoj kamilice na balkonu u tegli? Da, moguće je!
 noindex: false
+ukratko:
+  naslov: Kamilica na balkonu ukratko
+  stavke:
+    - k: Tegla
+      v: Promjera najmanje 20–30 cm, s rupama na dnu
+    - k: Zemlja
+      v: Lagana, propusna zemlja za cvijeće, po želji s malo komposta
+    - k: Sunce
+      v: Barem 5–6 sati izravnog sunca dnevno
+    - k: Sjetva
+      v: Sjeme se razbaca po površini i samo lagano utisne, bez prekrivanja
+    - k: Sjeme
+      v: "Prava kamilica, *Matricaria chamomilla*"
 related_articles:
   - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli
   - branje-kamilice-savjeti-za-uspješnu-berbu

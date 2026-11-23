@@ -18,6 +18,14 @@ tags:
   - cajevi
 metaTitle: Kadulja i ljekovitost! Zašto bi mogla biti dobar izbor?
 noindex: false
+oprez:
+  stavke:
+    - Ljekovite pripravke od kadulje EMA ne preporučuje mlađima od 18 godina.
+    - Kao lijek je ne uzimajte u trudnoći, a ni tijekom dojenja, jer smanjuje količinu mlijeka.
+    - Kod epilepsije je izbjegavajte, jer tujon može potaknuti napadaje.
+    - Eterično ulje kadulje ne smije se piti.
+    - Kao lijek je koristite najviše dva tjedna, a ako se liječite ili uzimate lijekove, prvo se posavjetujte s liječnikom ili ljekarnikom.
+  vise: "#treba-li-se-kadulja-koristiti-s-oprezom"
 related_articles:
   - kadulja--ljekovita-biljka-s-dugom-tradicijom
   - ružmarin-put-od-sadnje-do-čaja-i-ulja

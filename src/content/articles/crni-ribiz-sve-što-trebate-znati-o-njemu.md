@@ -17,6 +17,41 @@ tags:
   - zdravlje
 metaTitle: Crni ribiz- sve što trebate znati o njemu
 noindex: false
+ukratko:
+  naslov: Crni ribiz ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Ribes nigrum*, listopadni grm podrijetlom iz Europe i sjeverne Azije"
+    - k: Vitamin C
+      v: 181 mg na 100 g svježih bobica
+    - k: Kalorije
+      v: "[Pregled po obliku proizvoda](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/): svježe bobice, sok i džem"
+    - k: Sadnja
+      v: Oko 5 cm dublje nego u rasadniku, na razmak 1,2–1,5 m
+    - k: Rezidba
+      v: Zimi pri tlu odrežite do četvrtine najstarijih grana
+    - k: Berba
+      v: Sredinom ljeta
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11]
+      moguce: [3, 4]
+      opis: najbolje listopad – studeni, a može i ožujak – travanj
+    - radnja: Rezidba
+      vrsta: rezidba
+      mjeseci: [2, 3]
+      opis: veljača – ožujak, dok grm miruje
+    - radnja: Gnojidba
+      vrsta: njega
+      mjeseci: [3, 4, 6]
+      opis: ožujak – travanj i lipanj
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7]
+      moguce: [6, 8]
+      opis: sredinom ljeta, ovisno o sorti i vremenu
 related_articles:
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
   - berba-crnog-ribiza-kako-i-kada

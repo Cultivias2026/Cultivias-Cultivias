@@ -14,6 +14,28 @@ editors_pick: false
 tags:
   - ginko
   - uzgoj
+ukratko:
+  naslov: Rast ginka ukratko
+  stavke:
+    - k: Brzina rasta
+      v: U prosjeku 30–50 cm godišnje, a na dubokom, vlažnom i propusnom tlu uz puno sunca i do 90 cm
+    - k: Patuljaste sorte
+      v: "Npr. 'Mariken', koja raste oko 10 cm godišnje"
+    - k: Odraslo stablo
+      v: 15–30 m visine i 10–15 m širine
+    - k: Tlo
+      v: Dobro drenirano, pH 5–7; podnosi ilovasta, pjeskovita i glinena tla
+    - k: Položaj
+      v: Puno sunca
+    - k: Berba lišća
+      v: U jesen, kad listovi počnu žutjeti
+kalendar:
+  redovi:
+    - radnja: Berba lišća
+      vrsta: berba
+      mjeseci: [10]
+      moguce: [11]
+      opis: u jesen, kad listovi počnu žutjeti
 related_articles:
   - ginko-ginkgo-biloba-sve-što-trebate-znati-o-uzgoju-i-ljekovitosti
   - menta-sve-važne-informacije-o-njoj

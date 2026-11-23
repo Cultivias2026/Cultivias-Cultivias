@@ -17,6 +17,19 @@ tags:
   - uzgoj
 metaTitle: "Sorte ogrozda: Vodič kroz boje, vrste i hibride za vaš vrt"
 noindex: false
+ukratko:
+  naslov: Sorte ogrozda ukratko
+  stavke:
+    - k: Crveni
+      v: "Najčešće slatkasti i sočni, npr. 'Hinnonmäki Röd', 'Captivator' i 'Pax'"
+    - k: Bijeli, žuti i zeleni
+      v: "Od slatkokiselih do slatkih, npr. 'Hinnonmäki Yellow', 'Invicta' i 'Leveller'"
+    - k: Za hladnije krajeve
+      v: "'Hinnonmäki Röd', finska sorta otporna na niske temperature"
+    - k: Otpornost na pepelnicu
+      v: "Navodi se za 'Hinnonmäki Yellow', a 'Invicta' je djelomično otporna"
+    - k: Bez trnja
+      v: Josta, hibrid crnog ribiza i ogrozda, koja dozrijeva u srpnju
 related_articles:
   - kako-posaditi-i-razmnožiti-ogrozd
   - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod

@@ -20,6 +20,51 @@ tags:
   - zdravlje
 metaTitle: "Bazga (zova): sve o ovoj moćnoj i poznatoj biljci"
 noindex: false
+ukratko:
+  naslov: Bazga ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Sambucus nigra*, porodica Adoxaceae"
+    - k: Vrsta biljke
+      v: Listopadni grm ili manje stablo, visoko 3–10 m
+    - k: Cvatnja
+      v: U kasno proljeće i rano ljeto, kremastobijelim štitastim cvatovima promjera do 20 cm
+    - k: Položaj i tlo
+      v: Sunčan ili polusjenovit položaj, vlažno i dobro drenirano tlo
+    - k: Oprašivanje
+      v: Samooplodna je, ali dvije različite sorte u blizini daju znatno veći urod
+    - k: Što je jestivo
+      v: Samo cvjetovi i kuhane, potpuno zrele bobice crne bazge
+    - k: Opasna zamjena
+      v: "Abdovina (*Sambucus ebulus*), zeljasta biljka uspravnih cvatova, otrovna je cijela"
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11]
+      moguce: [3]
+      opis: u jesen ili rano proljeće
+    - radnja: Rezidba
+      vrsta: rezidba
+      mjeseci: [2, 3]
+      opis: u kasnu zimu ili rano proljeće
+    - radnja: Berba cvjetova
+      vrsta: cvatnja
+      mjeseci: [5, 6, 7]
+      opis: u punom cvatu, obično svibanj – srpanj
+    - radnja: Berba bobica
+      vrsta: berba
+      mjeseci: [9, 10]
+      moguce: [8]
+      opis: od kraja kolovoza do listopada, samo potpuno zrele
+oprez:
+  stavke:
+    - Sirove bobice, listove, koru, peteljke i sjemenke ne jedite; bobice prije jela uvijek kuhajte.
+    - Koristite samo crnu bazgu i ne riskirajte sa zamjenom vrsta.
+    - Lijekovi od cvijeta bazge namijenjeni su samo odraslima i djeci starijoj od 12 godina.
+    - Trudnice i dojilje neka se prije upotrebe posavjetuju s liječnikom.
+    - Prije bilo kakve kure posavjetujte se s liječnikom.
+  vise: "#sigurnost-i-mjere-opreza"
 related_articles:
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
   - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave

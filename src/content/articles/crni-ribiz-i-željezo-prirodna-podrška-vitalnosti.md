@@ -16,6 +16,19 @@ tags:
   - zdravlje
 metaTitle: "Crni ribiz i željezo: Prirodna podrška vitalnosti"
 noindex: false
+ukratko:
+  naslov: Crni ribiz i željezo ukratko
+  stavke:
+    - k: Željezo
+      v: 1,54 mg na 100 g svježih bobica; prema pravilima EU to nije dovoljno za naziv „izvor željeza”
+    - k: Vitamin C
+      v: 181 mg na 100 g, a vitamin C povećava upijanje željeza iz biljne hrane
+    - k: Kako jesti
+      v: Svježe bobice uz obrok s mahunarkama, žitaricama ili zelenim povrćem
+    - k: Uz obrok izbjegavajte
+      v: Čaj, kavu i mliječne proizvode, jer smanjuju upijanje željeza
+    - k: Kuhanje
+      v: Željezo se ne gubi, ali vitamin C se razgrađuje, pa džem i sirup kuhajte kratko
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
   - crni-ribiz-ljekovitost-i-zdravstvene-prednosti

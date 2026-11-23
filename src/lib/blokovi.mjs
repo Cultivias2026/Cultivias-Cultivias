@@ -132,13 +132,13 @@ function renderKalkulator(id) {
     return (
       kalkPocetak('sadnice', c) +
       '<div class="cv-kalk__polja">' +
-      polje('Dužina gredice (m)', 'd', fmt(c.d).replace(',', '.'), { min: 0.5, max: 100, step: 0.1 }) +
-      polje('Širina gredice (m)', 'w', fmt(c.w).replace(',', '.'), { min: 0.3, max: 50, step: 0.1 }) +
-      `<label class="cv-kalk__polje cv-kalk__polje--siroko"><span>Sorta</span><select data-k="preset">` +
+      polje(c.lD || 'Dužina gredice (m)', 'd', fmt(c.d).replace(',', '.'), { min: 0.5, max: 100, step: 0.1 }) +
+      polje(c.lW || 'Širina gredice (m)', 'w', fmt(c.w).replace(',', '.'), { min: 0.3, max: 50, step: 0.1 }) +
+      `<label class="cv-kalk__polje cv-kalk__polje--siroko"><span>${esc(c.lPreset || 'Sorta')}</span><select data-k="preset">` +
       c.presets.map((x, i) => `<option value="${i}">${esc(x.n)}</option>`).join('') +
       '</select></label>' +
-      polje('Razmak u redu (cm)', 's', p.s, { min: 10, max: 300, step: 5 }) +
-      polje('Razmak između redova (cm)', 'r', p.r, { min: 10, max: 400, step: 5 }) +
+      polje('Razmak u redu (cm)', 's', p.s, { min: 1, max: 500, step: 1 }) +
+      polje('Razmak između redova (cm)', 'r', p.r, { min: 5, max: 600, step: 5 }) +
       '</div>' +
       `<p class="cv-kalk__rez" data-rez aria-live="polite">${sadniceRez(c, c.d, c.w, p.s, p.r)}</p>` +
       `<p class="cv-kalk__nap">${inline(c.napomena)}</p></div>`
@@ -163,9 +163,9 @@ function renderKalkulator(id) {
       kalkPocetak('kalorije', c) +
       '<div class="cv-kalk__polja">' +
       `<label class="cv-kalk__polje cv-kalk__polje--siroko"><span>${esc(c.labelStavka)}</span><select data-k="stavka">` +
-      c.stavke.map((x, i) => `<option value="${i}">${esc(x.n)} (${x.k} kcal na 100 g)</option>`).join('') +
+      c.stavke.map((x, i) => `<option value="${i}">${esc(x.n)} (${x.k} kcal na 100 ${x.j || 'g'})</option>`).join('') +
       '</select></label>' +
-      polje('Količina (g)', 'g', s.g, { min: 0, max: 2000, step: 1 }) +
+      polje(c.stavke.some((x) => x.j === 'ml') ? 'Količina (g ili ml)' : 'Količina (g)', 'g', s.g, { min: 0, max: 2000, step: 1 }) +
       (c.dodatak ? polje(`${c.dodatak.n} (g)`, 'u', 0, { min: 0, max: 200, step: 1 }) : '') +
       '</div>' +
       `<p class="cv-kalk__rez" data-rez aria-live="polite">${kalorijeRez(c, 0, s.g, 0)}</p>` +
@@ -211,12 +211,14 @@ export function rehypeBlokovi() {
     }
     if (!umetni.length) return;
 
-    // Iza uvodnog odlomka (prvi <p> prije prvog naslova); ako ga nema, na početak teksta.
+    // Iza uvodnog odlomka (prvi <p> prije prvog naslova). Ako tekst počinje napomenom
+    // (blockquote) bez odlomka, iza napomene; inače na početak teksta.
     let mjesto = 0;
     for (let i = 0; i < djeca.length; i++) {
       const n = djeca[i];
       if (n.type !== 'element') continue;
       if (/^h[1-6]$/.test(n.tagName)) break;
+      if (n.tagName === 'blockquote') mjesto = i + 1;
       if (n.tagName === 'p') {
         mjesto = i + 1;
         break;

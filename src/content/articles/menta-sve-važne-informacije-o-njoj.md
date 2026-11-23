@@ -7,7 +7,7 @@ perex: Menta je biljka čiji miris i okus gotovo svi prepoznajemo. Njena svježi
   prožima sve, od slatkiša i pića do kozmetičkih proizvoda.
 readTime: 5
 publishedAt: 2024-09-07
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -16,6 +16,30 @@ tags:
   - uzgoj
   - zdravlje
 noindex: false
+ukratko:
+  naslov: Menta ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "Rod *Mentha*, porodica usnača (Lamiaceae)"
+    - k: Vrste
+      v: Dvadesetak vrsta i brojni križanci; najpoznatija je paprena metvica, križanac vodene i klasaste metvice
+    - k: Položaj
+      v: Sunce ili polusjena, vlažno tlo
+    - k: Širenje
+      v: Brzo se i nekontrolirano širi, pa je najbolje uzgajati je u tegli ili ukopanoj posudi
+    - k: Berba
+      v: Redovito tijekom rasta, a za sušenje neposredno prije cvatnje
+    - k: Kućni ljubimci
+      v: ASPCA mentu navodi kao otrovnu za pse i mačke; veće količine izazivaju povraćanje i proljev
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mint)"
+oprez:
+  stavke:
+    - Eterično ulje mente ne nanosite djeci mlađoj od dvije godine; mentol im može izazvati grč grkljana i otežano disanje.
+    - Eterično ulje ne pijte nerazrijeđeno i čuvajte ga izvan dohvata djece.
+    - Kod žgaravice ili refluksa čaj od mente može pogoršati tegobe.
+    - "Samonikla metvica *Mentha pulegium* nije za čaj: otrovna je za jetru."
+    - Prije korištenja mente u terapijske svrhe posavjetujte se s liječnikom ili ljekarnikom.
 related_articles:
   - kako-uzgojiti-mentu-u-tegli-kod-kuće
   - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
@@ -111,3 +135,4 @@ Za odabir biljke zato je važnije znati o kojoj je vrsti riječ. Paprena metvica
 - Savjetodavna služba Sveučilišta Arizona – [Paprena metvica (Mentha x piperita)](https://yavapaiplants.extension.arizona.edu/mentha-x-piperita)
 - Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti mentu (How to Grow Mint)](https://www.rhs.org.uk/herbs/mint/grow-your-own)
 - Hrvatska enciklopedija, Leksikografski zavod Miroslav Krleža – [natuknica menta](https://enciklopedija.hr/clanak/menta)
+- Američko društvo za zaštitu životinja (ASPCA) – [Menta: otrovnost za pse, mačke i konje (Mint)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mint)

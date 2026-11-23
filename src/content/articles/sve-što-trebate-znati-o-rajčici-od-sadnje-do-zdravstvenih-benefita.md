@@ -7,7 +7,7 @@ perex: Rajčica, popularno poznata i kao paradajz ili pomidor, nezaobilazan je
   dio mnogih svjetskih kuhinja.
 readTime: 6
 publishedAt: 2024-06-22
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -17,6 +17,41 @@ tags:
   - zdravlje
 metaTitle: "Sve što trebate znati o rajčici: od sadnje do zdravstvenih benefita"
 noindex: false
+ukratko:
+  naslov: Rajčica ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Solanum lycopersicum*, porodica pomoćnica (Solanaceae)"
+    - k: Podrijetlo
+      v: Srednja i Južna Amerika
+    - k: Drugi nazivi
+      v: Paradajz, a u Dalmaciji pomidor
+    - k: Voće ili povrće
+      v: Botanički voće, u kuhinji povrće
+    - k: Kalorije
+      v: "[18 kcal na 100 g](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/) svježe rajčice"
+    - k: Hranjive tvari
+      v: Izvor vitamina C (13,7 mg na 100 g), uz kalij i likopen
+    - k: Kućni ljubimci
+      v: Listovi, stabljike i nezreli zeleni plodovi otrovni su za pse i mačke, a zreli plod nije
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant)"
+kalendar:
+  napomena: Mjeseci vrijede za kontinentalne krajeve. U plasteniku i u toplijim krajevima uz more sve kreće ranije, pa se ravnajte prema posljednjem mrazu u svom mjestu.
+  redovi:
+    - radnja: Sjetva u zatvorenom
+      vrsta: sjetva
+      mjeseci: [3]
+      opis: ožujak, 6–8 tjedana prije posljednjeg mraza
+    - radnja: Sadnja na otvoreno
+      vrsta: sadnja
+      mjeseci: [5]
+      opis: svibanj, kad prođe opasnost od mraza
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7, 8, 9]
+      moguce: [10]
+      opis: srpanj – rujan, visoke sorte do prvog mraza
 related_articles:
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
@@ -136,3 +171,4 @@ Rajčica je za većinu ljudi zdrava namirnica, no kod nekih može izazvati tegob
 - Uredba (EZ) br. 1924/2006 o prehrambenim i zdravstvenim tvrdnjama – uvjeti za tvrdnju „izvor”
 - Przybylska i Tokarczyk, pregledni rad (2022.) – [Likopen u prevenciji bolesti srca i krvnih žila (Lycopene in the Prevention of Cardiovascular Diseases)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8880080/), International Journal of Molecular Sciences
 - Mackinnon i sur., randomizirano istraživanje (2011.) – [Likopen smanjuje oksidativni stres i biljeg razgradnje kosti kod žena nakon menopauze (Supplementation with the antioxidant lycopene significantly decreases oxidative stress parameters and the bone resorption marker N-telopeptide of type I collagen in postmenopausal women)](https://pubmed.ncbi.nlm.nih.gov/20552330/), Osteoporosis International
+- Američko društvo za zaštitu životinja (ASPCA) – [Biljka rajčice: otrovnost za pse, mačke i konje (Tomato Plant)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant)

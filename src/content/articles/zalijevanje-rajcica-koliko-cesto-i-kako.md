@@ -13,6 +13,19 @@ editors_pick: false
 tags:
   - rajcica
   - uzgoj
+ukratko:
+  naslov: Zalijevanje rajčice ukratko
+  stavke:
+    - k: Kada zaliti
+      v: Kad je zemlja suha oko 5 cm duboko
+    - k: Koliko često u vrtu
+      v: U pjeskovitoj zemlji otprilike dvaput tjedno, u težoj zemlji često jednom tjedno, uz kišu koju također računate
+    - k: U tegli
+      v: Zemlja se suši brže, pa je provjeravajte svaki dan, osobito za toplinskog vala
+    - k: Kako
+      v: Polako, uz zemlju pri dnu stabljike, bez močenja lišća i plodova
+    - k: Provjera
+      v: Ako je nakon zalijevanja mokar samo gornji centimetar ili dva, zalijevali ste prekratko
 related_articles:
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
   - zasto-rajcica-trune-odozdo-vrsna-trulez

@@ -13,6 +13,21 @@ editors_pick: false
 tags:
   - rajcica
   - uzgoj
+ukratko:
+  naslov: Rajčica u tegli ukratko
+  stavke:
+    - k: Veličina tegle
+      v: Najmanje 15 litara za jednu biljku, za bujniju 20 litara ili više
+    - k: Dno tegle
+      v: Nekoliko rupa za otjecanje vode
+    - k: Broj biljaka
+      v: Jedna rajčica po tegli od 15 do 20 litara
+    - k: Kada iznijeti van
+      v: Kad prođe opasnost od mraza, nakon nekoliko dana privikavanja na vanjske uvjete
+    - k: Potpora
+      v: Stabljiku odmah privežite uz štap mekanom vrpcom
+    - k: Zalijevanje
+      v: Ljeti, uz jako sunce i vjetar, često svaki dan, a ponekad i češće
 related_articles:
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
   - zalijevanje-rajcica-koliko-cesto-i-kako

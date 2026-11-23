@@ -7,7 +7,7 @@ perex: Kamilica, poznata pod znanstvenim imenom Matricaria chamomilla, jedna je
   od najstarijih "ljekovitih" biljaka.
 readTime: 6
 publishedAt: 2024-06-22
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -17,6 +17,33 @@ tags:
   - uzgoj
   - cajevi
 noindex: false
+ukratko:
+  naslov: Kamilica ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Matricaria chamomilla*, porodica glavočika (Asteraceae)"
+    - k: Visina
+      v: Do 50 cm
+    - k: Cvatnja
+      v: U proljeće i ljeto; cvjetovi se beru kad su potpuno otvoreni
+    - k: Sjetva
+      v: U rano proljeće ili u jesen; sjeme se ne prekriva jer klija na svjetlu
+    - k: Tlo
+      v: Blago kiselo do neutralno, pH 5,6–7,5
+    - k: Tradicionalna upotreba (EMA)
+      v: Blage probavne tegobe, prehlada te blage upale usne šupljine, grla i kože
+    - k: Kućni ljubimci
+      v: Američko društvo za zaštitu životinja (ASPCA) rimsku kamilicu navodi kao otrovnu za pse i mačke
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)"
+oprez:
+  stavke:
+    - Ne koristite je ako ste alergični na kamilicu ili druge glavočike, poput ambrozije.
+    - Bebama mlađima od 6 mjeseci ne dajte čaj. Kamilica iz rinfuze može sadržavati spore bakterije koja bebama mlađima od godinu dana može izazvati botulizam.
+    - Eterično ulje ne koristite nerazrijeđeno.
+    - Kod inhalacije pazite da se ne opečete vrelom vodom ili parom, a djeci je ne pripremajte s vrelom vodom.
+    - Ako tegobe traju dulje od tjedan dana, javite se liječniku.
+  vise: "#štetnost-i-nuspojave-čaja-od-kamilice"
 related_articles:
   - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli
   - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je
@@ -287,3 +314,4 @@ Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručn
 - Pacyga i sur., pregledni rad (2025.) – [Ljekovito bilje za zdravu crijevnu mikrobiotu (Medicinal Plants for a Healthy Gut Microbiome)](https://www.mdpi.com/1422-0067/26/22/10875), International Journal of Molecular Sciences
 - Savino i sur., randomizirana klinička studija (2005.) – [Standardizirani ekstrakt kamilice, komorača i matičnjaka kod dojenčadi s kolikama (A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis)](https://pubmed.ncbi.nlm.nih.gov/16041731/), Phytotherapy Research
 - Bianco i sur., istraživanje (2008.) – [Spore bakterije Clostridium botulinum u kamilici i dojenački botulizam (Presence of Clostridium botulinum spores in Matricaria chamomilla and its relationship with infant botulism)](https://pubmed.ncbi.nlm.nih.gov/18068252/), International Journal of Food Microbiology
+- Američko društvo za zaštitu životinja (ASPCA) – [Kamilica: otrovnost za pse, mačke i konje (Chamomile)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)

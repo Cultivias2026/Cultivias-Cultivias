@@ -22,6 +22,38 @@ tags:
   - zdravlje
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Ogrozd ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "Europski *Ribes uva-crispa* i američki *Ribes hirtellum*; većina sorti su njihovi križanci"
+    - k: Vrsta biljke
+      v: Listopadni, trnoviti grm, u srodstvu s ribizima
+    - k: Plodovi
+      v: Teški 3–6 g; zeleni, žuti, ružičasti, crveni ili tamnoljubičasti
+    - k: Položaj i tlo
+      v: Sunce ili polusjena; plodno, propusno, neutralno do blago kiselo tlo bogato organskom tvari
+    - k: Klima
+      v: Otporan na hladnoću, najbolje raste uz ljetne temperature od 15 do 25 °C
+    - k: Kalorije
+      v: "[44 kcal na 100 g](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/), uz 27,7 mg vitamina C"
+    - k: Berba
+      v: Za kuhanje dok je čvrst i kiselkast, za jelo kad potpuno sazrije i malo omekša
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11, 12]
+      moguce: [3]
+      opis: najbolje listopad – prosinac, a može i u rano proljeće
+    - radnja: Zimska rezidba
+      vrsta: rezidba
+      mjeseci: [2]
+      opis: veljača, prije listanja; glavna rezidba
+    - radnja: Ljetna rezidba
+      vrsta: rezidba
+      mjeseci: [6, 7]
+      opis: lipanj – srpanj, samo kad je grm pregust
 related_articles:
   - ogrozd-i-zdravlje-što-kažu-istraživanja
   - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala

@@ -19,6 +19,28 @@ tags:
   - uzgoj
 metaTitle: "Berba crnog ribiza: kako i kada!"
 noindex: false
+ukratko:
+  naslov: Berba crnog ribiza ukratko
+  stavke:
+    - k: Kada
+      v: Sredinom ljeta, ovisno o sorti i vremenu
+    - k: Zrele bobice
+      v: Tamnoljubičaste do gotovo crne, sjajne i mekane, ali ne kašaste
+    - k: Kako brati
+      v: Rukom, cijele grozdove, a bobice zatim odvojite
+    - k: Vrijeme berbe
+      v: Po suhom vremenu, ne odmah nakon kiše ni dok je rosa
+    - k: Posude
+      v: Plitke košare ili kutije obložene papirnatim ručnicima
+    - k: Nakon berbe
+      v: Orezivanje nakon berbe ili tijekom zime potiče bolji urod sljedeće godine
+kalendar:
+  redovi:
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7]
+      moguce: [6, 8]
+      opis: sredinom ljeta, ovisno o sorti i vremenu
 related_articles:
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
   - crni-ribiz-sve-što-trebate-znati-o-njemu

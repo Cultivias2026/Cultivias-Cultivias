@@ -39,6 +39,8 @@ Savjetodavna služba Sveučilišta Maryland (University of Maryland Extension), 
 
 Tablica objedinjuje smjernice savjetodavnih službi sveučilišta Utah i Maryland, pa ne propisuje jedan razmak za svaki vrt. Za kaveze Maryland navodi najmanje četiri stope, odnosno oko 120 cm. Uputa za vašu sortu uvijek ima prednost, jer nisu sve niske ili sve cherry rajčice jednako bujne.
 
+<div data-kalkulator="rajcica-sadnice"></div>
+
 ## Zašto cherry rajčica može trebati mnogo prostora?
 
 Naziv cherry odnosi se samo na plod, koji je sitan, otprilike veličine trešnje. Biljka može biti niska, ali može imati i duge, snažne izdanke. Zato na vrećici sjemena ili na sadnici provjerite piše li da je biljka niska (determinantna) ili visoka (indeterminantna). Niske cherry sorte dobro uspijevaju i [u teglama na balkonu](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/).

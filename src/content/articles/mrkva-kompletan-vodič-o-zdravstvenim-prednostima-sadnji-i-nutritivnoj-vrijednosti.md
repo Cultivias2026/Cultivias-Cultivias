@@ -18,6 +18,50 @@ tags:
   - zdravlje
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Mrkva ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Daucus carota*, porodica štitarki (Apiaceae)"
+    - k: Položaj
+      v: Sunce, najmanje 6–8 sati dnevno, zaklonjeno od jakog vjetra
+    - k: Tlo
+      v: Rahlo, duboko obrađeno (25–30 cm), propusno i bez kamenja, pH 6,0–6,8; bez svježeg stajskog gnoja
+    - k: Sjetva
+      v: 1–2 cm duboko, u redove razmaknute 20–30 cm; niče za 1 do 3 tjedna
+    - k: Prorjeđivanje
+      v: Kad ima 2–3 prava lista, na 3–5 cm, a za krupnije korijene na 5–7 cm
+    - k: Berba
+      v: Kad je vrh korijena promjera 1,5–2,5 cm, obično 60–80 dana nakon sjetve
+    - k: Plodored
+      v: Ne sijte je gdje su lani rasli mrkva, peršin, pastrnjak ili celer, zbog mrkvine muhe
+    - k: Kalorije
+      v: "[41 kcal na 100 g](https://www.cultivias.com/povrce/mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pe%C4%8Dena/) sirove mrkve"
+kalendar:
+  redovi:
+    - radnja: Proljetna sjetva
+      vrsta: sjetva
+      mjeseci: [3, 4, 5]
+      opis: ožujak – svibanj, čim se tlo prosuši
+    - radnja: Ljetna sjetva
+      vrsta: sjetva
+      mjeseci: [6]
+      opis: lipanj, za jesensku berbu
+    - radnja: Kasna jesenska sjetva
+      vrsta: sjetva
+      mjeseci: [10, 11]
+      opis: krajem listopada ili u studenom, da nikne rano u proljeće
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [6, 7, 8, 9, 10]
+      moguce: [11]
+      opis: 60–80 dana nakon sjetve; jesenska je nakon prvih mrazeva često najslađa
+oprez:
+  stavke:
+    - Uz dijabetes pazite na sok od mrkve, jer se u jednoj čaši popije šećer iz više mrkvi, bez većine vlakana.
+    - Osobe alergične na pelud breze ili pelina mogu nakon sirove mrkve osjetiti svrbež i oticanje usana.
+    - Ako nakon jedenja mrkve otekne lice ili grlo ili otežano dišete, odmah potražite hitnu medicinsku pomoć.
+  vise: "#kome-se-mrkva-ne-preporučuje--kontraindikacije"
 related_articles:
   - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
@@ -268,6 +312,8 @@ Priprema tla najvažniji je korak za ravan i dugačak korijen. U teškom, zbijen
 ## Uzgoj mrkve – održavanje i njega
 
 Nakon nicanja mrkvi treba prorjeđivanje, plijevljenje, zalijevanje u sušnim razdobljima i, po potrebi, zaštita od mrkvine muhe.
+
+<div data-kalkulator="mrkva-sadnice"></div>
 
 ### Razrjeđivanje sadnica
 

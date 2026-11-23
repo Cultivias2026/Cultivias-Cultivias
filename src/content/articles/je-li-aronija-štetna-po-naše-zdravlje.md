@@ -19,6 +19,15 @@ tags:
   - zdravlje
 metaTitle: Je li aronija štetna po naše zdravlje?
 noindex: false
+oprez:
+  stavke:
+    - Djeci mlađoj od tri godine matični sok, prah i dodatke od aronije ne dajte bez savjeta pedijatra.
+    - Trudnice i dojilje neka se prije koncentriranih proizvoda posavjetuju s liječnikom.
+    - Uz kemoterapiju ili zračenje ne uzimajte sok, prah ni kapsule aronije bez dogovora s onkologom.
+    - Kod manjka željeza sok ne pijte uz obrok bogat željezom ni uz dodatak željeza.
+    - Uz lijekove koji djeluju na imunosni sustav prije koncentriranih pripravaka pitajte liječnika.
+    - Previše soka može izazvati nadutost, proljev ili grčeve.
+  vise: "#za-koga-aronija-može-biti-štetna"
 related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije

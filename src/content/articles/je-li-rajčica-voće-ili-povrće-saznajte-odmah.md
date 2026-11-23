@@ -16,6 +16,17 @@ tags:
   - rajcica
 metaTitle: Je li rajčica voće ili povrće? Saznajte odmah!
 noindex: false
+ukratko:
+  naslov: Voće ili povrće ukratko
+  stavke:
+    - k: Botanički
+      v: Voće, jer se razvija iz cvijeta i sadrži sjemenke
+    - k: U kuhinji
+      v: Povrće, jer ide u slana jela
+    - k: Znanstveni naziv
+      v: "*Solanum lycopersicum*, naziv koji joj je 1753. dao Carl Linnaeus"
+    - k: Presuda
+      v: Vrhovni sud SAD-a 1893. (Nix protiv Heddena) prihvatio je da je botanički voće, ali je za carinu svrstao u povrće
 related_articles:
   - kalorije-u-rajčici-usporedba-svježe-rajčice-passate-koncentrata-i-umaka
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

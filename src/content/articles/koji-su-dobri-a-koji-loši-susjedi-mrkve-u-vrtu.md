@@ -17,6 +17,17 @@ editors_pick: false
 tags:
   - mrkva
   - uzgoj
+ukratko:
+  naslov: Susjedi mrkve ukratko
+  stavke:
+    - k: Dobri susjedi
+      v: Luk, češnjak, poriluk, rotkvice, grašak, grah, ružmarin, kadulja, kadifica, salata, origano i majčina dušica
+    - k: Loši susjedi
+      v: Pastrnjak, celer i peršin (mrkvina muha), kopar i krumpir
+    - k: Glavna korist
+      v: Bolje iskorištavanje prostora i tla; zaštita od štetnika u pokusima je najčešće slaba
+    - k: Mit
+      v: Kopar i mrkva se ne križaju; mrkva se križa samo s biljkama iste vrste, npr. divljom mrkvom
 related_articles:
   - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
   - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena

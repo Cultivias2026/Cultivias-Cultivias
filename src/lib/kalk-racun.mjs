@@ -28,18 +28,22 @@ export function sadniceRez(c, d, w, s, r) {
   const redova = Math.max(1, Math.floor((w * 100) / r + 1e-9));
   const n = uRedu * redova;
   return (
-    `Na gredicu ${fmt(d)} × ${fmt(w)} m možete posaditi oko <strong>${n} ${mnozina(n, c.biljka)}</strong> ` +
+    `${c.na || 'Na gredicu'} ${fmt(d)} × ${fmt(w)} m možete posaditi oko <strong>${n} ${mnozina(n, c.biljka)}</strong> ` +
     `(${redova} ${mnozina(redova, ['red', 'reda', 'redova'])}, ${uRedu} ${mnozina(uRedu, ['biljka', 'biljke', 'biljaka'])} u redu).`
   );
 }
 
-const do5 = (x) => Math.max(5, Math.round(x / 5) * 5);
+/** Zaokruži na korak z (zadano 5), nikad ispod jednog koraka. */
+const zaok = (x, z = 5) => Math.max(z, Math.round(Math.round(x / z) * z * 1000) / 1000);
 
 export function receptStavke(c, kolicina) {
   const k = Math.min(c.max, Math.max(c.min, kolicina || c.baza));
   const f = k / c.baza;
   return c.sastojci
-    .map((s) => `<li><strong>${do5(s.k * f)} ${esc(s.j)}</strong> ${esc(s.n)}</li>`)
+    .map((s) => {
+      const v = Array.isArray(s.k) ? s.k.map((x) => fmt(zaok(x * f, s.z))).join('–') : fmt(zaok(s.k * f, s.z));
+      return `<li><strong>${v} ${esc(s.j)}</strong> ${esc(s.n)}</li>`;
+    })
     .join('');
 }
 
@@ -50,7 +54,8 @@ export function kalorijeRez(c, i, g, u) {
   const kDodatak = c.dodatak ? Math.round((c.dodatak.k * u) / 100) : 0;
   let html = `Ukupno oko <strong>${kStavka + kDodatak} kcal</strong>`;
   if (c.dodatak && u > 0) {
-    const ime = s.n.charAt(0).toLowerCase() + s.n.slice(1);
+    const kratko = s.kr || s.n.replace(/\s*\([^)]*\)/g, '').trim();
+    const ime = kratko.charAt(0).toLowerCase() + kratko.slice(1);
     html += ` (${esc(ime)} ${kStavka} kcal + ${esc(c.dodatak.kratko)} ${kDodatak} kcal)`;
   }
   return html + '.';

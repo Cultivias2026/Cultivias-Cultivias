@@ -16,6 +16,15 @@ tags:
   - aronija
   - zdravlje
 noindex: false
+oprez:
+  stavke:
+    - Trudnice i dojilje neka prije redovitog pijenja pitaju liječnika.
+    - Kod dijabetesa, niskog tlaka, gastritisa ili bolesti jetre posavjetujte se s liječnikom.
+    - Ako uzimate lijekove, moguće interakcije provjerite s liječnikom ili ljekarnikom.
+    - Uz kemoterapiju ili zračenje koncentrirane pripravke ne uzimajte bez dogovora s onkologom.
+    - Djeci mlađoj od tri godine matični sok ne dajte bez savjeta pedijatra.
+    - Domaći iscijeđeni sok nije pasteriziran, pa ga djeca, trudnice, starije osobe i osobe oslabljenog imuniteta trebaju izbjegavati.
+  vise: "#tko-bi-trebao-biti-oprezan"
 related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
   - je-li-aronija-štetna-po-naše-zdravlje

@@ -41,6 +41,8 @@ Japansko istraživanje objavljeno 2021. u časopisu Nutrients obuhvatilo je viš
 
 ![Infografika: kalorije u mrkvi. Jedna srednja sirova mrkva od 61 g ima 25 kcal, 150 g kuhane oko 53 kcal, 150 g smrznute 54 kcal, a 150 g mrkve pečene s jednom žličicom ulja oko 100 kcal](/images/articles/infografika-mrkva-kalorije.webp)
 
+<div data-kalkulator="mrkva-kalorije"></div>
+
 ## Broj kalorija kuhane mrkve
 
 Kuhana mrkva, ocijeđena i bez dodane soli, ima 35 kcal na 100 g. Na istu masu ima nešto manje kalorija od sirove, jer tijekom kuhanja upije vodu.

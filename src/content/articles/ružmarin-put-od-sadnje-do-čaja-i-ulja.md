@@ -10,7 +10,7 @@ perex: >-
   Ova mediteranska biljka, poznata po svom intenzivnom mirisu i igličastim listovima, ima bogatu povijest koja seže tisućama godina unatrag.
 readTime: 10
 publishedAt: 2026-01-17
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -21,6 +21,49 @@ tags:
   - zdravlje
 metaTitle: "Ružmarin: put od sadnje do čaja i ulja"
 noindex: false
+ukratko:
+  naslov: Ružmarin ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Salvia rosmarinus* (ranije *Rosmarinus officinalis*), porodica usnača (Lamiaceae)"
+    - k: Vrsta biljke
+      v: Zimzeleni grm visok od 30 cm do 2 m
+    - k: Položaj
+      v: Najmanje 6–8 sati izravnog sunca dnevno
+    - k: Tlo
+      v: Rahlo, pjeskovito i propusno; tegla mora imati rupe na dnu
+    - k: Zalijevanje
+      v: Rijetko, tek kad se zemlja potpuno osuši
+    - k: Zima
+      v: Više od hladnoće šteti mu mokro tlo, pa tegle sklonite od jake kiše
+    - k: Kućni ljubimci
+      v: ASPCA ružmarin navodi kao neotrovan za pse, mačke i konje
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/rosemary)"
+kalendar:
+  redovi:
+    - radnja: Presađivanje
+      vrsta: sadnja
+      mjeseci: [4]
+      moguce: [3, 5]
+      opis: u proljeće
+    - radnja: Orezivanje
+      vrsta: rezidba
+      mjeseci: [5, 6]
+      opis: odmah nakon cvatnje, u proljeće ili rano ljeto
+    - radnja: Reznice
+      vrsta: sadnja
+      mjeseci: [5, 6]
+      moguce: [8]
+      opis: kasno proljeće ili rano ljeto; poludrvenaste u kasno ljeto
+oprez:
+  stavke:
+    - EMA čaj od ružmarina ne preporučuje mlađima od 12 godina, a eterično ulje mlađima od 18 godina.
+    - U trudnoći i dojenju eterično ulje ne koristite, a čaj kao lijek pijte samo uz savjet liječnika.
+    - Kod bolesti srca ili bubrega i kod epilepsije eterično ulje ne koristite.
+    - Eterično ulje ne pijte i čuvajte ga izvan dohvata djece.
+    - Ako ste alergični na ružmarin, ne koristite ga ni kao čaj ni kao ulje.
+  vise: "#mjere-opreza"
 related_articles:
   - kadulja--ljekovita-biljka-s-dugom-tradicijom
   - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
@@ -200,3 +243,4 @@ U vrtu ružmarin privlači pčele i druge kukce oprašivače. Dobro podnosi suš
 - Američki Centar za kontrolu i prevenciju bolesti (CDC) – [Sprječavanje uboda komaraca (Preventing Mosquito Bites)](https://www.cdc.gov/mosquitoes/prevention/index.html)
 - Kanadsko Ministarstvo zdravstva (Health Canada) – [Savjeti za sigurnost hrane: povrće i bilje u ulju (Food safety tips for vegetables and herbs in oil)](https://www.canada.ca/en/health-canada/services/food-safety-fruits-vegetables/food-safety-tips-vegetables-herbs-oil.html)
 - Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti ružmarin (How to Grow Rosemary)](https://www.rhs.org.uk/herbs/rosemary/grow-your-own)
+- Američko društvo za zaštitu životinja (ASPCA) – [Ružmarin: neotrovan za pse, mačke i konje (Rosemary)](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/rosemary)

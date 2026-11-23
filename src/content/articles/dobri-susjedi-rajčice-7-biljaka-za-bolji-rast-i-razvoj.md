@@ -14,6 +14,15 @@ tags:
   - rajcica
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Susjedi rajčice ukratko
+  stavke:
+    - k: Dobri susjedi
+      v: Bosiljak, češnjak, luk, mrkva, salata, kadifica i menta
+    - k: Loši susjedi
+      v: Krumpir (iste bolesti, osobito plamenjača) i kukuruz (zajednički štetnici)
+    - k: Što kažu dokazi
+      v: Većina preporuka temelji se na iskustvu vrtlara; učinak na nematode istraživan je kod kadifice, ne kod nevena
 related_articles:
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu

@@ -19,6 +19,13 @@ tags:
   - zdravlje
 metaTitle: Dobrobiti čaja od mente za san, pamćenje i probavu
 noindex: false
+oprez:
+  stavke:
+    - Kod žgaravice ili refluksa čaj od mente može pogoršati tegobe.
+    - Djeci mlađoj od četiri godine EMA ne preporučuje list paprene metvice kao biljni lijek.
+    - EMA ne preporučuje list paprene metvice kao biljni lijek u trudnoći i dojenju, jer njegova sigurnost nije utvrđena.
+    - "U trudnoći nikako ne pijte čaj od metvice *Mentha pulegium* niti koristite njezino ulje."
+    - Ako probavne tegobe traju dulje od dva tjedna ili se pogoršaju, javite se liječniku.
 related_articles:
   - čaj-od-mente--svojstva-priprema-i-zanimljivosti
   - menta-sve-važne-informacije-o-njoj

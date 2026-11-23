@@ -21,6 +21,15 @@ tags:
   - recepti
 metaTitle: "Ogrozd u kuhinji: najbolji recepti od poznatih gastro portala"
 noindex: false
+ukratko:
+  naslov: Ogrozd u kuhinji ukratko
+  stavke:
+    - k: Nezreli (zeleni)
+      v: Tvrđi, izrazito kiselkast i bogat pektinom; za pekmez, džem i umake uz meso i masnu ribu
+    - k: Zreli
+      v: Mekši, slađi i sočniji; za jelo svjež, deserte, pite, crumble, voćne salate i kompote
+    - k: Za kuhanje
+      v: "Najčešće se preporučuju zelene sorte, poput 'Invicte'"
 related_articles:
   - ogrozd--zaboravljeno-supervoće
   - ogrozd-kalorije-svjezi-plod-kompot-dzem

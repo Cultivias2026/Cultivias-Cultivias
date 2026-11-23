@@ -18,6 +18,43 @@ tags:
   - crni-ribiz
   - uzgoj
 noindex: false
+ukratko:
+  naslov: Crni ribiz ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Ribes nigrum*, porodica ogrozdovki (Grossulariaceae)"
+    - k: Položaj
+      v: Sunčano ili polusjenovito, najmanje 6 sati sunca, zaštićeno od jakog vjetra
+    - k: Tlo
+      v: Duboko i propusno, pH 5,5–6,5, s najmanje 3 % humusa
+    - k: Razmak u kućnom vrtu
+      v: 1–1,5 m između grmova i 2–2,5 m između redova
+    - k: Veličina grma
+      v: Oko 1,5 m u visinu i širinu
+    - k: Zalijevanje
+      v: Mlade grmove redovito, a starije u suši, osobito u cvatnji i dozrijevanju, 20–30 litara tjedno
+    - k: Rezidba
+      v: Svake zime pri tlu uklonite grane starije od tri godine
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11]
+      moguce: [3, 4]
+      opis: najbolje listopad – studeni, a može i ožujak – travanj
+    - radnja: Rezidba
+      vrsta: rezidba
+      mjeseci: [2, 3]
+      opis: veljača – ožujak, dok grm miruje
+    - radnja: Gnojidba
+      vrsta: njega
+      mjeseci: [3, 4, 6]
+      opis: ožujak – travanj i lipanj
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7]
+      moguce: [6, 8]
+      opis: sredinom ljeta, ovisno o sorti i vremenu
 related_articles:
   - berba-crnog-ribiza-kako-i-kada
   - crni-ribiz-sve-što-trebate-znati-o-njemu
@@ -75,6 +112,8 @@ Razmak ovisi o tome sadite li nekoliko grmova u vrtu ili veći nasad.
 | Plantažni nasad | 1–1,2 m | 2,5–3,5 m |
 
 Odrastao grm obično naraste oko 1,5 m u visinu i širinu, navodi Kraljevsko hortikulturno društvo (Royal Horticultural Society, RHS), pa bujnijim sortama ostavite veći razmak.
+
+<div data-kalkulator="ribiz-sadnice"></div>
 
 ### Postupak sadnje
 

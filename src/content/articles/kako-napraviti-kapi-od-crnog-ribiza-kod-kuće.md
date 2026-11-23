@@ -15,6 +15,14 @@ tags:
   - crni-ribiz
   - recepti
 noindex: false
+oprez:
+  stavke:
+    - Kapi sadrže alkohol, pa nisu za djecu, trudnice ni dojilje.
+    - Osobe koje se liječe od ovisnosti o alkoholu trebaju ih izbjegavati, a osobe s bolestima jetre prvo pitati liječnika.
+    - Neki lijekovi za spavanje, smirenje i alergije te antibiotik metronidazol ne smiju se kombinirati s alkoholom; pitajte ljekarnika.
+    - Koristite samo alkohol namijenjen piću, nikad sanitarni ni denaturirani.
+  vise: "#tko-ne-smije-uzimati-kapi-s-alkoholom"
+  viseTekst: Tko ne smije uzimati kapi s alkoholom
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
   - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
@@ -34,6 +42,8 @@ Domaće kapi od crnog ribiza zapravo su tinktura, alkoholni izvadak (ekstrakt) z
 * **drvena ili plastična žlica** – za gnječenje i miješanje
 
 **Koristite samo alkohol namijenjen piću.** Alkohol za vanjsku upotrebu, sanitarni i denaturirani alkohol nisu za piće, jer sadrže dodatke štetne za zdravlje. Ako imate 96-postotni prehrambeni alkohol, razrijedite ga prokuhanom i ohlađenom vodom, otprilike pola-pola, pa ćete dobiti jakost od oko 50 %.
+
+<div data-kalkulator="ribiz-kapi"></div>
 
 ### Postupak
 

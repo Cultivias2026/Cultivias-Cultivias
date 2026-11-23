@@ -8,7 +8,7 @@ perex: Kadulja ili žalfija, latinskog naziva Salvia officinalis, je višegodiš
   ubrajaju i druge poznate aromatične biljke poput metvice, ružmarina i lavande.
 readTime: 11
 publishedAt: 2024-10-13
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -18,6 +18,54 @@ tags:
   - uzgoj
   - cajevi
 noindex: false
+ukratko:
+  naslov: Kadulja ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Salvia officinalis*, porodica usnača (Lamiaceae)"
+    - k: Vrsta biljke
+      v: Višegodišnji polugrm sivozelenih, baršunastih listova
+    - k: Cvatnja
+      v: Svibanj – srpanj
+    - k: Položaj
+      v: Puno sunce, najmanje 6–8 sati dnevno
+    - k: Tlo
+      v: Propusno i siromašnije, čak kamenito; najviše joj šteti mokro tlo zimi
+    - k: Zalijevanje
+      v: Umjereno; ukorijenjena biljka dobro podnosi sušu
+    - k: Obnova
+      v: Nakon šest do sedam godina postaje drvenasta, pa na vrijeme uzgojite novu iz reznice
+    - k: Kućni ljubimci
+      v: ASPCA ljekovitu kadulju navodi kao neotrovnu za pse, mačke i konje
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/node/49541)"
+kalendar:
+  redovi:
+    - radnja: Sjetva u zatvorenom
+      vrsta: sjetva
+      mjeseci: [3, 4]
+      opis: u proljeće, u posudicama; van kad prođu mrazevi
+    - radnja: Glavno orezivanje
+      vrsta: rezidba
+      mjeseci: [4]
+      moguce: [3]
+      opis: u proljeće, kad krene novi rast
+    - radnja: Cvatnja
+      vrsta: cvatnja
+      mjeseci: [5, 6, 7]
+      opis: svibanj – srpanj; nakon cvatnje stabljike skratite za trećinu
+    - radnja: Reznice
+      vrsta: sadnja
+      mjeseci: [5, 6]
+      opis: kasno proljeće i rano ljeto
+oprez:
+  stavke:
+    - Kao lijek se ne preporučuje u trudnoći ni mlađima od 18 godina.
+    - Dojilje neka je ne uzimaju kao lijek, jer tradicionalno smanjuje količinu mlijeka, a podataka o sigurnosti za dojenčad nema.
+    - Kod epilepsije je izbjegavajte, jer tujon može potaknuti napadaje.
+    - Eterično ulje ne pijte i ne koristite ga kod djece.
+    - Kao lijek je koristite najviše dva tjedna; ako uzimate lijekove za šećer, tlak, epilepsiju ili smirenje, prvo pitajte liječnika ili ljekarnika.
+  vise: "#moguće-nuspojave-i-mjere-opreza"
 related_articles:
   - kadulja-i-ljekovitost-zašto-bi-mogla-biti-dobar-izbor
   - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
@@ -201,3 +249,4 @@ Proizvode od kadulje potražite u ljekarnama, specijaliziranim prodavaonicama zd
 - Al Himdani i sur., istraživanje velškog centra za opekline (2016.) – [Kućni lijek ili opasnost: opekline djece od inhalacije parom (Home remedy or hazard?: management and costs of paediatric steam inhalation therapy burn injuries)](https://pubmed.ncbi.nlm.nih.gov/26917659/), British Journal of General Practice
 - Kraljevsko hortikulturno društvo (RHS) – [Kako uzgojiti kadulju (How to Grow Sage)](https://www.rhs.org.uk/herbs/sage/grow-your-own)
 - Kanadsko Ministarstvo zdravstva (Health Canada) – [Savjeti za sigurnost hrane: povrće i bilje u ulju (Food safety tips for vegetables and herbs in oil)](https://www.canada.ca/en/health-canada/services/food-safety-fruits-vegetables/food-safety-tips-vegetables-herbs-oil.html)
+- Američko društvo za zaštitu životinja (ASPCA) – [Kadulja: neotrovna za pse, mačke i konje (Sage)](https://www.aspca.org/node/49541)

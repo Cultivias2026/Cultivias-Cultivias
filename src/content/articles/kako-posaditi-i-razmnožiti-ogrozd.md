@@ -21,6 +21,34 @@ tags:
   - uzgoj
 metaTitle: Kako posaditi i razmnožiti ogrozd?
 noindex: false
+ukratko:
+  naslov: Sadnja ogrozda ukratko
+  stavke:
+    - k: Kada saditi
+      v: Najbolje u jesen, od listopada do prosinca; sadnice u posudama gotovo cijele godine, osim na smrznutom, raskvašenom ili presuhom tlu
+    - k: Sadnica
+      v: Za grm dvogodišnja do trogodišnja, s tri do pet glavnih grana i golim deblom visokim 10–15 cm
+    - k: Dubina
+      v: Na istu dubinu na kojoj je rasla u rasadniku, ne dublje
+    - k: Razmak
+      v: Grm 1,5–2 m u redu (u kućnom vrtu i 1,2–1,5 m), stablo 1–1,2 m, a između redova 2,5–3 m
+    - k: Razmnožavanje
+      v: Zrelim reznicama dugima 20–30 cm u kasnu jesen ili zimi, ili zelenim reznicama u lipnju
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11, 12]
+      moguce: [3]
+      opis: najbolje listopad – prosinac, a može i u rano proljeće
+    - radnja: Zrele reznice
+      vrsta: sadnja
+      mjeseci: [11, 12, 1]
+      opis: u kasnu jesen ili zimi, dok biljka miruje
+    - radnja: Zelene reznice
+      vrsta: sadnja
+      mjeseci: [6]
+      opis: u lipnju, kad su izboji zeleni, ali čvrsti
 related_articles:
   - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
@@ -82,6 +110,8 @@ Ogrozd se, za razliku od [crnog ribiza](https://www.cultivias.com/voce/uzgoj-crn
 * **grm** – 1,5–2 m unutar reda; u kućnom vrtu RHS navodi i 1,2–1,5 m
 * **stablo** – 1–1,2 m unutar reda
 * **međuredni razmak** – 2,5–3 m
+
+<div data-kalkulator="ogrozd-sadnice"></div>
 
 **4. Postupak sadnje**
 

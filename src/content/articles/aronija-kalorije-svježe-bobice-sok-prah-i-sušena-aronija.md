@@ -41,6 +41,8 @@ Sok, sušene bobice i prah u tablici proizvodi su njemačkog proizvođača Aroni
 
 ![Infografika: kalorije aronije prema obliku. 50 g svježih bobica ima 25 kcal, 50 g kućno smrznutih oko 25 kcal, čaša od 2 dl s 50 ml matičnog soka 23 kcal, 20 g sušenih bobica oko 54 kcal i 10 g praha oko 27 kcal](/images/articles/infografika-aronija-kalorije.webp)
 
+<div data-kalkulator="aronija-kalorije"></div>
+
 ## Ima li smrznuta aronija drukčije kalorije?
 
 Cijele bobice zamrznute kod kuće bez dodataka možete računati približno kao svježe, oko 50 kcal na 100 g. Ta procjena odnosi se na same bobice, dok kod zamrzavanja sa šećerom ili u voćnoj mješavini treba uračunati i ostale sastojke. Postupak korak po korak opisuje vodič [kako zamrznuti aroniju bez šećera](https://www.cultivias.com/voce/smrznuta-aronija/).

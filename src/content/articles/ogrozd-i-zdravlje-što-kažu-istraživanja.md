@@ -18,6 +18,19 @@ tags:
 metaTitle: Ogrozd i zdravlje! Što kažu istraživanja?
 ogImage: /images/articles/zreli-plodovi-ogrozda.webp
 noindex: false
+ukratko:
+  naslov: Ogrozd i zdravlje ukratko
+  stavke:
+    - k: Kalorije
+      v: Oko 44 kcal na 100 g
+    - k: Vitamin C
+      v: 27,7 mg na 100 g, 35 % referentnog dnevnog unosa
+    - k: Vlakna
+      v: 4,3 g na 100 g
+    - k: Šalica (oko 150 g)
+      v: 66 kcal, 6,5 g vlakana i 41,6 mg vitamina C
+    - k: Dokazi
+      v: Ogrozd nije lijek; istraživanja posebnih ljekovitih svojstava zasad su uglavnom laboratorijska
 related_articles:
   - ogrozd--zaboravljeno-supervoće
   - ogrozd-kalorije-svjezi-plod-kompot-dzem

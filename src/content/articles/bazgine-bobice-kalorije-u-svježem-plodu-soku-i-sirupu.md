@@ -36,6 +36,8 @@ Sok u tablici proizvod je njemačkog proizvođača sokova Rabenhorst, pa brojka 
 
 ![Infografika: kalorije bazginih bobica, 50 g sirovine za kuhanje ima oko 37 kcal, a čaša od 2 dl toplinski obrađenog soka 60 kcal, uz upozorenje da se sirove i nezrele bobice ne jedu](/images/articles/infografika-bazgine-bobice-kalorije.webp)
 
+<div data-kalkulator="bazga-kalorije"></div>
+
 ### Imaju li kuhane bobice također 73 kcal na 100 g?
 
 Ne nužno, jer kuhanjem može ispariti voda, a šećer ili drugi dodaci donose dodatnu energiju. Ako ostanu svi jestivi sastojci, kalorije cijele smjese mogu se približno izračunati iz njihovih količina, dok vrijednost na 100 g ovisi i o završnoj masi jela.

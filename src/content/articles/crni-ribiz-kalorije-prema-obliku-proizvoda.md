@@ -42,6 +42,8 @@ Sok i džem u tablici su proizvodi poljskog proizvođača Oleofarm (Blackcurrant
 
 ![Infografika: kalorije crnog ribiza prema obliku. 50 g svježih bobica ima oko 32 kcal, 100 g kućno smrznutih oko 63 kcal, čaša od 2 dl soka 74 kcal i 20 g džema oko 47 kcal](/images/articles/infografika-crni-ribiz-kalorije.webp)
 
+<div data-kalkulator="ribiz-kalorije"></div>
+
 ## Smrznuti crni ribiz: mijenjaju li se kalorije?
 
 Za cijele bobice zamrznute kod kuće, bez šećera i drugih dodataka, možete računati približno 63 kcal na 100 g, prema svježem plodu. Zamrzavanje ne dodaje energiju bobicama, ali šećer s kojim ih spremate ili zasladite nakon odmrzavanja ulazi u račun.

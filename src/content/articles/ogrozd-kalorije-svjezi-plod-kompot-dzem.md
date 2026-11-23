@@ -40,6 +40,8 @@ Vrijednost za džem odnosi se na Tiptree Green Gooseberry Conserve britanskog pr
 
 Za usporedbu, svježi crni ribiz ima [63 kcal na 100 g](https://fdc.nal.usda.gov/food-details/173963/nutrients). Ako u obrocima izmjenjujete ove bobice, [kalorije crnog ribiza prema obliku proizvoda](https://www.cultivias.com/voce/crni-ribiz-kalorije-prema-obliku-proizvoda/) pomažu usporediti i sokove ili namaze, a ne samo svježe voće.
 
+<div data-kalkulator="ogrozd-kalorije"></div>
+
 ### Koliko kalorija ima jedna bobica?
 
 Jedna bobica nema stalnu kalorijsku vrijednost jer plodovi nisu jednake mase. Lakše je izvagati nekoliko bobica zajedno i njihovu ukupnu masu preračunati prema 44 kcal na 100 g nego pokušavati odrediti kalorije svakog ploda. Primjer računa (zamišljena masa): ako 10 bobica izvažete i teže 25 g, to je 25 × 0,44 = oko 11 kcal.

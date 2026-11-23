@@ -20,6 +20,15 @@ editors_pick: true
 tags:
   - eukaliptus
   - zdravlje
+oprez:
+  stavke:
+    - Eterično ulje eukaliptusa otrovno je ako se proguta. Kod djeteta 2–3 ml čistog ulja može izazvati pospanost i nesiguran hod, a 5 ml i više komu.
+    - Ulje čuvajte u zaključanom ormariću, izvan dohvata djece i kućnih ljubimaca, i nikad ga ne nanosite nerazrijeđeno.
+    - Djecu mlađu od 30 mjeseci ne izlažite eukaliptusovu ulju, ni udisanjem.
+    - Eukaliptus je otrovan za pse, mačke i konje.
+    - "Ako netko proguta ulje: ne izazivajte povraćanje i odmah nazovite 112 ili 194, ili Centar za kontrolu otrovanja na 01 2348 342 (0–24 h)."
+  vise: "#što-učiniti-u-slučaju-trovanja"
+  viseTekst: Što učiniti u slučaju trovanja
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca

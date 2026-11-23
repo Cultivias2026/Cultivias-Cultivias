@@ -39,6 +39,8 @@ Brojke za liofilizirane kupine i džem vrijede za dva proizvoda opisana u nastav
 
 ![Infografika: kalorije kupina prema obliku. 150 g svježih ili kućno zamrznutih kupina ima oko 65 kcal, 10 g liofiliziranih kupina 33 kcal i 20 g džema 50 kcal](/images/articles/infografika-kupine-kalorije.webp)
 
+<div data-kalkulator="kupine-kalorije"></div>
+
 ## Imaju li zamrznute kupine više kalorija?
 
 Kupine koje kod kuće zamrznete bez dodataka možete približno računati kao svježe, oko 43 kcal na 100 g, ako upotrijebite i sok koji otpuste. **Samo zamrzavanje ne stvara dodatne kalorije.**

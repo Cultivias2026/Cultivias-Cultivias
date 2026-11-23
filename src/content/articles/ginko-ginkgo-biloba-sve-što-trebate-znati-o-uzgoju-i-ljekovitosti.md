@@ -17,6 +17,37 @@ tags:
   - zdravlje
 metaTitle: "Ginko (ginkgo biloba): sve što trebate znati o uzgoju i ljekovitosti"
 noindex: false
+ukratko:
+  naslov: Ginko ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Ginkgo biloba*, porodica Ginkgoaceae"
+    - k: Vrsta biljke
+      v: Listopadno, dvodomno stablo; naraste do 40 m i živi više od 1000 godina
+    - k: Položaj i tlo
+      v: Sunčan položaj i dobro drenirano tlo
+    - k: Rast
+      v: Mlado stablo u prosjeku 20–30 cm godišnje, a nakon 3 do 5 godina brže
+    - k: Za vrt
+      v: Obično se biraju muška stabla, jer ženska razvijaju sjemenke neugodnog mirisa
+    - k: Ljekovitost (EMA)
+      v: Standardizirani ekstrakt lista kod teškoća s pamćenjem povezanih sa starenjem i blage demencije, samo za odrasle
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11]
+      moguce: [3]
+      opis: u jesen ili rano proljeće
+oprez:
+  stavke:
+    - Ginko može djelovati s lijekovima za razrjeđivanje krvi; uz njih i kod sklonosti krvarenju uzimajte ga samo nakon savjetovanja s liječnikom.
+    - Prije operativnog zahvata ginko se prestaje uzimati, a kada, dogovorite s liječnikom.
+    - Ne uzima se u trudnoći ni tijekom dojenja, a EMA ga preporučuje samo odraslima.
+    - Kod epilepsije i šećerne bolesti koristite ga samo uz savjet liječnika.
+    - Propisane lijekove za tlak nikad ne zamjenjujte ginkom.
+    - Sirove sjemenke ginka su otrovne, a ozbiljne nuspojave opisane su i nakon pečenih; ne dajte ih djeci.
+  vise: "#nuspojave-i-sigurnost---ima-li-ih-ginko-biloba"
 related_articles:
   - koliko-brzo-raste-ginko-drvo-i-što-utječe-na-njegov-razvoj
   - menta-sve-važne-informacije-o-njoj

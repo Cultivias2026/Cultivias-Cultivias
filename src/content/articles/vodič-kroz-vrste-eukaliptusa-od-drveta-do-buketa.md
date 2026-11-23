@@ -20,6 +20,21 @@ editors_pick: false
 tags:
   - eukaliptus
   - uzgoj
+ukratko:
+  naslov: Vrste eukaliptusa ukratko
+  stavke:
+    - k: Za vrt i teglu na kontinentu
+      v: "*E. gunnii*, koji podnosi otprilike do −15 °C"
+    - k: Za aranžmane
+      v: "*E. polyanthemos*, okruglih listova poput novčića"
+    - k: Za eterično ulje
+      v: "*E. globulus* i *E. radiata*, blažeg mirisa"
+    - k: Za repelente
+      v: "Limunski eukaliptus (*Corymbia citriodora*), izvor PMD-a"
+    - k: Na Jadranu
+      v: "Najčešće plavi eukaliptus (*E. globulus*), koji podnosi samo do otprilike −5 °C"
+    - k: Kućni ljubimci
+      v: Eukaliptus je otrovan za pse, mačke i konje (ASPCA)
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
   - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca

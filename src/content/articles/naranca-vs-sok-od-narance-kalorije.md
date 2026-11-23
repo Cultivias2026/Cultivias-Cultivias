@@ -42,6 +42,8 @@ Brojke za napitke odnose se na sokove Rauch Happy Day 100% Orange Fruchtfleisch 
 
 ![Infografika: kalorije naranče i soka. Srednja naranča od 131 g ima oko 62 kcal, 100 g kućno smrznutih komada oko 47 kcal, čaša od 2 dl stopostotnog soka 90 kcal, čaša od 250 ml oko 113 kcal i napitak s 25 % soka 110 kcal](/images/articles/infografika-naranca-kalorije.webp)
 
+<div data-kalkulator="naranca-kalorije"></div>
+
 ### Mijenja li zamrzavanje kalorije naranče?
 
 Za oguljene komade koje zamrznete kod kuće bez dodataka možete računati približno 47 kcal na 100 g, kao za svježi plod. Procjena ne vrijedi za zaslađene smrznute deserte ili mješavine s drugim sastojcima.

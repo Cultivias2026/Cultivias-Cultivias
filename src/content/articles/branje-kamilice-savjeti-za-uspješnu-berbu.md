@@ -16,6 +16,29 @@ tags:
   - cajevi
 metaTitle: Branje kamilice- savjeti za uspješnu berbu!
 noindex: false
+ukratko:
+  naslov: Branje kamilice ukratko
+  stavke:
+    - k: Kada brati
+      v: Kad su cvjetovi potpuno otvoreni
+    - k: Doba dana
+      v: Ujutro, nakon što se rosa osuši
+    - k: Ručno branje
+      v: Najpreciznije, jer birate samo zdrave i potpuno otvorene cvjetove
+    - k: Češalj za kamilicu
+      v: Ubrzava berbu u većem vrtu ili na polju
+    - k: Nakon berbe
+      v: Cvjetove odmah pravilno osušite, da sačuvaju eterična ulja
+  izvori:
+    - "[RHS, uzgoj kamilice](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)"
+kalendar:
+  napomena: Vrijeme cvatnje ovisi o tome kada je kamilica posijana; prema RHS-u počinje cvasti već oko 10 tjedana nakon sjetve.
+  redovi:
+    - radnja: Cvatnja i berba
+      vrsta: berba
+      mjeseci: [6, 7, 8]
+      moguce: [5, 9]
+      opis: od kasnog proljeća do kraja ljeta, najviše lipanj – kolovoz
 related_articles:
   - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
   - kako-uspješno-posaditi-kamilicu-u-vrtu-ili-tegli

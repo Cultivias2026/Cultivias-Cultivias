@@ -15,6 +15,14 @@ tags:
   - cajevi
   - zdravlje
 noindex: false
+oprez:
+  stavke:
+    - Djeci mlađoj od četiri godine ne dajte ga kao lijek bez savjeta pedijatra, a med ne dodajte djeci mlađoj od godine dana.
+    - Ako ste alergični na usnače, poput origana, lavande ili metvice, ne pijte ga.
+    - Uz lijekove protiv zgrušavanja krvi ne pijte veće količine.
+    - Kod ciroze jetre prije redovitog pijenja posavjetujte se s hepatologom.
+    - Trudnice i dojilje neka ga u ljekovite svrhe piju samo uz savjet liječnika ili ljekarnika.
+  vise: "#nuspojave-oprez-i-kontraindikacije"
 related_articles:
   - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
   - čaj-od-kamilice

@@ -19,6 +19,21 @@ tags:
 metaTitle: "Sorte paradajza: kompletan vodič kroz determinantne, indeterminantne
   i druge vrste"
 noindex: false
+ukratko:
+  naslov: Sorte rajčice ukratko
+  stavke:
+    - k: Determinantne (niske)
+      v: Narastu od 60 cm do 1,5 m i stanu; većina plodova sazrije u kratkom razdoblju, prvi 50 do 70 dana od sadnje
+    - k: Indeterminantne (visoke)
+      v: Rastu i do 3 m i više te rađaju od ljeta do prvog mraza
+    - k: Potpora i zakidanje
+      v: Indeterminantne trebaju čvrstu potporu i redovito zakidanje; determinantnima se bočni izdanci ne zakidaju
+    - k: Za balkon i tegle
+      v: Determinantne i male sorte, npr. Tiny Tim i Balcony
+    - k: Za zimnicu i umake
+      v: Determinantne sorte s mesnatim plodom, npr. Roma
+    - k: Za svježe rajčice cijelu sezonu
+      v: Indeterminantne sorte
 related_articles:
   - koje-su-najukusnije-sorte-paradajza-u-našim-krajevima
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod

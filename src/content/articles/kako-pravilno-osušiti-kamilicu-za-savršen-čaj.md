@@ -15,6 +15,21 @@ tags:
   - cajevi
 metaTitle: Kako pravilno osušiti kamilicu za savršen čaj!
 noindex: false
+ukratko:
+  naslov: Sušenje kamilice ukratko
+  stavke:
+    - k: Mjesto
+      v: Sjenovito, suho i prozračno, po mogućnosti tamno
+    - k: Kako
+      v: U tankom sloju, na rešetki ili čistoj pamučnoj krpi
+    - k: Koliko traje
+      v: Od nekoliko dana do tjedan dana, ovisno o vlazi zraka
+    - k: Kad je gotovo
+      v: Cvjetovi su krhki, lako se mrve, a zadrže boju i jak miris
+    - k: Sušilica
+      v: Na najnižoj temperaturi, obično oko 35–40 °C
+    - k: Čuvanje
+      v: U dobro zatvorenoj staklenci, na tamnom i suhom mjestu, do godinu dana
 related_articles:
   - branje-kamilice-savjeti-za-uspješnu-berbu
   - čaj-od-kamilice

@@ -7,7 +7,7 @@ perex: Naranča, ili kako se u nekim krajevima kaže, narandža, jedno je od
   najpopularnijih i najomiljenijih voća na svijetu.
 readTime: 6
 publishedAt: 2026-01-18
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -16,6 +16,40 @@ tags:
   - zdravlje
 metaTitle: "Naranča: vitaminska bomba u jednoj čaši"
 noindex: false
+ukratko:
+  naslov: Naranča ukratko
+  stavke:
+    - k: Znanstveni naziv
+      v: "*Citrus sinensis*"
+    - k: Srednja naranča (oko 131 g)
+      v: Oko 62 kcal, 3 g vlakana i 70 mg vitamina C, gotovo 90 % dnevnog unosa
+    - k: Na 100 g
+      v: "[47 kcal](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/)"
+    - k: U trudnoći
+      v: Izvor je folata, ali ne zamjenjuje dodatak folne kiseline
+    - k: Stablo
+      v: Zimzeleno, do 12 m visine; treba toplu klimu, a mraz ga oštećuje
+    - k: U hladnijim krajevima
+      v: U posudi, a zimi u svijetloj, hladnijoj prostoriji
+    - k: Kućni ljubimci
+      v: ASPCA naranču navodi kao otrovnu za pse i mačke, zbog eteričnih ulja i psoralena
+  izvori:
+    - "[ASPCA, otrovnost za ljubimce](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/orange)"
+kalendar:
+  redovi:
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [4]
+      moguce: [3, 5]
+      opis: u proljeće
+    - radnja: Rezidba
+      vrsta: rezidba
+      mjeseci: [3]
+      opis: u rano proljeće
+    - radnja: Gnojidba
+      vrsta: njega
+      mjeseci: [4, 5, 6, 7, 8, 9]
+      opis: tijekom vegetacije, od proljeća do jeseni
 related_articles:
   - naranca-vs-sok-od-narance-kalorije
   - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda
@@ -134,3 +168,4 @@ Ako vas zanima drugo voće bogato vitaminom C, pogledajte [crni ribiz](https://w
 - Sánchez-Moreno i sur., istraživanje na ljudima (2003.) – [Sok od naranče, vitamin C i pokazatelji antioksidativnog statusa (Effect of orange juice intake on vitamin C concentrations and biomarkers of antioxidant status in humans)](https://pubmed.ncbi.nlm.nih.gov/12936929/), American Journal of Clinical Nutrition
 - Cochrane, sažetak na hrvatskom – [Uzimanje nadomjestaka folne kiseline prije začeća i u ranoj trudnoći](https://www.cochrane.org/hr/CD007950/PREG_uzimanje-nadomjestaka-folne-kiseline-prije-zaceca-i-u-ranoj-trudnoci-do-12-tog-tjedna-u-svrhu)
 - Britanska nacionalna zdravstvena služba (NHS) – [Folna kiselina u trudnoći (Pregnancy, breastfeeding and fertility while taking folic acid)](https://www.nhs.uk/medicines/folic-acid/pregnancy-breastfeeding-and-fertility-while-taking-folic-acid/)
+- Američko društvo za zaštitu životinja (ASPCA) – [Naranča: otrovnost za pse, mačke i konje (Orange)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/orange)

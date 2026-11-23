@@ -16,6 +16,15 @@ tags:
   - cajevi
 metaTitle: Čaj od mente – svojstva, priprema i zanimljivosti
 noindex: false
+oprez:
+  stavke:
+    - Kod žgaravice i refluksa čaj od mente može pogoršati tegobe.
+    - Kao biljni lijek za probavu list paprene metvice ne preporučuje se djeci mlađoj od četiri godine.
+    - U trudnoći i dojenju prije redovitog pijenja posavjetujte se s liječnikom.
+    - Ako ste preosjetljivi na mentu ili mentol, ne pijte ga; ako ste osjetljivi na druge usnače, pijte ga s oprezom.
+    - Ako redovito uzimate lijekove, pitajte liječnika ili ljekarnika smijete li redovito piti čaj od mente.
+    - "Ne pijte čaj od samonikle metvice *Mentha pulegium*: otrovna je za jetru."
+  vise: "#moguće-nuspojave-i-mjere-opreza"
 related_articles:
   - menta-sve-važne-informacije-o-njoj
   - dobrobiti-čaja-od-mente-za-san-pamćenje-i-probavu

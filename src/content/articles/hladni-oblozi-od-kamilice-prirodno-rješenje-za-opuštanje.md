@@ -16,6 +16,12 @@ tags:
   - zdravlje
 metaTitle: "Hladni oblozi od kamilice: Prirodno rješenje za opuštanje"
 noindex: false
+oprez:
+  stavke:
+    - Ako ste alergični na kamilicu ili druge glavočike, poput ambrozije, ne koristite oblog.
+    - Na oči ga stavljajte samo ako nemate peludnu alergiju ni alergiju na glavočike.
+    - Koristite čistu krpu ili gazu i svaki dan pripremite svjež čaj.
+    - Ako se tegobe ne smire ili se pogoršaju, javite se liječniku.
 related_articles:
   - čaj-od-kamilice
   - kamilica-biljka-naših-baka

@@ -17,6 +17,21 @@ tags:
   - uzgoj
 metaTitle: Kako uzgojiti mentu u tegli kod kuće?
 noindex: false
+ukratko:
+  naslov: Menta u tegli ukratko
+  stavke:
+    - k: Posuda
+      v: Što veća, s otvorima na dnu, jer menta brzo širi korijenje i podzemne izdanke
+    - k: Tlo
+      v: Blago kiselo do neutralno, pH 6,0–7,0
+    - k: Sunce
+      v: Barem 4–6 sati dnevno; dobro raste i u polusjeni
+    - k: Zalijevanje
+      v: Kad se površina zemlje osuši na dodir, ljeti i svaki dan, ali bez vode u podlošku
+    - k: Sadnja
+      v: U proljeće ili ranu jesen; sjeme klija za 10–15 dana, ali sporo i nepouzdano
+    - k: U gredici
+      v: Posadite je u posudu bez dna ukopanu tako da joj rub viri iznad tla (savjet RHS-a)
 related_articles:
   - menta-sve-važne-informacije-o-njoj
   - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
