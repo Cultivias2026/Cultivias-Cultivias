@@ -180,10 +180,6 @@ Ginko je pravi živi fosil. To je jedina preživjela vrsta svoje skupine, čiji 
 
 U Japanu se ginko smatra svetim stablom i često se sadi uz hramove. Njegova ljepota, osobito u jesen kada lišće pozlati, nadahnula je brojne umjetnike i pjesnike.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
-
 ## Izvori
 
 - Biernacka, Adamska i Felisiak, pregledni rad (2023.) – [Ginko kao izvor biološki aktivnih spojeva: pregled novije literature i patenata (The Potential of Ginkgo biloba as a Source of Biologically Active Compounds – A Review of the Recent Literature and Patents)](https://doi.org/10.3390/molecules28103993), Molecules

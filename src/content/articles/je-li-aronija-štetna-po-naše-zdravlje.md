@@ -111,10 +111,6 @@ Meta-analiza iz 2025. obuhvatila je deset studija s 666 odraslih, a autori su po
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja aronije u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Jurendić i Ščetar, pregledni rad (2021.) – [Proizvodi od aronije za zdravlje i prehranu (Aronia melanocarpa Products and By-Products for Health and Nutrition: A Review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/), Antioxidants

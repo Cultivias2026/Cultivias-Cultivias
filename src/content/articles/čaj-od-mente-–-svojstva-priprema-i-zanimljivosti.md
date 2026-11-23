@@ -78,10 +78,6 @@ Ako nakon čaja osjetite žgaravicu, mučninu ili nadutost, smanjite količinu i
 
 **Ne pijte čaj od metvice *Mentha pulegium* (engl. pennyroyal).** Ta samonikla metvica miriše slično klasastoj, ali je otrovna za jetru. Teška trovanja zabilježena su i kod dojenčadi kojoj je dan čaj od nje, zamijenjene za običnu mentu, navodi američki centar za kontrolu otrovanja (Poison Control). Mentu za čaj zato kupujte ili uzgajajte sami.
 
-NAPOMENA/DISCLAIMER:
-
-Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom.
-
 ## Izvori
 
 - Europska agencija za lijekove (EMA) – [List paprene metvice, biljni lijek (Menthae piperitae folium)](https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium) i [monografija Europske unije o listu paprene metvice (European Union herbal monograph on Mentha x piperita L., folium)](https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf)

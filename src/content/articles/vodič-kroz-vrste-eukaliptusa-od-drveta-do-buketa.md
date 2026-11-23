@@ -180,9 +180,7 @@ Nisu. ASPCA eukaliptus navodi kao otrovan za pse, mačke i konje, bez obzira na 
 
 Eukaliptusi su vrlo raznolika skupina biljaka, od golemih stabala do grmova čije grane završe u buketima. Otporni *E. gunnii*, ukrasni *E. polyanthemos*, aromatični *E. radiata* i šareni dugin eukaliptus razlikuju se izgledom, otpornošću i namjenom. Eterično ulje eukaliptusa priznato je kao tradicionalni biljni lijek za kašalj kod prehlade, a repelenti od limunskog eukaliptusa štite od komaraca. Pri uzgoju i korištenju ipak imajte na umu da su eukaliptus i njegovo ulje otrovni za kućne ljubimce, a ulje i za djecu.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski ni veterinarski savjet. Eterično ulje eukaliptusa, osobito koncentrirano, otrovno je ako se proguta i može izazvati ozbiljne zdravstvene probleme kod ljudi i kućnih ljubimaca. Ulje držite izvan dohvata djece i životinja, a u slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342), a za ljubimce veterinara.**
+**Eterično ulje eukaliptusa, osobito koncentrirano, otrovno je ako se proguta i može izazvati ozbiljne zdravstvene probleme kod ljudi i kućnih ljubimaca. Ulje držite izvan dohvata djece i životinja, a u slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342), a za ljubimce veterinara.**
 
 ## Izvori
 

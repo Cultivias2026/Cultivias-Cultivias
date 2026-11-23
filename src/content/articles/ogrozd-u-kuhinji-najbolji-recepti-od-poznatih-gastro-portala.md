@@ -7,7 +7,6 @@ perex: >-
   Ogrozd je voće koje se stoljećima koristi u kulinarstvu. Od pekmeza do
   deserata, ogrozd nudi beskonačne mogućnosti za kreativne kulinarske pothvate.
 
-
   Ovaj članak predstavlja najbolje recepte od poznatih gastro portala, od BBC
   Fooda do Jamieja Olivera.
 readTime: 6
@@ -210,6 +209,3 @@ Ako volite kiselkasto bobičasto voće, isprobajte i [recepte s crnim ribizom](h
 
 *\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.*
 
-**NAPOMENA/DISCLAIMER:**
-
-Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.

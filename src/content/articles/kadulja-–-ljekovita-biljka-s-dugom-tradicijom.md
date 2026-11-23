@@ -232,10 +232,6 @@ Kvaliteta proizvoda od kadulje utječe na njegovu djelotvornost i sigurnost. Pri
 
 Proizvode od kadulje potražite u ljekarnama, specijaliziranim prodavaonicama zdrave hrane, na tržnicama kod lokalnih uzgajivača ili u provjerenim internetskim trgovinama. Ako vam je to važno, birajte kadulju iz ekološkog uzgoja.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kadulje u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Europska agencija za lijekove (EMA) – [List kadulje, biljni lijek (Salviae officinalis folium)](https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium)

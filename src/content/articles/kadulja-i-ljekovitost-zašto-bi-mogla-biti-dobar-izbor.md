@@ -104,10 +104,6 @@ Europska agencija za lijekove ljekovite pripravke od kadulje ne preporučuje mla
 
 Kadulju zato koristite umjereno i povremeno, kao začin ili čaj, a ne kao svakodnevnu dugotrajnu naviku.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kadulje u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Brindisi i sur., laboratorijsko istraživanje na staničnim kulturama (2021.) – [Antioksidativno i protuupalno djelovanje ekstrakata lista i cvijeta talijanske kadulje (New Insights into the Antioxidant and Anti-Inflammatory Effects of Italian Salvia officinalis Leaf and Flower Extracts in Lipopolysaccharide and Tumor-Mediated Inflammation Models)](https://www.mdpi.com/2076-3921/10/2/311), Antioxidants

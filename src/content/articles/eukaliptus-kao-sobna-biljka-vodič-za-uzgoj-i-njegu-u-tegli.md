@@ -218,9 +218,7 @@ Samo ako mačka do njega ne može doći. Eukaliptus je otrovan za mačke, a one 
 **Koliko dugo živi eukaliptus u tegli?**
 Uz dobru njegu i redovito presađivanje u veće tegle eukaliptus u tegli može živjeti 5 do 10 godina. Najvažnije je presaditi ga prije nego što korijen potpuno ispuni teglu.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski ni veterinarski savjet. Eukaliptus i njegovo eterično ulje mogu biti otrovni za ljude i životinje. U slučaju gutanja ili sumnje na trovanje odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342), a za kućne ljubimce veterinara.**
+**Eukaliptus i njegovo eterično ulje mogu biti otrovni za ljude i životinje. U slučaju gutanja ili sumnje na trovanje odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342), a za kućne ljubimce veterinara.**
 
 ## Izvori
 

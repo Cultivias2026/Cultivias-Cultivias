@@ -224,10 +224,6 @@ Divlja se kupina bere kad su plodovi potpuno crni i mekani. Berite ih daleko od 
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
-
 ## Izvori
 
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Kupine, sirove (Blackberries, raw)](https://fdc.nal.usda.gov/food-details/173946/nutrients)

@@ -7,7 +7,6 @@ perex: >-
   Bazga(Sambucus nigra), poznata i pod nazivom zova, biljka je čiji mirisni
   cvjetovi i tamne, sočne bobice najavljuju dolazak ljeta i jeseni.
 
-
   Stoljećima je cijenjena u narodnoj medicini diljem svijeta, a moderna znanost danas potvrđuje njezinu iznimnu vrijednost.
 readTime: 8
 publishedAt: 2026-01-13
@@ -247,10 +246,6 @@ Kuhanjem se ti spojevi razgrađuju, pa su proizvodi od kuhanih bobica sigurni za
 Trudnice i dojilje neka se prije upotrebe pripravaka od bazge posavjetuju s liječnikom.
 
 *\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.*
-
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crne bazge (zove) u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
 
 ## Izvori
 

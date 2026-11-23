@@ -93,6 +93,3 @@ Namaz možete koristiti uz palačinke ili u nadjevu za kolač. Za srodne ideje p
 - [Brzo hlađenje i čuvanje svježe kuhane hrane](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety), FSIS.
 - [Postupanje s namazom koji pokazuje znakove kvarenja](https://nchfp.uga.edu/how/make-jam-jelly/jams-jellies-general-information/storing-home-canned-jams-and-jellies/), NCHFP.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj sadržaj služi informiranju i nije zamjena za stručni medicinski savjet. Za dijagnozu i liječenje obratite se liječniku.**

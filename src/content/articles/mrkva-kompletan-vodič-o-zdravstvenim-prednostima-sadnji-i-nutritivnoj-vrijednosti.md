@@ -449,10 +449,6 @@ Beta-karoten iz hrane ne uzrokuje trovanje vitaminom A, jer tijelo iz njega stva
 
 Žuta koža može biti i znak žutice, kod koje požute i bjeloočnice. **Ako su vam požutjele i bjeloočnice, javite se liječniku**, jer to nije posljedica jedenja mrkve.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mrkve u medicinske svrhe obavezno se posavjetujte s liječnikom.**
-
 ## Izvori
 
 - Sveučilište Kalifornije u Davisu (UC Davis), vijest o istraživanju genoma mrkve – [Genom mrkve otkriva povijest njezina udomaćenja (Carrot genome paints colorful picture of domestication)](https://www.ucdavis.edu/news/carrot-genome-paints-picture-domestication-could-help-improve-crops), 2016.

@@ -122,10 +122,6 @@ Menta i metvica nazivi su za isti rod biljaka (*Mentha*). Metvica je hrvatski bo
 
 Za odabir biljke zato je važnije znati o kojoj je vrsti riječ. Paprena metvica odgovara onima koji vole snažan, hladan okus u čaju, a klasasta metvica onima koji traže blaži okus za kuhinju i napitke.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), američki Nacionalni instituti za zdravlje – [Ulje paprene metvice (Peppermint Oil)](https://www.nccih.nih.gov/health/peppermintoil)

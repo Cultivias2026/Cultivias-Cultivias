@@ -45,8 +45,6 @@ Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi** i t
 
 ## Ljekovita svojstva čaja od bazge
 
-
-
 Čaj od bazge najpoznatiji je kao potpora kod simptoma **prehlade, gripe i upale sinusa**. Aktivni spojevi u cvijetu mogu pomoći u smanjenju oticanja sluznice dišnih puteva i olakšavanju iškašljavanja, a njemačka **Komisija E**, nekadašnje stručno tijelo za ocjenu biljnih lijekova, odobrila je njegovu primjenu kod prehlade. Europska agencija za lijekove (EMA) također priznaje [tradicionalnu upotrebu cvijeta bazge](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos) kod prvih simptoma prehlade, ali samo kod odraslih i djece starije od 12 godina. Američki zdravstveni portal WebMD u [bazi prirodnih lijekova](https://www.webmd.com/vitamins/ai/ingredientmono-708/elderflower) navodi da su neke tvrdnje o bazgi još predmet istraživanja.
 
 U nastavku navodimo učinke za koje postoji studijska potpora, uz napomenu da većina istraživanja još uvijek nije provedena na dovoljno velikom uzorku ljudi:
@@ -89,8 +87,6 @@ Ljekovitost cvijeta bazge temelji se na bogatom i raznovrsnom kemijskom sastavu.
 | Minerali         | Kalij, kalcij, željezo                        | Elektrolitska ravnoteža                   |
 | Esencijalna ulja | Oko 58 spojeva                                | Karakteristična aroma, antiseptičko       |
 | Tanini           | Polifenolni tanini                            | Adstringentno, antimikrobno               |
-
-
 
 **Divlja forma bazge** pokazala se najbogatijom bioaktivnim tvarima, s ukupnim sadržajem polifenola od **394 mg/100 g suhe tvari**, dok je od kultivara najsličnija divljem obliku sorta 'Weihenstephan' s 377 mg/100 g.
 
@@ -201,8 +197,6 @@ Okvirne cijene (mogu se razlikovati po trgovinama i godinama):
 | Čajna mješavina s bazgom        | 50 g do 100 g    | 4,00 EUR do 7,00 EUR |
 | Sok od bobica bazge (eko)       | 500 ml           | od 6,00 EUR          |
 
-
-
 Ako sami berete i sušite cvijet bazge, troškovi su minimalni, a kvaliteta može biti i viša od kupovnih proizvoda — pod uvjetom da se biljka bere na **čistim lokacijama daleko od prometnica**.
 
 ## Razlika između cvijeta i bobica bazge
@@ -221,11 +215,7 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 | Dostupnost        | Proljeće (svibanj–lipanj)     | Jesen (rujan)            |
 | Trudnoća          | Malo podataka, savjet liječnika | Malo podataka, savjet liječnika |
 
-
-
 Ako vas zanima kako slično pristupiti berbi i sušenju drugog ljekovitog bilja, pročitajte naš vodič o [berbi i sušenju mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) koji pokriva iste principe čuvanja bioaktivnih tvari.
-
-> **Napomena:** Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.
 
 ## Izvori
 

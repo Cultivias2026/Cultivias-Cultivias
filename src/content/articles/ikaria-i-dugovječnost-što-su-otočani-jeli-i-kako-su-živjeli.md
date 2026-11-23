@@ -66,5 +66,3 @@ Dug život nije život bez bolesti. [Klinička studija](https://pmc.ncbi.nlm.nih
 
 Ikaria je privukla pozornost zbog povijesno zabilježenog udjela osoba 90+, a Dan Buettner pomogao je tu priču približiti širokoj publici. Njezina vrijednost nije u obećanju da se dug život može naručiti s jelovnika, nego u ritmu u kojem su hrana, kretanje i odnosi živjeli zajedno. Zdravije navike lakše traju kada imaju mjesto u stvarnom životu.
 
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
-

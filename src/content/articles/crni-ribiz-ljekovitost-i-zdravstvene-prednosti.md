@@ -98,10 +98,6 @@ Dodaci crnog ribiza ne preporučuju se osobama s poremećajima zgrušavanja krvi
 
 **\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.**
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crnog ribiza u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Gopalan i sur., pregledni rad (2012.) – [Zdravstvene dobrobiti crnog ribiza (The health benefits of blackcurrants)](https://pubmed.ncbi.nlm.nih.gov/22673662/), Food & Function

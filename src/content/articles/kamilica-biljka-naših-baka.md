@@ -301,10 +301,6 @@ Za inhalaciju ili nanošenje na kožu dovoljno je nekoliko kapi razrijeđenih u 
 
 *\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.*
 
-NAPOMENA/DISCLAIMER:
-
-Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom.
-
 ## Izvori
 
 - Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)

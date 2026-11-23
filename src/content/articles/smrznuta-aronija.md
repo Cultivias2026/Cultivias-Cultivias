@@ -94,6 +94,3 @@ Nije, smrznute bobice zadržavaju vodu, dok je sušene gube. Za usporedbu razli�
 - [Sigurnost zamrzavanja i ponovnog zamrzavanja](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety), FSIS.
 - [Sigurnost pripreme uvoznih smrznutih bobica](https://www.fsai.ie/consumer-advice/food-safety-and-hygiene/berries-advice-to-boil-imported-frozen-berries), FSAI.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj sadržaj služi informiranju i nije zamjena za stručni medicinski savjet. Za dijagnozu i liječenje obratite se liječniku.**

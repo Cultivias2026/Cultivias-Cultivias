@@ -62,8 +62,6 @@ Tradicionalna prehrana starijih okinavskih kohorti bila je pretežno **biljna, l
 | **Riba, alge i svinjetina**             | Pokazuju da prehrana nije bila strogo veganska ni jednolična. | Da jedna životinjska namirnica objašnjava dugovječnost.      |
 | **Kurkuma, gorka dinja i začini**       | Dio su lokalne kuhinje i načina začinjavanja hrane.           | Da djeluju kao lijekovi za dug život.                        |
 
-
-
 ## Što znači hara hachi bu i treba li jesti samo do 80 % sitosti?
 
 *[Hara hachi bu](https://www.orcls.org/ocs/index.html)* je kulturna izreka koja se često prevodi kao poziv da se prestane jesti prije potpune sitosti. Ona opisuje umjerenost za stolom, a ne precizno propisan režim kalorijske restrikcije.
@@ -110,4 +108,3 @@ Usporedba s [prvom postajom, Sardinijom](https://www.cultivias.com/vijesti/sardi
 
 Okinawa je povijesno imala iznimne pokazatelje dugovječnosti, osobito među starijim kohortama, ali taj obrazac nije jednak za sve generacije. [Novija demografska analiza](https://onlinelibrary.wiley.com/doi/10.1111/joim.13764) pokazuje nepovoljniji mortalitetni obrazac kod kohorti rođenih nakon 1950-ih u usporedbi s Japanom u cjelini.
 
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*

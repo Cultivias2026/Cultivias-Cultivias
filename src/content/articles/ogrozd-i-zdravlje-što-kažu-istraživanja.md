@@ -121,9 +121,7 @@ Redovito jedenje svježeg voća, pa tako i ogrozda, dio je zdrave prehrane. Idej
 
 ***Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Iako su istraživanja pokazala potencijalne zdravstvene učinke ogrozda, većina tih studija koristi ekstrakte ili koncentrirane oblike voća. Redovna konzumacija svježeg ogrozda kao dijela zdrave prehrane može doprinijeti cjelokupnom zdravlju, ali ne bi trebala biti korištena kao zamjena za liječenje. Za dijagnozu, liječenje ili prevenciju bolesti, posavjetujte se sa svojim liječnikom ili nutricionistom.**
+**Iako su istraživanja pokazala potencijalne zdravstvene učinke ogrozda, većina tih studija koristi ekstrakte ili koncentrirane oblike voća. Redovna konzumacija svježeg ogrozda kao dijela zdrave prehrane može doprinijeti cjelokupnom zdravlju, ali ne bi trebala biti korištena kao zamjena za liječenje. Za dijagnozu, liječenje ili prevenciju bolesti, posavjetujte se sa svojim liječnikom ili nutricionistom.**
 
 ## Izvori
 

@@ -21,14 +21,11 @@ related_articles:
 noindex: false
 ---
 
-
 Na stolu su se često nalazili riža, crni grah, kukuruzne tortilje, povrće, voće, jaja, sir i povremeno meso ili riba. Izvan kuće bili su vrt, dvorište, put do susjeda i obveze koje nisu čekale da se za njih pronađe slobodan termin.
 
 Nicoya nije tropska kišna šuma kakvu mnogi zamišljaju kada pomisle na Kostariku. To je pacifički krajolik Guanacastea: sezonski suša tropska šuma, prašnjavi putovi, niska brda, pašnjaci, ruralne kuće s trijemom i obala koja nije jedina pozornica života.
 
 Ovo je treća postaja Cultivias serijala [Plave zone](https://www.cultivias.com/vijesti/5-mjesta-5-na%C4%8Dina-%C5%BEivot-kako-su-plave-zone-postale-globalni-fenomen/). Nakon [Sardinije](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/) i [Okinawe](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoya otvara drukčije pitanje: kako je jedna povijesna generacija ljudi iz ruralne Kostarike postala toliko zanimljiva demografima?
-
-
 
 ## Brzi odgovor: zašto je Nicoya postala poznata kao plava zona?
 
@@ -118,6 +115,4 @@ Nicoya nam ne daje listu egzotičnih kupnji. Daje nekoliko jednostavnih pitanja 
 U odnosu na [sardinsku priču o planinskoj svakodnevici](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/) i [okinavsku priču o otočnom prehrambenom obrascu](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), Nicoya posebno naglašava vrijednost osnovnih namirnica i životnog ritma koji se mijenja iz generacije u generaciju.
 
 No najpoštenija poruka nije da možemo preuzeti nečiji život u tanjur. Nicoya pokazuje koliko se prehrana, odnosi, rad, briga i generacije međusobno isprepliću. To je razlog da o svojoj svakodnevici razmišljamo danas.
-
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
 

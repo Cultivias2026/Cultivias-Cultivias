@@ -106,10 +106,6 @@ Ako kamilicu želite brati sami, savjete donosi članak o [branju kamilice](http
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja čaja od kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Amsterdam i sur., randomizirano istraživanje (2009.) – [Ekstrakt kamilice kod generaliziranog anksioznog poremećaja (A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder)](https://pubmed.ncbi.nlm.nih.gov/19593179/), Journal of Clinical Psychopharmacology

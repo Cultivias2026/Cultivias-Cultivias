@@ -41,7 +41,6 @@ related_articles:
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
-
 Aronija (*Aronia melanocarpa*) nutritivno je zanimljiva zbog vlakana i mnogo polifenola, osobito antocijana, koji joj daju tamnu boju i trpak okus. To je voće, a ne lijek. Zdravstveni potencijal aronije istražuje se, no dostupni klinički dokazi ne dopuštaju tvrdnju da liječi pojedinu bolest. Mogućim [nuspojavama soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) posvetili smo zaseban članak.
 
 Mnogima su aronija i njezin gusti sok dio obiteljskog rituala još od kraja ljeta. Ipak, između narodnih predaja, reklamnih poruka i onoga što znanost može potvrditi postoji velika razlika. Tko bi trebao biti oprezan i zašto, objašnjava članak [je li aronija štetna po zdravlje](https://www.cultivias.com/voce/je-li-aronija-%C5%A1tetna-po-na%C5%A1e-zdravlje/).
@@ -86,8 +85,6 @@ Ako vas zanimaju samo energetska vrijednost i kalorije po porciji, pročitajte [
 \*Referentni dnevni unosi preuzeti su iz [EU referentnih vrijednosti nutrijenata iz Priloga XIII Uredbe (EU) 1169/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20250401). To su standardne vrijednosti za označavanje hrane, namijenjene usporedbi proizvoda i informiranju prosječnog odraslog potrošača. Ne predstavljaju individualnu preporuku, koja može ovisiti o dobi, spolu, trudnoći, zdravstvenom stanju i prehrani.
 
 Vrijednosti su **orijentacijske**, jer se sastav aronije mijenja s obzirom na sortu, zrelost ploda, uvjete uzgoja, berbu i preradu. Sok, prah, sušene bobice i kapsule zato ne trebaju imati isti vitaminski profil kao svježi plod.
-
-
 
 ## Zašto se aronija smatra nutritivno vrijednom?
 
@@ -174,8 +171,6 @@ Za prerađevine uvijek pročitajte deklaraciju. Podatke o energiji, porcijama i 
 Osobe koje uzimaju stalnu terapiju, trudnice, dojilje, osobe s kroničnim bolestima i roditelji koji razmišljaju o dodatcima za djecu trebaju prije uporabe koncentriranih pripravaka pitati liječnika ili ljekarnika. Oprez nije tvrdnja da je aronija opasna, nego razuman pristup svakom dodatku prehrani s promjenjivim sastavom.
 
 Osobe koje se liječe kemoterapijom ili zračenjem koncentrirane pripravke s antioksidansima, pa tako i aronije, ne bi trebale uzimati bez dogovora s onkologom. Antioksidansi bi, naime, mogli oslabiti učinak takvog liječenja.
-
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
 
 ## Izvori
 

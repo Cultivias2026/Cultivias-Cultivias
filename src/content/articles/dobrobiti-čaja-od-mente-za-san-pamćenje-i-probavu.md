@@ -114,10 +114,6 @@ Za ublažavanje probavnih tegoba EMA odraslima navodi 1,5 do 3 g suhog lista pap
 
 Kupujte čaj provjerenog podrijetla, a ako mentu berete sami, pazite da je riječ o paprenoj ili klasastoj metvici.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Pilot-istraživanje, časopis Journal of Pharmacy & Pharmacognosy Research – [Učinak paprene metvice na mentalno zdravlje studenata (The effect of Mentha piperita L. on the mental health issues of university students: A pilot study)](https://jppres.com/jppres/pdf/vol9/jppres20.932_9.1.49.pdf), 2021.

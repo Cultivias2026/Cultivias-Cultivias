@@ -160,10 +160,6 @@ Rajčica je za većinu ljudi zdrava namirnica, no kod nekih može izazvati tegob
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja rajčice u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Rajčica, crvena, zrela, sirova (Tomatoes, red, ripe, raw)](https://fdc.nal.usda.gov/food-details/170457/nutrients)

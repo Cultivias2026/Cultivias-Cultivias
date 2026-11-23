@@ -201,9 +201,7 @@ ASPCA eukaliptus navodi kao otrovan za pse, mačke i konje, a mačke su osobito 
 
 Limunski eukaliptus jedna je od rijetkih biljaka iz koje se dobiva repelent s ozbiljnim znanstvenim dokazima. Zaštitu od komaraca pružaju registrirani repelenti s OLE-om ili PMD-om, koje CDC preporučuje uz DEET, a ne čisto eterično ulje. Kod djece mlađe od 3 godine takvi se repelenti ne koriste. Biljka u vrtu ili tegli donosi ugodan miris limuna, ali od uboda ne štiti.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Eterično ulje eukaliptusa, osobito koncentrirano, otrovno je ako se proguta. Repelente koristite prema uputi s deklaracije, a kod djece, u trudnoći i kod kroničnih bolesti posavjetujte se s liječnikom ili ljekarnikom. U slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342).**
+**Eterično ulje eukaliptusa, osobito koncentrirano, otrovno je ako se proguta. Repelente koristite prema uputi s deklaracije, a kod djece, u trudnoći i kod kroničnih bolesti posavjetujte se s liječnikom ili ljekarnikom. U slučaju gutanja odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342).**
 
 ## Izvori
 

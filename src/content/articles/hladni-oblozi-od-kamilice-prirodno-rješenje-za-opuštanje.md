@@ -104,10 +104,6 @@ Najbolje je koristiti kamilicu koju ste sami [ubrali](https://www.cultivias.com/
 * **alergija** – ako ste alergični na kamilicu ili druge glavočike, poput ambrozije, ne koristite oblog
 * **liječnik** – ako se tegobe ne smire ili se pogoršaju, javite se liječniku
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja kamilice u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Europska agencija za lijekove (EMA) – [Cvijet kamilice, sažetak za biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos)

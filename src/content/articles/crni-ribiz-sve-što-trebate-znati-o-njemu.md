@@ -186,10 +186,6 @@ Svježe bobice dodajte zelenoj salati s orasima, feta sirom i balzamičnim octom
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crnog ribiza u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Crni ribiz, sirov (Currants, european black, raw)](https://fdc.nal.usda.gov/food-details/173963/nutrients)

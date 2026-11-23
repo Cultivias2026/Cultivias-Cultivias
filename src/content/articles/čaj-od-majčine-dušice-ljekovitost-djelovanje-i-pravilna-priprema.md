@@ -148,10 +148,6 @@ Kupci najčešće biraju između dvije mogućnosti:
 
 Cijene su okvirne i razlikuju se od trgovine do trgovine. Za najbolju kvalitetu potražite **"zelenu majčinu dušicu"** u biljnim ljekarnama ili kod provjerenih travara. Za ljekovitu upotrebu najsigurniji su registrirani biljni lijekovi s timijanom iz ljekarne, s točnim doziranjem i uputom.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije nego što počnete koristiti biljne pripravke, posebice ako imate kronične bolesti, uzimate lijekove ili ste trudni.**
-
 ## Izvori
 
 - Jalil i sur., sustavni pregled (2024.) – [Majčina dušica: pregled dokaza o prehrambenim i zdravstvenim koristima (Wild thyme (Thymus serpyllum L.): a review of the current evidence of nutritional and preventive health benefits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), Frontiers in Nutrition

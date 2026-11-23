@@ -54,7 +54,6 @@ Za sirup od mente bez kuhanja trebate:
 
 <div data-kalkulator="menta-sok"></div>
 
-
 **Napomena:** Količinu šećera i limunske kiseline možete prilagoditi ukusu. Ako želite kiseliji okus, dodajte više limunske kiseline, a mente stavite više ili manje, ovisno o tome koliko jak okus želite. Uvijek je bolje početi s manjom količinom i dodati po potrebi.
 
 Imajte na umu da šećer i limunska kiselina sirup i čuvaju od kvarenja. Što manje šećera stavite, to sirup prije provrije ili se uplijesni, pa ga tada pripremite manje i brže potrošite.
@@ -165,10 +164,6 @@ Neki ljudi su alergični ili osjetljivi na mentu. Alergija se može očitovati o
 Ako ste alergični na biljke iz porodice usnača (Lamiaceae) ili ste već imali neugodnu reakciju na mentu, prije pijenja soka posavjetujte se s liječnikom. Ako napitak od mente pijete prvi put, počnite s manjom količinom.
 
 ***Ako nakon pijenja primijetite neobične simptome, prestanite piti napitak. Ako vam otekne lice, usne ili grlo ili otežano dišete, odmah potražite hitnu medicinsku pomoć.***
-
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja mente u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
 
 ## Izvori
 

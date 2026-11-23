@@ -6,7 +6,6 @@ image: /images/articles/ružmarin.webp
 perex: >-
   Ružmarin je puno više od začina koji dodajemo pečenom krumpiru.
 
-
   Ova mediteranska biljka, poznata po svom intenzivnom mirisu i igličastim listovima, ima bogatu povijest koja seže tisućama godina unatrag.
 readTime: 10
 publishedAt: 2026-01-17
@@ -226,10 +225,6 @@ U kuhinji se svježe ili sušene grančice dodaju jelima od mesa, ribe, krumpira
 Od ružmarina možete napraviti i aromatizirani ocat i ulje. Ocat s nekoliko grančica može odstajati nekoliko tjedana da se okusi prožmu. Ulje s ružmarinom, svježim ili sušenim, ne držite na sobnoj temperaturi, jer bilje u ulju može biti izvor botulizma, teškog trovanja hranom. Čuvajte ga u hladnjaku i potrošite unutar tjedan dana, savjetuje kanadsko Ministarstvo zdravstva (Health Canada).
 
 U vrtu ružmarin privlači pčele i druge kukce oprašivače. Dobro podnosi sušu, pa je dobar izbor za suhe dijelove vrta u kojima druge biljke teško uspijevaju. Ako ga uzgajate u tegli, možete ga premještati po balkonu ili terasi.
-
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
 
 ## Izvori
 

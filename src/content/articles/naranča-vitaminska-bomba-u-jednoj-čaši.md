@@ -157,10 +157,6 @@ Ako vas zanima drugo voće bogato vitaminom C, pogledajte [crni ribiz](https://w
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
-
 ## Izvori
 
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Naranča, sirova (Oranges, raw, all commercial varieties)](https://fdc.nal.usda.gov/food-details/169097/nutrients)

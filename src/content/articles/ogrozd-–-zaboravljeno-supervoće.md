@@ -8,7 +8,6 @@ perex: >-
   godina polako nestaje s naših stolova. No, njegova vrijednost i ukus su
   neosporni.
 
-
   Ogrozd je izvrstan izvor vitamina C, koji pruža podršku normalnoj funkciji
   imunološkog sustava, a izvor je i vlakana, važnih za dobru probavu.
 readTime: 10
@@ -246,10 +245,6 @@ Na internetu se može pročitati da je ogrozd u nekim dijelovima Europe bio "zab
 Dokumentiran je drugi običaj: u Britaniji se djeci na pitanje odakle dolaze bebe znalo reći da su pronađene ispod grma ogrozda, navodi isti etimološki rječnik. U engleskom se jeziku za osobu koja je višak u društvu zaljubljenog para i danas kaže da "igra ogrozd" (*to play gooseberry*).
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
-
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja ogrozda u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
 
 ## Izvori
 

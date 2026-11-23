@@ -227,10 +227,6 @@ Hidrolat (cvjetna vodica) majčine dušice koristi se kao blagi tonik za lice. U
 
 Za opuštajuću kupku najsigurnija je šaka sušene biljke u vrećici od tkanine. Eterično ulje ne kapajte izravno u kadu, jer se ne miješa s vodom i na koži može izazvati nadražaj. Ako ga ipak koristite, prvo ga pomiješajte s baznim uljem.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Za bilo kakve zdravstvene probleme, dijagnozu ili liječenje, obavezno se posavjetujte sa svojim liječnikom ili kvalificiranim zdravstvenim djelatnikom.**
-
 ## Izvori
 
 - Galovičová i sur., laboratorijsko istraživanje (2021.) – [Eterično ulje majčine dušice i njegovo biološko djelovanje kao suvremeni konzervans za hranu (Thymus serpyllum Essential Oil and Its Biological Activity as a Modern Food Preserver)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8309260/), Plants

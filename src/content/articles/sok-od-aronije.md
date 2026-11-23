@@ -112,6 +112,3 @@ Za zamrzavanje koristite prikladne posude i ostavite prostor za širenje tekući
 - [Priprema i zamrzavanje voćnog soka](https://extension.oregonstate.edu/catalog/sp-50-455-preserving-foods-fruit-juice-apple-cider), Oregon State University Extension, 2024.
 - [Brzo hlađenje pripremljene hrane](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety), FSIS.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj sadržaj služi informiranju i nije zamjena za stručni medicinski savjet. Za dijagnozu i liječenje obratite se liječniku.**

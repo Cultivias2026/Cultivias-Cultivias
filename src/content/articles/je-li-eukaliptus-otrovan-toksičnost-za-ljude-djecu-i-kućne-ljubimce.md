@@ -192,9 +192,7 @@ Da. ASPCA navodi eukaliptus kao otrovan za pse. Znakovi trovanja su povraćanje,
 **Što ako dijete pojede list eukaliptusa?**
 Listovi sadrže mnogo manje eteričnog ulja od čistog ulja. Jedan progutani list vjerojatno neće izazvati ozbiljne simptome, ali svakako nazovite Centar za kontrolu otrovanja ili pedijatra.
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst isključivo je informativnog karaktera i ne zamjenjuje stručni medicinski savjet. U slučaju sumnje na trovanje eukaliptusom odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342). Ne izazivajte povraćanje bez upute medicinskog osoblja. Za kućne ljubimce odmah kontaktirajte veterinara.**
+**U slučaju sumnje na trovanje eukaliptusom odmah nazovite hitnu pomoć (112 ili 194) ili Centar za kontrolu otrovanja (01 2348 342). Ne izazivajte povraćanje bez upute medicinskog osoblja. Za kućne ljubimce odmah kontaktirajte veterinara.**
 
 ## Izvori
 

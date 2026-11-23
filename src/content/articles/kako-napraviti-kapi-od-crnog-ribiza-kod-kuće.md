@@ -109,10 +109,6 @@ Pregledni rad poljskih znanstvenica Tomczyk i Dżugan (2026.) navodi da za gemmo
 
 **\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.**
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja crnog ribiza u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - UNICEF Hrvatska – [Što izbjegavati u trudnoći](https://www.unicef.org/croatia/sto-izbjegavati-u-trudnoci)

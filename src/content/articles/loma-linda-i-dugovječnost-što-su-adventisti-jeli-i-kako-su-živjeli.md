@@ -23,11 +23,9 @@ related_articles:
 noindex: false
 ---
 
-
 To nije sunčani Hollywood. Loma Linda je grad u unutarnjem dijelu južne Kalifornije, istočno od Los Angelesa, u podnožju planina San Bernardino. [Blue Zones](https://www.bluezones.com/explorations/loma-linda-california/) navodi da u tom kraju živi oko 9.000 adventista, članova Crkve adventista sedmog dana, kojima je zdravlje važan dio vjere.
 
 Nakon [Sardinije](https://www.cultivias.com/vijesti/sardinija-i-dugovje%C4%8Dnost-%C5%A1to-stvarno-stoji-iza-pri%C4%8De-o-plavoj-zoni/), [Okinawe](https://www.cultivias.com/vijesti/okinawa-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/), [Nicoye](https://www.cultivias.com/vijesti/nicoya-i-dugovje%C4%8Dnost-%C5%A1to-su-starije-generacije-jele-i-kako-su-%C5%BEivjele/) i [Ikarije](https://www.cultivias.com/vijesti/ikaria-i-dugovje%C4%8Dnost-%C5%A1to-su-oto%C4%8Dani-jeli-i-kako-su-%C5%BEivjeli/), Loma Linda pokazuje da plava zona ne mora biti selo na otoku. Može biti zajednica koja zajedno bira slične navike.
-
 
 ## Brzi odgovor: zašto je Loma Linda postala poznata kao plava zona?
 
@@ -65,8 +63,4 @@ Adventisti najčešće ne puše i ne piju alkohol, pa se po tome razlikuju od ne
 - **Tjedni predah:** jedan dan ili dio dana bez užurbanosti.
 - **Svakodnevna šetnja:** kratka, ali redovita.
 - **Ljudi i svrha:** obitelj, prijatelji, susjedi i volontiranje.
-
-
-
-> *Napomena: Ovaj tekst namijenjen je isključivo u informativne svrhe i ne zamjenjuje stručni medicinski savjet, dijagnozu ili liječenje. Uvijek se posavjetujte s liječnikom ili ljekarnikom prije primjene bilo kojeg preparata, posebno ako uzimate lijekove ili imate kroničnu bolest.*
 

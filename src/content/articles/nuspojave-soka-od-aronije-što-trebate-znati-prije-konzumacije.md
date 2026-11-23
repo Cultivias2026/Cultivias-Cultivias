@@ -101,10 +101,6 @@ Ako sok pijete zbog sastava, korisno je znati i što aronija sadrži te koliko s
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**NAPOMENA/DISCLAIMER:**
-
-**Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručni medicinski savjet. Prije korištenja aronije u medicinske svrhe, obavezno se posavjetujte s liječnikom**.
-
 ## Izvori
 
 - Frumuzachi i sur., sustavni pregled i meta-analiza (2025.) – [Aronija i kardiometabolički pokazatelji (Impact of a Chokeberry Supplementation on Cardiometabolic Outcomes)](https://doi.org/10.3390/nu17091488), Nutrients
