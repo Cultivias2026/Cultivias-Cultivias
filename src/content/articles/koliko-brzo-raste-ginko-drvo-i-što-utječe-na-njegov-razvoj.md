@@ -39,7 +39,7 @@ kalendar:
 related_articles:
   - ginko-ginkgo-biloba-sve-što-trebate-znati-o-uzgoju-i-ljekovitosti
   - menta-sve-važne-informacije-o-njoj
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - majcina-dusica-sastav-uzgoj-i-upotreba
 metaTitle: Koliko brzo raste ginko drvo i što utječe na njegov razvoj?
 noindex: false
 ---

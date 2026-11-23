@@ -29,18 +29,18 @@ oprez:
     - Previše soka može izazvati nadutost, proljev ili grčeve.
   vise: "#za-koga-aronija-može-biti-štetna"
 related_articles:
-  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - aronija-sastav-upotreba-i-istrazivanja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
-[Aronija](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) (*Aronia melanocarpa*) za većinu je ljudi sigurno voće kad se jede kao hrana, svježa, u džemu ili u soku. Oprez je potreban uglavnom kod koncentriranih proizvoda, poput matičnog soka, praha i kapsula, te kod pojedinih skupina ljudi. U nastavku saznajte što aronija sadrži, kome može smetati, koliko soka se obično pije i što o njezinoj ljekovitosti zaista kažu istraživanja.
+[Aronija](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/) (*Aronia melanocarpa*) za većinu je ljudi sigurno voće kad se jede kao hrana, svježa, u džemu ili u soku. Oprez je potreban uglavnom kod koncentriranih proizvoda, poput matičnog soka, praha i kapsula, te kod pojedinih skupina ljudi. U nastavku saznajte što aronija sadrži, kome može smetati, koliko soka se obično pije i što o njezinoj ljekovitosti zaista kažu istraživanja.
 
 ## Aronija: vitamini i biljni spojevi
 
 Aronija sadrži vlakna, vitamine K i C, folat te mnogo polifenola, skupine biljnih spojeva. Najpoznatiji su antocijani, pigmenti koji bobicama daju gotovo crnu boju.
 
-Vitamina C ima oko 14 mg na 100 g, znatno manje od [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) ili [naranče](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/). Minerala poput kalija, magnezija i željeza ima u manjim količinama, kao i većina voća.
+Vitamina C ima oko 14 mg na 100 g, znatno manje od [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) ili [naranče](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/). Minerala poput kalija, magnezija i željeza ima u manjim količinama, kao i većina voća.
 
 Laboratorijska mjerenja antioksidativne aktivnosti ne znače da aronija jača imunitet ili liječi bolesti. Zbog toga, kao i zbog mogućih probavnih tegoba, ne odgovara svima jednako. Moguće [nuspojave soka od aronije](https://www.cultivias.com/voce/nuspojave-soka-od-aronije-%C5%A1to-trebate-znati-prije-konzumacije/) opisane su u zasebnom članku.
 
@@ -70,7 +70,7 @@ Pojedini proizvođači sok od aronije ne preporučuju ni starijoj djeci, pa uvij
 
 Polifenoli, među kojima su i tanini (tvari koje daju opor okus), mogu smanjiti iskorištavanje željeza iz biljne hrane, navodi pregledni rad švicarskih nutricionista Hurrella i Egli (2010.).
 
-Osobe s manjkom željeza neka sok od aronije ne piju uz obrok bogat željezom ni uz dodatak željeza. Kako vitamin C pomaže iskorištavanju [željeza](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/), objašnjeno je u zasebnom članku.
+Osobe s manjkom željeza neka sok od aronije ne piju uz obrok bogat željezom ni uz dodatak željeza. Kako vitamin C pomaže iskorištavanju [željeza](https://www.cultivias.com/voce/crni-ribiz-i-zeljezo/), objašnjeno je u zasebnom članku.
 
 #### 5. Osobe na kemoterapiji ili zračenju
 

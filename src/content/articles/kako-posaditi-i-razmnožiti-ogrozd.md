@@ -52,10 +52,10 @@ kalendar:
 related_articles:
   - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
 ---
 
-[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) se lako sadi i razmnožava, a uspjeh najviše ovisi o kvalitetnoj sadnici i pravilnoj dubini sadnje. Sadi se dok biljka miruje, od jeseni do ranog proljeća, a novi grmovi lako se dobivaju iz reznica. U nastavku saznajte kako odabrati sadnicu, kako je posaditi korak po korak i kako ogrozd razmnožiti reznicama.
+[Ogrozd](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) se lako sadi i razmnožava, a uspjeh najviše ovisi o kvalitetnoj sadnici i pravilnoj dubini sadnje. Sadi se dok biljka miruje, od jeseni do ranog proljeća, a novi grmovi lako se dobivaju iz reznica. U nastavku saznajte kako odabrati sadnicu, kako je posaditi korak po korak i kako ogrozd razmnožiti reznicama.
 
 ## Odabir idealne sadnice
 

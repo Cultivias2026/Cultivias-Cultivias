@@ -25,8 +25,8 @@ oprez:
   viseTekst: Tko ne smije uzimati kapi s alkoholom
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
-  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
-  - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
+  - crni-ribiz-i-zdravlje
+  - crni-ribiz-i-zeljezo
 ---
 
 Domaće kapi od crnog ribiza zapravo su tinktura, alkoholni izvadak (ekstrakt) zrelih bobica. Pripremaju se jednostavno, ali u alkoholu moraju odstajati najmanje četiri tjedna. U nastavku saznajte što vam treba, kako ih napraviti korak po korak, kako se razlikuju od kapi od pupoljaka iz ljekarne i tko ih ne smije uzimati.
@@ -83,7 +83,7 @@ Bočice čuvajte na tamnom i hladnom mjestu, izvan dohvata djece, jer kapi sadr�
 
 #### 7. Upotreba
 
-Za tinkturu od bobica [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) nema istraživanja ni provjerene doze, pa je ne smatrajte lijekom i ne uzimajte je kao lijek. Bobice same po sebi sadrže mnogo vitamina C, a o tome što se o njihovu djelovanju zna, piše u članku o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Za tinkturu od bobica [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) nema istraživanja ni provjerene doze, pa je ne smatrajte lijekom i ne uzimajte je kao lijek. Bobice same po sebi sadrže mnogo vitamina C, a o tome što se o njihovu djelovanju zna, piše u članku o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 ### Tko ne smije uzimati kapi s alkoholom
 

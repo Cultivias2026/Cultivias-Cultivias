@@ -28,7 +28,7 @@ oprez:
     - Kod alergije na pelud moguće su alergijske reakcije.
   vise: "#nuspojave-i-kontraindikacije"
 related_articles:
-  - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
+  - bazga-zova-sve-o-ovoj-poznatoj-biljci
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
   - čaj-od-majčine-dušice-ljekovitost-djelovanje-i-pravilna-priprema
 metaTitle: "Čaj od bazge: Ljekovitost, pravilna priprema i moguće nuspojave"
@@ -39,7 +39,7 @@ noindex: false
 
 Čaj od bazge je biljni napitak koji se priprema od osušenih cvjetova **crne bazge** (*Sambucus nigra* L.), višegodišnjeg grma ili manjeg stabla iz porodice Adoxaceae. U nas je poznata i kao **zova, zovika ili bazgovina**. Ne treba je brkati s abdovinom, koja se zove i aptovina (*Sambucus ebulus*), jer je ta srodnica otrovna. U narodnoj medicini bazga se koristi još od antičke Grčke, kako navodi [pregledni rad o bioaktivnim tvarima cvijeta bazge](https://pmc.ncbi.nlm.nih.gov/articles/PMC11354468/) objavljen 2024. u znanstvenom časopisu *Foods*.
 
-Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike, uz rubove šuma, potoke, livade i prometnice. Naraste do **10 metara**, a bijelo-žuti cvjetovi skupljeni su u plosnate cvatove nalik tanjurima i cvatu **od svibnja do srpnja**. Upravo se ti cvjetovi, ubrani u punom cvatu, koriste za čaj.
+Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike, uz rubove šuma, potoke, livade i prometnice. Naraste do **10 metara**, a bijelo-žuti cvjetovi skupljeni su u plosnate cvatove nalik tanjurima i cvatu **od svibnja do srpnja**. Upravo se ti cvjetovi, ubrani u punom cvatu, koriste za čaj.
 
 Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi**, dok su lišće, kora, korijen i stabljika bazge **toksični dijelovi biljke** koji se ne smiju konzumirati u sirovom stanju.
 

@@ -26,12 +26,12 @@ oprez:
     - Domaći iscijeđeni sok nije pasteriziran, pa ga djeca, trudnice, starije osobe i osobe oslabljenog imuniteta trebaju izbjegavati.
   vise: "#tko-bi-trebao-biti-oprezan"
 related_articles:
-  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - aronija-sastav-upotreba-i-istrazivanja
   - je-li-aronija-štetna-po-naše-zdravlje
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 ---
 
-Sok od [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) većina ljudi dobro podnosi, ali zbog opora okusa, kiselosti i velike koncentracije biljnih spojeva nekima može smetati. Nuspojave su najčešće blage i probavne, a javljaju se uglavnom kad se popije više soka nego što piše na deklaraciji. U nastavku saznajte koje su moguće nuspojave soka od aronije, tko treba biti oprezan i kako ga piti s manje tegoba.
+Sok od [aronije](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/) većina ljudi dobro podnosi, ali zbog opora okusa, kiselosti i velike koncentracije biljnih spojeva nekima može smetati. Nuspojave su najčešće blage i probavne, a javljaju se uglavnom kad se popije više soka nego što piše na deklaraciji. U nastavku saznajte koje su moguće nuspojave soka od aronije, tko treba biti oprezan i kako ga piti s manje tegoba.
 
 ## Što je sok od aronije i zašto je popularan?
 
@@ -97,7 +97,7 @@ Ako ste zdravi, sok od aronije možete piti kao i druge voćne sokove, uz nekoli
 
 Ako sok radite sami, pogledajte kako se [domaći sok od aronije priprema i čuva](https://www.cultivias.com/voce/sok-od-aronije/). Sok koji samo iscijedite nije pasteriziran, pa ga djeca, trudnice, starije osobe i osobe oslabljenog imuniteta trebaju izbjegavati.
 
-Ako sok pijete zbog sastava, korisno je znati i što aronija sadrži te koliko su dokazi o njezinu djelovanju zapravo čvrsti. Sličan tamni sok daju i [bazgine bobice](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/), koje se, za razliku od aronije, ne smiju jesti sirove.
+Ako sok pijete zbog sastava, korisno je znati i što aronija sadrži te koliko su dokazi o njezinu djelovanju zapravo čvrsti. Sličan tamni sok daju i [bazgine bobice](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/), koje se, za razliku od aronije, ne smiju jesti sirove.
 
 ***\*Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 

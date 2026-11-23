@@ -29,7 +29,7 @@ related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
-Biljke posađene uz rajčicu mogu odbijati štetnike, čuvati vlagu u tlu ili jednostavno ne smetati njezinu rastu, a neke joj štete jer dijele iste bolesti. Takvo planiranje vrta zove se združena sadnja. Većina preporuka temelji se na iskustvu vrtlara, a samo je dio potvrđen istraživanjima. Cjelovit pregled uzgoja i njege donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/).
+Biljke posađene uz rajčicu mogu odbijati štetnike, čuvati vlagu u tlu ili jednostavno ne smetati njezinu rastu, a neke joj štete jer dijele iste bolesti. Takvo planiranje vrta zove se združena sadnja. Većina preporuka temelji se na iskustvu vrtlara, a samo je dio potvrđen istraživanjima. Cjelovit pregled uzgoja i njege donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/).
 
 U nastavku saznajte uz koje biljke se preporučuje [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koje je bolje držati podalje.
 
@@ -51,7 +51,7 @@ Luk i rajčica dobro se slažu i u **kuhinji**, pa ih mnogi i u vrtu sade zajedn
 
 ### **Mrkva**
 
-**[Mrkva](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/) i rajčica** dobro se slažu jer nemaju zajedničkih bolesti ni štetnika. Mrkva raste pod zemljom, a rajčica iznad tla, pa se ne natječu za prostor i gredica je bolje iskorištena. Koje biljke odgovaraju samoj mrkvi, opisuje članak o [dobrim i lošim susjedima mrkve](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
+**[Mrkva](https://www.cultivias.com/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/) i rajčica** dobro se slažu jer nemaju zajedničkih bolesti ni štetnika. Mrkva raste pod zemljom, a rajčica iznad tla, pa se ne natječu za prostor i gredica je bolje iskorištena. Koje biljke odgovaraju samoj mrkvi, opisuje članak o [dobrim i lošim susjedima mrkve](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
 
 ### **Salata**
 

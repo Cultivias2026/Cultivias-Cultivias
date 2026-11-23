@@ -16,7 +16,7 @@ tags:
   - kalorije
 related_articles:
   - ogrozd-i-zdravlje-što-kažu-istraživanja
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
   - crni-ribiz-kalorije-prema-obliku-proizvoda
 metaTitle: "Ogrozd kalorije: svježi plod, kompot i džem"
 metaDescription: "Svježi ogrozd ima 44 kcal na 100 g. Usporedite kalorije porcija, smrznutog ploda i džema te saznajte što mijenja kalorijsku vrijednost kompota."
@@ -24,7 +24,7 @@ noindex: false
 ---
 ## Koliko kalorija ima porcija svježeg ogrozda?
 
-Prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA), [manja porcija od 50 g](https://fdc.nal.usda.gov/food-details/173030/nutrients) svježeg [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) ima 22 kcal, a 200 g bobica odvojenih u zdjelicu ima 88 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, bez pretpostavke da svaka puna zdjelica teži jednako.
+Prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA), [manja porcija od 50 g](https://fdc.nal.usda.gov/food-details/173030/nutrients) svježeg [ogrozda](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) ima 22 kcal, a 200 g bobica odvojenih u zdjelicu ima 88 kcal. Jednom izvažite 100 g u svojoj zdjelici i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, bez pretpostavke da svaka puna zdjelica teži jednako.
 
 Računa se masa očišćenih bobica, bez peteljki i dijelova koje nećete pojesti. Šećer koji dodate preko svježeg ogrozda računa se zasebno.
 

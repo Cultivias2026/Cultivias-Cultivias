@@ -15,7 +15,7 @@ tags:
   - aronija
   - kalorije
 related_articles:
-  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - aronija-sastav-upotreba-i-istrazivanja
   - nuspojave-soka-od-aronije-što-trebate-znati-prije-konzumacije
   - je-li-aronija-štetna-po-naše-zdravlje
   - smrznuta-aronija
@@ -27,7 +27,7 @@ noindex: false
 
 Manja količina od 30 g svježih bobica ima 15 kcal, a 100 g odvojenih u zdjelicu ima 50 kcal, prema [norveškoj službenoj tablici sastava hrane (Matvaretabellen)](https://www.matvaretabellen.no/en/black-chokeberries-raw/). Jednom izvažite 100 g u svojoj zdjelici i zapamtite do koje razine seže voće, jer šaka ili puna zdjelica nemaju stalnu masu.
 
-To su kalorije samih plodova [crnoplodne aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), očišćenih od peteljki, bez meda ili šećera. Ako bobice jedete s jogurtom, voće je samo jedan dio obroka, pa se kalorije jogurta pribrajaju zasebno.
+To su kalorije samih plodova [crnoplodne aronije](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/), očišćenih od peteljki, bez meda ili šećera. Ako bobice jedete s jogurtom, voće je samo jedan dio obroka, pa se kalorije jogurta pribrajaju zasebno.
 
 | Oblik aronije | Kalorije na 100 g ili 100 ml | Primjer porcije | Kalorije porcije |
 | --- | --- | --- | --- |

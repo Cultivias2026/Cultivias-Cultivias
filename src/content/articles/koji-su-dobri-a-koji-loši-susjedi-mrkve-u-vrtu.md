@@ -29,14 +29,14 @@ ukratko:
     - k: Mit
       v: Kopar i mrkva se ne križaju; mrkva se križa samo s biljkama iste vrste, npr. divljom mrkvom
 related_articles:
-  - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
+  - mrkva-nutritivna-vrijednost-zdravlje-i-sadnja
   - mrkva-kalorije-koliko-ih-ima-sirova-kuhana-i-pečena
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 metaTitle: Koji su dobri, a koji loši susjedi mrkve u vrtu?
 noindex: false
 ---
 
-Združena sadnja (konsocijacija) znači uzgoj različitih biljaka jednih uz druge, tako da jedna drugoj koriste ili barem ne smetaju. Za mrkvu je najkorisnija zbog boljeg iskorištavanja prostora i tla, a manje zbog zaštite od štetnika, koja je u pokusima najčešće slaba. U nastavku saznajte koje biljke dobro uspijevaju uz [mrkvu](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/), što o njima kažu istraživanja i što ne treba sijati u njezinoj blizini.
+Združena sadnja (konsocijacija) znači uzgoj različitih biljaka jednih uz druge, tako da jedna drugoj koriste ili barem ne smetaju. Za mrkvu je najkorisnija zbog boljeg iskorištavanja prostora i tla, a manje zbog zaštite od štetnika, koja je u pokusima najčešće slaba. U nastavku saznajte koje biljke dobro uspijevaju uz [mrkvu](https://www.cultivias.com/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/), što o njima kažu istraživanja i što ne treba sijati u njezinoj blizini.
 
 [Savjetodavna služba Sveučilišta Minnesota](https://extension.umn.edu/planting-and-growing-guides/companion-planting-home-gardens) (UMN Extension) ističe da se združenom sadnjom bolje iskorištava prostor, a biljke s različitim korijenjem crpe vodu i hranjiva iz različitih slojeva tla. [Savjetodavna služba Sveučilišta West Virginia](https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting) (WVU Extension) dodaje da biljke s dubokim korijenom, poput mrkve i rotkvice, razrahljuju zbijeno tlo, a dobro složene kombinacije mogu smanjiti potrebu za zaštitnim sredstvima.
 
@@ -88,7 +88,7 @@ Savjetodavna služba Sveučilišta Oregon State kao susjeda mrkve navodi i rajč
 
 ## Origano i majčina dušica: Tihi čuvari gredice
 
-Origano i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) (timijan) niske su biljke koje se šire po tlu i ne zasjenjuju mrkvu. Portal Gardenia navodi da jakim mirisom drže podalje nematode i mrkvinu muhu, no pokusa koji bi to potvrdili nema. Kad procvjetaju, privlače pčele i druge oprašivače.
+Origano i [majčina dušica](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/) (timijan) niske su biljke koje se šire po tlu i ne zasjenjuju mrkvu. Portal Gardenia navodi da jakim mirisom drže podalje nematode i mrkvinu muhu, no pokusa koji bi to potvrdili nema. Kad procvjetaju, privlače pčele i druge oprašivače.
 
 Origano je trajnica (višegodišnja biljka): jednom posađen, raste godinama. Zato ga sadite na rub gredice, jer mrkvu svake godine treba sijati na drugo mjesto.
 

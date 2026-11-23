@@ -27,11 +27,11 @@ oprez:
   vise: "#moguće-nuspojave-i-mjere-opreza"
 related_articles:
   - menta-sve-važne-informacije-o-njoj
-  - dobrobiti-čaja-od-mente-za-san-pamćenje-i-probavu
+  - caj-od-mente-san-pamcenje-i-probava
   - vodič-za-berbu-i-sušenje-mente-od-svježeg-lista-do-čaja
 ---
 
-Dobiva se prelijevanjem listova [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) (*Mentha* spp.) vrućom vodom, a pije se topao ili hladan. Često se miješa s drugim biljnim čajevima, poput [kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), limunske trave ili đumbira. O djelovanju čaja na san, pamćenje i probavu pišemo u članku [dobrobiti čaja od mente](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/). U nastavku saznajte kako pripremiti čaj od mente, koliko ga piti, sadrži li kofein i kada s njim treba biti oprezan.
+Dobiva se prelijevanjem listova [mente](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/) (*Mentha* spp.) vrućom vodom, a pije se topao ili hladan. Često se miješa s drugim biljnim čajevima, poput [kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), limunske trave ili đumbira. O djelovanju čaja na san, pamćenje i probavu pišemo u članku [dobrobiti čaja od mente](https://www.cultivias.com/bilje/caj-od-mente-san-pamcenje-i-probava/). U nastavku saznajte kako pripremiti čaj od mente, koliko ga piti, sadrži li kofein i kada s njim treba biti oprezan.
 
 ## Priprema čaja od mente
 

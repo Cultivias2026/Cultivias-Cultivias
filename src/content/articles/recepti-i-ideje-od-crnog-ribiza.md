@@ -27,7 +27,7 @@ oprez:
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
   - crni-ribiz-kalorije-prema-obliku-proizvoda
-  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - crni-ribiz-i-zdravlje
 ---
 
 
@@ -78,7 +78,7 @@ U nastavku pronađite tradicionalne i moderne recepte s **crnim ribizom**, uz pr
 
 
 
-**Sok od crnog ribiza** pije se svjež ili se sprema za zimu. Sadrži **vitamin C**, iako se dio kuhanjem gubi. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+**Sok od crnog ribiza** pije se svjež ili se sprema za zimu. Sadrži **vitamin C**, iako se dio kuhanjem gubi. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 **Sastojci:**
 
@@ -261,4 +261,4 @@ Lagan desert za posebne prilike.
 
 Crni ribiz sadrži prirodne kiseline, a kiselost otežava rast mikroorganizama i pomaže u čuvanju zimnice. Ipak, o sigurnosti zimnice najviše odlučuju čiste i sterilizirane staklenke, dovoljno šećera i pravilno zatvaranje.
 
-Ako ribiz želite uzgojiti sami, pročitajte [vodič za uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/), a zašto se uz obroke bogate željezom isplati jesti voće s vitaminom C, objašnjava članak o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/).
+Ako ribiz želite uzgojiti sami, pročitajte [vodič za uzgoj crnog ribiza](https://www.cultivias.com/voce/uzgoj-crnog-ribiza-vodi%C4%8D-za-uspje%C5%A1nu-sadnju-i-njegu/), a zašto se uz obroke bogate željezom isplati jesti voće s vitaminom C, objašnjava članak o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-zeljezo/).

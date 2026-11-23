@@ -1,5 +1,5 @@
 ---
-title: "Bazga (zova): sve o ovoj moćnoj i poznatoj biljci"
+title: "Bazga (zova): sve o ovoj poznatoj biljci"
 category: voce
 author: redakcija
 image: /images/articles/cvijet-bazge-zove-.webp
@@ -17,7 +17,7 @@ editors_pick: true
 tags:
   - bazga
   - zdravlje
-metaTitle: "Bazga (zova): sve o ovoj moćnoj i poznatoj biljci"
+metaTitle: "Bazga (zova): sve o ovoj poznatoj biljci"
 noindex: false
 ukratko:
   naslov: Bazga ukratko
@@ -67,7 +67,7 @@ oprez:
 related_articles:
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
   - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave
-  - aronija--čudesna-biljka-za-podršku-zdravlja
+  - aronija-sastav-upotreba-i-istrazivanja
 ---
 
 Bazga ili zova grm je čiji se cvjetovi i bobice stoljećima koriste u kuhinji i narodnoj medicini, najviše kod prehlade i gripe. Bobice sadrže mnogo antocijana, tamnih biljnih pigmenata. Za većinu učinaka koji se bazgi pripisuju nema pouzdanih dokaza na ljudima, a kod prehlade postoje tek manja klinička istraživanja s ekstraktom bobica. U nastavku saznajte kako prepoznati crnu bazgu, što sadrže cvjetovi i bobice, što pokazuju istraživanja te kako bazgu uzgojiti, ubrati i sigurno pripremiti.
@@ -102,7 +102,7 @@ I cvjetovi i bobice bazge sadrže niz biljnih spojeva, a mnogi od njih predmet s
 
 ### Antocijani i flavonoidi
 
-Bobice bazge tamnu boju duguju visokoj koncentraciji antocijana, ponajviše cijanidin-3-glukozida i cijanidin-3-sambubiozida. Ti spojevi pripadaju skupini flavonoida. Antocijani daju boju i drugim tamnim bobicama, poput [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
+Bobice bazge tamnu boju duguju visokoj koncentraciji antocijana, ponajviše cijanidin-3-glukozida i cijanidin-3-sambubiozida. Ti spojevi pripadaju skupini flavonoida. Antocijani daju boju i drugim tamnim bobicama, poput [aronije](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/) i [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
 
 Uz antocijane, bazga sadrži i flavonoide kvercetin i rutin.
 

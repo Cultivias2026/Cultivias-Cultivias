@@ -24,7 +24,7 @@ oprez:
     - Trudnice i dojilje neka ga u ljekovite svrhe piju samo uz savjet liječnika ili ljekarnika.
   vise: "#nuspojave-oprez-i-kontraindikacije"
 related_articles:
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - majcina-dusica-sastav-uzgoj-i-upotreba
   - čaj-od-kamilice
   - čaj-od-mente--svojstva-priprema-i-zanimljivosti
 ---
@@ -33,7 +33,7 @@ related_articles:
 
 ## Što je majčina dušica i zašto je ljekovita?
 
-[Majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice usnača (Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom mirisu, koji potječe od njezina **eteričnog ulja**.
+[Majčina dušica](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/) (*Thymus serpyllum*), poznata i kao **divlji timijan**, višegodišnja je puzava biljka iz porodice usnača (Lamiaceae). Prepoznatljiva je po sitnim ljubičastim cvjetovima i snažnom mirisu, koji potječe od njezina **eteričnog ulja**.
 
 Eterično ulje čini manje od 1 % mase biljke, ali sadrži puno **timola** i **karvakrola**, fenolnih spojeva jakog mirisa. Prema [preglednom radu objavljenom 2024. u časopisu Frontiers in Nutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153689/), majčina dušica sadrži i fenolne kiseline, poput **ružmarinske kiseline**, te flavonoide **luteolin** i **apigenin**.
 

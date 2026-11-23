@@ -37,7 +37,7 @@ noindex: false
 
 ## Što vam treba prije zalijevanja
 
-Dovoljni su kanta ili crijevo s blagim mlazom i mala lopatica, a ako želite znati koliko je kiše palo, poslužit će i kišomjer. [Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) bolje iskoristi vodu koja polako prodre do korijena nego onu koja otječe po površini.
+Dovoljni su kanta ili crijevo s blagim mlazom i mala lopatica, a ako želite znati koliko je kiše palo, poslužit će i kišomjer. [Rajčica](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) bolje iskoristi vodu koja polako prodre do korijena nego onu koja otječe po površini.
 
 Oko biljke očistite korov i zemlju prekrijte slojem malča, odnosno slame, suhe trave ili usitnjene kore. Malč štiti zemlju od sunca, pa voda sporije isparava i na sunčanom mjestu zalijevate rjeđe. Ako rajčicu uzgajate [u posudi](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), provjerite rupe na dnu: višak vode mora izaći, a ne ostati oko korijena.
 

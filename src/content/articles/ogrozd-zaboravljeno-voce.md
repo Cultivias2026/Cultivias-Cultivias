@@ -1,5 +1,5 @@
 ---
-title: Ogrozd – Zaboravljeno supervoće
+title: "Ogrozd: zaboravljeno voće naših vrtova"
 category: voce
 author: redakcija
 image: /images/articles/grana-ogrozda-sa-zrelim-plodovima.webp
@@ -96,7 +96,7 @@ Brojke u tablici potječu iz baze FoodData Central američkog Ministarstva poljo
 
 Hrana koja u 100 g pokriva najmanje 15 % referentnog unosa nekog vitamina smatra se njegovim izvorom, pa je ogrozd izvor vitamina C. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, vitamin C pridonosi normalnoj funkciji imunosnog i živčanog sustava, stvaranju kolagena za normalnu funkciju kože te zaštiti stanica od oksidativnog stresa.
 
-Za usporedbu, [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/) ima više od šest puta više vitamina C, oko 181 mg na 100 g. Vitamin C osjetljiv je na toplinu, pa ga u kompotu i džemu ostaje manje nego u svježim bobicama.
+Za usporedbu, [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/) ima više od šest puta više vitamina C, oko 181 mg na 100 g. Vitamin C osjetljiv je na toplinu, pa ga u kompotu i džemu ostaje manje nego u svježim bobicama.
 
 ### Ostali važni nutrijenti
 

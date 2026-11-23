@@ -15,7 +15,7 @@ tags:
   - bazga
   - kalorije
 related_articles:
-  - bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci
+  - bazga-zova-sve-o-ovoj-poznatoj-biljci
   - čaj-od-bazge-ljekovitost-pravilna-priprema-i-moguće-nuspojave
   - aronija-kalorije-svježe-bobice-sok-prah-i-sušena-aronija
 metaTitle: "Bazgine bobice i kalorije: plod, sok i sirup"
@@ -74,7 +74,7 @@ Voda smanjuje kalorije na 100 ml napitka, ali ne uklanja energiju ulivenog sirup
 
 ### Je li cvjetni sirup isto što i sirup od bobica?
 
-Nije: poznati svijetli sirup od bazge priprema se od cvjetova, a tamni sirup od plodova. [Razlika između cvjetova i bobica bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) pomaže prepoznati o kojem je pripravku riječ, no kalorije oba sirupa ovise o recepturi. Od osušenih cvjetova priprema se i [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+Nije: poznati svijetli sirup od bazge priprema se od cvjetova, a tamni sirup od plodova. [Razlika između cvjetova i bobica bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/) pomaže prepoznati o kojem je pripravku riječ, no kalorije oba sirupa ovise o recepturi. Od osušenih cvjetova priprema se i [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
 ## Kako računati sušene bobice i prah?
 

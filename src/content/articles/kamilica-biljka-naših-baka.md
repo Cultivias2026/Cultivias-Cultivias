@@ -205,7 +205,7 @@ Pazite da se ne opečete vrelom vodom ili parom. Djeci ne pripremajte inhalaciju
 
 ## Hladni oblozi od kamilice
 
-[Hladni oblozi od kamilice](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/) stavljaju se na blago nadraženu kožu, a EMA kamilicu na koži priznaje kod blagih upala, na temelju tradicije.
+[Hladni oblozi od kamilice](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice/) stavljaju se na blago nadraženu kožu, a EMA kamilicu na koži priznaje kod blagih upala, na temelju tradicije.
 
 ### Postupak:
 
@@ -219,7 +219,7 @@ Oblog ne stavljajte na duboke ili zagnojene rane ni na oči, a ako crvenilo ili 
 
 ## Kamilica za probavu i želudac
 
-EMA čaj od kamilice priznaje kod blagih probavnih tegoba poput nadutosti i blagih grčeva, na temelju tradicije. Više o tome donosi članak [kamilica za probavu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+EMA čaj od kamilice priznaje kod blagih probavnih tegoba poput nadutosti i blagih grčeva, na temelju tradicije. Više o tome donosi članak [kamilica za probavu](https://www.cultivias.com/bilje/kamilica-i-probava/).
 
 Ovako se priprema čaj za probavu:
 

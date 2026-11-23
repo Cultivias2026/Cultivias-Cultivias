@@ -15,7 +15,7 @@ tags:
   - naranca
   - kalorije
 related_articles:
-  - naranča-vitaminska-bomba-u-jednoj-čaši
+  - naranca-nutritivna-vrijednost-vrste-i-uzgoj
   - zablude-o-narančama-zašto-boja-kore-ne-jamči-zrelost-ploda
   - crni-ribiz-sve-što-trebate-znati-o-njemu
 metaTitle: "Naranča i kalorije: koliko ima plod, a koliko čaša soka?"
@@ -24,7 +24,7 @@ noindex: false
 ---
 ## Koliko kalorija ima jedna naranča?
 
-Prema publikaciji američkog Ministarstva poljoprivrede (USDA) o hranjivoj vrijednosti namirnica, srednja [naranča](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/) s [131 g jestivog dijela ima oko 62 kcal](https://www.ars.usda.gov/is/np/NutritiveValueofFoods/NutritiveValueofFoods.pdf), a polovica takvog ploda oko 31 kcal. Manji i veći plodovi neće dati istu porciju. Ako oguljene kriške zajedno teže 150 g, imaju oko 71 kcal.
+Prema publikaciji američkog Ministarstva poljoprivrede (USDA) o hranjivoj vrijednosti namirnica, srednja [naranča](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/) s [131 g jestivog dijela ima oko 62 kcal](https://www.ars.usda.gov/is/np/NutritiveValueofFoods/NutritiveValueofFoods.pdf), a polovica takvog ploda oko 31 kcal. Manji i veći plodovi neće dati istu porciju. Ako oguljene kriške zajedno teže 150 g, imaju oko 71 kcal.
 
 Naranču zato važite nakon guljenja. Cijeli plod s korom uključuje i dio koji nećete pojesti, pa njegova masa nije dobra za račun kalorija jestivog dijela.
 
@@ -80,7 +80,7 @@ Nektar (napitak od voćnog soka ili pirea razrijeđenog vodom, često zaslađen)
 
 ## Što se mijenja sušenjem i kandiranjem?
 
-Sušena naranča ne računa se kao svježa jer uklanjanjem vode energija postaje koncentriranija po gramu (isti sastojci ostaju u manjoj masi). Primjere takve pripreme opisuje [vodič o sušenju naranče](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/). Kandirana naranča (kriške ukuhane u šećernom sirupu i osušene) uz to sadrži dodani šećer, pa za sušene i kandirane kriške ne treba koristiti istu kalorijsku vrijednost. Primjer računa: ako 100 g oguljene naranče (47 kcal) osušite na 25 g, tih je 47 kcal sada u 25 g, odnosno oko 188 kcal na 100 g.
+Sušena naranča ne računa se kao svježa jer uklanjanjem vode energija postaje koncentriranija po gramu (isti sastojci ostaju u manjoj masi). Primjere takve pripreme opisuje [vodič o sušenju naranče](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/). Kandirana naranča (kriške ukuhane u šećernom sirupu i osušene) uz to sadrži dodani šećer, pa za sušene i kandirane kriške ne treba koristiti istu kalorijsku vrijednost. Primjer računa: ako 100 g oguljene naranče (47 kcal) osušite na 25 g, tih je 47 kcal sada u 25 g, odnosno oko 188 kcal na 100 g.
 
 ### Vrijedi li ista brojka za prah od naranče?
 

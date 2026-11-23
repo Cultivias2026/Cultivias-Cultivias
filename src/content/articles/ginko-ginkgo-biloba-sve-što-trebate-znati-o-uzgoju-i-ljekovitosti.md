@@ -51,7 +51,7 @@ oprez:
 related_articles:
   - koliko-brzo-raste-ginko-drvo-i-što-utječe-na-njegov-razvoj
   - menta-sve-važne-informacije-o-njoj
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - majcina-dusica-sastav-uzgoj-i-upotreba
 ---
 
 Ginko potječe iz Kine, gdje se tisućama godina koristi u tradicionalnoj medicini, a danas raste u parkovima diljem svijeta. Ekstrakt njegova lista jedan je od najpoznatijih biljnih pripravaka za pamćenje, iako su dokazi skromniji nego što se često misli. U nastavku saznajte kako ginko izgleda, što sadrži, što istraživanja kažu o pamćenju, zujanju u ušima i tlaku, kada je opasan te kako ga uzgojiti u vrtu ili tegli.

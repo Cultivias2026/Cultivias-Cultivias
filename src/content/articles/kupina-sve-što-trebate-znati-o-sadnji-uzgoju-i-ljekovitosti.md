@@ -65,7 +65,7 @@ kalendar:
       opis: nakon berbe ili u kasnu jesen, do tla
 related_articles:
   - kupine-kalorije-u-svezim-zamrznutim-susenim-i-dzemu
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
   - crni-ribiz-sve-što-trebate-znati-o-njemu
 ---
 
@@ -134,7 +134,7 @@ Zato se kupini ne mogu pripisati posebni ljekoviti učinci, osim onih koje Europ
 
 Vlakna iz kupine pomažu probavi. Netopljiva vlakna potiču redovito pražnjenje crijeva, a topljiva su hrana dobrim crijevnim bakterijama.
 
-Kupina **nije izvor željeza**: 100 g sadrži 0,62 mg, oko 4 % referentnog unosa. Vitamin C iz kupine može pomoći da tijelo bolje iskoristi željezo iz biljne hrane, slično kao kod [crnog ribiza i željeza](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/), ali anemiju (slabokrvnost) treba liječiti liječnik, a ne voće.
+Kupina **nije izvor željeza**: 100 g sadrži 0,62 mg, oko 4 % referentnog unosa. Vitamin C iz kupine može pomoći da tijelo bolje iskoristi željezo iz biljne hrane, slično kao kod [crnog ribiza i željeza](https://www.cultivias.com/voce/crni-ribiz-i-zeljezo/), ali anemiju (slabokrvnost) treba liječiti liječnik, a ne voće.
 
 ## Čaj od listova kupine - priprema
 
@@ -217,7 +217,7 @@ Slatkokiseo okus kupine dobro se uklapa u slatka i slana jela. Najjednostavnije 
 * **deserti** – kolač s jogurtom, cheesecake, pite i muffini
 * **vino od kupina** – tradicionalno piće bogata okusa i boje
 
-Pročitajte i članke o [ogrozdu](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/), [crnom ribizu](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) i [aroniji](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), drugom bobičastom voću koje se lako uzgaja u vrtu.
+Pročitajte i članke o [ogrozdu](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/), [crnom ribizu](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) i [aroniji](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/), drugom bobičastom voću koje se lako uzgaja u vrtu.
 
 ## Divlja kupina
 

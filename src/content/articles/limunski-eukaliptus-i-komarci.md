@@ -1,5 +1,5 @@
 ---
-title: "Limunski eukaliptus: Prirodna zaštita protiv komaraca"
+title: "Limunski eukaliptus i komarci: što djeluje, a što ne"
 category: bilje
 author: redakcija
 image: /images/articles/grančica-s-listovima-limunskog-eukaliptusa.webp

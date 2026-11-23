@@ -40,7 +40,7 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-[Rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/), koju mnogi zovu i paradajz, najlakše je podijeliti prema načinu rasta. Determinantne sorte narastu do određene visine i stanu, a indeterminantne rastu i rađaju sve do prvog mraza. O toj razlici ovisi koliko će biljka trebati mjesta, kakvu potporu i koliko dugo ćete brati plodove. U nastavku saznajte po čemu se razlikuju determinantne, indeterminantne, niske, rane i kasne sorte te koju odabrati za svoj vrt ili balkon.
+[Rajčicu](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/), koju mnogi zovu i paradajz, najlakše je podijeliti prema načinu rasta. Determinantne sorte narastu do određene visine i stanu, a indeterminantne rastu i rađaju sve do prvog mraza. O toj razlici ovisi koliko će biljka trebati mjesta, kakvu potporu i koliko dugo ćete brati plodove. U nastavku saznajte po čemu se razlikuju determinantne, indeterminantne, niske, rane i kasne sorte te koju odabrati za svoj vrt ili balkon.
 
 ## Što su determinantne sorte paradajza?
 

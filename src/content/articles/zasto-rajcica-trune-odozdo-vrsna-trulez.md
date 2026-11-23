@@ -102,7 +102,7 @@ Ne naslijepo. Najprije uredite zalijevanje i provjerite otječe li voda iz zemlj
 
 ### Zašto se problem češće vidi na velikim plodovima?
 
-Veliki i [izduženi plodovi](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) brzo rastu. U ranoj fazi rasta trebaju više vode i kalcija, pa se kod njih poremećaj lakše primijeti. To vrijedi za svaku [rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) koja naglo raste.
+Veliki i [izduženi plodovi](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) brzo rastu. U ranoj fazi rasta trebaju više vode i kalcija, pa se kod njih poremećaj lakše primijeti. To vrijedi za svaku [rajčicu](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) koja naglo raste.
 
 ## Izvori
 

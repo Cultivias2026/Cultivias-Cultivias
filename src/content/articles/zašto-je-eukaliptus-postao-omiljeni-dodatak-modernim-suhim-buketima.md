@@ -15,7 +15,7 @@ tags:
   - eukaliptus
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
-  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - limunski-eukaliptus-i-komarci
   - popularna-mirisna-biljka-opasna-je-za-mačke-i-pse-radi-se-o-eukaliptusu
   - ne-bacajte-suhi-eukaliptus-jednostavna-metoda-pretvara-ga-u-dekoraciju-koja-traje-mjesecima
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa

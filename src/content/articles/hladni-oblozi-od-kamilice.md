@@ -1,5 +1,5 @@
 ---
-title: "Hladni oblozi od kamilice: Prirodno rješenje za opuštanje"
+title: "Hladni oblozi od kamilice: priprema, primjena i oprez"
 category: bilje
 author: redakcija
 image: /images/articles/hladni-oblozi-od-kamilice.webp
@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - kamilica
   - zdravlje
-metaTitle: "Hladni oblozi od kamilice: Prirodno rješenje za opuštanje"
+metaTitle: "Hladni oblozi od kamilice: priprema, primjena i oprez"
 noindex: false
 oprez:
   stavke:
@@ -25,7 +25,7 @@ oprez:
 related_articles:
   - čaj-od-kamilice
   - kamilica-biljka-naših-baka
-  - kamilica-olakšanje-probave-nadutosti-i-grčeva
+  - kamilica-i-probava
 ---
 
 Hladni oblog od [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) čista je gaza ili krpa natopljena ohlađenim čajem od kamilice, koja se stavlja na blago nadraženu kožu ili blagu opeklinu od sunca. Hladnoća može ublažiti oteklinu i crvenilo. Europska agencija za lijekove (EMA) priznaje tradicionalnu upotrebu kamilice kod blagih upala kože, opeklina od sunca i površinskih rana. U nastavku saznajte kako pripremiti oblog, kada ga koristiti i kada je bolje odustati.
@@ -56,7 +56,7 @@ Blage opekline od sunca EMA navodi među tradicionalnim primjenama kamilice na k
 
 EMA kamilicu priznaje i kod površinskih ranica, ali u obliku gotovih pripravaka. Domaći čaj nije sterilan, pa oblog ne stavljajte na otvorene rane, a osobito ne na duboke ili zagnojene.
 
-Kamilica se koristi i kod [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/), ali kao čaj, a ne oblog.
+Kamilica se koristi i kod [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-i-probava/), ali kao čaj, a ne oblog.
 
 ## Kako pripremiti hladne obloge od kamilice?
 

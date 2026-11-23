@@ -84,7 +84,7 @@ Kod kupovnog proizvoda razlikujte čisti sok, razrijeđeni napitak i zaslađeni 
 3. Procijedite kroz stabilno postavljeno cjedilo. Ako koristite gazu, nemojte je stiskati rukama dok je vruća.
 4. Kušajte malo ohlađenog napitka i po potrebi zasladite. Ostatak brzo ohladite u manjim posudama, primjerice uz kupelj s hladnom vodom, pa spremite u hladnjak.
 
-Za druge voćne kombinacije pogledajte [ideje za smoothieje i deserte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/). Ako vam ostane bobica, od njih možete skuhati [pekmez od aronije s jabukom](https://www.cultivias.com/voce/pekmez-od-aronije/). Različiti oblici ploda opisani su u članku o [sastavu i načinima uporabe aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/).
+Za druge voćne kombinacije pogledajte [ideje za smoothieje i deserte od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/). Ako vam ostane bobica, od njih možete skuhati [pekmez od aronije s jabukom](https://www.cultivias.com/voce/pekmez-od-aronije/). Različiti oblici ploda opisani su u članku o [sastavu i načinima uporabe aronije](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/).
 
 ## Kako čuvati domaći sok?
 

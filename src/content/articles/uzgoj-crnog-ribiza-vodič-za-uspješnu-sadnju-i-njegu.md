@@ -203,7 +203,7 @@ Predugu stariju granu možete skratiti do snažnog mladog izdanka koji raste nis
 | Ribizova mjehurasta lisna uš | izbočeni mjehuri na listovima, na crnom ribizu najčešće žutozeleni | prskanje obično nije potrebno jer urod ne trpi |
 | Ribizova grinja pupova | zimi okrugli, nabubreni pupovi koji se u proljeće ne otvore | zimi otkinite i uništite nabubrene pupove; jako zaražen grm izvadite nakon berbe |
 
-Pepelnica češće napada [ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/), ali može se pojaviti i na crnom ribizu.
+Pepelnica češće napada [ogrozd](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/), ali može se pojaviti i na crnom ribizu.
 
 Lisne uši koje stvaraju mjehure na listovima, prema RHS-u, ne smanjuju urod. Sredinom ljeta prelaze na druge biljke, a do tada ih velikim dijelom pojedu bubamare i drugi prirodni neprijatelji.
 
@@ -279,7 +279,7 @@ Savjetodavna služba Sveučilišta Iowa State (Iowa State University Extension) 
 
 Crni ribiz relativno je jednostavna biljka za uzgoj. Ako ga posadite na dobro mjesto i svake zime uklonite najstarije grane, godinama će davati bogat urod.
 
-Bobice možete jesti svježe, a od njih se rade džem, sok i drugi [recepti od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/) te domaće [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/). Što bobice sadrže i što se zna o njihovu djelovanju, opisuje članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Bobice možete jesti svježe, a od njih se rade džem, sok i drugi [recepti od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/) te domaće [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/). Što bobice sadrže i što se zna o njihovu djelovanju, opisuje članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 ## Izvori
 

@@ -19,7 +19,7 @@ related_articles:
   - vodič-za-sadnju-rajčice-sve-što-trebate-znati-za-obilan-urod
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
-  - sve-što-trebate-znati-o-rajčici-od-sadnje-do-zdravstvenih-benefita
+  - sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti
 metaTitle: "Rajčica kalorije: svježa, passata, koncentrat i umak"
 metaDescription: "Svježa rajčica ima 18 kcal na 100 g. Usporedite kalorije porcija passate, koncentrata i umaka te saznajte što mijenjaju kuhanje, voda i dodaci."
 noindex: false
@@ -28,7 +28,7 @@ noindex: false
 
 Prema bazi podataka FoodData Central američkog Ministarstva poljoprivrede (USDA), [srednji plod težak 123 g](https://fdc.nal.usda.gov/food-details/170457/nutrients) ima približno **22 kcal**, a veće i manje rajčice daju drukčiji rezultat. Razlike u veličini dio su raznolikosti [sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/), pa jedna rajčica nije uvijek ista porcija. Za račun koristite masu dijela koji jedete, bez peteljke.
 
-[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) se u kuhinji računa kao povrće, iako je botanički plod, o čemu više piše članak [je li rajčica voće ili povrće](https://www.cultivias.com/povrce/je-li-raj%C4%8Dica-vo%C4%87e-ili-povr%C4%87e-saznajte-odmah/).
+[Rajčica](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) se u kuhinji računa kao povrće, iako je botanički plod, o čemu više piše članak [je li rajčica voće ili povrće](https://www.cultivias.com/povrce/je-li-raj%C4%8Dica-vo%C4%87e-ili-povr%C4%87e-saznajte-odmah/).
 
 Ako je režete za salatu, jednom odvojite 100 g u svoju zdjelicu i zapamtite koliko je napunjena. Tako ćete lakše zamisliti porciju, ali puna zdjelica neće uvijek imati istu masu.
 

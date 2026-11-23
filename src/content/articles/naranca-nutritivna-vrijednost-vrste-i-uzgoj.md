@@ -1,5 +1,5 @@
 ---
-title: "Naranča: vitaminska bomba u jednoj čaši"
+title: "Naranča: nutritivna vrijednost, vrste i uzgoj"
 category: voce
 author: redakcija
 image: /images/articles/oguljena-naranča.webp
@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - naranca
   - zdravlje
-metaTitle: "Naranča: vitaminska bomba u jednoj čaši"
+metaTitle: "Naranča: nutritivna vrijednost, vrste i uzgoj"
 noindex: false
 ukratko:
   naslov: Naranča ukratko
@@ -105,7 +105,7 @@ Naranča sadrži i vlakna te kalij, koji je važan za regulaciju krvnog tlaka.
 
 Za čašu soka obično se iscijedi više naranči, a vlakna se uklanjaju. Zato čaša od 250 ml svježe cijeđenog [soka od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/) ima otprilike 110 do 120 kcal, više od jednog ploda, a manje sitosti. Sok je stoga bolje piti umjereno, a cijelu naranču jesti češće.
 
-Sok od naranče često se preporučuje za "detoks" kure, u kombinaciji s đumbirom, [mrkvom](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/) ili ciklom. Za tvrdnju da takvi sokovi "čiste organizam od toksina" nema dokaza: štetne tvari iz tijela uklanjaju jetra i bubrezi. Sok od naranče može biti ukusan dio raznolike prehrane, ali ne i način čišćenja organizma.
+Sok od naranče često se preporučuje za "detoks" kure, u kombinaciji s đumbirom, [mrkvom](https://www.cultivias.com/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/) ili ciklom. Za tvrdnju da takvi sokovi "čiste organizam od toksina" nema dokaza: štetne tvari iz tijela uklanjaju jetra i bubrezi. Sok od naranče može biti ukusan dio raznolike prehrane, ali ne i način čišćenja organizma.
 
 ## Crvena, divlja i patuljasta naranča
 

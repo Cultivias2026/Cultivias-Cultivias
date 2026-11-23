@@ -1,5 +1,5 @@
 ---
-title: "Crni ribiz: ljekovitost i zdravstvene prednosti"
+title: "Crni ribiz i zdravlje: sastav i što kažu istraživanja"
 category: voce
 author: redakcija
 image: /images/articles/crni-ribiz-bobice.jpg
@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - crni-ribiz
   - zdravlje
-metaTitle: "Crni ribiz: ljekovitost i zdravstvene prednosti"
+metaTitle: "Crni ribiz i zdravlje: sastav i što kažu istraživanja"
 noindex: false
 oprez:
   stavke:
@@ -25,7 +25,7 @@ oprez:
   viseTekst: Više o mogućim nuspojavama
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
-  - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
+  - crni-ribiz-i-zeljezo
   - kako-napraviti-kapi-od-crnog-ribiza-kod-kuće
 ---
 
@@ -65,7 +65,7 @@ Crni ribiz je izvor kalija, minerala koji pridonosi održavanju normalnog krvnog
 
 Antioksidativno djelovanje sastojaka crnog ribiza pokazano je u laboratorijskim istraživanjima, navodi spomenuti [pregledni rad](https://pubmed.ncbi.nlm.nih.gov/22673662/), pa se ne može tvrditi da crni ribiz štiti stanice ili usporava starenje.
 
-Uz vitamin C, crni ribiz sadrži i nešto željeza, o čemu piše članak o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/). Od pupoljaka se rade i [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/).
+Uz vitamin C, crni ribiz sadrži i nešto željeza, o čemu piše članak o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-zeljezo/). Od pupoljaka se rade i [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/).
 
 ## Kako konzumirati crni ribiz?
 

@@ -122,7 +122,7 @@ Sirup se najčešće razrjeđuje običnom ili mineralnom vodom, prema vlastitom 
 
 Umjesto dodatnog šećera možete koristiti i med, koji napitku daje posebnu aromu, ali i on je šećer. **Med ne dajte djeci mlađoj od godine dana.** Može sadržavati spore bakterije koja kod dojenčadi uzrokuje botulizam, teško trovanje živčanog sustava, upozorava Savjetodavna služba Sveučilišta Michigan State prema preporukama američkog Centra za kontrolu bolesti (CDC).
 
-Sok od mente dobra je osnova i za ljetne koktele, s alkoholom ili bez njega. Na sličan se način, iz cvjetova, priprema i [sok od bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
+Sok od mente dobra je osnova i za ljetne koktele, s alkoholom ili bez njega. Na sličan se način, iz cvjetova, priprema i [sok od bazge](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/).
 
 ## Važni savjeti za uspješnu pripremu
 

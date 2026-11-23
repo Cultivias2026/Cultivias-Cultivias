@@ -37,7 +37,7 @@ related_articles:
   - kamilica-biljka-naših-baka
 ---
 
-Kamilica se suši na sjenovitom, suhom i prozračnom mjestu, u tankom sloju, dok cvjetovi ne postanu krhki, a to obično traje jedan do dva tjedna. Pravilno **sušenje kamilice za čaj** čuva aromu i eterična ulja, a što o [kamilici i probavi](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/) kažu istraživanja, opisuje zaseban članak. Pogrešno sušenje dovodi do gubitka mirisa, plijesni i slabijeg [domaćeg čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/). U nastavku saznajte kako pripremiti cvjetove, gdje ih sušiti i kako ih spremiti.
+Kamilica se suši na sjenovitom, suhom i prozračnom mjestu, u tankom sloju, dok cvjetovi ne postanu krhki, a to obično traje jedan do dva tjedna. Pravilno **sušenje kamilice za čaj** čuva aromu i eterična ulja, a što o [kamilici i probavi](https://www.cultivias.com/bilje/kamilica-i-probava/) kažu istraživanja, opisuje zaseban članak. Pogrešno sušenje dovodi do gubitka mirisa, plijesni i slabijeg [domaćeg čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/). U nastavku saznajte kako pripremiti cvjetove, gdje ih sušiti i kako ih spremiti.
 
 ## **Zašto je pravilno sušenje kamilice važno?**
 

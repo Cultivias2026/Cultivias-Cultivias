@@ -67,8 +67,8 @@ oprez:
     - Kao lijek je koristite najviše dva tjedna; ako uzimate lijekove za šećer, tlak, epilepsiju ili smirenje, prvo pitajte liječnika ili ljekarnika.
   vise: "#moguće-nuspojave-i-mjere-opreza"
 related_articles:
-  - kadulja-i-ljekovitost-zašto-bi-mogla-biti-dobar-izbor
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - kadulja-i-ljekovitost-sto-kazu-istrazivanja
+  - majcina-dusica-sastav-uzgoj-i-upotreba
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 
@@ -76,7 +76,7 @@ Kadulja je jedna od najstarijih ljekovitih i začinskih biljaka, a njezina upotr
 
 ## Izgled i opis biljke i njezina povijest
 
-Kadulja je polugrm, što znači da su joj stabljike u donjem dijelu drvenaste, a u gornjem zeljaste. Listovi su sivozeleni, baršunasti i duguljasti. Cijela biljka ima jak, prodoran miris, koji potječe od eteričnog ulja u listovima. Kao i ostale usnače, primjerice [metvica](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/), bogata je aromatičnim tvarima.
+Kadulja je polugrm, što znači da su joj stabljike u donjem dijelu drvenaste, a u gornjem zeljaste. Listovi su sivozeleni, baršunasti i duguljasti. Cijela biljka ima jak, prodoran miris, koji potječe od eteričnog ulja u listovima. Kao i ostale usnače, primjerice [metvica](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/), bogata je aromatičnim tvarima.
 
 Cvate od svibnja do srpnja. Cvjetovi su skupljeni u klasaste cvatove i najčešće su ljubičasti ili plavi, rjeđe ružičasti ili bijeli. Privlače pčele, pa je kadulja i medonosna biljka, a na jadranskim otocima od nje se dobiva kaduljin med.
 
@@ -153,7 +153,7 @@ Hidrolat ili cvjetna vodica nusproizvod je destilacije eteričnog ulja. Mnogo je
 
 ## Kada nam kadulja može pomoći?
 
-Europska agencija za lijekove (EMA) list kadulje priznaje kao tradicionalni biljni lijek za četiri primjene: blage probavne tegobe poput žgaravice i nadutosti, pojačano znojenje, upale u ustima i grlu te blage upale kože. Tradicionalni znači da se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Američki Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH) navodi da korist kadulje zasad nije jasno dokazana ni za jedno stanje. Što su pokazala pojedina istraživanja, opisuje članak o [ljekovitosti kadulje](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/).
+Europska agencija za lijekove (EMA) list kadulje priznaje kao tradicionalni biljni lijek za četiri primjene: blage probavne tegobe poput žgaravice i nadutosti, pojačano znojenje, upale u ustima i grlu te blage upale kože. Tradicionalni znači da se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Američki Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH) navodi da korist kadulje zasad nije jasno dokazana ni za jedno stanje. Što su pokazala pojedina istraživanja, opisuje članak o [ljekovitosti kadulje](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-sto-kazu-istrazivanja/).
 
 ### Upale grla i dišnih puteva
 
@@ -163,7 +163,7 @@ Kadulja ne liječi bakterijsku upalu krajnika (anginu), koja se liječi antibiot
 
 ### Probavne tegobe
 
-Čaj od kadulje tradicionalno se pije kod blagih probavnih tegoba poput žgaravice i nadutosti, za što ga priznaje i EMA. Grčeve u želucu EMA ne navodi, a kod njih se tradicionalno češće koristi [kamilica](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ako tegobe traju dulje od dva tjedna ili se vraćaju, javite se liječniku.
+Čaj od kadulje tradicionalno se pije kod blagih probavnih tegoba poput žgaravice i nadutosti, za što ga priznaje i EMA. Grčeve u želucu EMA ne navodi, a kod njih se tradicionalno češće koristi [kamilica](https://www.cultivias.com/bilje/kamilica-i-probava/). Ako tegobe traju dulje od dva tjedna ili se vraćaju, javite se liječniku.
 
 ### Simptomi menopauze
 

@@ -37,7 +37,7 @@ ukratko:
       v: Eukaliptus je otrovan za pse, mačke i konje (ASPCA)
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
-  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - limunski-eukaliptus-i-komarci
   - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
 noindex: false
 ---
@@ -122,7 +122,7 @@ EMA navodi i dobne granice. Kod djece mlađe od 30 mjeseci pripravci s eukaliptu
 
 ### Limunski eukaliptus (Corymbia citriodora): Izvor repelenta
 
-Limunski eukaliptus (*Corymbia citriodora*, ranije *Eucalyptus citriodora*) srodnik je eukaliptusa čije eterično ulje umjesto 1,8-cineola sadrži ponajviše **citronelala**, spoja koji tjera kukce, osobito komarce. Američki Centar za kontrolu i prevenciju bolesti (CDC) preporučuje registrirane repelente s OLE-om (prerađenim uljem limunskog eukaliptusa) ili PMD-om, a ne čisto eterično ulje, koje kao repelent nije ispitano. Kako djeluje i kako ga sigurno koristiti, opisuje članak o tome kako [limunski eukaliptus štiti od komaraca](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/).
+Limunski eukaliptus (*Corymbia citriodora*, ranije *Eucalyptus citriodora*) srodnik je eukaliptusa čije eterično ulje umjesto 1,8-cineola sadrži ponajviše **citronelala**, spoja koji tjera kukce, osobito komarce. Američki Centar za kontrolu i prevenciju bolesti (CDC) preporučuje registrirane repelente s OLE-om (prerađenim uljem limunskog eukaliptusa) ili PMD-om, a ne čisto eterično ulje, koje kao repelent nije ispitano. Kako djeluje i kako ga sigurno koristiti, opisuje članak o tome kako [limunski eukaliptus štiti od komaraca](https://www.cultivias.com/bilje/limunski-eukaliptus-i-komarci/).
 
 ## Uzgoj eukaliptusa u tegli: Zelenilo za dom i balkon
 

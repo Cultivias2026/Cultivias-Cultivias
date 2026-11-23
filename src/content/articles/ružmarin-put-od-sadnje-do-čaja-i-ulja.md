@@ -65,7 +65,7 @@ oprez:
   vise: "#mjere-opreza"
 related_articles:
   - kadulja--ljekovita-biljka-s-dugom-tradicijom
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - majcina-dusica-sastav-uzgoj-i-upotreba
   - menta-sve-važne-informacije-o-njoj
 ---
 
@@ -132,7 +132,7 @@ Eterično ulje ružmarina dobiva se destilacijom listova i cvjetova vodenom paro
 
 Razrijeđeno ulje često se koristi za masažu bolnih mišića i zglobova. EMA ga priznaje kao tradicionalni biljni lijek za primjenu na koži, kod blagih bolova u mišićima i zglobovima te blagih tegoba s cirkulacijom u nogama. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima.
 
-Ulje ružmarina navodi se i kao prirodno sredstvo protiv komaraca, ali ga američki Centar za kontrolu i prevenciju bolesti (CDC) ne ubraja među preporučena sredstva. Pouzdaniju zaštitu daju sredstva s DEET-om, ikaridinom ili uljem [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/).
+Ulje ružmarina navodi se i kao prirodno sredstvo protiv komaraca, ali ga američki Centar za kontrolu i prevenciju bolesti (CDC) ne ubraja među preporučena sredstva. Pouzdaniju zaštitu daju sredstva s DEET-om, ikaridinom ili uljem [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-i-komarci/).
 
 Eterično ulje nikad ne nanosite nerazrijeđeno na kožu, nego ga uvijek pomiješajte s baznim uljem, poput maslinova, bademova ili kokosova. Ne nanosite ga oko očiju, na sluznice ni na oštećenu kožu.
 
@@ -211,7 +211,7 @@ Drugi mogući uzrok je nedostatak hranjivih tvari, osobito željeza, koji se obi
 
 Puzajući ružmarin (*Salvia rosmarinus* Prostratus Group, ranije *Rosmarinus officinalis* 'Prostratus') skupina je sorti čije grane ne rastu uspravno, nego se šire vodoravno i stvaraju gust, mirisan pokrivač. Poznat je i kao viseći ružmarin.
 
-Zbog grana koje se spuštaju dobar je izbor za viseće tegle, za pokrivanje tla na padinama i za prelijevanje preko rubova zidova i velikih posuda, slično kao puzava [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/). Uvjeti uzgoja isti su kao kod uspravnih sorti: puno sunca i dobra drenaža.
+Zbog grana koje se spuštaju dobar je izbor za viseće tegle, za pokrivanje tla na padinama i za prelijevanje preko rubova zidova i velikih posuda, slično kao puzava [majčina dušica](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/). Uvjeti uzgoja isti su kao kod uspravnih sorti: puno sunca i dobra drenaža.
 
 Listovi i cvjetovi puzajućeg ružmarina također su jestivi. Zbog otpornosti i malo potrebnog održavanja sve se češće sadi u uređenju vrtova i javnih površina.
 

@@ -1,5 +1,5 @@
 ---
-title: "Kamilica: olakšanje probave, nadutosti i grčeva"
+title: "Kamilica i probava: što kažu istraživanja o nadutosti i grčevima"
 category: bilje
 author: redakcija
 image: /images/articles/čaj-od-kamilice-u-šalici.webp
@@ -19,7 +19,7 @@ tags:
   - kamilica
   - zdravlje
   - cajevi
-metaTitle: "Kamilica: olakšanje probave, nadutosti i grčeva"
+metaTitle: "Kamilica i probava: što kažu istraživanja o nadutosti i grčevima"
 noindex: false
 oprez:
   stavke:
@@ -30,7 +30,7 @@ oprez:
 related_articles:
   - čaj-od-kamilice
   - kamilica-biljka-naših-baka
-  - hladni-oblozi-od-kamilice-prirodno-rješenje-za-opuštanje
+  - hladni-oblozi-od-kamilice
 ---
 
 [Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) se kod probavnih tegoba koristi najčešće kao čaj, kod nadutosti i blagih grčeva. Europska agencija za lijekove (EMA) priznaje tu tradicionalnu upotrebu kod odraslih, a dio učinaka ispitan je i u kliničkim istraživanjima, uglavnom s gotovim pripravcima. U nastavku saznajte što o kamilici i probavi pokazuju istraživanja i kada se umjesto čaja treba javiti liječniku.

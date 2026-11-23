@@ -56,7 +56,7 @@ kalendar:
 related_articles:
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
   - je-li-eukaliptus-otrovan-toksičnost-za-ljude-djecu-i-kućne-ljubimce
-  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - limunski-eukaliptus-i-komarci
 ---
 
 U Australiji eukaliptus naraste u stablo visoko i 90 metara, ali uz malo truda godinama može živjeti u tegli na balkonu ili u svijetloj sobi. Za to mu treba mnogo sunca, redovito zalijevanje i zaštita od jakog mraza, a odabir prave sorte olakšava cijeli posao. U nastavku saznajte koje su vrste pogodne za teglu, kako ga zalijevati, prihranjivati i orezivati, kako ga prezimiti i na što paziti ako u kući imate djecu i kućne ljubimce.
@@ -76,7 +76,7 @@ Prema iskustvima specijaliziranih rasadnika, poput britanskog rasadnika Hardy Eu
 | E. gunnii (osnovna vrsta) | popularna, ali brže raste | srednja |
 | E. deglupta (dugin eukaliptus) | upadljiva šarena kora, ali tropska vrsta | loša (treba mnogo topline) |
 
-Sorta *Eucalyptus gunnii* 'Azura' najčešći je izbor za teglu. Raste sporije od osnovne vrste, zadržava okrugle plavkaste listove i dobro podnosi rezidbu kojom joj možete ograničiti veličinu. Ako uz zelenilo želite i miris limuna, u obzir dolazi [limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/), no on podnosi tek slabe mrazeve. Po čemu se razlikuju ostale vrste, od velikih stabala do grana za bukete, opisuje [vodič kroz vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
+Sorta *Eucalyptus gunnii* 'Azura' najčešći je izbor za teglu. Raste sporije od osnovne vrste, zadržava okrugle plavkaste listove i dobro podnosi rezidbu kojom joj možete ograničiti veličinu. Ako uz zelenilo želite i miris limuna, u obzir dolazi [limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-i-komarci/), no on podnosi tek slabe mrazeve. Po čemu se razlikuju ostale vrste, od velikih stabala do grana za bukete, opisuje [vodič kroz vrste eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/).
 
 ![Infografika: eukaliptus u tegli – 6 do 8 sati izravnog sunca dnevno, a u stanu samo uz prozor prema jugu ili jugozapadu; ljeti, od travnja do sredine listopada, zemlju provjeravajte svaki dan i zalijevajte dok voda ne iscuri kroz rupe; zimi oko dva puta tjedno uz provjeru zemlje; prezimljavanje na 5 do 10 °C, a kod jačeg mraza, oko −5 °C, teglu omotajte ili biljku unesite u hladnu prostoriju; supstrat od 2 dijela zemlje i 1 dijela perlita; gnojivo bogato kalijem od travnja do rujna svakih 10 do 14 dana; rezidba krajem zime ili početkom proljeća, najviše trećina biljke; ne stavljajte šljunak na dno tegle, ne zimujte biljku u grijanoj sobi i ne režite od sredine srpnja do zime; listovi su otrovni za mačke, pse i konje](/images/articles/infografika-eukaliptus-tegla.webp)
 
@@ -192,7 +192,7 @@ Biljku držite izvan dohvata djece i kućnih ljubimaca.
 
 ## Eukaliptus na balkonu: S kojim ga biljkama kombinirati?
 
-Eukaliptus se lijepo slaže s mediteranskim biljem koje također voli mnogo sunca i propusno tlo, poput lavande, [ružmarina](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) ili [majčine dušice](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/). Ipak, ne sadite ih u istu teglu. Eukaliptus u tegli ljeti traži vodu gotovo svaki dan, dok lavanda, ružmarin i majčina dušica vole da se zemlja između dva zalijevanja dobro prosuši. Zato ih posadite u zasebne tegle, jednu do druge, i svaku zalijevajte prema njezinim potrebama.
+Eukaliptus se lijepo slaže s mediteranskim biljem koje također voli mnogo sunca i propusno tlo, poput lavande, [ružmarina](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) ili [majčine dušice](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/). Ipak, ne sadite ih u istu teglu. Eukaliptus u tegli ljeti traži vodu gotovo svaki dan, dok lavanda, ružmarin i majčina dušica vole da se zemlja između dva zalijevanja dobro prosuši. Zato ih posadite u zasebne tegle, jednu do druge, i svaku zalijevajte prema njezinim potrebama.
 
 ## Eukaliptus kao ukrasna grana: Sušenje i aranžmani
 

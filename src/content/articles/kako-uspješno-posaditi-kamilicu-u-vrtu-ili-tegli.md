@@ -56,7 +56,7 @@ kalendar:
 related_articles:
   - uzgoj-kamilice-na-balkonu-u-tegli-da-moguće-je
   - kamilica-biljka-naših-baka
-  - hladni-oblozi-od-kamilice-prirodno-rješenje-za-opuštanje
+  - hladni-oblozi-od-kamilice
 ---
 
 [Kamilica](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) se lako uzgaja iz sjemena, u vrtu ili u tegli, pa uspijeva i potpunim početnicima. Najvažnije je da sjeme ne prekrijete zemljom, jer mu za klijanje treba svjetlo, te da biljka ima mnogo sunca i tlo iz kojeg voda lako otječe. U nastavku saznajte koju vrstu kamilice odabrati, kako je posijati u vrtu i u tegli, kako je njegovati te kako ubrati i osušiti cvjetove za čaj.

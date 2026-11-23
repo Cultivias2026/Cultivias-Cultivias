@@ -1,5 +1,5 @@
 ---
-title: Aronija – čudesna biljka za podršku zdravlja
+title: "Aronija: sastav, upotreba i što kažu istraživanja"
 category: voce
 author: redakcija
 image: /images/articles/aronija-bobice.webp

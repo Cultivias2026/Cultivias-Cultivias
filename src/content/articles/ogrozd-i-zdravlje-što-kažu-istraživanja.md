@@ -32,12 +32,12 @@ ukratko:
     - k: Dokazi
       v: Ogrozd nije lijek; istraživanja posebnih ljekovitih svojstava zasad su uglavnom laboratorijska
 related_articles:
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
   - ogrozd-kalorije-svjezi-plod-kompot-dzem
   - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala
 ---
 
-[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) je niskokalorično voće koje je izvor vitamina C i vlakana, a sadrži i niz biljnih spojeva. Istraživanja o samom ogrozdu zasad su uglavnom laboratorijska. Mnoge tvrdnje koje se na internetu pripisuju ogrozdu zapravo se odnose na indijski ogrozd (amlu), posve drugu biljku. U nastavku saznajte što ogrozd sadrži, što su pokazala istraživanja i zašto se rezultati o amli ne mogu prenijeti na ogrozd.
+[Ogrozd](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) je niskokalorično voće koje je izvor vitamina C i vlakana, a sadrži i niz biljnih spojeva. Istraživanja o samom ogrozdu zasad su uglavnom laboratorijska. Mnoge tvrdnje koje se na internetu pripisuju ogrozdu zapravo se odnose na indijski ogrozd (amlu), posve drugu biljku. U nastavku saznajte što ogrozd sadrži, što su pokazala istraživanja i zašto se rezultati o amli ne mogu prenijeti na ogrozd.
 
 ## Nutritivni profil: vitamini i minerali
 
@@ -75,7 +75,7 @@ Ogrozd je izvor vitamina C, koji prema odobrenim zdravstvenim tvrdnjama pridonos
 
 ### 2. Antioksidansi u ogrozdu
 
-Češki znanstvenici Orsavová i suradnici (2019.) u laboratoriju su analizirali plodove četiri sorte ogrozda i pet sorti ribiza. Utvrdili su da sadrže fenolne spojeve, osobito flavonoide, zatim vitamin C i male količine vitamina E. Od ogrozda je najveću antioksidativnu aktivnost imala crvena sorta 'Black Negus', a od ribiza jedna sorta [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Češki znanstvenici Orsavová i suradnici (2019.) u laboratoriju su analizirali plodove četiri sorte ogrozda i pet sorti ribiza. Utvrdili su da sadrže fenolne spojeve, osobito flavonoide, zatim vitamin C i male količine vitamina E. Od ogrozda je najveću antioksidativnu aktivnost imala crvena sorta 'Black Negus', a od ribiza jedna sorta [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 Riječ je o kemijskoj analizi plodova, a ne o istraživanju na ljudima. Pokazuje što ogrozd sadrži, ali ne i da njegovo jedenje smanjuje rizik od kroničnih bolesti.
 

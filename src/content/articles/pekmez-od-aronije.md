@@ -84,7 +84,7 @@ Namaz možete koristiti uz palačinke ili u nadjevu za kolač. Za srodne ideje p
 
 ### Može li se upotrijebiti sušena aronija?
 
-**Sušena aronija ne zamjenjuje svježu gram za gram.** Ima manje vode, pa ovaj omjer nije namijenjen sušenim bobicama. Više o razlikama oblika ploda pročitajte u vodiču o [sastavu i načinima uporabe aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/).
+**Sušena aronija ne zamjenjuje svježu gram za gram.** Ima manje vode, pa ovaj omjer nije namijenjen sušenim bobicama. Više o razlikama oblika ploda pročitajte u vodiču o [sastavu i načinima uporabe aronije](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/).
 
 ## Izvori
 

@@ -75,7 +75,7 @@ Ne automatski. Najprije provjerite je li biljka niska ili visoka i bujna.
 
 ### Je li razmak od 30 cm dovoljan?
 
-Za [rajčice](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) u vrtu to nije pravilo. Tako gusto sadite samo ako uputa kaže da je sorta vrlo kompaktna.
+Za [rajčice](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) u vrtu to nije pravilo. Tako gusto sadite samo ako uputa kaže da je sorta vrlo kompaktna.
 
 ## Izvori
 

@@ -50,7 +50,7 @@ Menta je ljekovita i začinska biljka koja se stoljećima koristi u kuhinji i na
 
 ## Što je menta?
 
-Menta (*Mentha*) rod je biljaka iz porodice usnača (Lamiaceae), kojoj pripadaju i [kadulja](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/). Rod obuhvaća dvadesetak vrsta i brojne križance, jer se metvice lako međusobno križaju. Takav je i najpoznatiji križanac, paprena metvica, koja je nastala križanjem vodene i klasaste metvice, navodi Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), dio američkih Nacionalnih instituta za zdravlje.
+Menta (*Mentha*) rod je biljaka iz porodice usnača (Lamiaceae), kojoj pripadaju i [kadulja](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/), [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/). Rod obuhvaća dvadesetak vrsta i brojne križance, jer se metvice lako međusobno križaju. Takav je i najpoznatiji križanac, paprena metvica, koja je nastala križanjem vodene i klasaste metvice, navodi Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), dio američkih Nacionalnih instituta za zdravlje.
 
 Osjećaj hlađenja u ustima daje mentol, koji prevladava u paprenoj metvici. Nemaju ga sve vrste u istoj mjeri: klasasta metvica ima ga vrlo malo, a njezin blaži okus potječe od spoja karvona.
 
@@ -96,7 +96,7 @@ Mnoge tvrdnje o ljekovitosti mente prenose se generacijama, pa im treba pristupi
 
 ### Čaj od mente i istraživanja
 
-[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu i prirodno je bez kofeina. Djelovanje ovisi o vrsti mente i načinu pripreme. Što pokazuju istraživanja o čaju za san, pamćenje i probavu, opisuje članak o [dobrobitima čaja od mente](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/).
+[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu i prirodno je bez kofeina. Djelovanje ovisi o vrsti mente i načinu pripreme. Što pokazuju istraživanja o čaju za san, pamćenje i probavu, opisuje članak o [dobrobitima čaja od mente](https://www.cultivias.com/bilje/caj-od-mente-san-pamcenje-i-probava/).
 
 ### Čaj od mente za probavu
 

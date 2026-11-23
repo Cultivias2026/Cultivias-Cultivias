@@ -1,5 +1,5 @@
 ---
-title: "Majčina Dušica: vodič kroz ljekovita svojstva i upotrebu"
+title: "Majčina dušica: vodič kroz sastav, uzgoj i upotrebu"
 category: bilje
 author: redakcija
 image: /images/articles/majčina-dušica-u-tegli-u-snjegu.webp
@@ -17,7 +17,7 @@ tags:
   - zdravlje
   - uzgoj
   - cajevi
-metaTitle: "Majčina Dušica: vodič kroz ljekovita svojstva i upotrebu"
+metaTitle: "Majčina dušica: vodič kroz sastav, uzgoj i upotrebu"
 noindex: false
 ukratko:
   naslov: Majčina dušica ukratko
@@ -107,7 +107,7 @@ Ekstrakti timijana čest su sastojak sirupa protiv kašlja. Kako se priprema [č
 
 Narodna medicina majčinu dušicu koristi i kod probavnih tegoba, ali ispitivanja na ljudima nema, pa učinak nije dokazan.
 
-Za blage probavne tegobe EMA na temelju tradicije priznaje [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+Za blage probavne tegobe EMA na temelju tradicije priznaje [kamilicu](https://www.cultivias.com/bilje/kamilica-i-probava/).
 
 Ako probavne tegobe traju dulje od dva tjedna, vraćaju se ili ih prate gubitak tjelesne mase, krv u stolici ili jaka bol, javite se liječniku.
 

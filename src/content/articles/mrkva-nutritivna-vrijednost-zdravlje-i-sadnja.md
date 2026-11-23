@@ -1,6 +1,5 @@
 ---
-title: Mrkva - kompletan vodič o zdravstvenim prednostima, sadnji i nutritivnoj
-  vrijednosti
+title: "Mrkva: kompletan vodič o nutritivnoj vrijednosti, zdravlju i sadnji"
 category: povrce
 author: redakcija
 image: /images/articles/crvena-mrkva-plod-i-listovi.png
@@ -101,7 +100,7 @@ Narančasta mrkva najpoznatija je i najčešća, a mrkve drugih boja sadrže dru
 
 ### Crvena mrkva – likopen
 
-Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) i lubenicu. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
+Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) i lubenicu. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
 
 
 ### Žuta mrkva – lutein
@@ -112,7 +111,7 @@ Američko udruženje optometrista (American Optometric Association) navodi da pr
 
 ### Ljubičasta mrkva – antocijanini
 
-Ljubičasta je, uz žutu, jedna od prvih boja uzgojene mrkve. Sadrži antocijanine, pigmente kojih ima i u [aroniji](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), borovnicama i crvenom kupusu.
+Ljubičasta je, uz žutu, jedna od prvih boja uzgojene mrkve. Sadrži antocijanine, pigmente kojih ima i u [aroniji](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/), borovnicama i crvenom kupusu.
 
 
 ### Bijela mrkva – manje poznata varijanta
@@ -189,7 +188,7 @@ Ostalih vitamina mrkva ima manje:
 
 * **vitamin K (filokinon)** – 100 g mrkve pokriva 18 % referentnog unosa, pa je mrkva izvor vitamina K; on pridonosi normalnom zgrušavanju krvi i održavanju normalnih kostiju
 * **vitamini B-skupine** – vitamina B6, tiamina (B1) i niacina (B3) ima 6 do 10 % referentnog unosa u 100 g
-* **vitamin C** – 5,9 mg na 100 g, oko 7 % referentnog unosa; [naranča](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/) ga ima otprilike devet puta više
+* **vitamin C** – 5,9 mg na 100 g, oko 7 % referentnog unosa; [naranča](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/) ga ima otprilike devet puta više
 
 ### Minerali u mrkvi – kalij, magnezij i ostali
 
@@ -408,7 +407,7 @@ Salata je dobar prilog pečenom mesu ili ribi, a maslinovo ulje u preljevu poma�
 Pečenjem mrkva dobiva slađi i puniji okus, jer se njezini šećeri na vrućini karameliziraju. Priprema je jednostavna.
 
 * **priprema** – zagrijte pećnicu na 200 °C; manje mrkve ostavite cijele, a veće prerežite po dužini i poslažite ih na lim za pečenje
-* **začini** – oko 500 g mrkve prelijte s 1 do 2 žlice maslinova ulja, posolite, popaprite i dodajte začine po želji, primjerice ružmarin, [majčinu dušicu (timijan)](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/) ili žličicu meda
+* **začini** – oko 500 g mrkve prelijte s 1 do 2 žlice maslinova ulja, posolite, popaprite i dodajte začine po želji, primjerice ružmarin, [majčinu dušicu (timijan)](https://www.cultivias.com/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/) ili žličicu meda
 * **pečenje** – pecite 20 do 30 minuta, dok mrkva ne omekša i ne dobije zlatnosmeđe rubove
 
 ### Mrkva u juhama i varivima

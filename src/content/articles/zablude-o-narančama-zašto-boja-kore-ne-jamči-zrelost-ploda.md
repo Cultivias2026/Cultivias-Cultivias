@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - naranca
 related_articles:
-  - naranča-vitaminska-bomba-u-jednoj-čaši
+  - naranca-nutritivna-vrijednost-vrste-i-uzgoj
   - naranca-vs-sok-od-narance-kalorije
   - kupina-sve-što-trebate-znati-o-sadnji-uzgoju-i-ljekovitosti
 noindex: false
@@ -63,6 +63,6 @@ Također, tekstura kore može ponuditi korisne informacije. Kvalitetni plodovi o
 
 Pažljivim odabirom na temelju ovih pokazatelja izbjegavaju se uobičajene zablude i osigurava najbolji mogući okus u svakom kućanstvu.
 
-Više informacija o sastavu i nutritivnim vrijednostima ovog omiljenog voća potražite u našem tematskom vodiču [Naranča: vitaminska bomba u jednoj čaši](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/).
+Više informacija o sastavu i nutritivnim vrijednostima ovog omiljenog voća potražite u našem tematskom vodiču [Naranča: vitaminska bomba u jednoj čaši](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/).
 
 Pročitajte i: [kalorije u naranči i soku od naranče](https://www.cultivias.com/voce/naranca-vs-sok-od-narance-kalorije/).

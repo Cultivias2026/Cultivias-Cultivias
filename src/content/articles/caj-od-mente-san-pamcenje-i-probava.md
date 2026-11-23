@@ -1,5 +1,5 @@
 ---
-title: Dobrobiti čaja od mente za san, pamćenje i probavu
+title: "Čaj od mente, san, pamćenje i probava: što kažu istraživanja"
 category: bilje
 author: redakcija
 image: /images/articles/čaj-od-mente-u-šalici-s-medom-2.webp
@@ -17,7 +17,7 @@ tags:
   - menta
   - cajevi
   - zdravlje
-metaTitle: Dobrobiti čaja od mente za san, pamćenje i probavu
+metaTitle: "Čaj od mente, san, pamćenje i probava: što kažu istraživanja"
 noindex: false
 oprez:
   stavke:

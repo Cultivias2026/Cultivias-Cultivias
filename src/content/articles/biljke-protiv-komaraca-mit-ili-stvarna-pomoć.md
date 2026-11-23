@@ -17,7 +17,7 @@ tags:
   - uzgoj
 noindex: false
 related_articles:
-  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - limunski-eukaliptus-i-komarci
   - menta-sve-važne-informacije-o-njoj
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
@@ -54,7 +54,7 @@ Mirisni kutak na balkonu zato i dalje ima smisla. Lavanda uz terasu, [metvica](h
 
 ## Je li ulje limunskog eukaliptusa isto što i eterično ulje iz kućne bočice?
 
-**Ne. Ulje limunskog eukaliptusa u registriranom repelentu i proizvoljno korišteno eterično ulje nisu ista stvar.** Američka Agencija za zaštitu okoliša među aktivnim sastojcima repelenta za kožu navodi ulje [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/), PMD, ulje citronele, ulje mačje metvice i 2-undekanon, uz druge sastojke poput ikaridina i DEET-a. [Službeni EPA popis aktivnih sastojaka](https://www.epa.gov/insect-repellents/skin-applied-repellent-ingredients) razlikuje ulje limunskog eukaliptusa i PMD kao regulirane tvari.
+**Ne. Ulje limunskog eukaliptusa u registriranom repelentu i proizvoljno korišteno eterično ulje nisu ista stvar.** Američka Agencija za zaštitu okoliša među aktivnim sastojcima repelenta za kožu navodi ulje [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-i-komarci/), PMD, ulje citronele, ulje mačje metvice i 2-undekanon, uz druge sastojke poput ikaridina i DEET-a. [Službeni EPA popis aktivnih sastojaka](https://www.epa.gov/insect-repellents/skin-applied-repellent-ingredients) razlikuje ulje limunskog eukaliptusa i PMD kao regulirane tvari.
 
 [Znanstveni pregled u *Malaria Journalu*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059459/) dodatno pojašnjava da PMD nije isto što i obično eterično ulje limunskog eukaliptusa. Zato **ne treba pretpostaviti da će nerazrijeđeno ulje, domaća mješavina ili biljka imati djelovanje, trajanje zaštite i sigurnosni profil deklariranog proizvoda**.
 
@@ -81,7 +81,7 @@ U područjima u kojima postoji rizik od bolesti koje prenose komarci, [Europski 
 
 **Da, kadifice imaju smisla kao ukrasne biljke u gredicama, ali ne kao glavni način zaštite od komaraca.** Njihova vrijednost u vrtu ne mora ovisiti o mitu da tjeraju svaki leteći kukac. Ako ih sadite uz povrće, pogledajte naš vodič o tome [koji su dobri, a koji loši susjedi mrkve u vrtu](https://www.cultivias.com/povrce/koji-su-dobri-a-koji-lo%C5%A1i-susjedi-mrkve-u-vrtu/).
 
-Kadifica uz rub gredice može dati boju, popuniti prostor i uklopiti se u promišljen raspored sadnje. Za širu pripremu povrtnjaka, od sorte i vremena sjetve do njege usjeva, pročitajte [kompletan vodič o mrkvi, sadnji i nutritivnoj vrijednosti](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/).
+Kadifica uz rub gredice može dati boju, popuniti prostor i uklopiti se u promišljen raspored sadnje. Za širu pripremu povrtnjaka, od sorte i vremena sjetve do njege usjeva, pročitajte [kompletan vodič o mrkvi, sadnji i nutritivnoj vrijednosti](https://www.cultivias.com/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/).
 
 ## Treba li saditi lavandu i citronelu ako ne štite od uboda?
 

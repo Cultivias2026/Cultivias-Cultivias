@@ -30,7 +30,7 @@ ukratko:
     - k: Za kuhanje
       v: "Najčešće se preporučuju zelene sorte, poput 'Invicte'"
 related_articles:
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
   - ogrozd-kalorije-svjezi-plod-kompot-dzem
   - sorte-ogrozda-vodič-kroz-boje-vrste-i-hibride-za-vaš-vrt
 ---
@@ -38,7 +38,7 @@ Ogrozd je u kuhinji zahvalniji nego što mnogi misle: nezreli je odličan za dž
 
 ## Kulinarska primjena: zreli vs. nezreli ogrozd
 
-Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) jako se mijenjaju tijekom zrenja, a o tome ovisi i kako ćete ga koristiti u kuhinji.
+Okus i tekstura [ogrozda](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) jako se mijenjaju tijekom zrenja, a o tome ovisi i kako ćete ga koristiti u kuhinji.
 
 * **nezreli (zeleni) ogrozd** – tvrđi je, izrazito kiselkast i bogat pektinom (tvari koja zgušnjava džem); dobar je za pekmez, džem te umake uz meso i masnu ribu, poput skuše, a kiselošću uravnotežuje slatka jela
 * **zreli ogrozd** – mekši je, slađi i sočniji; dobar je za jelo svjež te za deserte, pite, crumble, voćne salate i kompote
@@ -77,7 +77,7 @@ Recept je objavljen na portalu [BBC Food](https://www.bbc.co.uk/food/recipes/gre
 
 Recept britanskog kuhara [Jamieja Olivera](https://www.jamieoliver.com/recipes/fruit/gooseberry-elderflower-jam/) spaja kiselkast ogrozd i mirisne cvjetove bazge.
 
-**Važno:** koristite samo cvjetove crne bazge (*Sambucus nigra*), a ne otrovne abdovine (*Sambucus ebulus*), koja je niža, zeljasta biljka. Kako ih razlikovati, opisuje članak o [bazgi](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
+**Važno:** koristite samo cvjetove crne bazge (*Sambucus nigra*), a ne otrovne abdovine (*Sambucus ebulus*), koja je niža, zeljasta biljka. Kako ih razlikovati, opisuje članak o [bazgi](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/).
 
 **SASTOJCI**
 

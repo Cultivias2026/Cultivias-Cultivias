@@ -1,5 +1,5 @@
 ---
-title: "Sve što trebate znati o rajčici: od sadnje do zdravstvenih benefita"
+title: "Sve što trebate znati o rajčici: od sadnje do prehrambene vrijednosti"
 category: bilje
 author: redakcija
 image: /images/articles/zrele-crvene-rajčice.webp
@@ -15,7 +15,7 @@ tags:
   - rajcica
   - uzgoj
   - zdravlje
-metaTitle: "Sve što trebate znati o rajčici: od sadnje do zdravstvenih benefita"
+metaTitle: "Sve što trebate znati o rajčici: od sadnje do prehrambene vrijednosti"
 noindex: false
 ukratko:
   naslov: Rajčica ukratko

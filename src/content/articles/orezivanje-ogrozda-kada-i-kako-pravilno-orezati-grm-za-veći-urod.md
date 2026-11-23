@@ -48,11 +48,11 @@ kalendar:
       opis: lipanj – srpanj, samo kad je grm pregust
 related_articles:
   - kako-posaditi-i-razmnožiti-ogrozd
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
 ---
 
-Redovita rezidba održava [ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) rodnim, zdravim i preglednim, a i berba je lakša kad trnovite grane nisu zbijene. Glavna rezidba obavlja se krajem zime, a ljeti se grm samo prorjeđuje. U nastavku saznajte kada i kako orezati ogrozd u grmu i na stablu, korak po korak, te kako rezidbom spriječiti najčešće bolesti.
+Redovita rezidba održava [ogrozd](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) rodnim, zdravim i preglednim, a i berba je lakša kad trnovite grane nisu zbijene. Glavna rezidba obavlja se krajem zime, a ljeti se grm samo prorjeđuje. U nastavku saznajte kada i kako orezati ogrozd u grmu i na stablu, korak po korak, te kako rezidbom spriječiti najčešće bolesti.
 
 ## Zašto je orezivanje važno?
 

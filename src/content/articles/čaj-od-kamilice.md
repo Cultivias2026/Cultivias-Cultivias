@@ -26,11 +26,11 @@ oprez:
   vise: "#moguće-nuspojave-i-kontraindikacije-čaja-od-kamilice"
 related_articles:
   - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
-  - kamilica-olakšanje-probave-nadutosti-i-grčeva
+  - kamilica-i-probava
   - kamilica-biljka-naših-baka
 ---
 
-Čaj od kamilice priprema se od osušenih cvjetova [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) i jedan je od najčešće pijenih biljnih čajeva. Ljudi ga najčešće piju za opuštanje, lakši san i kod blagih [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ne sadrži kofein, pa se može piti i navečer, toplo ili hladno. U nastavku saznajte kako ga pripremiti, koliko ga piti, što o njegovu djelovanju kažu istraživanja i kome nije preporučljiv.
+Čaj od kamilice priprema se od osušenih cvjetova [kamilice](https://www.cultivias.com/bilje/kamilica-biljka-na%C5%A1ih-baka/) i jedan je od najčešće pijenih biljnih čajeva. Ljudi ga najčešće piju za opuštanje, lakši san i kod blagih [probavnih tegoba](https://www.cultivias.com/bilje/kamilica-i-probava/). Ne sadrži kofein, pa se može piti i navečer, toplo ili hladno. U nastavku saznajte kako ga pripremiti, koliko ga piti, što o njegovu djelovanju kažu istraživanja i kome nije preporučljiv.
 
 ## **Priprema čaja od kamilice**
 
@@ -42,7 +42,7 @@ Ostavite čaj da odstoji 5–10 minuta, ovisno o tome koliko jak želite.
 
 Po želji dodajte žličicu **meda** ili nekoliko kapi **limuna**.
 
-Čaj od kamilice možete piti topao ili hladan. Ohlađeni čaj koristi se i za [hladne obloge](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/).
+Čaj od kamilice možete piti topao ili hladan. Ohlađeni čaj koristi se i za [hladne obloge](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice/).
 
 ![Infografika: kako pripremiti čaj, inhalaciju i hladni oblog od kamilice, s količinama i vremenom, te upozorenje da se čaj ne daje bebama mlađima od 6 mjeseci, osobama alergičnima na glavočike i da se eterično ulje ne koristi nerazrijeđeno](/images/articles/infografika-kamilica-pripravci.webp)
 

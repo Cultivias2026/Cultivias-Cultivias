@@ -58,7 +58,7 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-[Rajčica](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) daje dobar urod ako se posadi u pravo vrijeme, na sunčano mjesto i s dovoljno razmaka. Većina vrtlara sadi kupljene presadnice u svibnju, a sjeme se u zatvorenom sije već u ožujku. U nastavku saznajte kako odabrati sortu, kada i kako sijati, kako presaditi biljke u vrt, plastenik ili teglu te koje biljke saditi uz rajčicu.
+[Rajčica](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) daje dobar urod ako se posadi u pravo vrijeme, na sunčano mjesto i s dovoljno razmaka. Većina vrtlara sadi kupljene presadnice u svibnju, a sjeme se u zatvorenom sije već u ožujku. U nastavku saznajte kako odabrati sortu, kada i kako sijati, kako presaditi biljke u vrt, plastenik ili teglu te koje biljke saditi uz rajčicu.
 
 ## Planiranje sadnje: odabir sorte i pravog trenutka
 

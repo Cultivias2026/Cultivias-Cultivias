@@ -40,6 +40,24 @@ export default defineConfig({
     tailwind({ applyBaseStyles: false }),
   ],
   output: 'static',
+  // Preusmjeravanja sa starih URL-ova (naslovi promijenjeni u neutralnije, 23. 11. 2026.).
+  // GitHub Pages ne podržava 301, pa Astro stvara stranicu s trenutnim preusmjeravanjem i canonical oznakom.
+  redirects: {
+    '/bilje/dobrobiti-čaja-od-mente-za-san-pamćenje-i-probavu': '/bilje/caj-od-mente-san-pamcenje-i-probava/',
+    '/bilje/kamilica-olakšanje-probave-nadutosti-i-grčeva': '/bilje/kamilica-i-probava/',
+    '/bilje/hladni-oblozi-od-kamilice-prirodno-rješenje-za-opuštanje': '/bilje/hladni-oblozi-od-kamilice/',
+    '/bilje/kadulja-i-ljekovitost-zašto-bi-mogla-biti-dobar-izbor': '/bilje/kadulja-i-ljekovitost-sto-kazu-istrazivanja/',
+    '/voce/aronija--čudesna-biljka-za-podršku-zdravlja': '/voce/aronija-sastav-upotreba-i-istrazivanja/',
+    '/voce/crni-ribiz-i-željezo-prirodna-podrška-vitalnosti': '/voce/crni-ribiz-i-zeljezo/',
+    '/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti': '/voce/crni-ribiz-i-zdravlje/',
+    '/povrce/mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti': '/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/',
+    '/bilje/sve-što-trebate-znati-o-rajčici-od-sadnje-do-zdravstvenih-benefita': '/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/',
+    '/bilje/limunski-eukaliptus-prirodna-zaštita-protiv-komaraca': '/bilje/limunski-eukaliptus-i-komarci/',
+    '/voce/ogrozd--zaboravljeno-supervoće': '/voce/ogrozd-zaboravljeno-voce/',
+    '/voce/naranča-vitaminska-bomba-u-jednoj-čaši': '/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/',
+    '/voce/bazga-zova-sve-o-ovoj-moćnoj-i-poznatoj-biljci': '/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/',
+    '/bilje/majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu': '/bilje/majcina-dusica-sastav-uzgoj-i-upotreba/',
+  },
   markdown: {
     // rehypeBlokovi: Ukratko, kalendar, Oprez i kalkulatori (src/lib/blokovi.mjs)
     rehypePlugins: [rehypeLinkTargets, rehypeBlokovi],

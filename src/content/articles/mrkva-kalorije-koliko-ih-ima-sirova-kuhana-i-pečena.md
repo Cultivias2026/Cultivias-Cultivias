@@ -18,7 +18,7 @@ tags:
   - mrkva
   - kalorije
 related_articles:
-  - mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti
+  - mrkva-nutritivna-vrijednost-zdravlje-i-sadnja
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
   - kalorije-u-rajčici-usporedba-svježe-rajčice-passate-koncentrata-i-umaka
 metaTitle: "Mrkva kalorije: Koliko ih ima sirova, kuhana i pečena? "
@@ -29,7 +29,7 @@ Mrkva ima malo kalorija u svim oblicima: 100 g sirove ima 41 kcal, kuhane 35 kca
 
 ## Koliko kalorija ima 100 grama sirove mrkve?
 
-Sirova [mrkva](https://www.cultivias.com/povrce/mrkva-kompletan-vodi%C4%8D-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti/) ima 41 kcal na 100 g, prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA). Oko 88 % njezine mase čini voda, a masti ima samo 0,2 g.
+Sirova [mrkva](https://www.cultivias.com/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/) ima 41 kcal na 100 g, prema bazi FoodData Central američkog Ministarstva poljoprivrede (USDA). Oko 88 % njezine mase čini voda, a masti ima samo 0,2 g.
 
 Sto grama sirove mrkve daje i 2,8 g vlakana. Hrana s puno vode i vlakana ima malu energetsku gustoću, odnosno malo kalorija po gramu, pa obrok čini obilnijim, a ne dodaje mnogo energije. Za usporedbu, [svježa rajčica](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/) ima 18 kcal na 100 g.
 

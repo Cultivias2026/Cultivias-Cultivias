@@ -55,7 +55,7 @@ kalendar:
 related_articles:
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
   - berba-crnog-ribiza-kako-i-kada
-  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - crni-ribiz-i-zdravlje
 ---
 
 Crni ribiz (*Ribes nigrum*) listopadni je grm čije tamne, kiselkaste bobice sadrže mnogo vitamina C i antocijana, tamnih biljnih pigmenata. Prema bazi američkog Ministarstva poljoprivrede (USDA), 100 g svježih bobica ima oko 181 mg vitamina C, više nego dvostruko od preporučenog dnevnog unosa. U nastavku saznajte kako prepoznati crni ribiz, što sadrži, u kojim se oblicima koristi te kako ga uzgojiti i ubrati.
@@ -92,7 +92,7 @@ Crni ribiz je jedno od voća s najviše vitamina C. Vitamin C sudjeluje u normal
 
 *Podaci prema bazi [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/173963/nutrients). Udio je izračunat prema referentnim vrijednostima unosa za odrasle iz Uredbe (EU) br. 1169/2011.*
 
-Crni ribiz sadrži i prehrambena vlakna te **antocijane**. Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) u [priručniku o crnom ribizu](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf) navodi oko 1.741 mg antocijana na 100 g svježih bobica, više nego u kupinama, borovnicama i malinama. Takvih je spojeva mnogo i u [aronijinim](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [bazginim bobicama](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
+Crni ribiz sadrži i prehrambena vlakna te **antocijane**. Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) u [priručniku o crnom ribizu](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf) navodi oko 1.741 mg antocijana na 100 g svježih bobica, više nego u kupinama, borovnicama i malinama. Takvih je spojeva mnogo i u [aronijinim](https://www.cultivias.com/voce/aronija-sastav-upotreba-i-istrazivanja/) i [bazginim bobicama](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-poznatoj-biljci/).
 
 ## Crni ribiz i zdravlje
 
@@ -101,13 +101,13 @@ Vitamin C, kojega u crnom ribizu ima mnogo, sudjeluje u radu imunosnog sustava. 
 
 ## Crni ribiz i željezo
 
-Crni ribiz sadrži oko 1,5 mg željeza na 100 g, što je za voće razmjerno mnogo, ali manje nego u mesu, mahunarkama ili zelenom lisnatom povrću. Veća je prednost što vitamin C iz bobica pomaže tijelu da bolje iskoristi željezo iz biljne hrane. Više o tome piše u članku o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/).
+Crni ribiz sadrži oko 1,5 mg željeza na 100 g, što je za voće razmjerno mnogo, ali manje nego u mesu, mahunarkama ili zelenom lisnatom povrću. Veća je prednost što vitamin C iz bobica pomaže tijelu da bolje iskoristi željezo iz biljne hrane. Više o tome piše u članku o [crnom ribizu i željezu](https://www.cultivias.com/voce/crni-ribiz-i-zeljezo/).
 
 Ako sumnjate na manjak željeza, osobito u trudnoći, javite se liječniku. Manjak željeza ne liječi se voćem.
 
 ### Ljekovitost i zdravstvene prednosti
 
-Osim učinaka vitamina C i kalija, koje je odobrila Europska unija, za ostale tvrdnje o ljekovitosti crnog ribiza dokazi na ljudima nisu dovoljni. Što pokazuju dosadašnja istraživanja, opisuje članak [Ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Osim učinaka vitamina C i kalija, koje je odobrila Europska unija, za ostale tvrdnje o ljekovitosti crnog ribiza dokazi na ljudima nisu dovoljni. Što pokazuju dosadašnja istraživanja, opisuje članak [Ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 ## Različiti oblici crnog ribiza
 

@@ -1,5 +1,5 @@
 ---
-title: "Crni ribiz i željezo: Prirodna podrška vitalnosti"
+title: "Crni ribiz i željezo: koliko ga ima i kako ga tijelo iskoristi"
 category: voce
 author: redakcija
 image: /images/articles/sok-od-crnog-ribiza-u-staklenoj-boci.png
@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - crni-ribiz
   - zdravlje
-metaTitle: "Crni ribiz i željezo: Prirodna podrška vitalnosti"
+metaTitle: "Crni ribiz i željezo: koliko ga ima i kako ga tijelo iskoristi"
 noindex: false
 ukratko:
   naslov: Crni ribiz i željezo ukratko
@@ -31,7 +31,7 @@ ukratko:
       v: Željezo se ne gubi, ali vitamin C se razgrađuje, pa džem i sirup kuhajte kratko
 related_articles:
   - crni-ribiz-sve-što-trebate-znati-o-njemu
-  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - crni-ribiz-i-zdravlje
   - recepti-i-ideje-od-crnog-ribiza
 ---
 
@@ -59,7 +59,7 @@ Crni ribiz sadrži 181 mg vitamina C na 100 g, a vitamin C povećava apsorpciju 
 ### Preporuke za konzumaciju
 
 * **svježe bobice** – vitamin C osjetljiv je na toplinu, pa ga je najviše u svježim bobicama. Dodajte ih jogurtu, žitaricama, salatama ili smoothieju
-* **uz obrok bogat željezom** – bobice pojedite uz jelo s mahunarkama, žitaricama ili zelenim povrćem, a slično djeluje i drugo voće s vitaminom C, poput [naranče](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/)
+* **uz obrok bogat željezom** – bobice pojedite uz jelo s mahunarkama, žitaricama ili zelenim povrćem, a slično djeluje i drugo voće s vitaminom C, poput [naranče](https://www.cultivias.com/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/)
 * **bez čaja i kave uz obrok** – [pregledni tekst u NCBI Bookshelfu](https://www.ncbi.nlm.nih.gov/books/NBK540969/), stručnoj knjižnici američkog Nacionalnog instituta za zdravlje, navodi da neke tvari smanjuju upijanje željeza. Čaj, kavu i mliječne proizvode bogate kalcijem zato ne uzimajte istodobno s obrocima bogatim željezom
 * **kratka toplinska obrada** – kuhanjem se željezo ne gubi, ali vitamin C se razgrađuje, pa džem i sirup kuhajte kratko. Ideje za kuhinju donosi članak [recepti i ideje od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/)
 
@@ -75,7 +75,7 @@ Manjak željeza može izazvati umor i iscrpljenost, a ako potraje, i slabokrvnos
 
 Crni ribiz sadrži nešto željeza, ali ga ne treba smatrati glavnim izvorom. Mnogo više željeza imaju meso, jaja, mahunarke i zeleno lisnato povrće.
 
-Vrijedan je zato što sadrži mnogo vitamina C, koji pomaže upijanju željeza iz biljne hrane. O ostalim mogućim učincima piše članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Vrijedan je zato što sadrži mnogo vitamina C, koji pomaže upijanju željeza iz biljne hrane. O ostalim mogućim učincima piše članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 Trudnice, koje trebaju više željeza, neka se o prehrani i dodacima željeza posavjetuju s liječnikom.
 

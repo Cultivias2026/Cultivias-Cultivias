@@ -15,10 +15,10 @@ tags:
   - crni-ribiz
   - kalorije
 related_articles:
-  - crni-ribiz-i-željezo-prirodna-podrška-vitalnosti
+  - crni-ribiz-i-zeljezo
   - berba-crnog-ribiza-kako-i-kada
   - uzgoj-crnog-ribiza-vodič-za-uspješnu-sadnju-i-njegu
-  - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
+  - crni-ribiz-i-zdravlje
 metaTitle: "Crni ribiz i kalorije: svježe bobice, sok i džem"
 metaDescription: "Svježi crni ribiz ima 63 kcal na 100 g. Usporedite kalorije porcija, smrznutih bobica, soka i džema te saznajte kako priprema mijenja računicu."
 noindex: false
@@ -88,6 +88,6 @@ Iako se [crni ribiz koristi u različitim prerađevinama](https://www.cultivias.
 
 Primjer računa za zamišljeni kompot: 300 g ribiza (189 kcal), 100 g šećera (400 kcal) i 500 ml vode (0 kcal) daju ukupno 589 kcal u oko 900 g kompota, odnosno oko 65 kcal na 100 g. Porcija od 200 g ima oko 131 kcal.
 
-Pedeset grama svježih bobica daje oko 32 kcal, čaša od 2 dl prikazanog soka 74 kcal, a 20 g džema oko 47 kcal. Za svoj obrok usporedite baš te količine, a ne jednaku zdjelicu voća i čašu napitka. Na isti način usporedili smo kalorije [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/), [ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/) i [bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Što crni ribiz sadrži osim kalorija, opisuje članak o njegovoj [ljekovitosti](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Pedeset grama svježih bobica daje oko 32 kcal, čaša od 2 dl prikazanog soka 74 kcal, a 20 g džema oko 47 kcal. Za svoj obrok usporedite baš te količine, a ne jednaku zdjelicu voća i čašu napitka. Na isti način usporedili smo kalorije [aronije](https://www.cultivias.com/voce/aronija-kalorije-svje%C5%BEe-bobice-sok-prah-i-su%C5%A1ena-aronija/), [ogrozda](https://www.cultivias.com/voce/ogrozd-kalorije-svjezi-plod-kompot-dzem/) i [bazginih bobica](https://www.cultivias.com/voce/bazgine-bobice-kalorije-u-svje%C5%BEem-plodu-soku-i-sirupu/). Što crni ribiz sadrži osim kalorija, opisuje članak o njegovoj [ljekovitosti](https://www.cultivias.com/voce/crni-ribiz-i-zdravlje/).
 
 > *Tekst je informativan i ne zamjenjuje individualni savjet liječnika ili nutricionista. Za prehranu prilagođenu zdravstvenom stanju obratite se stručnjaku.*

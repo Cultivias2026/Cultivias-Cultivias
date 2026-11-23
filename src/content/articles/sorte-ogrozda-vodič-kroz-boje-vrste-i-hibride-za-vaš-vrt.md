@@ -33,10 +33,10 @@ ukratko:
 related_articles:
   - kako-posaditi-i-razmnožiti-ogrozd
   - orezivanje-ogrozda-kada-i-kako-pravilno-orezati-grm-za-veći-urod
-  - ogrozd--zaboravljeno-supervoće
+  - ogrozd-zaboravljeno-voce
 ---
 
-Sorte [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) razlikuju se bojom, veličinom i okusom plodova, količinom trnja i otpornošću na bolesti, osobito na pepelnicu. Za kućni vrt najčešće se preporučuju sorte koje su otporne na tu bolest i imaju malo trnja. U nastavku saznajte kako se ogrozd dijeli po boji, po čemu su poznate najpopularnije sorte, što je josta te zašto indijski i kineski ogrozd nisu pravi ogrozd.
+Sorte [ogrozda](https://www.cultivias.com/voce/ogrozd-zaboravljeno-voce/) razlikuju se bojom, veličinom i okusom plodova, količinom trnja i otpornošću na bolesti, osobito na pepelnicu. Za kućni vrt najčešće se preporučuju sorte koje su otporne na tu bolest i imaju malo trnja. U nastavku saznajte kako se ogrozd dijeli po boji, po čemu su poznate najpopularnije sorte, što je josta te zašto indijski i kineski ogrozd nisu pravi ogrozd.
 
 ## Klasifikacija po bojama: Razlike u okusu i izgledu
 

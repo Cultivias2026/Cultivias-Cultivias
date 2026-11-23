@@ -31,7 +31,7 @@ oprez:
   viseTekst: Što učiniti u slučaju trovanja
 related_articles:
   - eukaliptus-kao-sobna-biljka-vodič-za-uzgoj-i-njegu-u-tegli
-  - limunski-eukaliptus-prirodna-zaštita-protiv-komaraca
+  - limunski-eukaliptus-i-komarci
   - vodič-kroz-vrste-eukaliptusa-od-drveta-do-buketa
 noindex: false
 ---
@@ -133,7 +133,7 @@ Postoji bitna razlika između **žive biljke eukaliptusa u tegli** i **eterično
 | **Razrijeđeno eterično ulje** | nizak pri pravilnoj primjeni na kožu odraslih | srednji; izbjegavajte kontakt s ljubimcima |
 | **Difuzer s eteričnim uljem** | nizak za zdrave odrasle; ne koristiti uz djecu mlađu od 30 mjeseci | umjeren do visok za mačke |
 
-Živa biljka u tegli za odrasle nije opasna pri uobičajenom rukovanju. Opasnost nastaje gutanjem listova, osobito kod djece i kućnih ljubimaca, te pri korištenju eteričnog ulja. Među vrstama postoje i razlike u sastavu ulja: [limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/) umjesto eukaliptola sadrži ponajviše citronelal, a pregled [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) opisuje i ostale razlike.
+Živa biljka u tegli za odrasle nije opasna pri uobičajenom rukovanju. Opasnost nastaje gutanjem listova, osobito kod djece i kućnih ljubimaca, te pri korištenju eteričnog ulja. Među vrstama postoje i razlike u sastavu ulja: [limunski eukaliptus](https://www.cultivias.com/bilje/limunski-eukaliptus-i-komarci/) umjesto eukaliptola sadrži ponajviše citronelal, a pregled [vrsta eukaliptusa](https://www.cultivias.com/bilje/vodi%C4%8D-kroz-vrste-eukaliptusa-od-drveta-do-buketa/) opisuje i ostale razlike.
 
 ## Što učiniti u slučaju trovanja?
 

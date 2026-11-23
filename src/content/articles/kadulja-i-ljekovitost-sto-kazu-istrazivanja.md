@@ -1,5 +1,5 @@
 ---
-title: Kadulja i ljekovitost! Zašto bi mogla biti dobar izbor?
+title: "Kadulja i ljekovitost: što kažu istraživanja"
 category: bilje
 author: redakcija
 image: /images/articles/ljekovita-ljubičasta-kadulja-u-vrtu.webp
@@ -16,7 +16,7 @@ tags:
   - kadulja
   - zdravlje
   - cajevi
-metaTitle: Kadulja i ljekovitost! Zašto bi mogla biti dobar izbor?
+metaTitle: "Kadulja i ljekovitost: što kažu istraživanja"
 noindex: false
 oprez:
   stavke:
@@ -29,7 +29,7 @@ oprez:
 related_articles:
   - kadulja--ljekovita-biljka-s-dugom-tradicijom
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
-  - majčina-dušica-vodič-kroz-ljekovita-svojstva-i-upotrebu
+  - majcina-dusica-sastav-uzgoj-i-upotreba
 ---
 
 Kadulja je stoljećima imala posebno mjesto u narodnoj medicini, a znanstvenici danas istražuju koja od njezinih tradicionalnih svojstava imaju uporište u dokazima. Većina istraživanja zasad je provedena u laboratoriju ili na životinjama, a ispitivanja na ljudima su malobrojna i mala. U nastavku saznajte što istraživanja kažu o kadulji kod upala, grlobolje, probave i bolesti desni te kada s njom treba biti oprezan.
@@ -73,7 +73,7 @@ EMA kadulju priznaje kao tradicionalni biljni lijek za blage probavne tegobe pop
 
 Na ljudima to nije ispitano. Pokusi s ekstraktom kadulje i želucem, poput brazilskog [istraživanja](https://pubmed.ncbi.nlm.nih.gov/19481590/) iz 2009., rađeni su na štakorima.
 
-Kadulja nije zamjena za lijekove protiv žgaravice ili čira na želucu, a žgaravicu koja se često vraća treba pregledati liječnik. Za blage probavne tegobe EMA tradicionalno priznaje i druge biljke, primjerice [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/) i list [paprene metvice](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/).
+Kadulja nije zamjena za lijekove protiv žgaravice ili čira na želucu, a žgaravicu koja se često vraća treba pregledati liječnik. Za blage probavne tegobe EMA tradicionalno priznaje i druge biljke, primjerice [kamilicu](https://www.cultivias.com/bilje/kamilica-i-probava/) i list [paprene metvice](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/).
 
 ## Kadulja za oralno zdravlje
 
