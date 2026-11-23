@@ -40,7 +40,7 @@ Naš zajednički cilj je da ovaj portal bude vaš pouzdan vodič i inspiracija, 
 
 Dio tekstova i slika na Cultiviasu nastaje uz pomoć umjetne inteligencije (AI). Koristimo je kao alat: pomaže nam pri pisanju i uređivanju tekstova te pri izradi ilustracija i infografika.
 
-Prije objave svaki takav sadržaj pregledavamo, a podatke provjeravamo prema izvorima koje navodimo na kraju članaka, kako biste ih mogli provjeriti i sami. Za sve što objavimo odgovaramo mi.
+Prije objave svaki takav sadržaj pregledavamo, a podatke provjeravamo prema izvorima koje navodimo na kraju članaka, kako biste ih mogli provjeriti i sami.
 
 Članci su informativnog karaktera i ne zamjenjuju savjet liječnika, ljekarnika ili agronoma.
 
