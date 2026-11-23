@@ -7,7 +7,7 @@ import { POJMOVI, SKUPINE, IZVORI, regexZa } from '../data/pojmovnik.mjs';
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 const PATH = '/pojmovnik/';
 const NASLOV = 'Pojmovnik: biljke, vrt, pripravci i istraživanja';
-const OPIS = 'Kratka objašnjenja pojmova iz članaka Cultiviasa: od trajnice, plodoreda i rezidbe do tinkture, polifenola, placeba i tradicionalnog biljnog lijeka.';
+const OPIS = 'Objašnjenja pojmova iz članaka Cultiviasa uz stručne izvore: od trajnice, plodoreda i rezidbe do tinkture, polifenola, placeba i tradicionalnog biljnog lijeka.';
 
 // Članci u kojima se pojam spominje (bez vijesti; samo tekst prije odjeljka Izvori, bez URL-ova)
 const clanci = (await getCollection('articles'))
@@ -38,13 +38,17 @@ const pojmovi = [...POJMOVI]
           .slice(0, 6)
       : [];
     const vidi = (p.vidi || []).map((id) => POJMOVI.find((x) => x.id === id)!).filter(Boolean);
-    return { ...p, slovo: kljuc(p).charAt(0).toLocaleUpperCase('hr'), spominje, vidi };
+    const izvori = (p.izvori || []).map((k) => {
+      const i = IZVORI[k];
+      if (!i) throw new Error(`Pojmovnik: nepoznat izvor "${k}" kod pojma "${p.id}"`);
+      return i;
+    });
+    return { ...p, slovo: kljuc(p).charAt(0).toLocaleUpperCase('hr'), spominje, vidi, izvori };
   });
 
 const slova = [...new Set(pojmovi.map((p) => p.slovo))];
 const poSlovu = slova.map((s) => ({ slovo: s, pojmovi: pojmovi.filter((p) => p.slovo === s) }));
 const brojPoSkupini = Object.fromEntries(Object.keys(SKUPINE).map((k) => [k, POJMOVI.filter((p) => p.skupina === k).length]));
-const koristeniIzvori = Object.entries(IZVORI).filter(([k]) => POJMOVI.some((p) => p.izvor === k) || ['rhs', 'iastate', 'ncstate'].includes(k));
 
 const SET_ID = `${abs(PATH)}#pojmovnik`;
 const jsonLd = await buildGraph([
@@ -91,9 +95,10 @@ const jsonLd = await buildGraph([
     <div class="bg-white rounded-2xl border border-bg-pale p-6 sm:p-12" data-pagefind-body>
       <h1 class="text-3xl sm:text-4xl font-bold text-dark mb-4 font-heading">Pojmovnik</h1>
       <p class="text-text font-body mb-6" style="font-size: 1.0625rem; line-height: 1.75;">
-        Kratka objašnjenja pojmova koji se često pojavljuju u našim člancima: o biljkama i vrtu, o pripravcima
+        Objašnjenja pojmova koji se često pojavljuju u našim člancima: o biljkama i vrtu, o pripravcima
         poput tinkture i eteričnog ulja, o sastavu hrane te o tome kako čitati istraživanja i oznake na proizvodima.
-        U člancima je prvo spominjanje pojma povezano s ovom stranicom.
+        Uz svaki pojam je kratka definicija, malo više detalja i poveznice na stručne izvore. U člancima je prvo
+        spominjanje pojma povezano s ovom stranicom.
       </p>
 
       <div class="cv-pj-filter" role="group" aria-label="Prikaži skupinu pojmova">
@@ -118,7 +123,8 @@ const jsonLd = await buildGraph([
                   <span class="cv-pj-oznaka">{SKUPINE[p.skupina]}</span>
                 </dt>
                 <dd>
-                  <p set:html={inline(p.def)} />
+                  <p class="cv-pj-def" set:html={inline(p.def)} />
+                  {p.opis && <p class="cv-pj-opis" set:html={inline(p.opis)} />}
                   {p.vidi.length > 0 && (
                     <p class="cv-pj-meta">
                       <span>Vidi i:</span>{' '}
@@ -126,6 +132,16 @@ const jsonLd = await buildGraph([
                         <>{i > 0 && ', '}<a href={`#${v.id}`} set:html={inline(v.pojam)} /></>
                       ))}
                     </p>
+                  )}
+                  {p.izvori.length > 0 && (
+                    <div class="cv-pj-meta cv-pj-izvori-pojma">
+                      <span>{p.izvori.length > 1 ? 'Stručni izvori:' : 'Stručni izvor:'}</span>
+                      <ul>
+                        {p.izvori.map((i) => (
+                          <li><a href={i.url} target="_blank" rel="noopener noreferrer">{i.naziv}</a></li>
+                        ))}
+                      </ul>
+                    </div>
                   )}
                   {p.spominje.length > 0 && (
                     <p class="cv-pj-meta">
@@ -143,13 +159,13 @@ const jsonLd = await buildGraph([
       ))}
 
       <section class="cv-pj-izvori">
-        <h2 class="font-heading">Izvori</h2>
-        <p>Objašnjenja su napisana prema stručnim pojmovnicima i službenim izvorima, a kod pojmova o biljnim lijekovima i hrani prema propisima Europske unije:</p>
-        <ul>
-          {koristeniIzvori.map(([, i]) => (
-            <li><a href={i.url} target="_blank" rel="noopener noreferrer">{i.naziv}</a></li>
-          ))}
-        </ul>
+        <h2 class="font-heading">O izvorima</h2>
+        <p>
+          Uz svaki pojam navedeni su stručni izvori na kojima se objašnjenje temelji: savjetodavne službe sveučilišta,
+          Kraljevsko hortikulturno društvo (RHS), Europska agencija za lijekove (EMA), propisi Europske unije, američki
+          Nacionalni instituti za zdravlje (NIH) te znanstveni radovi. Wikipediju ne koristimo kao izvor. Poveznice se
+          otvaraju u novoj kartici, a većina izvora je na engleskom jeziku.
+        </p>
       </section>
     </div>
   </div>

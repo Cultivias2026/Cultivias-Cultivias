@@ -87,8 +87,9 @@ export const GET: APIRoute = async () => {
     .filter(p => !p.data.noindex)
     .map(p => ({ path: `/${p.slug}/` }));
 
-  // Statične stranice izvan CMS-a (bez lastmod).
-  const staticEntries: Entry[] = [{ path: '/pojmovnik/' }];
+  // Statične stranice izvan CMS-a. lastmod se ručno upisuje samo kod sadržajne izmjene
+  // (pojmovnik: 23. 11. 2026. dodana detaljnija objašnjenja i stručni izvori).
+  const staticEntries: Entry[] = [{ path: '/pojmovnik/', lastmod: '2026-11-23' }];
 
   // Stranice autora (bez lastmod iz istog razloga).
   const authorEntries: Entry[] = authors.map(a => ({ path: `/autor/${a.data.slug}/` }));

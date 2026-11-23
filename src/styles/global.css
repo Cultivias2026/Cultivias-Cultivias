@@ -415,3 +415,7 @@
 .cv-pj-izvori ul { list-style: disc; padding-left: 1.25rem; margin-top: 0.5rem; }
 .cv-pj-izvori li { margin-bottom: 0.3rem; }
 .cv-pj-unos[hidden], .cv-pj-slovo[hidden], .cv-pj-slova[hidden] { display: none !important; }
+.cv-pj-unos dd .cv-pj-def { color: #06140C; }
+.cv-pj-unos dd .cv-pj-opis { margin-bottom: 0.5rem; }
+.cv-pj-izvori-pojma ul { list-style: disc; padding-left: 1.1rem; margin: 0.15rem 0 0.4rem; }
+.cv-pj-izvori-pojma li { margin-bottom: 0.15rem; line-height: 1.5; }
