@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import { rehypeBlokovi } from './src/lib/blokovi.mjs';
+import { rehypePojmovnik } from './src/lib/pojmovnik-rehype.mjs';
 
 // Vanjski linkovi u sadržaju (markdown) otvaraju se u novom tabu, interni u istom.
 const INTERNAL_HOSTS = new Set(['cultivias.com', 'www.cultivias.com']);
@@ -60,7 +61,8 @@ export default defineConfig({
   },
   markdown: {
     // rehypeBlokovi: Ukratko, kalendar, Oprez i kalkulatori (src/lib/blokovi.mjs)
-    rehypePlugins: [rehypeLinkTargets, rehypeBlokovi],
+    // rehypePojmovnik: prvo spominjanje pojma -> /pojmovnik/#id (src/lib/pojmovnik-rehype.mjs)
+    rehypePlugins: [rehypeLinkTargets, rehypeBlokovi, rehypePojmovnik],
   },
   vite: {
     plugins: [

@@ -1,0 +1,185 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildGraph, webPageNode, breadcrumbNode, abs } from '../lib/schema';
+import { POJMOVI, SKUPINE, IZVORI, regexZa } from '../data/pojmovnik.mjs';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+const PATH = '/pojmovnik/';
+const NASLOV = 'Pojmovnik: biljke, vrt, pripravci i istraživanja';
+const OPIS = 'Kratka objašnjenja pojmova iz članaka Cultiviasa: od trajnice, plodoreda i rezidbe do tinkture, polifenola, placeba i tradicionalnog biljnog lijeka.';
+
+// Članci u kojima se pojam spominje (bez vijesti; samo tekst prije odjeljka Izvori, bez URL-ova)
+const clanci = (await getCollection('articles'))
+  .filter((a) => ['voce', 'povrce', 'bilje'].includes(a.data.category) && !a.data.noindex)
+  .map((a) => ({
+    url: `${base}${a.data.category}/${a.slug}/`,
+    naslov: a.data.title,
+    tekst: a.body.split(/\n##\s+Izvori/)[0].replace(/\]\([^)]*\)/g, ']').replace(/!\[[^\]]*\]/g, ''),
+  }));
+
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const inline = (s: string) => esc(s).replace(/\*([^*]+)\*/g, '<em>$1</em>');
+const bezOznaka = (s: string) => s.replace(/\*/g, '');
+const kljuc = (p: { pojam: string }) => p.pojam.replace(/^[^\p{L}]+/u, '');
+
+const pojmovi = [...POJMOVI]
+  .sort((a, b) => kljuc(a).localeCompare(kljuc(b), 'hr', { sensitivity: 'base' }))
+  .map((p) => {
+    const rx = regexZa(p);
+    const spominje = rx
+      ? clanci
+          .map((c) => {
+            const g = new RegExp(rx.source, 'giu');
+            return { ...c, n: (c.tekst.match(g) || []).length };
+          })
+          .filter((c) => c.n > 0)
+          .sort((a, b) => b.n - a.n || a.naslov.localeCompare(b.naslov, 'hr'))
+          .slice(0, 6)
+      : [];
+    const vidi = (p.vidi || []).map((id) => POJMOVI.find((x) => x.id === id)!).filter(Boolean);
+    return { ...p, slovo: kljuc(p).charAt(0).toLocaleUpperCase('hr'), spominje, vidi };
+  });
+
+const slova = [...new Set(pojmovi.map((p) => p.slovo))];
+const poSlovu = slova.map((s) => ({ slovo: s, pojmovi: pojmovi.filter((p) => p.slovo === s) }));
+const brojPoSkupini = Object.fromEntries(Object.keys(SKUPINE).map((k) => [k, POJMOVI.filter((p) => p.skupina === k).length]));
+const koristeniIzvori = Object.entries(IZVORI).filter(([k]) => POJMOVI.some((p) => p.izvor === k) || ['rhs', 'iastate', 'ncstate'].includes(k));
+
+const SET_ID = `${abs(PATH)}#pojmovnik`;
+const jsonLd = await buildGraph([
+  webPageNode({
+    path: PATH,
+    name: NASLOV + ' | Cultivias',
+    description: OPIS,
+    hasBreadcrumb: true,
+    extra: { mainEntity: { '@id': SET_ID } },
+  }),
+  breadcrumbNode(PATH, [
+    { name: 'Naslovnica', path: '/' },
+    { name: 'Pojmovnik', path: PATH },
+  ]),
+  {
+    '@type': 'DefinedTermSet',
+    '@id': SET_ID,
+    name: 'Pojmovnik Cultiviasa',
+    description: OPIS,
+    inLanguage: 'hr',
+    url: abs(PATH),
+    hasDefinedTerm: pojmovi.map((p) => ({
+      '@type': 'DefinedTerm',
+      '@id': `${abs(PATH)}#${p.id}`,
+      name: bezOznaka(p.pojam),
+      description: bezOznaka(p.def),
+      url: `${abs(PATH)}#${p.id}`,
+      inDefinedTermSet: { '@id': SET_ID },
+    })),
+  },
+]);
+---
+
+<BaseLayout title={NASLOV + ' | Cultivias'} description={OPIS} canonical={PATH} jsonLd={jsonLd}>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="mb-6" aria-label="Navigacijska staza">
+      <ol class="flex items-center gap-2 text-sm text-gray-400">
+        <li><a href={base} class="hover:text-primary transition-colors">Naslovnica</a></li>
+        <li aria-hidden="true"><span class="text-gray-300">/</span></li>
+        <li class="text-dark font-medium">Pojmovnik</li>
+      </ol>
+    </nav>
+
+    <div class="bg-white rounded-2xl border border-bg-pale p-6 sm:p-12" data-pagefind-body>
+      <h1 class="text-3xl sm:text-4xl font-bold text-dark mb-4 font-heading">Pojmovnik</h1>
+      <p class="text-text font-body mb-6" style="font-size: 1.0625rem; line-height: 1.75;">
+        Kratka objašnjenja pojmova koji se često pojavljuju u našim člancima: o biljkama i vrtu, o pripravcima
+        poput tinkture i eteričnog ulja, o sastavu hrane te o tome kako čitati istraživanja i oznake na proizvodima.
+        U člancima je prvo spominjanje pojma povezano s ovom stranicom.
+      </p>
+
+      <div class="cv-pj-filter" role="group" aria-label="Prikaži skupinu pojmova">
+        <button type="button" class="cv-pj-chip is-on" data-skupina="sve" aria-pressed="true">Sve ({POJMOVI.length})</button>
+        {Object.entries(SKUPINE).map(([k, naziv]) => (
+          <button type="button" class="cv-pj-chip" data-skupina={k} aria-pressed="false">{naziv} ({brojPoSkupini[k]})</button>
+        ))}
+      </div>
+
+      <nav class="cv-pj-slova" aria-label="Pojmovi po slovima">
+        {slova.map((s) => <a href={`#slovo-${s.toLowerCase()}`}>{s}</a>)}
+      </nav>
+
+      {poSlovu.map((g) => (
+        <section class="cv-pj-slovo" id={`slovo-${g.slovo.toLowerCase()}`}>
+          <h2 class="cv-pj-slovo-h font-heading">{g.slovo}</h2>
+          <dl>
+            {g.pojmovi.map((p) => (
+              <div class="cv-pj-unos" id={p.id} data-skupina={p.skupina}>
+                <dt>
+                  <span class="cv-pj-pojam font-heading" set:html={inline(p.pojam)} />
+                  <span class="cv-pj-oznaka">{SKUPINE[p.skupina]}</span>
+                </dt>
+                <dd>
+                  <p set:html={inline(p.def)} />
+                  {p.vidi.length > 0 && (
+                    <p class="cv-pj-meta">
+                      <span>Vidi i:</span>{' '}
+                      {p.vidi.map((v, i) => (
+                        <>{i > 0 && ', '}<a href={`#${v.id}`} set:html={inline(v.pojam)} /></>
+                      ))}
+                    </p>
+                  )}
+                  {p.spominje.length > 0 && (
+                    <p class="cv-pj-meta">
+                      <span>Spominje se u:</span>{' '}
+                      {p.spominje.map((c, i) => (
+                        <>{i > 0 && ' · '}<a href={c.url}>{c.naslov}</a></>
+                      ))}
+                    </p>
+                  )}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      ))}
+
+      <section class="cv-pj-izvori">
+        <h2 class="font-heading">Izvori</h2>
+        <p>Objašnjenja su napisana prema stručnim pojmovnicima i službenim izvorima, a kod pojmova o biljnim lijekovima i hrani prema propisima Europske unije:</p>
+        <ul>
+          {koristeniIzvori.map(([, i]) => (
+            <li><a href={i.url} target="_blank" rel="noopener noreferrer">{i.naziv}</a></li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  // Nakon učitavanja fontova tekst se preslaže, pa ponovno skrolaj na traženi pojam
+  const naPojam = () => {
+    if (!location.hash) return;
+    const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (el) el.scrollIntoView({ block: 'start' });
+  };
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(naPojam);
+  window.addEventListener('load', naPojam);
+
+  const chips = document.querySelectorAll<HTMLButtonElement>('.cv-pj-chip');
+  const unosi = document.querySelectorAll<HTMLElement>('.cv-pj-unos');
+  const sekcije = document.querySelectorAll<HTMLElement>('.cv-pj-slovo');
+  const slova = document.querySelector<HTMLElement>('.cv-pj-slova');
+  chips.forEach((chip) =>
+    chip.addEventListener('click', () => {
+      const s = chip.dataset.skupina;
+      chips.forEach((c) => {
+        const on = c === chip;
+        c.classList.toggle('is-on', on);
+        c.setAttribute('aria-pressed', String(on));
+      });
+      unosi.forEach((u) => (u.hidden = s !== 'sve' && u.dataset.skupina !== s));
+      sekcije.forEach((sec) => (sec.hidden = ![...sec.querySelectorAll<HTMLElement>('.cv-pj-unos')].some((u) => !u.hidden)));
+      if (slova) slova.hidden = s !== 'sve';
+    }),
+  );
+</script>

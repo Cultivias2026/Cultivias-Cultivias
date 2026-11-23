@@ -87,6 +87,9 @@ export const GET: APIRoute = async () => {
     .filter(p => !p.data.noindex)
     .map(p => ({ path: `/${p.slug}/` }));
 
+  // Statične stranice izvan CMS-a (bez lastmod).
+  const staticEntries: Entry[] = [{ path: '/pojmovnik/' }];
+
   // Stranice autora (bez lastmod iz istog razloga).
   const authorEntries: Entry[] = authors.map(a => ({ path: `/autor/${a.data.slug}/` }));
 
@@ -107,7 +110,7 @@ export const GET: APIRoute = async () => {
     : [];
 
   const seen = new Set<string>();
-  const all = [homeEntry, ...categoryEntries, ...tagIndexEntry, ...tagEntries, ...pageEntries, ...authorEntries, ...articleEntries].filter(e => {
+  const all = [homeEntry, ...categoryEntries, ...tagIndexEntry, ...tagEntries, ...pageEntries, ...staticEntries, ...authorEntries, ...articleEntries].filter(e => {
     if (seen.has(e.path)) return false;
     seen.add(e.path);
     return true;
