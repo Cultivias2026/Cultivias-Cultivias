@@ -9,7 +9,7 @@ perex: |-
   Bez brige! Uzgoj kamilice u tegli na balkonu je iznenađujuće jednostavan.
 readTime: 3
 publishedAt: 2025-06-06
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -22,7 +22,7 @@ ukratko:
   naslov: Kamilica na balkonu ukratko
   stavke:
     - k: Tegla
-      v: Promjera najmanje 20–30 cm, s rupama na dnu
+      v: Promjera najmanje 30 cm i dubine oko 20 cm, s rupama na dnu
     - k: Zemlja
       v: Lagana, propusna zemlja za cvijeće, po želji s malo komposta
     - k: Sunce
@@ -49,7 +49,7 @@ Uz svježe cvjetove za čaj, kamilica privlači korisne kukce, a njezin nježni 
 
 Prije sjetve pripremite:
 
-1. **Teglu** – promjera najmanje 20–30 cm, s rupama na dnu. U većoj tegli korijen se bolje razvija.
+1. **Teglu** – promjera najmanje 30 cm i dubine oko 20 cm, s rupama na dnu. U većoj tegli korijen se bolje razvija.
 2. **Zemlju (supstrat)** – kvalitetnu, laganu i propusnu zemlju za cvijeće. Možete joj dodati malo komposta.
 3. **Sjeme kamilice** – potražite sjeme prave kamilice (*Matricaria chamomilla*, poznate i kao *Chamomilla recutita*), koje se prodaje u većini vrtnih centara.
 4. **Sunčano mjesto** – kamilica treba barem 5–6 sati izravnog sunca dnevno. Ako je balkon jako vruć, zaštitite je od sunca u najtoplijem dijelu dana.
@@ -78,3 +78,4 @@ U teglama na balkonu dobro uspijevaju i [rajčice](https://www.cultivias.com/pov
 
 - Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)
 - Savjetodavna služba Sveučilišta Illinois (University of Illinois Extension) – [Mogućnosti odvodnje u posudama (Container Drainage Options)](https://extension.illinois.edu/container-gardens/container-drainage-options)
+- The Old Farmer's Almanac, američki vrtlarski priručnik – [Kamilica: uzgoj, berba i sušenje (Chamomile)](https://www.almanac.com/plant/chamomile)

@@ -7,6 +7,7 @@ perex: Nakon što ste s ljubavlju ubrali svježe cvjetove kamilice, dolazi jedna
   važan korak, a to je sušenje.
 readTime: 3
 publishedAt: 2025-06-07
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -23,7 +24,7 @@ ukratko:
     - k: Kako
       v: U tankom sloju, na rešetki ili čistoj pamučnoj krpi
     - k: Koliko traje
-      v: Od nekoliko dana do tjedan dana, ovisno o vlazi zraka
+      v: Obično jedan do dva tjedna, a u toplom i suhom prostoru i kraće
     - k: Kad je gotovo
       v: Cvjetovi su krhki, lako se mrve, a zadrže boju i jak miris
     - k: Sušilica
@@ -36,7 +37,7 @@ related_articles:
   - kamilica-biljka-naših-baka
 ---
 
-Kamilica se suši na sjenovitom, suhom i prozračnom mjestu, u tankom sloju, dok cvjetovi ne postanu krhki, a to obično traje od nekoliko dana do tjedan dana. Pravilno **sušenje kamilice za čaj** čuva aromu, eterična ulja i [ljekovita svojstva](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Pogrešno sušenje dovodi do gubitka mirisa, plijesni i slabijeg [domaćeg čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/). U nastavku saznajte kako pripremiti cvjetove, gdje ih sušiti i kako ih spremiti.
+Kamilica se suši na sjenovitom, suhom i prozračnom mjestu, u tankom sloju, dok cvjetovi ne postanu krhki, a to obično traje jedan do dva tjedna. Pravilno **sušenje kamilice za čaj** čuva aromu, eterična ulja i [ljekovita svojstva](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Pogrešno sušenje dovodi do gubitka mirisa, plijesni i slabijeg [domaćeg čaja](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/). U nastavku saznajte kako pripremiti cvjetove, gdje ih sušiti i kako ih spremiti.
 
 ## **Zašto je pravilno sušenje kamilice važno?**
 
@@ -79,7 +80,7 @@ Cvjetovi se ne smiju preklapati, jer se tada sporije suše i lakše pljesnive.
 
 **4. Trajanje i provjera suhoće**
 
-Sušenje traje od nekoliko dana do tjedan dana, ovisno o vlazi zraka i uvjetima. Cvjetovi su suhi kad su **krhki na dodir** i lako se mrve među prstima. Trebaju zadržati boju i jak miris. Ako su još vlažni ili gumasti, sušite ih dalje.
+Sušenje na zraku obično traje jedan do dva tjedna, a u toplom i suhom prostoru i kraće, ovisno o vlazi zraka i temperaturi. Cvjetovi su suhi kad su **krhki na dodir** i lako se mrve među prstima. Trebaju zadržati boju i jak miris. Ako su još vlažni ili gumasti, sušite ih dalje.
 
 Na isti način suše se i [listovi mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/) te cvjetovi bazge za [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
@@ -88,3 +89,7 @@ Na isti način suše se i [listovi mente](https://www.cultivias.com/bilje/vodi%C
 Potpuno suhu kamilicu spremite u **dobro zatvorene posude**, najbolje staklenke, i čuvajte je na **tamnom i suhom mjestu**.
 
 Tako pohranjena **sušena kamilica** zadržava svojstva do godinu dana.
+
+## Izvori
+
+- The Old Farmer's Almanac, američki vrtlarski priručnik – [Kamilica: uzgoj, berba i sušenje (Chamomile)](https://www.almanac.com/plant/chamomile)

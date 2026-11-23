@@ -7,7 +7,7 @@ perex: Kupina, sočno i tamno voće koje nas ljeti mami iz grmova uz putove i iz
   vrtova, puno je više od obične poslastice.
 readTime: 10
 publishedAt: 2026-01-17
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -50,6 +50,10 @@ kalendar:
       vrsta: sadnja
       mjeseci: [8, 9]
       opis: krajem ljeta ili početkom jeseni
+    - radnja: Berba
+      vrsta: berba
+      mjeseci: [7, 8]
+      opis: srpanj – kolovoz, ovisno o sorti
     - radnja: Uklanjanje izboja koji su rodili
       vrsta: rezidba
       mjeseci: [10, 11]

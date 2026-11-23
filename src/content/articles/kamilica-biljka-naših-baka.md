@@ -152,7 +152,7 @@ Cvjetovi se suše na suhom, tamnom i prozračnom mjestu, da se ne bi pojavila pl
 
 Najbolje ih je rasporediti u jednom sloju na mrežu ili papir.
 
-Sušenje obično traje 1–2 tjedna, ovisno o uvjetima.
+Sušenje na zraku obično traje 1–2 tjedna, ovisno o vlazi zraka i temperaturi. Cvjetovi su gotovi kad su krhki i lako se mrve među prstima.
 
 Osušenu kamilicu čuvajte u dobro zatvorenim posudama na tamnom i suhom mjestu.
 
@@ -315,3 +315,4 @@ Ovaj tekst služi isključivo u informativne svrhe i ne može zamijeniti stručn
 - Savino i sur., randomizirana klinička studija (2005.) – [Standardizirani ekstrakt kamilice, komorača i matičnjaka kod dojenčadi s kolikama (A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis)](https://pubmed.ncbi.nlm.nih.gov/16041731/), Phytotherapy Research
 - Bianco i sur., istraživanje (2008.) – [Spore bakterije Clostridium botulinum u kamilici i dojenački botulizam (Presence of Clostridium botulinum spores in Matricaria chamomilla and its relationship with infant botulism)](https://pubmed.ncbi.nlm.nih.gov/18068252/), International Journal of Food Microbiology
 - Američko društvo za zaštitu životinja (ASPCA) – [Kamilica: otrovnost za pse, mačke i konje (Chamomile)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)
+- The Old Farmer's Almanac, američki vrtlarski priručnik – [Kamilica: uzgoj, berba i sušenje (Chamomile)](https://www.almanac.com/plant/chamomile)
