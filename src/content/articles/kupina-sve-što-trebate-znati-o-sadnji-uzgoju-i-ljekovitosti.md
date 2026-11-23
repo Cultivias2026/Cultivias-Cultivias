@@ -46,7 +46,12 @@ kalendar:
       vrsta: njega
       mjeseci: [6, 7, 8]
       opis: tijekom ljeta, kad novi izboji dosegnu željenu visinu
-    - radnja: Reznice
+    - radnja: Korijenske reznice
+      vrsta: sadnja
+      mjeseci: [3]
+      moguce: [2, 4]
+      opis: rano proljeće, za uspravne sorte
+    - radnja: Reznice vrhova izboja
       vrsta: sadnja
       mjeseci: [8, 9]
       opis: krajem ljeta ili početkom jeseni
@@ -157,7 +162,7 @@ Grane kupine duge su i povijene, pa im treba potpora od žice, ograde ili pergol
 
 ## Razmnožavanje kupine - reznice i izdanci
 
-Kupina se lako razmnožava reznicama, vršnim izdancima i izdancima iz korijena.
+Kupina se lako razmnožava reznicama, vršnim izdancima i izdancima iz korijena. Postupak s korijenskim reznicama korak po korak opisuje vodič [razmnožavanje kupina reznicama](https://www.cultivias.com/voce/razmnozavanje-kupina-reznicama/).
 
 * **reznice** – krajem ljeta ili početkom jeseni odrežite vrh zdrave, poludrvenaste grane dug 15 do 20 cm, uklonite donje listove i zabodite ga u posudu s vlažnim supstratom, mješavinom treseta i pijeska; posudu držite na toplom i svijetlom mjestu, ali ne na izravnom suncu
 * **vršni izdanci** – krajem ljeta vrh duge, zdrave grane savijte do tla i zakopajte nekoliko centimetara duboko; vrh se ukorijeni do proljeća, kad ga odvojite od matične biljke i presadite
@@ -184,7 +189,7 @@ Zimsko prskanje bakrenim pripravcima pomaže suzbiti uzročnike bolesti koji pre
 
 ## Koju sortu odabrati?
 
-Sorte se ponajprije dijele na one s trnjem i one bez trnja. Sorte bez trnja, poput 'Loch Ness', 'Triple Crown', 'Black Satin' i 'Chester', popularnije su u kućnim vrtovima jer olakšavaju orezivanje i berbu.
+Sorte se ponajprije dijele na one s trnjem i one bez trnja. [Sorte bez trnja](https://www.cultivias.com/voce/kupine-bez-trnja-sorte/), poput 'Loch Ness', 'Triple Crown', 'Black Satin' i 'Chester', popularnije su u kućnim vrtovima jer olakšavaju orezivanje i berbu.
 
 * **'Loch Ness'** – cijenjena zbog otpornosti i krupnih, ukusnih plodova
 * **'Triple Crown'** – poznata po aromi i velikom urodu
@@ -206,8 +211,8 @@ Najbolje ih je brati ujutro, nakon što se rosa osuši, jer su tada najčvršće
 
 Slatkokiseo okus kupine dobro se uklapa u slatka i slana jela. Najjednostavnije ih je jesti svježe, same ili s jogurtom, zobenim pahuljicama i u voćnim salatama.
 
-* **džem** – klasik zimnice; može se pripremiti i s manje šećera ili bez šećera, uz chia sjemenke kao zgušnjivač, ali takav džem čuvajte u hladnjaku i brzo potrošite, jer se bez dovoljno šećera brže kvari
-* **sirup** – kuhani ili hladno pripremljeni sirup osnova je za osvježavajuće sokove, a od njega se radi i liker
+* **džem** – klasik zimnice; može se pripremiti i s manje šećera ili bez šećera, uz chia sjemenke kao zgušnjivač, ali takav džem čuvajte u hladnjaku i brzo potrošite, jer se bez dovoljno šećera brže kvari. Glatki namaz bez sjemenki opisuje recept za [pekmez od kupina bez koštica](https://www.cultivias.com/voce/pekmez-od-kupina-bez-kostica/)
+* **sirup** – kuhani ili hladno pripremljeni [sirup od kupina](https://www.cultivias.com/voce/sirup-od-kupina/) osnova je za osvježavajuće sokove, a od njega se radi i liker
 * **matični sok** – dobiva se hladnim prešanjem i ima najintenzivniji okus
 * **deserti** – kolač s jogurtom, cheesecake, pite i muffini
 * **vino od kupina** – tradicionalno piće bogata okusa i boje

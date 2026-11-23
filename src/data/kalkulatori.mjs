@@ -264,4 +264,22 @@ export const KALKULATORI = {
     napomena:
       'Vrijednosti su iste kao u tablici: plod prema bazi USDA, džem prema deklaraciji opisanog proizvoda, a šećer prema tablici Matvaretabellen (400 kcal na 100 g).',
   },
+
+  'kupina-pekmez': {
+    tip: 'recept',
+    naslov: 'Preračunajte recept na svoju količinu pulpe',
+    label: 'Količina pasirane pulpe',
+    jedinica: 'g',
+    baza: 500,
+    min: 250,
+    max: 1500,
+    korak: 50,
+    sastojci: [
+      { n: 'pasirane pulpe kupina, bez sjemenki', k: 500, j: 'g' },
+      { n: 'šećera', k: 300, j: 'g' },
+      { n: 'limunova soka', k: 15, j: 'ml' },
+    ],
+    napomena:
+      'Količine su zaokružene na 5 g ili 5 ml. Veća tura kuha se dulje, a gustoću provjerite na hladnom tanjuriću. I veća količina ostaje namaz za hladnjak ili zamrzivač, a ne zimnica za policu.',
+  },
 };

@@ -67,7 +67,7 @@ Za namaz na kruhu jednom izvažite koliko džema zahvatite svojom žlicom ili ž
 
 ### Kako procijeniti kalorije domaćeg džema?
 
-Za domaći džem zbrojite energiju upotrijebljenih sastojaka i rasporedite je na masu gotovog džema. Završna masa bitna je zato što dio vode ispari tijekom kuhanja, pa gušći namaz može imati više kalorija na 100 g iako niste dodali više šećera.
+Za [domaći džem](https://www.cultivias.com/voce/pekmez-od-kupina-bez-kostica/) zbrojite energiju upotrijebljenih sastojaka i rasporedite je na masu gotovog džema. Završna masa bitna je zato što dio vode ispari tijekom kuhanja, pa gušći namaz može imati više kalorija na 100 g iako niste dodali više šećera.
 
 Primjer računa za zamišljeni recept: 500 g kupina (215 kcal) i 300 g [šećera](https://www.matvaretabellen.no/en/sugar-white-caster-sugar-cube-sugar/) (1200 kcal) daju ukupno 1415 kcal. Ako nakon kuhanja izvažete 700 g džema, to je oko 202 kcal na 100 g, a 20 g namaza ima oko 40 kcal.
 
