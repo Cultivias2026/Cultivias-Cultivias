@@ -36,4 +36,12 @@ Kombinirajući moj analitički pristup iz svijeta marketinga, ljubav prema horti
 
 Naš zajednički cilj je da ovaj portal bude vaš pouzdan vodič i inspiracija, mjesto gdje ćete pronaći iskrene savjete ljudi koji dijele vašu strast prema zelenilu.
 
+## Kako nastaju naši sadržaji
+
+Dio tekstova i slika na Cultiviasu nastaje uz pomoć umjetne inteligencije (AI). Koristimo je kao alat: pomaže nam pri pisanju i uređivanju tekstova te pri izradi ilustracija i infografika.
+
+Prije objave svaki takav sadržaj pregledavamo, a podatke provjeravamo prema izvorima koje navodimo na kraju članaka, kako biste ih mogli provjeriti i sami. Za sve što objavimo odgovaramo mi.
+
+Članci su informativnog karaktera i ne zamjenjuju savjet liječnika, ljekarnika ili agronoma.
+
 Hvala vam što ste ovdje i što zajedno s nama rastete!
