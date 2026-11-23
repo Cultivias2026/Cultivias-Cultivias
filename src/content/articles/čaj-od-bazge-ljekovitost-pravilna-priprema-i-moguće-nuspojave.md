@@ -41,7 +41,7 @@ noindex: false
 
 Crna [bazga](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/) prirodno raste diljem Europe, zapadne Azije i istočne Amerike, uz rubove šuma, potoke, livade i prometnice. Naraste do **10 metara**, a bijelo-žuti cvjetovi skupljeni su u plosnate cvatove nalik tanjurima i cvatu **od svibnja do srpnja**. Upravo se ti cvjetovi, ubrani u punom cvatu, koriste za čaj.
 
-Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi** i termički obrađene **bobice**, dok su lišće, kora, korijen i stabljika bazge **toksični dijelovi biljke** koji se ne smiju konzumirati u sirovom stanju.
+Važno je naglasiti da se za pripremu čaja koriste isključivo **cvjetovi**, dok su lišće, kora, korijen i stabljika bazge **toksični dijelovi biljke** koji se ne smiju konzumirati u sirovom stanju.
 
 ## Ljekovita svojstva čaja od bazge
 
@@ -182,7 +182,7 @@ Kada je riječ o kontraindikacijama, posebno treba naglasiti sljedeće:
 
 Istraživanja su pokazala da čajne mješavine koje sadrže bazgu, zajedno s **anisem, komoračem i cvjetom sene**, mogu značajno ubrzati prolazak sadržaja kroz probavni sustav i olakšati opstipaciju. Učinak se ne može pripisati samo bazgi, jer je sena (list biljke *Senna*) sama po sebi jako laksativno sredstvo.
 
-Za jači laksativni učinak koristi se **čaj od bobica bazge** (dekokt), koji se priprema kuhanjem 10 do 15 grama suhih bobica u pola litre vode 10 minuta, uz stajanje od još 10 minuta i cijeđenje. Djeluje nešto jače od čaja od cvjetova. Bobice se moraju kuhati, a ako zatvor traje dulje od nekoliko dana ili ga prate bolovi, javite se liječniku.
+Ako zatvor traje dulje od nekoliko dana ili ga prate bolovi, javite se liječniku.
 
 ## Gdje kupiti i kolika je cijena čaja od bazge?
 
@@ -211,7 +211,7 @@ Cvijet i bobice bazge imaju **različit kemijski sastav** i koriste se u različ
 | ----------------- | ----------------------------- | ------------------------ |
 | Primarna namjena  | Prehlada, gripa, diuretik     | Imunitet, antioksidans   |
 | Sigurnost sirovog | Siguran                       | Toksičan, mora se kuhati |
-| Priprema čaja     | Infuz (prelijevanje)          | Dekokt (kuhanje)         |
+| Priprema          | Čaj (prelijevanje vrućom vodom) | Kuhanje (sok, sirup, džem) |
 | Dostupnost        | Proljeće (svibanj–lipanj)     | Jesen (rujan)            |
 | Trudnoća          | Malo podataka, savjet liječnika | Malo podataka, savjet liječnika |
 

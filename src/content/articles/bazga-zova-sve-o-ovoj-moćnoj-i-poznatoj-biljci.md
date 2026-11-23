@@ -207,9 +207,7 @@ Sok se čuva u staklenkama na hladnom mjestu, a pije se razrijeđen vodom ili mi
 
 ### Čaj od bazge
 
-Za čaj od cvjetova osušeni cvjetovi bazge preliju se vrućom vodom. Čaj od cvjetova ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
-
-Čaj od bobica sadrži više antioksidansa i ima izraženiji, voćni okus. Bobice se za njega ne prelijevaju vrućom vodom, nego kuhaju: 10 do 15 g suhih bobica kuha se 10 minuta u pola litre vode, ostavi još 10 minuta i procijedi. Po želji se zasladi medom ili doda limun.
+Za čaj se koriste osušeni cvjetovi bazge, koji se preliju vrućom vodom. Čaj ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe, a po želji se zasladi medom ili doda limun. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
 ### Pohana bazga: hrskavi cvatovi
 
