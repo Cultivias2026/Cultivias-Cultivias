@@ -30,23 +30,23 @@ Sirup je zaslađeni koncentrat. Čisti sok od kupina nije isti proizvod, a smiks
 
 ## Koliko soka i šećera pripremiti?
 
-Za jednu turu uzmite **5 američkih mjernih šalica procijeđenog soka i 7 istih šalica šećera**. Omjer i obrada preuzeti su iz [provjerenog postupka pripreme sirupa od bobičastog voća](https://extension.oregonstate.edu/food/preservation/making-berry-syrups-home-sp-50-632).
+**Na 1 litru procijeđenog soka dodajte 1,2 kg šećera.** Omjer je preračunat iz [provjerenog postupka pripreme sirupa od bobičastog voća](https://extension.oregonstate.edu/food/preservation/making-berry-syrups-home-sp-50-632) i zaokružen tako da šećera bude malo više, a ne manje. Šećera nemojte stavljati manje, jer sirup s premalo šećera nije siguran za čuvanje na polici.
 
-Ovdje „šalica” znači **US cup, približno 236,6 ml**, ne šalicu za kavu niti mjernu šalicu od 250 ml. Pet takvih šalica soka iznosi približno **1,18 l**. Šećer mjerite istom izvornom mjerom, poravnato, bez nabijanja. Mililitri šećera nisu isto što i grami; u ovom postupku zadržite izvornu mjeru.
+Za veću ili manju turu zadržite isti omjer: na pola litre soka 600 g šećera, a na 1,5 litre soka 1,8 kg šećera. Sok mjerite mjernom posudom, a šećer vagom.
 
-Za početak cijeđenja pripremite 6–7 takvih šalica kupina. Prinos soka varira, pa nakon cijeđenja izmjerite količinu. Ako ga nema dovoljno za 5 šalica, obradite još voća. U ovom postupku nemojte manjak nadomjestiti vodom.
+Za 1 litru soka pripremite oko 1 kg kupina. Koliko ćete soka dobiti, ovisi o plodovima, pa nakon cijeđenja izmjerite količinu. Ako ga nema dovoljno, obradite još voća, a manjak nemojte nadomjestiti vodom.
 
 ## Koja oprema i posude trebaju?
 
 Pripremite zdrave svježe ili smrznute kupine, lonac, gnječilicu, cjedilo, dvostruku gazu ili vrećicu za cijeđenje, mjericu i kuhaču. Za obradu trebaju dubok lonac s poklopcem i rešetkom na dnu te hvataljka za staklenke.
 
-**Koristite standardne staklenke za kućno konzerviranje s odgovarajućim dvodijelnim poklopcima.** Izvorni postupak predviđa veličine half-pint i pint, približno 237 i 473 ml. Približan volumen nije dopuštenje za bilo koju posudu slične veličine. Obična boca od soka nije zamjena za taj sustav.
+**Koristite standardne staklenke za kućno konzerviranje s odgovarajućim dvodijelnim poklopcima.** Vremena obrade u nastavku vrijede za staklenke od oko 2,5 dl do najviše 4,7 dl, pa veće staklenke ne koristite. Obična boca od soka nije zamjena za taj sustav.
 
 ## Kako pripremiti sok i skuhati sirup?
 
 1. **Operite i pregledajte kupine.** Uklonite peteljke i oštećene plodove. Plijesnivo voće nije sirovina za sirup.
 2. **Zgnječite i zagrijte voće.** Dovedite do vrenja pa lagano kuhajte **5–10 minuta, dok omekša**. Najprije ocijedite kroz cjedilo, zatim dobiveni sok kroz dvostruku gazu. Za bistriji sok vrećicu nemojte stiskati.
-3. **Izmjerite 5 šalica soka i dodajte 7 šalica šećera.** Zagrijte do vrenja, zatim lagano kuhajte **3 minute uz stalno miješanje**. Maknite s vatre i skinite pjenu.
+3. **Izmjerite sok i dodajte šećer, 1,2 kg na svaku litru soka.** Zagrijte do vrenja, zatim lagano kuhajte **3 minute uz stalno miješanje**. Maknite s vatre i skinite pjenu.
 4. **Napunite čiste vruće staklenke.** Ostavite oko **6 mm praznog prostora** do ruba. Obrišite rubove i stavite poklopce prema uputi proizvođača, zatim odmah nastavite obradu.
 
 Parni sokovnik može poslužiti za dobivanje soka prema uputi uređaja. Ako koristite električni sokovnik ili prešu, provjerite dopušta li model sitno bobičasto voće i dovoljno odvaja sjemenke i pulpu. Samo cijeđenje **nije pasterizacija** niti zamjena za obradu gotovog sirupa.
@@ -57,15 +57,15 @@ Parni sokovnik može poslužiti za dobivanje soka prema uputi uređaja. Ako kori
 
 Vrijeme mjerite tek kada voda ponovno zakipi. Za navedeni recept i predviđene staklenke obrada traje:
 
-- **10 minuta** do 304,8 m nadmorske visine
-- **15 minuta** iznad 304,8 do 1828,8 m
-- **20 minuta** iznad 1828,8 m
+- **10 minuta** do 300 m nadmorske visine
+- **15 minuta** od 300 do 1800 m
+- **20 minuta** iznad 1800 m
 
 Održavajte vrenje cijelo vrijeme. Ako prestane, vratite vodu do vrenja i puni interval počnite iznova. Na kraju ugasite vatru, otklopite lonac i pričekajte 5 minuta prije vađenja staklenki.
 
 Staklenke ostavite uspravno, bez pomicanja i dotezanja poklopaca, da se hlade **12–24 sata**. Potom provjerite zatvaranje prema [uputama za hlađenje i provjeru poklopaca](https://nchfp.uga.edu/how/can/general-information/cooling-jars-and-testing-jar-seals/).
 
-![Infografika: sirup od kupina prema postupku Sveučilišta Oregon State – 5 američkih šalica soka i 7 šalica šećera, kuhanje 3 minute, 6 mm prostora do ruba, obrada u kipućoj vodi 10, 15 ili 20 minuta ovisno o nadmorskoj visini, razrjeđivanje 20 ml sirupa i 180 ml vode; obična boca i vruće punjenje nisu obrada](/images/articles/infografika-kupina-sirup.webp)
+![Infografika: sirup od kupina prema postupku Sveučilišta Oregon State – 1,2 kg šećera na 1 litru soka, kuhanje 3 minute, 6 mm prostora do ruba, obrada u kipućoj vodi 10, 15 ili 20 minuta ovisno o nadmorskoj visini, razrjeđivanje 20 ml sirupa i 180 ml vode; obična boca i vruće punjenje nisu obrada](/images/articles/infografika-kupina-sirup.webp)
 
 ## Kako čuvati sirup u staklenci ili boci?
 
