@@ -81,15 +81,15 @@ Prepoznatljiva je po dugim, povijenim izbojima koji su često prekriveni trnjem,
 
 Krajem proljeća i početkom ljeta grm cvate bijelim ili ružičastim cvjetovima, koje posjećuju pčele i drugi oprašivači. Plodovi tijekom sazrijevanja mijenjaju boju iz zelene u crvenu, a zatim u sjajnu crnu ili tamnoljubičastu.
 
-Tamnu boju daju antocijani, biljni pigmenti s antioksidativnim djelovanjem.
+Tamnu boju daju antocijani, biljni pigmenti.
 
 Divlja kupina raste samoniklo uz rubove šuma i puteva, a uzgojena se sadi u vrtovima i nasadima i obično ima krupnije i slađe plodove.
 
 ## Kemijski sastojci i spojevi
 
-Kupina sadrži mnogo polifenola, biljnih spojeva s antioksidativnim djelovanjem. Među njima su najvažniji antocijani, pigmenti koji joj daju tamnu boju.
+Kupina sadrži mnogo polifenola, skupine biljnih spojeva. Među njima su najvažniji antocijani, pigmenti koji joj daju tamnu boju.
 
-Najzastupljeniji antocijan u kupini je cijanidin-3-O-glukozid, koji se u laboratorijskim istraživanjima pokazao protuupalnim.
+Najzastupljeniji antocijan u kupini je cijanidin-3-O-glukozid.
 
 Kupina sadrži i druge fenolne spojeve: elagitanine, galnu i kavenu kiselinu te flavonoide poput kvercetina i rutina. Pregledni rad Zia-Ul-Haqa i suradnika u časopisu Molecules (2014.) navodi da ukupni polifenoli u kupinama variraju od oko 289 do više od 700 mg na 100 g, ovisno o sorti, zrelosti i uvjetima uzgoja.
 
@@ -114,7 +114,7 @@ Podaci u tablici potječu iz baze FoodData Central američkog Ministarstva poljo
 | Kalij | 162 mg | 8 % |
 | Željezo | 0,62 mg | 4 % |
 
-Zdjelica od 150 g svježih kupina ima oko 65 kcal i 8 g vlakana, što je otprilike trećina referentnog unosa vlakana od 25 g. Vlakna pomažu probavi, usporavaju porast šećera u krvi i daju osjećaj sitosti.
+Zdjelica od 150 g svježih kupina ima oko 65 kcal i 8 g vlakana, što je otprilike trećina referentnog unosa vlakana od 25 g. Vlakna su važna za redovitu probavu i daju osjećaj sitosti.
 
 Kupina je izvor vitamina C, vitamina K i mangana. Prema zdravstvenim tvrdnjama koje je odobrila Europska unija, ti hranjivi sastojci imaju sljedeće uloge:
 
@@ -126,25 +126,25 @@ Kupina ima i nizak glikemijski indeks (pokazatelj koliko brzo hrana podiže še�
 
 Osobe koje uzimaju lijekove protiv zgrušavanja krvi iz skupine antagonista vitamina K, poput varfarina, ne moraju izbjegavati kupine, ali neka ih jedu u ujednačenim količinama i o većim promjenama prehrane razgovaraju s liječnikom.
 
-## Zdravstvene prednosti kupine
+## Kupina i zdravlje
 
 Redovito jedenje voća, pa tako i kupina, dio je zdrave prehrane. Pregledni rad američkih znanstvenika Kaume i suradnika (2012.) navodi, međutim, da je istraživanja o djelovanju samih polifenola iz kupine na ljude malo.
 
-Flavonoidi i antocijani iz kupina u laboratorijskim i pokusima na životinjama smanjuju upalne procese i oksidativni stres. Američki portal o prehrani Verywell Fit navodi da bi mogli pomoći i zdravlju krvnih žila, no za to još nema dovoljno istraživanja na ljudima.
+Zato se kupini ne mogu pripisati posebni ljekoviti učinci, osim onih koje Europska unija priznaje za vitamin C i druge hranjive tvari iz tablice.
 
 Vlakna iz kupine pomažu probavi. Netopljiva vlakna potiču redovito pražnjenje crijeva, a topljiva su hrana dobrim crijevnim bakterijama.
 
 Kupina **nije izvor željeza**: 100 g sadrži 0,62 mg, oko 4 % referentnog unosa. Vitamin C iz kupine može pomoći da tijelo bolje iskoristi željezo iz biljne hrane, slično kao kod [crnog ribiza i željeza](https://www.cultivias.com/voce/crni-ribiz-i-%C5%BEeljezo-prirodna-podr%C5%A1ka-vitalnosti/), ali anemiju (slabokrvnost) treba liječiti liječnik, a ne voće.
 
-## Čaj od listova kupine - priprema i prednosti
+## Čaj od listova kupine - priprema
 
-Osim plodova, u narodnoj se medicini koriste i listovi kupine, ponajviše za čaj. Sadrže tanine, tvari opora okusa, pa se čaj tradicionalno koristio kod blagog proljeva i za ispiranje kod upala u ustima i grlu.
+Osim plodova, u narodnoj se medicini koriste i listovi kupine, ponajviše za čaj. Sadrže tanine, tvari opora okusa.
 
 **Priprema:** jednu do dvije žličice suhih listova prelijte s 250 ml vruće vode i ostavite da odstoji 10 do 15 minuta, a zatim procijedite.
 
-Laboratorijska istraživanja potvrđuju da listovi kupine sadrže mnogo antioksidansa, osobito elagitanina, i da djeluju protiv nekih mikroorganizama. Klinička istraživanja na ljudima nedostaju, pa čaj od lista kupine treba smatrati ugodnim napitkom koji može pomoći kod blagih tegoba, a ne lijekom.
+Klinička istraživanja na ljudima nema, pa čaj od lista kupine treba smatrati napitkom, a ne lijekom.
 
-Ako proljev traje dulje od tri dana, ako se pojavi krv u stolici ili visoka temperatura, ili ako je riječ o maloj djeci, javite se liječniku.
+Čaj nije zamjena za liječenje: ako proljev traje dulje od tri dana, ako se pojavi krv u stolici ili visoka temperatura, ili ako je riječ o maloj djeci, javite se liječniku.
 
 ## Sadnja i uzgoj
 

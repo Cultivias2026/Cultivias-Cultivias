@@ -7,7 +7,7 @@ perex: "Ginko (Ginkgo biloba) je jedno od najdugovječnijih stabala na planetu.
   No, koliko brzo zapravo raste? "
 readTime: 5
 publishedAt: 2026-05-20
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -27,15 +27,15 @@ ukratko:
       v: Dobro drenirano, pH 5–7; podnosi ilovasta, pjeskovita i glinena tla
     - k: Položaj
       v: Puno sunca
-    - k: Berba lišća
-      v: U jesen, kad listovi počnu žutjeti
+    - k: Jesen
+      v: Listovi požute prije nego što otpadnu
 kalendar:
   redovi:
-    - radnja: Berba lišća
-      vrsta: berba
-      mjeseci: [10]
-      moguce: [11]
-      opis: u jesen, kad listovi počnu žutjeti
+    - radnja: Sadnja
+      vrsta: sadnja
+      mjeseci: [10, 11]
+      moguce: [3]
+      opis: u jesen ili rano proljeće
 related_articles:
   - ginko-ginkgo-biloba-sve-što-trebate-znati-o-uzgoju-i-ljekovitosti
   - menta-sve-važne-informacije-o-njoj
@@ -54,17 +54,17 @@ Prema [vodiču portala Plantura](https://plantura.garden/uk/trees-shrubs/ginkgo/
 
 Mlada stabla, osobito ona uzgojena iz sjemena, u prvih 5 do 10 godina rastu vrlo sporo, 10 do 20 cm godišnje. Rast se ubrzava tek kada razviju snažan korijenski sustav. Prema [vodiču Plant Detectives](https://plantdetectives.com/pages/the-ginkgo-guide), mlada stabla u toj fazi rastu 15 do 30 cm godišnje, a kada se dobro ukorijene, 30 do 60 cm.
 
-## Kako ginko raste u vrtu kao ljekovito bilje?
+## Ginko u vrtu
 
-Uz začinsko i ljekovito bilje poput [kadulje](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) i [ružmarina](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/), [ginko](https://www.cultivias.com/bilje/ginko-ginkgo-biloba-sve-%C5%A1to-trebate-znati-o-uzgoju-i-ljekovitosti/) se u vrtu sve češće uzgaja kao ljekovita biljka. Listovi sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) i terpenoide, kojima se pripisuje djelovanje na cirkulaciju i pamćenje, iako su dokazi za to ograničeni.
+Uz začinsko bilje poput [kadulje](https://www.cultivias.com/bilje/kadulja--ljekovita-biljka-s-dugom-tradicijom/) i [ružmarina](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/), [ginko](https://www.cultivias.com/bilje/ginko-ginkgo-biloba-sve-%C5%A1to-trebate-znati-o-uzgoju-i-ljekovitosti/) se sve češće sadi i u vrtu. Listovi sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) i terpenoide, a što istraživanja kažu o ekstraktu lista, opisuje glavni članak o ginku.
 
-Prema [Udruzi ekoloških poljoprivrednika i vrtlara savezne države Maine (MOFGA)](https://www.mofga.org/resources/herbs/ginkgo/), listovi se beru u jesen, kada počnu žutjeti, a koriste se za čajeve, tinkture i kapsule. Za berbu nije potrebno čekati zrelo stablo, jer i mlađe drvo staro nekoliko godina daje dovoljno lišća. Domaći pripravci od lišća ipak nisu isto što i standardizirani ekstrakt iz ljekarne, jer u njima ostaju ginkgolne kiseline, spojevi koji mogu izazvati alergijske reakcije.
+Prema [Udruzi ekoloških poljoprivrednika i vrtlara savezne države Maine (MOFGA)](https://www.mofga.org/resources/herbs/ginkgo/), listovi se beru u jesen, kada počnu žutjeti. Domaće pripravke od lišća, poput čaja ili tinkture, ipak ne preporučujemo, jer u njima ostaju ginkgolne kiseline, spojevi koji mogu izazvati alergijske reakcije i djelovati otrovno. Za ljekovitu upotrebu postoje registrirani lijekovi sa standardiziranim ekstraktom lista.
 
 U vrtu ginko traži puno sunca i dobro drenirano tlo s pH vrijednošću između 5 i 7, odnosno blago kiselo do neutralno. Podnosi različite vrste tla, od ilovastih do pjeskovitih i glinenih.
 
 Treba mu i prostora: zrelo stablo naraste 15 do 30 metara u visinu i 10 do 15 metara u širinu. Za manje vrtove bolje su uže i niže sorte, prikazane u tablici u nastavku.
 
-U vrtu ginko obično raste nešto brže nego u divljini, jer redovito zalijevanje, gnojidba i uklanjanje korova ubrzavaju razvoj korijena. Portal [Hobby Farms](https://www.hobbyfarms.com/ginkgo-tree-leaf-food-medicine/) navodi da ginko traži malo održavanja i prilagođava se gotovo svim uvjetima, pa je dobar izbor i za početnike u uzgoju ljekovitog bilja.
+U vrtu ginko obično raste nešto brže nego u divljini, jer redovito zalijevanje, gnojidba i uklanjanje korova ubrzavaju razvoj korijena. Portal [Hobby Farms](https://www.hobbyfarms.com/ginkgo-tree-leaf-food-medicine/) navodi da ginko traži malo održavanja i prilagođava se gotovo svim uvjetima, pa je dobar izbor i za početnike.
 
 ## Može li ginko rasti kao grm?
 

@@ -42,7 +42,7 @@ Sorte [ogrozda](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%8
 
 Ogrozd može imati zelene, bijele, žute, crvene, ljubičaste ili gotovo crne plodove. Često se kaže da su tamniji plodovi slađi, a zeleniji i svjetliji kiseliji. To je tek gruba podjela, jer slatkoća ponajviše ovisi o sorti i o tome koliko je plod zreo.
 
-* **crveni ogrozd** – sorte poput 'Hinnonmäki Röd' cijenjene su zbog slatkih i sočnih plodova; tamnocrvenu boju daju antocijani, biljni pigmenti s antioksidativnim djelovanjem
+* **crveni ogrozd** – sorte poput 'Hinnonmäki Röd' cijenjene su zbog slatkih i sočnih plodova; tamnocrvenu boju daju antocijani, biljni pigmenti
 * **bijeli, žuti i zeleni ogrozd** – ovdje pripadaju 'Hinnonmäki Yellow', 'Invicta' i 'Leveller'; okus im varira od slatkokiselog do pretežno slatkog
 * **crni i ljubičasti ogrozd** – rjeđi su i bogata okusa, a često su hibridi, poput joste
 

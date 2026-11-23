@@ -8,7 +8,7 @@ perex: Majčina dušica (Thymus serpyllum), poznata i kao divlji timijan, biljka
   kulinarstvu.
 readTime: 12
 publishedAt: 2026-01-21
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -63,7 +63,7 @@ related_articles:
   - ružmarin-put-od-sadnje-do-čaja-i-ulja
 ---
 
-Majčina dušica (*Thymus serpyllum*) od davnina se koristi kod kašlja, prehlade i probavnih tegoba, a cijenjen je i začin. Laboratorijska istraživanja potvrđuju da njezino eterično ulje djeluje protiv bakterija i gljivica, dok je ispitivanja na ljudima malo. U nastavku saznajte kako je prepoznati, što sadrži, kada može pomoći, kako je uzgojiti i brati te kada s njom treba biti oprezan.
+Majčina dušica (*Thymus serpyllum*) od davnina se koristi u narodnoj medicini, a cijenjen je i začin. Istraživanja na ljudima gotovo da nema, pa joj se ne mogu pripisati dokazani ljekoviti učinci. U nastavku saznajte kako je prepoznati, što sadrži, što o njoj kažu istraživanja, kako je uzgojiti i brati te kada s njom treba biti oprezan.
 
 ## Što je majčina dušica i kako izgleda?
 
@@ -75,47 +75,43 @@ Cijela biljka ima snažan, ugodan miris, koji potječe od eteričnog ulja. Priro
 
 ## Kemijski sastav i bioaktivni spojevi
 
-Ljekovitost majčine dušice proizlazi iz njezina kemijskog sastava. Najvažnije je eterično ulje, iako čini manje od 1 % mase biljke.
+Najvažniji sastojak majčine dušice je eterično ulje, iako čini manje od 1 % mase biljke.
 
 Glavni spojevi u ulju su timol i karvakrol, fenolni monoterpeni (aromatični biljni spojevi) koji daju karakterističan miris. U slovačkom istraživanju iz 2021. godine, objavljenom u časopisu [Plants](https://pmc.ncbi.nlm.nih.gov/articles/PMC8309260/), ulje je sadržavalo 18,8 % timola, 17,4 % karvakrola, 15,4 % o-cimena i 10,7 % geraniola. Udio tih spojeva ovisi o podrijetlu biljke, pa u nekim uzorcima timola ima i znatno više. U manjim količinama ulje sadrži i linalol i borneol.
 
-Osim eteričnog ulja, majčina dušica sadrži fenolne kiseline, primjerice ružmarinsku, te flavonoide, ponajviše spojeve luteolina i apigenina. Te tvari djeluju kao antioksidansi, odnosno neutraliziraju slobodne radikale koji oštećuju stanice.
-
+Osim eteričnog ulja, majčina dušica sadrži fenolne kiseline, primjerice ružmarinsku, te flavonoide, ponajviše spojeve luteolina i apigenina.
 ## Antimikrobna i antifungalna svojstva
 
-Djelovanje majčine dušice protiv mikroorganizama potvrđeno je u laboratorijskim pokusima. [Pregledni rad](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1380962/full) o majčinoj dušici, objavljen 2024. u časopisu Frontiers in Nutrition, navodi da je to djelovanje najizraženije kod eteričnog ulja.
+Djelovanje majčine dušice protiv bakterija i gljivica opaženo je samo u laboratorijskim pokusima, s eteričnim uljem ili izdvojenim spojevima, navodi [pregledni rad](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1380962/full) objavljen 2024. u časopisu Frontiers in Nutrition.
 
-U laboratoriju eterično ulje koči rast bakterija poput *Escherichia coli* i *Staphylococcus aureus*. U slovačkom istraživanju najjače je djelovalo na bakteriju *Pseudomonas aeruginosa*, poznatu po otpornosti na antibiotike, i na salmonelu.
 
-Timol i karvakrol u laboratoriju sprječavaju i stvaranje biofilma, zaštitnog sloja u kojem se bakterije štite od vanjskih utjecaja, pa i od antibiotika, navodi [pregledni rad](https://www.tandfonline.com/doi/abs/10.1080/10408398.2019.1675585) iz 2020. godine. U laboratorijskim pokusima majčina dušica djeluje i na gljivice, primjerice iz roda *Candida*.
 
-Svi ti rezultati dobiveni su u epruveti, s eteričnim uljem ili izdvojenim spojevima. Ne pokazuju da čaj ili začin liječe infekcije, pa majčina dušica ne može zamijeniti antibiotik ili lijek protiv gljivica koji propiše liječnik.
+Takvi rezultati ne pokazuju da čaj ili začin liječe infekcije, pa majčina dušica ne može zamijeniti antibiotik ili lijek protiv gljivica koji propiše liječnik.
 
-## Antioksidativna svojstva i zaštita organizma
+## Antioksidansi u majčinoj dušici
 
-Majčina dušica sadrži antioksidanse, spojeve koji štite stanice od oštećenja slobodnim radikalima. Slobodni radikali su nestabilne molekule koje nastaju u metabolizmu, ali i zbog zagađenja i UV zračenja, a povezuju se sa starenjem i razvojem kroničnih bolesti.
+Majčina dušica sadrži flavonoide i ružmarinsku kiselinu, koje se ubrajaju u antioksidanse. Pokusi s njima i s eteričnim uljem rađeni su u laboratoriju i na glodavcima, navodi pregledni rad iz 2024. godine.
 
-U spomenutom slovačkom istraživanju eterično ulje majčine dušice snažno je neutraliziralo slobodne radikale. Tome pridonose i flavonoidi i fenolne kiseline, poput ružmarinske kiseline.
 
-Laboratorijski nalazi ipak ne pokazuju da redovito pijenje čaja čuva zdravlje srca i krvnih žila. Učinci na masnoće u krvi, krvni tlak i šećer zasad su opaženi uglavnom kod glodavaca, navodi pregledni rad iz 2024. godine. Za takve zaključke potrebna su ispitivanja na ljudima.
+Ispitivanja na ljudima nema, pa se ne može tvrditi da čaj ili začin čuvaju zdravlje srca, krvnih žila ili bilo kojeg organa.
 
-## Majčina dušica za respiratorne bolesti
+## Majčina dušica i kašalj
 
-Majčina dušica tradicionalno se koristi kod kašlja i prehlade. Europska agencija za lijekove (EMA) ocijenila je njezinu blisku srodnicu, timijan (*Thymus vulgaris* i *Thymus zygis*). Priznaje ga kao tradicionalni biljni lijek za produktivni kašalj, odnosno kašalj sa sluzi, kod prehlade, na temelju dugogodišnje upotrebe.
+Majčina dušica u narodnoj se medicini koristi kod kašlja, ali Europska agencija za lijekove (EMA) nju nije ocijenila. Ocijenila je njezinu blisku srodnicu, timijan (*Thymus vulgaris* i *Thymus zygis*). Priznaje ga kao tradicionalni biljni lijek za produktivni kašalj, odnosno kašalj sa sluzi, kod prehlade, na temelju dugogodišnje upotrebe.
 
 Najpoznatije kliničko ispitivanje provedeno je s kombinacijom timijana i bršljana. U [randomiziranom ispitivanju](https://pubmed.ncbi.nlm.nih.gov/17063641/) objavljenom 2006. godine 361 odrasla osoba s akutnim bronhitisom 11 dana je uzimala sirup s ekstraktima timijana i bršljana ili placebo. Broj napadaja kašlja smanjio se za 68,7 % uz sirup i za 47,6 % uz placebo, a uz sirup se prepolovio dva dana ranije. Rezultat vrijedi za tu kombinaciju, a ne za čaj od majčine dušice.
 
-Ekstrakti timijana čest su sastojak sirupa protiv kašlja, a kod kašlja i prehlade tradicionalno se pije [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/). Ako kašalj traje dulje od tjedan dana ili se pogoršava, ili ako imate visoku temperaturu, otežano disanje ili gnojan iskašljaj, javite se liječniku.
+Ekstrakti timijana čest su sastojak sirupa protiv kašlja. Kako se priprema [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/) i kome nije namijenjen, opisuje zaseban članak. Ako kašalj traje dulje od tjedan dana ili se pogoršava, ili ako imate visoku temperaturu, otežano disanje ili gnojan iskašljaj, javite se liječniku.
 
-## Majčina dušica za probavne probleme
+## Majčina dušica i probava
 
-Narodna medicina majčinu dušicu koristi i kod probavnih tegoba. Pripisuje joj se karminativno djelovanje, odnosno pomoć pri izbacivanju plinova i smanjenju nadutosti. Smatra se i spazmolitikom, tvari koja opušta glatke mišiće probavnog sustava i tako može ublažiti grčeve.
+Narodna medicina majčinu dušicu koristi i kod probavnih tegoba, ali ispitivanja na ljudima nema, pa učinak nije dokazan.
 
-Čaj popijen nakon obroka tradicionalno se pije za lakšu probavu i manji osjećaj težine u želucu. Pretklinička istraživanja, odnosno pokusi u laboratoriju i na životinjama, upućuju na protuupalno djelovanje kod upalnih bolesti crijeva i sindroma iritabilnog crijeva (IBS). Ispitivanja na ljudima zasad nedostaju. Za blage probavne tegobe EMA tradicionalno priznaje i [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+Za blage probavne tegobe EMA na temelju tradicije priznaje [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
 
 Ako probavne tegobe traju dulje od dva tjedna, vraćaju se ili ih prate gubitak tjelesne mase, krv u stolici ili jaka bol, javite se liječniku.
 
-## Majčina dušica za mentalno zdravlje
+## Majčina dušica, stres i san
 
 Topao miris majčine dušice mnogima je ugodan, pa se koristi u aromaterapiji, a šalica toplog čaja prije spavanja za mnoge je dio večernje rutine. Djelovanje na stres, tjeskobu i nesanicu ipak nije potvrđeno istraživanjima.
 
@@ -141,9 +137,9 @@ Kad se primi, dobro podnosi sušu i ne treba često zalijevanje. Nakon cvatnje l
 
 Majčinu dušicu najbolje je brati za sunčanih dana, u punoj cvatnji, obično od lipnja do kolovoza, kada je u biljci najviše eteričnog ulja. Beru se gornji dijelovi biljke s listovima i cvjetovima.
 
-Sušenje je važno za očuvanje ljekovitih tvari. Biljku sušite u tankom sloju, na prozračnom, toplom i sjenovitom mjestu, a ne na izravnom suncu, koje smanjuje udio eteričnog ulja. Postupak je sličan kao kod [sušenja kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
+Sušenje je važno za očuvanje arome. Biljku sušite u tankom sloju, na prozračnom, toplom i sjenovitom mjestu, a ne na izravnom suncu, koje smanjuje udio eteričnog ulja. Postupak je sličan kao kod [sušenja kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
 
-Pravilno osušena biljka zadržava boju i snažan miris. Čuvajte je u dobro zatvorenim staklenkama ili papirnatim vrećicama, na tamnom i suhom mjestu, gdje svojstva zadržava do godinu dana.
+Pravilno osušena biljka zadržava boju i snažan miris. Čuvajte je u dobro zatvorenim staklenkama ili papirnatim vrećicama, na tamnom i suhom mjestu, gdje kvalitetu zadržava do godinu dana.
 
 ## Eterično ulje majčine dušice
 
@@ -175,7 +171,7 @@ Ako nakon upotrebe primijetite oticanje usana, jezika ili grla ili otežano disa
 
 Osim divlje majčine dušice, u vrtovima se uzgaja i ukrasna puzava sorta (*Thymus serpyllum* 'Coccineus'). Stvara guste, niske tepihe koji se u cvatnji prekriju crvenim ili ružičastim cvjetovima.
 
-Dobro podnosi sušu i umjereno gaženje, pa se sadi za pokrivanje tla, u kamenjare i između vrtnih staza. I ona ima ljekovita svojstva, ali se uzgaja ponajprije zbog izgleda.
+Dobro podnosi sušu i umjereno gaženje, pa se sadi za pokrivanje tla, u kamenjare i između vrtnih staza. Uzgaja se ponajprije zbog izgleda.
 
 ## Usporedba s timijanom: sličnosti i razlike
 
@@ -183,7 +179,7 @@ Nazivi majčina dušica i timijan često se koriste kao sinonimi, ali riječ je 
 
 Pravi timijan (*Thymus vulgaris*) raste uspravno i grmoliko, a majčina dušica (*Thymus serpyllum*) puzi po tlu. Obje imaju sličan sastav, u kojem prevladavaju timol i karvakrol, pa se obje koriste kao začin i u narodnoj medicini.
 
-Omjer djelatnih tvari ipak se razlikuje, što utječe na miris, okus i jačinu djelovanja. U kuhinji se timijan obično smatra nešto jačim, pa se dodaje u manjim količinama. Razlika je važna i kod ljekovite upotrebe: ocjena Europske agencije za lijekove odnosi se na timijan, a većina kliničkih ispitivanja provedena je s pripravcima od timijana, a ne od majčine dušice.
+Omjer tih tvari ipak se razlikuje, što utječe na miris i okus. U kuhinji se timijan obično smatra nešto jačim, pa se dodaje u manjim količinama. Razlika je važna i kod ljekovite upotrebe: ocjena Europske agencije za lijekove odnosi se na timijan, a većina kliničkih ispitivanja provedena je s pripravcima od timijana, a ne od majčine dušice.
 
 ## Povijesni značaj i simbolika
 
@@ -205,8 +201,7 @@ Zbog otpornosti na sušu i skromnih zahtjeva prema tlu dobro raste na sunčanim 
 
 Majčina dušica predmet je brojnih istraživanja, ali većina je provedena u laboratoriju ili na životinjama. Autori preglednog rada iz 2024. godine upozoravaju da su ekstrakti u mnogim istraživanjima kemijski slabo opisani i da su potrebna dobro osmišljena klinička ispitivanja.
 
-Istraživači se bave i zajedničkim djelovanjem njezinih spojeva te novim metodama izdvajanja (ekstrakcije) koje bi sačuvale što više djelatnih tvari. Uzgoj sorti s određenim kemijskim sastavom mogao bi u budućnosti dovesti do novih biljnih lijekova i dodataka prehrani.
-
+Istraživači se bave i zajedničkim djelovanjem njezinih spojeva te novim metodama izdvajanja (ekstrakcije) koje bi sačuvale što više djelatnih tvari.
 ## Praktični savjeti za vrtlare
 
 Ako želite imati svježu majčinu dušicu nadohvat ruke, pridržavajte se nekoliko pravila:
@@ -221,17 +216,16 @@ Ako želite imati svježu majčinu dušicu nadohvat ruke, pridržavajte se nekol
 
 ## Majčina dušica u kozmetici: prirodna njega kože i kose
 
-Majčina dušica čest je sastojak prirodne kozmetike. Eterično ulje dodaje se proizvodima za kožu sklonu aknama, jer u laboratoriju djeluje protiv bakterija povezanih s aknama. Dokaza da kod ljudi smiruje upale i čisti pore zasad nema.
+Majčina dušica čest je sastojak prirodne kozmetike. Eterično ulje dodaje se i proizvodima za kožu sklonu aknama, no dokaza da kod ljudi pomaže kod akni nema.
 
-Hidrolat (cvjetna vodica) majčine dušice koristi se kao blagi tonik za lice. U proizvodima za kosu tradicionalno se koristi kod masnog vlasišta i peruti, iako taj učinak nije dobro istražen.
+Hidrolat (cvjetna vodica) majčine dušice koristi se kao tonik za lice, a biljka se dodaje i proizvodima za kosu. Učinci na kožu i vlasište nisu istraženi.
 
-Za opuštajuću kupku najsigurnija je šaka sušene biljke u vrećici od tkanine. Eterično ulje ne kapajte izravno u kadu, jer se ne miješa s vodom i na koži može izazvati nadražaj. Ako ga ipak koristite, prvo ga pomiješajte s baznim uljem.
+Za kupku je najsigurnija šaka sušene biljke u vrećici od tkanine. Eterično ulje ne kapajte izravno u kadu, jer se ne miješa s vodom i na koži može izazvati nadražaj. Ako ga ipak koristite, prvo ga pomiješajte s baznim uljem.
 
 ## Izvori
 
 - Galovičová i sur., laboratorijsko istraživanje (2021.) – [Eterično ulje majčine dušice i njegovo biološko djelovanje kao suvremeni konzervans za hranu (Thymus serpyllum Essential Oil and Its Biological Activity as a Modern Food Preserver)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8309260/), Plants
 - Jalil i sur., sustavni pregled (2024.) – [Majčina dušica: pregled dokaza o prehrambenim i zdravstvenim koristima (Wild thyme (Thymus serpyllum L.): a review of the current evidence of nutritional and preventive health benefits)](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1380962/full), Frontiers in Nutrition
-- Kachur i Suntres, pregledni rad (2020.) – [Antibakterijska svojstva karvakrola i timola (The antibacterial properties of phenolic isomers, carvacrol and thymol)](https://www.tandfonline.com/doi/abs/10.1080/10408398.2019.1675585), Critical Reviews in Food Science and Nutrition
 - Kemmerich i sur., randomizirano, dvostruko slijepo kliničko ispitivanje s placebom (2006.) – [Kombinacija ekstrakata timijana i bršljana kod akutnog bronhitisa (Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough)](https://pubmed.ncbi.nlm.nih.gov/17063641/), Arzneimittel-Forschung
 - Europska agencija za lijekove (EMA) – [Timijan, biljni lijek (Thymi herba)](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba) i [Cvijet kamilice, biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos)
 - Centar za kontrolu otrovanja savezne države Tennessee (Tennessee Poison Center), Sveučilišni medicinski centar Vanderbilt – [Često korištena, a potencijalno otrovna eterična ulja (What are the commonly used but potentially toxic essential oils?)](https://www.vumc.org/poison-control/index.php/node/702)

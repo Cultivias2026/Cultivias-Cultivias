@@ -6,11 +6,10 @@ image: /images/articles/uzgoj-i-sadnja-crnog-ribizla.webp
 perex: Crni ribiz (Ribes nigrum) je višegodišnji grm koji može biti produktivan
   do 15 godina i dosegnuti visinu od 1,5 do 2 metra. Ova biljka je izuzetno
   otporna na niske temperature, što je čini idealnom za kontinentalnu klimu.
-  Bobice su bogate vitaminom C, antioksidansima i mineralima, čineći ih iznimno
-  zdravim dodatkom prehrani.
+  Bobice su bogate vitaminom C.
 readTime: 11
 publishedAt: 2025-07-09
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -280,7 +279,7 @@ Savjetodavna služba Sveučilišta Iowa State (Iowa State University Extension) 
 
 Crni ribiz relativno je jednostavna biljka za uzgoj. Ako ga posadite na dobro mjesto i svake zime uklonite najstarije grane, godinama će davati bogat urod.
 
-Bobice možete jesti svježe, a od njih se rade džem, sok i drugi [recepti od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/) te domaće [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/). Što bobice sadrže i kako djeluju na zdravlje, opisuje članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Bobice možete jesti svježe, a od njih se rade džem, sok i drugi [recepti od crnog ribiza](https://www.cultivias.com/voce/recepti-i-ideje-od-crnog-ribiza/) te domaće [kapi od crnog ribiza](https://www.cultivias.com/bilje/kako-napraviti-kapi-od-crnog-ribiza-kod-ku%C4%87e/). Što bobice sadrže i što se zna o njihovu djelovanju, opisuje članak o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 ## Izvori
 

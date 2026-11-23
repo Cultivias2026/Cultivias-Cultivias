@@ -7,7 +7,7 @@ perex: Kamilica, sa svojim nježnim bijelim cvjetovima i umirujućim mirisom,
   jedna je od najomiljenijih ljekovitih biljaka na svijetu.
 readTime: 3
 publishedAt: 2025-06-07
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -141,7 +141,7 @@ Otkinite ih prstima ili malim škarama. Redovita berba potiče biljku na novo cv
 
 Za čaj cvjetove možete koristiti svježe ili ih [osušiti](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/). Raširite ih u jednom sloju na čistu, suhu podlogu, poput pladnja ili mreže, i ostavite na toplom, prozračnom mjestu bez izravnog sunca 7–14 dana.
 
-Osušeni cvjetovi su krhki na dodir. Čuvajte ih u dobro zatvorenoj staklenci na tamnom i hladnom mjestu, gdje zadržavaju aromu i ljekovita svojstva do godinu dana.
+Osušeni cvjetovi su krhki na dodir. Čuvajte ih u dobro zatvorenoj staklenci na tamnom i hladnom mjestu, gdje zadržavaju aromu do godinu dana.
 
 Vlastita kamilica uljepšat će vrt ili balkon i dati vam cvjetove za domaći [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) kad god ga poželite.
 

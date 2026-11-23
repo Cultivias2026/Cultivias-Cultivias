@@ -83,7 +83,7 @@ Postoje tisuće [sorti rajčice](https://www.cultivias.com/povrce/sorte-paradajz
 
 **Cherry rajčica**
 
-Cherry rajčice su skupina sorti s malim, okruglim i sočnim plodovima, omiljene zbog slatkog okusa i lijepog izgleda. Dobro uspijevaju u vrtu i [u teglama](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), jer ne zauzimaju mnogo mjesta i brzo dozrijevaju. Sadrže vitamine i antioksidanse, pa su dobar dodatak prehrani.
+Cherry rajčice su skupina sorti s malim, okruglim i sočnim plodovima, omiljene zbog slatkog okusa i lijepog izgleda. Dobro uspijevaju u vrtu i [u teglama](https://www.cultivias.com/povrce/sadnja-rajcica-u-tegle-na-balkonu/), jer ne zauzimaju mnogo mjesta i brzo dozrijevaju. Sadrže vitamin C i likopen, kao i ostale rajčice.
 
 ### **Domaće sorte rajčica**
 
@@ -146,13 +146,9 @@ Svježa rajčica ima malo kalorija i sadrži vitamin C, kalij, nešto vitamina K
 
 Istraživači se najviše bave likopenom, pigmentom iz skupine karotenoida koji rajčici daje crvenu boju.
 
-[Pregledni rad poljskih znanstvenika](https://pmc.ncbi.nlm.nih.gov/articles/PMC8880080/), objavljen 2022. u znanstvenom časopisu International Journal of Molecular Sciences, navodi da epidemiološke studije (istraživanja koja prate prehranu i zdravlje velikih skupina ljudi) povezuju veći unos likopena s manjim rizikom od bolesti srca i krvnih žila. Uz antioksidativno djelovanje, likopen utječe i na upalne procese i komunikaciju među stanicama. Autori dodaju da rezultati istraživanja nisu potpuno ujednačeni.
+[Pregledni rad poljskih znanstvenika](https://pmc.ncbi.nlm.nih.gov/articles/PMC8880080/), objavljen 2022. u znanstvenom časopisu International Journal of Molecular Sciences, navodi da epidemiološke studije (istraživanja koja prate prehranu i zdravlje velikih skupina ljudi) povezuju veći unos likopena s manjim rizikom od bolesti srca i krvnih žila. Takva povezanost ne dokazuje da likopen sprječava bolesti, a autori dodaju da rezultati istraživanja nisu potpuno ujednačeni.
 
-Tijelo lakše iskoristi likopen iz kuhanih proizvoda od rajčice, poput umaka, juha i koncentrata, nego iz svježih plodova, jer se toplinskom obradom povećava njegova bioraspoloživost (udio koji tijelo može upiti). Službeni preporučeni dnevni unos likopena ne postoji, a u istraživanjima se spominju količine od otprilike 5 do 30 mg dnevno. Koliko kalorija imaju svježa rajčica, passata, koncentrat i umak, usporedili smo u pregledu [kalorija u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
-
-Likopen se istražuje i u vezi sa zdravljem kostiju:
-
-* **zdravlje kostiju** – u [kanadskom randomiziranom istraživanju](https://pubmed.ncbi.nlm.nih.gov/20552330/) objavljenom 2011. u časopisu Osteoporosis International, 60 žena nakon menopauze četiri je mjeseca pilo sok od rajčice ili uzimalo kapsule likopena. U skupinama koje su dobivale likopen pale su vrijednosti biljega razgradnje kosti. Može li to spriječiti osteoporozu, zasad nije dokazano.
+Tijelo lakše iskoristi likopen iz kuhanih proizvoda od rajčice, poput umaka, juha i koncentrata, nego iz svježih plodova, jer se toplinskom obradom povećava njegova bioraspoloživost (udio koji tijelo može upiti). Službeni preporučeni dnevni unos likopena ne postoji. Koliko kalorija imaju svježa rajčica, passata, koncentrat i umak, usporedili smo u pregledu [kalorija u rajčici](https://www.cultivias.com/povrce/kalorije-u-raj%C4%8Dici-usporedba-svje%C5%BEe-raj%C4%8Dice-passate-koncentrata-i-umaka/).
 
 **Mjere opreza**
 

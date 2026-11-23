@@ -7,6 +7,7 @@ perex: Branje kamilice važan je korak koji izravno utječe na kvalitetu i aromu
   vašeg čaja.
 readTime: 2
 publishedAt: 2025-06-06
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -45,7 +46,7 @@ related_articles:
   - čaj-od-kamilice
 ---
 
-Kamilicu je najbolje brati kad su cvjetovi potpuno otvoreni, ujutro, nakon što se rosa osuši. Tada cvjetovi sadrže najviše **eteričnih ulja**, tvari koje joj daju miris i umirujuće djelovanje, a o njima ovisi i kakav će biti čaj. U nastavku saznajte kada i kako brati kamilicu, koje su prednosti ručnog branja, češlja i stroja te kako ubrane cvjetove pripremiti za sušenje.
+Kamilicu je najbolje brati kad su cvjetovi potpuno otvoreni, ujutro, nakon što se rosa osuši. Tada cvjetovi sadrže najviše **eteričnih ulja**, tvari koje joj daju miris, a o njima ovisi i kakav će biti čaj. U nastavku saznajte kada i kako brati kamilicu, koje su prednosti ručnog branja, češlja i stroja te kako ubrane cvjetove pripremiti za sušenje.
 
 ## **Kada brati kamilicu?**
 
@@ -81,4 +82,4 @@ Rasporedite ih u tankom sloju na čistu podlogu, na **sjenovito i prozračno mje
 
 Izbjegavajte izravno sunce, jer razgrađuje eterična ulja. Cvjetovi su suhi kad postanu krhki na dodir, a trebaju zadržati boju. Na sličan se način beru i suše i [listovi mente](https://www.cultivias.com/bilje/vodi%C4%8D-za-berbu-i-su%C5%A1enje-mente-od-svje%C5%BEeg-lista-do-%C4%8Daja/).
 
-Pravilno ubrana i osušena kamilica daje dobar [**domaći čaj**](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), poznat po [**umirujućem djelovanju i blagotvornosti za probavu**](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ako kamilice nemate dovoljno, [posadite je](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/) u vrtu ili tegli.
+Pravilno ubrana i osušena kamilica daje dobar [**domaći čaj**](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), o čijem djelovanju piše članak [**o kamilici i probavi**](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/). Ako kamilice nemate dovoljno, [posadite je](https://www.cultivias.com/bilje/kako-uspje%C5%A1no-posaditi-kamilicu-u-vrtu-ili-tegli/) u vrtu ili tegli.

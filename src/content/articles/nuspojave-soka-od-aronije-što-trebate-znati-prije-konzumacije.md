@@ -8,7 +8,7 @@ perex: Aronija, popularna biljka koja je sve češće prisutna u prehrani zbog
   “super sok”, važno je biti svjestan i mogućih nuspojava koje može izazvati.
 readTime: 4
 publishedAt: 2025-04-06
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -37,7 +37,7 @@ Sok od [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-
 
 Sok od aronije dobiva se prešanjem plodova crnoplodne aronije (*Aronia melanocarpa*), grma podrijetlom iz Sjeverne Amerike. Najčešće se prodaje kao matični sok, odnosno 100-postotni sok bez dodanog šećera i vode.
 
-Popularan je zbog mnogo **antocijana i drugih polifenola**, biljnih spojeva s antioksidativnim djelovanjem, pa se često reklamira kao "super sok". Vitamina C prirodno ima malo, pa ga neki proizvođači dodaju, što piše na deklaraciji.
+Popularan je zbog mnogo **antocijana i drugih polifenola**, biljnih spojeva, pa se često reklamira kao "super sok". Vitamina C prirodno ima malo, pa ga neki proizvođači dodaju, što piše na deklaraciji.
 
 Za mnoge njegove reklamirane učinke nema čvrstih dokaza, a kao i svaka koncentrirana namirnica, može imati i nedostatke.
 

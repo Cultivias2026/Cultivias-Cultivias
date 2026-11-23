@@ -12,7 +12,7 @@ perex: >-
   tegli ili vrtu, ali sama ne štiti od uboda.
 readTime: 10
 publishedAt: 2026-07-16
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -115,7 +115,7 @@ Ako eterično ulje ipak koristite, primjerice zbog mirisa:
 * **nikada ga ne nanosite nerazrijeđeno** na kožu; razrijedite ga u baznom ulju, poput bademova ili jojobina, i 24 sata prije šire primjene napravite test na malom dijelu kože
 * **ne koristite ga kod djece**; za njih birajte isključivo registrirane repelente s jasnom dobnom granicom na deklaraciji
 * **difuzer** može osvježiti prostoriju, ali nema dokaza da štiti od uboda; ne koristite ga u prostoriji s mačkama
-* **domaći sprej** za odjeću ili prostor, od nekoliko kapi ulja, vode i malo alkohola, djeluje kratko i nije zamjena za repelent na koži
+* **domaći sprej** s eteričnim uljem nije zamjena za registrirani repelent
 
 ## Uzgoj limunskog eukaliptusa u Hrvatskoj
 

@@ -4,7 +4,7 @@ category: voce
 author: redakcija
 image: /images/articles/20240624_192501.jpg
 perex: Crni ribiz je popularna biljka poznata po svojem bogatom nutritivnom
-  profilu i raznim prednostima za zdravlje.
+  sastavu.
 readTime: 6
 publishedAt: 2024-06-16
 updatedAt: 2026-11-23
@@ -58,13 +58,13 @@ related_articles:
   - crni-ribiz-ljekovitost-i-zdravstvene-prednosti
 ---
 
-Crni ribiz (*Ribes nigrum*) listopadni je grm čije tamne, kiselkaste bobice sadrže mnogo vitamina C i antocijana, biljnih pigmenata s antioksidativnim djelovanjem. Prema bazi američkog Ministarstva poljoprivrede (USDA), 100 g svježih bobica ima oko 181 mg vitamina C, više nego dvostruko od preporučenog dnevnog unosa. U nastavku saznajte kako prepoznati crni ribiz, što sadrži, u kojim se oblicima koristi te kako ga uzgojiti i ubrati.
+Crni ribiz (*Ribes nigrum*) listopadni je grm čije tamne, kiselkaste bobice sadrže mnogo vitamina C i antocijana, tamnih biljnih pigmenata. Prema bazi američkog Ministarstva poljoprivrede (USDA), 100 g svježih bobica ima oko 181 mg vitamina C, više nego dvostruko od preporučenog dnevnog unosa. U nastavku saznajte kako prepoznati crni ribiz, što sadrži, u kojim se oblicima koristi te kako ga uzgojiti i ubrati.
 
 ## Što je crni ribiz?
 
 Crni ribiz (*Ribes nigrum*) listopadni je grm podrijetlom iz Europe i sjeverne Azije.
 
-Daje male, tamne bobice koje sadrže vitamine, minerale i antioksidanse.
+Daje male, tamne bobice koje sadrže vitamine, minerale i biljne pigmente.
 
 Grm naraste **od jednog do dva metra** i ima nazubljene, mirisne listove.
 
@@ -72,7 +72,7 @@ Bobice rastu u grozdovima, a boja im je od tamnoljubičaste do gotovo crne.
 
 ## Povijest i tradicija
 
-Crni ribiz se stoljećima koristi u narodnoj medicini, ponajviše za pripremu okrepljujućih napitaka i ljekovitih čajeva od listova.
+Crni ribiz se stoljećima koristi u narodnoj medicini, ponajviše za napitke i čajeve od listova.
 
 Uzgoj ne traži mnogo truda, ali grm treba dovoljno sunca i tlo iz kojeg voda lako otječe.
 
@@ -92,11 +92,10 @@ Crni ribiz je jedno od voća s najviše vitamina C. Vitamin C sudjeluje u normal
 
 *Podaci prema bazi [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/173963/nutrients). Udio je izračunat prema referentnim vrijednostima unosa za odrasle iz Uredbe (EU) br. 1169/2011.*
 
-Crni ribiz sadrži i prehrambena vlakna, koja pomažu probavi, te **antocijane**. Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) u [priručniku o crnom ribizu](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf) navodi oko 1.741 mg antocijana na 100 g svježih bobica, više nego u kupinama, borovnicama i malinama. Takvih je spojeva mnogo i u [aronijinim](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [bazginim bobicama](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
+Crni ribiz sadrži i prehrambena vlakna te **antocijane**. Savjetodavna služba Sveučilišta Wisconsin (University of Wisconsin Extension) u [priručniku o crnom ribizu](https://cropsandsoils.extension.wisc.edu/files/2023/07/Black-Currant-Fact-Sheet-English.pdf) navodi oko 1.741 mg antocijana na 100 g svježih bobica, više nego u kupinama, borovnicama i malinama. Takvih je spojeva mnogo i u [aronijinim](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [bazginim bobicama](https://www.cultivias.com/voce/bazga-zova-sve-o-ovoj-mo%C4%87noj-i-poznatoj-biljci/).
 
 ## Crni ribiz i zdravlje
 
-Antioksidansi iz crnog ribiza neutraliziraju slobodne radikale, nestabilne molekule koje oštećuju stanice. Laboratorijska i manja klinička istraživanja upućuju na to da bi mogli smanjiti upalu u tijelu, no za konkretne zdravstvene učinke potrebno je više istraživanja na ljudima.
 
 Vitamin C, kojega u crnom ribizu ima mnogo, sudjeluje u radu imunosnog sustava. Potreban je i za stvaranje kolagena, bjelančevine koja koži daje čvrstoću.
 
@@ -108,25 +107,15 @@ Ako sumnjate na manjak željeza, osobito u trudnoći, javite se liječniku. Manj
 
 ### Ljekovitost i zdravstvene prednosti
 
-[Ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/) temelji se na antocijanima, flavonolima, fenolnim kiselinama i višestruko nezasićenim masnim kiselinama iz sjemenki.
-
-Istraživanja se najviše bave ovim područjima:
-
-* **imunosni sustav** – zbog visokog udjela vitamina C
-* **upalni procesi** – antocijani u laboratoriju smanjuju upalne biljege
-* **zaštita stanica** – antioksidansi neutraliziraju slobodne radikale
-* **srce i krvne žile** – polifenoli iz bobica povezuju se s boljim pokazateljima zdravlja srca
-* **oči** – neka manja istraživanja ispituju djelovanje antocijana na umor očiju
-
-Za većinu tih učinaka dokazi su zasad preliminarni.
+Osim učinaka vitamina C i kalija, koje je odobrila Europska unija, za ostale tvrdnje o ljekovitosti crnog ribiza dokazi na ljudima nisu dovoljni. Što pokazuju dosadašnja istraživanja, opisuje članak [Ljekovitost crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 ## Različiti oblici crnog ribiza
 
 ### Ekstrakt crnog ribiza
 
-Ekstrakt crnog ribiza dodaje se dodacima prehrani i kozmetici zbog antioksidativnih svojstava. Dobiva se koncentriranjem djelotvornih tvari iz bobica.
+Ekstrakt crnog ribiza dodaje se dodacima prehrani i kozmetici. Dobiva se koncentriranjem tvari iz bobica.
 
-Ispituje se njegovo djelovanje na umor očiju i simptome alergija, no dokazi su zasad ograničeni.
+Za njegovo djelovanje na umor očiju ili alergije nema dovoljno dokaza.
 
 ### Kapi crnog ribiza
 
@@ -134,7 +123,7 @@ Ispituje se njegovo djelovanje na umor očiju i simptome alergija, no dokazi su 
 
 ### Ulje crnog ribiza
 
-Ulje crnog ribiza dobiva se iz sjemenki. Sadrži esencijalne masne kiseline, među njima i gama-linolensku kiselinu (GLA), masnu kiselinu koja se istražuje zbog protuupalnog djelovanja.
+Ulje crnog ribiza dobiva se iz sjemenki. Sadrži esencijalne masne kiseline, među njima i gama-linolensku kiselinu (GLA).
 
 Ulje se koristi kao dodatak prehrani i u njezi kože.
 

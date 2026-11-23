@@ -8,7 +8,7 @@ perex: Aronija (lat. Aronia melanocarpa), poznata i kao crnoplodna aronija ili
   privlači sve veću pažnju zbog svojih izvanrednih nutritivnih svojstava.
 readTime: 5
 publishedAt: 2024-10-12
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -150,11 +150,11 @@ Ostalo sezonsko voće opisano je u rubrici [Voće](https://www.cultivias.com/voc
 
 ## Kako se aronija koristila u narodu?
 
-**U narodnoj uporabi aronija se ponajprije povezivala s pripravcima od bobica, čajem i trpkim svojstvima ploda i kore.** [Povijesni pregled tradicionalne uporabe roda *Aronia*](https://pubmed.ncbi.nlm.nih.gov/20170359/) navodi da su Potawatomi zajednice u Sjevernoj Americi plodove crnoplodne aronije koristile u pripravcima za prehladu.
+**U narodnoj uporabi aronija se ponajprije povezivala s pripravcima od bobica, čajem i trpkim svojstvima ploda i kore.** [Povijesni pregled tradicionalne uporabe roda *Aronia*](https://pubmed.ncbi.nlm.nih.gov/20170359/) navodi da su Potawatomi zajednice u Sjevernoj Americi plodove crnoplodne aronije koristile u narodnoj medicini.
 
-[Pregled iz časopisa *Antioxidants*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/) prenosi i podatak o čaju od bobica te kori kao adstringensu, odnosno pripravku koji stvara osjećaj stezanja tkiva. U Europi se aronija zbog snažnog, oporog okusa proširila prije svega kroz sokove, džemove, vina i likere.
+[Pregled iz časopisa *Antioxidants*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8300639/) spominje i čaj od bobica i kore. U Europi se aronija zbog snažnog, oporog okusa proširila prije svega kroz sokove, džemove, vina i likere.
 
-**Narodna uporaba dio je kulturne i etnobotaničke povijesti, a ne dokaz liječenja.** Zato je treba shvatiti kao povijesni podatak, a ne kao savjet da se prehlada ili druge bolesti liječe aronijom.
+**Narodna uporaba dio je kulturne i etnobotaničke povijesti, a ne dokaz liječenja.** Zato je treba shvatiti kao povijesni podatak, a ne kao savjet da se bolesti liječe aronijom.
 
 ## Razlikuju li se svježa aronija, sok, prah i dodatci prehrani?
 

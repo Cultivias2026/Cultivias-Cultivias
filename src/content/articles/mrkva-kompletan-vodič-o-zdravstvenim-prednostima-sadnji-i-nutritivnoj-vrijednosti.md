@@ -89,7 +89,7 @@ Boja potječe od biljnih pigmenata:
 * **crvena** – likopen
 * **žuta** – lutein
 
-Ti pigmenti imaju antioksidativno djelovanje, što znači da u laboratorijskim uvjetima neutraliziraju slobodne radikale, nestabilne molekule koje mogu oštetiti stanice. Alfa- i beta-karoten tijelo uz to pretvara u vitamin A.
+Alfa- i beta-karoten tijelo pretvara u vitamin A.
 
 ### Korištenje mrkve u kulinarstvu
 
@@ -99,23 +99,21 @@ Mrkva se jede sirova kao grickalica, naribana u salati ili iscijeđena u sok. Ku
 
 Narančasta mrkva najpoznatija je i najčešća, a mrkve drugih boja sadrže drukčije biljne spojeve i imaju nešto drukčiji okus. Glavne razlike opisane su u nastavku.
 
-### Crvena mrkva – likopen i antioksidansi
+### Crvena mrkva – likopen
 
-Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) i lubenicu. Pregledni rad o biljnim spojevima mrkve, objavljen 2019. u znanstvenom časopisu Foods, navodi da se karotenoidi, među njima i likopen, povezuju s manjim rizikom od nekih vrsta raka i bolesti srca.
+Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-%C5%A1to-trebate-znati-o-raj%C4%8Dici-od-sadnje-do-zdravstvenih-benefita/) i lubenicu. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
 
-Takvi dokazi dolaze većinom iz opservacijskih istraživanja, koja prate prehranu i zdravlje ljudi, ali ne mogu dokazati uzrok, te iz laboratorijskih pokusa. Crvena mrkva zato nije zaštita od raka prostate ni lijek. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
 
-### Žuta mrkva – lutein i zeaksantin za vid
+### Žuta mrkva – lutein
 
-Žuta mrkva sadrži lutein, žuti pigment koji se zajedno sa zeaksantinom nakuplja u žutoj pjegi (makuli), središnjem dijelu mrežnice koji nam omogućuje oštar vid. Ondje filtrira plavo svjetlo i štiti stanice od oksidativnog oštećenja.
+Žuta mrkva sadrži lutein, žuti pigment koji se zajedno sa zeaksantinom nakuplja u žutoj pjegi (makuli), središnjem dijelu mrežnice koji nam omogućuje oštar vid. Ondje filtrira plavo svjetlo.
 
 Američko udruženje optometrista (American Optometric Association) navodi da prehrana bogata luteinom i zeaksantinom može smanjiti rizik od [senilne makularne degeneracije](https://www.mojeoko.hr/savjeti-za-zdrave-oci/tegobe-s-ocima/senilna-makularna-degeneracija/), najčešćeg uzroka slabljenja vida u starijoj dobi. Najviše ih ipak ima tamnozeleno lisnato povrće. Sto grama sirovog špinata sadrži oko 12 mg luteina i zeaksantina, a sto grama mrkve oko 0,3 mg, prema podacima USDA-a.
 
-### Ljubičasta mrkva – antocijanini i antioksidativna svojstva
+### Ljubičasta mrkva – antocijanini
 
 Ljubičasta je, uz žutu, jedna od prvih boja uzgojene mrkve. Sadrži antocijanine, pigmente kojih ima i u [aroniji](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/), borovnicama i crvenom kupusu.
 
-U laboratorijskim istraživanjima antocijanini djeluju protuupalno i antioksidativno. Pregledni rad objavljen 2022. u časopisu Applied Sciences zaključuje da bi spojevi iz ljubičaste mrkve mogli pomoći u sprječavanju metaboličkog sindroma. To je skup poremećaja koji uključuje povišen šećer, tlak i masnoće u krvi te višak trbušne masti. Ti se zaključci zasad temelje uglavnom na laboratorijskim pokusima i pokusima na životinjama, pa za ljude još nisu potvrđeni.
 
 ### Bijela mrkva – manje poznata varijanta
 
@@ -215,27 +213,27 @@ Mrkva zdravlju pridonosi ponajprije kao izvor vitamina A, vlakana i kalija, uz n
 
 Krovni pregled (umbrella review, pregled više meta-analiza) objavljen je 2023. u časopisu Journal of the Science of Food and Agriculture. Veći unos mrkve povezuje s manjim rizikom od nekoliko vrsta raka, a veći unos karotena i s manjim rizikom od prijeloma i mrene (katarakte). Riječ je većinom o opservacijskim istraživanjima, pa takva povezanost ne dokazuje da mrkva sprječava bolesti. Mrkva je dio uravnotežene prehrane, a ne lijek.
 
-### Čuva vid – mrkva i zdravlje očiju
+### Mrkva i vid
 
 Veza mrkve i vida ima stvarnu podlogu. Vitamin A dio je rodopsina, pigmenta u mrežnici koji omogućuje vid pri slabom svjetlu. Kad vitamina A dulje nedostaje, razvija se [kseroftalmija](https://www.enciklopedija.hr/clanak/kseroftalmija): oči se suše, slabi vid u sumrak (noćno sljepilo), a bez liječenja može doći i do sljepoće.
 
 Ako u prehrani već imate dovoljno vitamina A, dodatna mrkva neće izoštriti vid niti zamijeniti naočale, ističu liječnici Sveučilišta Utah (University of Utah Health). Priča o mrkvi koja daje "noćni vid" potječe iz Drugog svjetskog rata, kad je britanska propaganda uspjehe noćnih pilota pripisivala mrkvi da bi prikrila kako koriste radar.
 
-Mrkva sadrži i lutein, koji štiti žutu pjegu, ali manje od tamnozelenog lisnatog povrća. Za zdravlje očiju zato su jednako važni špinat, kelj i drugo zeleno povrće.
+Mrkva sadrži i lutein, ali mnogo manje od tamnozelenog lisnatog povrća. Za zdravlje očiju zato su jednako važni špinat, kelj i drugo zeleno povrće.
 
-### Imunitet – uloga vitamina A
+### Imunitet i vitamin A
 
 Vitamin A potreban je za normalan rad imunosnog sustava. Održava sluznice dišnog, probavnog i mokraćnog sustava, koje su prva zapreka mikroorganizmima, i sudjeluje u razvoju imunosnih stanica.
 
-Kritički pregledni rad objavljen 2022. u časopisu Journal of Functional Foods bavi se [mogućim djelovanjem beta-karotena i drugih spojeva iz mrkve na imunosni sustav](https://www.sciencedirect.com/science/article/pii/S1756464622003735). Ti dokazi dolaze uglavnom iz laboratorijskih istraživanja i istraživanja na životinjama. Vitamina C mrkva ima malo, pa ga unosite iz agruma, paprike i bobičastog voća.
+Da mrkva sama po sebi jača imunitet, nije dokazano. Vitamina C mrkva ima malo, pa ga unosite iz agruma, paprike i bobičastog voća.
 
-### Podrška zdravlju kože – beta-karoten i antioksidansi
+### Mrkva i koža
 
-Vitamin A pridonosi održavanju normalne kože, a kad ga nedostaje, koža postaje suha i ljuskava. Beta-karoten se dijelom nakuplja u koži. Spomenuti krovni pregled iz 2023. veći unos karotena povezuje i s manjim rizikom od opeklina od sunca, no dio tih istraživanja proveden je s dodacima prehrani, a ne s hranom. Mrkva ni beta-karoten ne zamjenjuju kremu za sunčanje ni zaštitu od sunca.
+Vitamin A pridonosi održavanju normalne kože, a kad ga nedostaje, koža postaje suha i ljuskava. Beta-karoten se dijelom nakuplja u koži. Mrkva ni beta-karoten ne zamjenjuju kremu za sunčanje ni zaštitu od sunca.
 
 **Visoke doze beta-karotena u obliku dodataka prehrani nisu za pušače.** Više istraživanja pokazalo je da pušači, bivši pušači i osobe izložene azbestu imaju veći rizik od raka pluća i smrti ako uzimaju visoke doze beta-karotena u tabletama. Na to upozorava Ured za dodatke prehrani NIH-a. To se ne odnosi na beta-karoten iz mrkve i drugog povrća.
 
-### Pomaže probavi – vlakna i pektin
+### Vlakna u mrkvi
 
 Sto grama mrkve daje 2,8 g vlakana, otprilike desetinu dnevne preporuke od 25 g. Nešto više od polovice čine netopljiva vlakna, poput celuloze i lignina, koja povećavaju volumen stolice i potiču redovito pražnjenje crijeva.
 
@@ -247,7 +245,7 @@ Mrkva je izvor kalija. Kalij pomaže tijelu izlučiti višak natrija iz soli i o
 
 Osobe s bolestima bubrega trebaju paziti na unos kalija, o čemu više piše na kraju članka.
 
-### Pomaže pri gubitku težine – niske kalorije i visoka sitost
+### Mrkva i sitost
 
 Mrkva ima malo kalorija, a puno vode i nešto vlakana, pa obrok čini obilnijim bez puno dodatne energije. Sirova mrkva traži dulje žvakanje, a i to pridonosi osjećaju sitosti. Sirova, kuhana ili pečena, pomaže povećati volumen obroka, a kalorije joj osjetno dodaje tek ulje.
 
@@ -454,9 +452,6 @@ Beta-karoten iz hrane ne uzrokuje trovanje vitaminom A, jer tijelo iz njega stva
 - Sveučilište Kalifornije u Davisu (UC Davis), vijest o istraživanju genoma mrkve – [Genom mrkve otkriva povijest njezina udomaćenja (Carrot genome paints colorful picture of domestication)](https://www.ucdavis.edu/news/carrot-genome-paints-picture-domestication-could-help-improve-crops), 2016.
 - Genetsko istraživanje podrijetla mrkve, časopis American Journal of Botany – [Genetska struktura i udomaćenje mrkve (Genetic structure and domestication of carrot)](https://doi.org/10.3732/ajb.1300055), 2013.
 - Baza FoodData Central američkog Ministarstva poljoprivrede (USDA) – [Mrkva, sirova (Carrots, raw)](https://fdc.nal.usda.gov/food-details/170393/nutrients) i [mrkva, kuhana, bez soli (Carrots, cooked, boiled, drained, without salt)](https://fdc.nal.usda.gov/food-details/170394/nutrients)
-- Pregledni rad, časopis Foods – [Biljni spojevi u mrkvi i njihove zdravstvene prednosti (Phytochemicals in Daucus carota and Their Health Benefits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6770766/), 2019.
-- Pregledni rad, časopis Applied Sciences – [Prehrambene prednosti ljubičaste mrkve kod metaboličkog sindroma i raka (Delving into the Nutraceutical Benefits of Purple Carrot against Metabolic Syndrome and Cancer)](https://www.mdpi.com/2076-3417/12/6/3170), 2022.
-- Kritički pregledni rad, časopis Journal of Functional Foods – [Djelovanje beta-karotena i drugih spojeva iz mrkve na imunosni sustav (Critical review on the immunomodulatory activities of carrot's β-carotene and other bioactive compounds)](https://www.sciencedirect.com/science/article/pii/S1756464622003735), 2022.
 - Konsenzus stručnjaka, časopis The Journal of Nutrition – [Beta-karoten je važan izvor vitamina A za ljude (Beta-carotene is an important vitamin A source for humans)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3139236/), 2010.
 - Krovni pregled meta-analiza, časopis Journal of the Science of Food and Agriculture – [Mrkva, karoten i zdravlje (Carrot and carotene and multiple health outcomes: an umbrella review of the evidence)](https://doi.org/10.1002/jsfa.12425), 2023.
 - Ured za dodatke prehrani američkih Nacionalnih instituta za zdravlje (NIH Office of Dietary Supplements) – [Vitamin A i karotenoidi (Vitamin A and Carotenoids – Fact Sheet for Consumers)](https://ods.od.nih.gov/factsheets/VitaminA-Consumer/)

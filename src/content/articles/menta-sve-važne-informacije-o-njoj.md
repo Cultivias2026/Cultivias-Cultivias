@@ -94,7 +94,7 @@ Za najbolju aromu menta se bere redovito, a za sušenje neposredno prije cvatnje
 
 Mnoge tvrdnje o ljekovitosti mente prenose se generacijama, pa im treba pristupiti s oprezom. Znanstvena istraživanja najčešće se bave eteričnim uljem ili ekstraktima, a njihovi se rezultati ne mogu izravno prenijeti na čaj. Prije korištenja biljnih pripravaka u terapijske svrhe posavjetujte se s liječnikom ili ljekarnikom.
 
-### Čaj od mente: zdravstvene prednosti
+### Čaj od mente i istraživanja
 
 [Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) jedan je od najpopularnijih biljnih napitaka na svijetu i prirodno je bez kofeina. Djelovanje ovisi o vrsti mente i načinu pripreme. Što pokazuju istraživanja o čaju za san, pamćenje i probavu, opisuje članak o [dobrobitima čaja od mente](https://www.cultivias.com/bilje/dobrobiti-%C4%8Daja-od-mente-za-san-pam%C4%87enje-i-probavu/).
 
@@ -104,14 +104,13 @@ Europska agencija za lijekove (EMA) list paprene metvice priznaje kao tradiciona
 
 **Ako imate žgaravicu ili refluks (vraćanje želučane kiseline u jednjak), čaj od mente može pogoršati tegobe**, upozorava EMA.
 
-### Čaj od mente protiv nadutosti
+### Čaj od mente i nadutost
 
-Menta se tradicionalno koristi kod nadutosti i plinova. U laboratorijskim istraživanjima opušta glatke mišiće probavnog sustava, pa može olakšati izlazak plinova. Za iritabilni kolon (sindrom iritabilnog crijeva) dokazi postoje za ulje paprene metvice u kapsulama koje se otapaju tek u crijevima, a ne za čaj, navodi NCCIH.
+Nadutost je među tegobama za koje EMA list paprene metvice priznaje na temelju tradicije. Za iritabilni kolon (sindrom iritabilnog crijeva) dokazi postoje za ulje paprene metvice u kapsulama koje se otapaju tek u crijevima, a ne za čaj, navodi NCCIH.
 
-### Čaj od mente za smirenje
+### Čaj od mente i smirenje
 
-Topli čaj bez kofeina mnogima je ugodan večernji napitak, a neke miris mente opušta. Njegov učinak na stres i tjeskobu ipak nije dokazan: o tome postoje tek mala, preliminarna istraživanja. O iskustvima s čajem od mente za smirenje piše i portal [Catino](https://catino.com.hr/bilje/menta/caj-od-mente-za-smirenje/).
-
+Topli čaj bez kofeina mnogima je ugodan večernji napitak, a neke miris mente opušta. Njegov učinak na stres i tjeskobu ipak nije dokazan: o tome postoje tek mala, preliminarna istraživanja.
 ### Sok od mente
 
 Osim čaja, ljeti se priprema i [sok od mente](https://www.cultivias.com/bilje/sok-od-mente-bez-kuhanja-prirodan-i-osvje%C5%BEavaju%C4%87i-recept/). Domaći sirup sadrži puno šećera, pa ga razrjeđujte vodom i pijte umjereno, kao i gazirana pića. Najjednostavnija osvježavajuća varijanta bez šećera su tri do četiri grančice mente namočene u litri hladne vode.

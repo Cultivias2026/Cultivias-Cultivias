@@ -8,7 +8,7 @@ perex: Ogrozd je voće koje su naši preci često upotrebljavali u tradicionalno
   svojih bogatih nutritivnih svojstava.
 readTime: 5
 publishedAt: 2026-01-12
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: true
@@ -37,7 +37,7 @@ related_articles:
   - ogrozd-u-kuhinji-najbolji-recepti-od-poznatih-gastro-portala
 ---
 
-[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) je niskokalorično voće koje je izvor vitamina C i vlakana, a sadrži i niz biljnih spojeva s antioksidativnim djelovanjem. Istraživanja o samom ogrozdu zasad su uglavnom laboratorijska. Mnoge tvrdnje koje se na internetu pripisuju ogrozdu zapravo se odnose na indijski ogrozd (amlu), posve drugu biljku. U nastavku saznajte što ogrozd sadrži, što su pokazala istraživanja i zašto se rezultati o amli ne mogu prenijeti na ogrozd.
+[Ogrozd](https://www.cultivias.com/voce/ogrozd--zaboravljeno-supervo%C4%87e/) je niskokalorično voće koje je izvor vitamina C i vlakana, a sadrži i niz biljnih spojeva. Istraživanja o samom ogrozdu zasad su uglavnom laboratorijska. Mnoge tvrdnje koje se na internetu pripisuju ogrozdu zapravo se odnose na indijski ogrozd (amlu), posve drugu biljku. U nastavku saznajte što ogrozd sadrži, što su pokazala istraživanja i zašto se rezultati o amli ne mogu prenijeti na ogrozd.
 
 ## Nutritivni profil: vitamini i minerali
 
@@ -67,7 +67,7 @@ Zdjelica od 150 g ogrozda ima 66 kcal, 6,5 g vlakana i 41,6 mg vitamina C. Kolik
 
 Tvrdnje o djelovanju vitamina i minerala u ovom članku temelje se na zdravstvenim tvrdnjama koje je odobrila Europska unija. Za bioaktivne spojeve iz ogrozda opisujemo istraživanja iz baze PubMed i navodimo o kakvim je istraživanjima riječ.
 
-### 1. Podrška imunosnom sustavu
+### 1. Vitamin C i imunitet
 
 Ogrozd je izvor vitamina C, koji prema odobrenim zdravstvenim tvrdnjama pridonosi normalnoj funkciji imunosnog sustava i zaštiti stanica od oksidativnog stresa.
 
@@ -79,7 +79,7 @@ Ogrozd je izvor vitamina C, koji prema odobrenim zdravstvenim tvrdnjama pridonos
 
 Riječ je o kemijskoj analizi plodova, a ne o istraživanju na ljudima. Pokazuje što ogrozd sadrži, ali ne i da njegovo jedenje smanjuje rizik od kroničnih bolesti.
 
-### 3. Zaštita jetre (hepatoprotektivna svojstva)
+### 3. Jetra
 
 Za europski ogrozd istraživanja o zaštiti jetre nema. Tekstovi koji to tvrde obično se pozivaju na pregledne radove o indijskom ogrozdu, poput pregleda Thilakchanda i suradnika (2013.), koji opisuje pokuse na životinjama.
 
@@ -89,29 +89,29 @@ Isto vrijedi za pregled Kumara i suradnika (2022.) o mogućem protutumorskom dje
 
 ![Infografika: ogrozd (Ribes uva-crispa), indijski ogrozd ili amla (Phyllanthus emblica) i kineski ogrozd ili kivi (Actinidia deliciosa) tri su različite biljke, uz upozorenje da se rezultati istraživanja o amli ne prenose na ogrozd](/images/articles/infografika-ogrozd-amla.webp)
 
-### 4. Potencijalna podrška kontroli šećera u krvi
+### 4. Šećer u krvi
 
-Zahvaljujući vlaknima, ogrozd može usporiti upijanje šećera u krv. Ogrozd sadrži i klorogensku kiselinu, za koju laboratorijska (*in vitro*) istraživanja pokazuju da može kočiti enzime koji razgrađuju ugljikohidrate.
+Istraživanja na ljudima koji jedu ogrozd nema, pa se ne može tvrditi da ogrozd utječe na šećer u krvi.
 
-To bi moglo pomoći da šećer u krvi nakon obroka raste sporije, no istraživanja na ljudima koji jedu ogrozd nema.
+Ideja se temelji na laboratorijskim pokusima s klorogenskom kiselinom, koju ogrozd sadrži.
 
-### 5. Poboljšanje lipidnog profila
+### 5. Kolesterol
 
-Sustavni pregled i meta-analiza (statističko objedinjavanje više studija) iz 2023. obuhvatili su pet kliničkih istraživanja. Uzimanje dodataka prehrani od **amle**, a ne ogrozda, bilo je povezano s nižim LDL i ukupnim kolesterolom, trigliceridima, šećerom u krvi natašte i C-reaktivnim proteinom (pokazateljem upale) te višim HDL kolesterolom.
+Sustavni pregled i meta-analiza iz 2023., koji se često navode uz tvrdnje o kolesterolu, odnose se na dodatke prehrani od **amle**, a ne na ogrozd.
 
-Ispitanici su uglavnom imali između 40 i 58 godina, a amlu su uzimali od 3 do 12 tjedana. Autori zaključuju da su rezultati obećavajući, ali da su potrebna nova istraživanja. Za europski ogrozd takvih istraživanja nema.
+Za europski ogrozd takvih istraživanja nema.
 
-### 6. Zdravlje srca i mozga
+### 6. Srce i mozak
 
-Flavonoli i antocijani, kojih ima osobito u tamnijim sortama, istražuju se u vezi s funkcijom krvnih žila i krvnim tlakom. Pregled boja, vrsta i hibrida donosi članak o [sortama ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/).
+Za ogrozd i zdravlje srca ili mozga nema istraživanja na ljudima. Pregled boja, vrsta i hibrida donosi članak o [sortama ogrozda](https://www.cultivias.com/voce/sorte-ogrozda-vodi%C4%8D-kroz-boje-vrste-i-hibride-za-va%C5%A1-vrt/).
 
 Ogrozd sadrži i organske kiseline, osobito limunsku, koja mu daje kiselkast okus. Na internetu se može pročitati da limunska kiselina iz ogrozda sprječava nakupljanje željeza u stanicama mozga, no za to nema istraživanja na ljudima.
 
-### 7. Antivirusna svojstva
+### 7. Virusi
 
-Turski znanstvenici Dogan i suradnici (2020.) ispitali su ekstrakte ploda i lista ogrozda na staničnim kulturama. Vodeni ekstrakt ploda kočio je umnožavanje respiratornog sincicijskog virusa (RSV), čestog uzročnika infekcija dišnog sustava kod djece.
+Jedino istraživanje, koje su proveli turski znanstvenici Dogan i suradnici (2020.), rađeno je s ekstraktima ogrozda na staničnim kulturama.
 
-To je laboratorijsko istraživanje, provedeno u epruveti, a ne na ljudima. Autori zaključuju da ekstrakti zaslužuju daljnja istraživanja, no jedenje ogrozda ne štiti od RSV-a.
+To je laboratorijsko istraživanje, a ne istraživanje na ljudima, pa se ne može tvrditi da ogrozd štiti od virusa.
 
 ## Zaključak
 
@@ -121,7 +121,7 @@ Redovito jedenje svježeg voća, pa tako i ogrozda, dio je zdrave prehrane. Idej
 
 ***Važno je pridržavati se uravnotežene i raznovrsne prehrane i zdravog načina života.***
 
-**Iako su istraživanja pokazala potencijalne zdravstvene učinke ogrozda, većina tih studija koristi ekstrakte ili koncentrirane oblike voća. Redovna konzumacija svježeg ogrozda kao dijela zdrave prehrane može doprinijeti cjelokupnom zdravlju, ali ne bi trebala biti korištena kao zamjena za liječenje. Za dijagnozu, liječenje ili prevenciju bolesti, posavjetujte se sa svojim liječnikom ili nutricionistom.**
+**Ogrozd nije zamjena za liječenje. Za dijagnozu, liječenje ili prevenciju bolesti posavjetujte se sa svojim liječnikom ili nutricionistom.**
 
 ## Izvori
 

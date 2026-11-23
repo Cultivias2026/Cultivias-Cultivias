@@ -7,7 +7,7 @@ perex: >-
   Bazga(Sambucus nigra), poznata i pod nazivom zova, biljka je čiji mirisni
   cvjetovi i tamne, sočne bobice najavljuju dolazak ljeta i jeseni.
 
-  Stoljećima je cijenjena u narodnoj medicini diljem svijeta, a moderna znanost danas potvrđuje njezinu iznimnu vrijednost.
+  Stoljećima se koristi u narodnoj medicini, a istraživanja na ljudima zasad su malobrojna.
 readTime: 8
 publishedAt: 2026-01-13
 updatedAt: 2026-11-23
@@ -70,7 +70,7 @@ related_articles:
   - aronija--čudesna-biljka-za-podršku-zdravlja
 ---
 
-Bazga ili zova grm je čiji se cvjetovi i bobice stoljećima koriste u kuhinji i narodnoj medicini, najviše kod prehlade i gripe. Bobice sadrže velike količine antocijana (biljnih pigmenata s antioksidativnim djelovanjem), zbog čega ih istraživači proučavaju i u vezi sa zdravljem srca i krvnih žila. Dio tih učinaka potvrđen je samo u laboratoriju, a dio u manjim kliničkim studijama. U nastavku saznajte kako prepoznati crnu bazgu, što sadrže cvjetovi i bobice, što pokazuju istraživanja te kako bazgu uzgojiti, ubrati i sigurno pripremiti.
+Bazga ili zova grm je čiji se cvjetovi i bobice stoljećima koriste u kuhinji i narodnoj medicini, najviše kod prehlade i gripe. Bobice sadrže mnogo antocijana, tamnih biljnih pigmenata. Za većinu učinaka koji se bazgi pripisuju nema pouzdanih dokaza na ljudima, a kod prehlade postoje tek manja klinička istraživanja s ekstraktom bobica. U nastavku saznajte kako prepoznati crnu bazgu, što sadrže cvjetovi i bobice, što pokazuju istraživanja te kako bazgu uzgojiti, ubrati i sigurno pripremiti.
 
 ## Što je bazga? Botanički profil i rasprostranjenost
 
@@ -98,13 +98,13 @@ Jestive su samo kuhane bobice crne bazge. Abdovina (*Sambucus ebulus*) zeljasta 
 
 ## Kemijski sastav: što se krije u cvijetu i bobicama?
 
-Ljekovita svojstva bazge proizlaze iz njezina kemijskog sastava. I cvjetovi i bobice sadrže niz bioaktivnih spojeva (tvari koje djeluju na organizam), a mnogi od njih predmet su znanstvenih istraživanja.
+I cvjetovi i bobice bazge sadrže niz biljnih spojeva, a mnogi od njih predmet su znanstvenih istraživanja.
 
-### Antocijani i flavonoidi: antioksidansi iz bobica
+### Antocijani i flavonoidi
 
-Bobice bazge tamnu boju duguju visokoj koncentraciji antocijana, ponajviše cijanidin-3-glukozida i cijanidin-3-sambubiozida. Ti spojevi pripadaju skupini flavonoida i djeluju kao antioksidansi, odnosno neutraliziraju slobodne radikale (nestabilne molekule koje oštećuju stanice). Antocijani daju boju i drugim tamnim bobicama, poput [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
+Bobice bazge tamnu boju duguju visokoj koncentraciji antocijana, ponajviše cijanidin-3-glukozida i cijanidin-3-sambubiozida. Ti spojevi pripadaju skupini flavonoida. Antocijani daju boju i drugim tamnim bobicama, poput [aronije](https://www.cultivias.com/voce/aronija--%C4%8Dudesna-biljka-za-podr%C5%A1ku-zdravlja/) i [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/).
 
-[Laboratorijsko istraživanje portugalskih znanstvenika](https://pubmed.ncbi.nlm.nih.gov/31247974/), objavljeno 2019. u znanstvenom časopisu Molecules, potvrdilo je visok antioksidativni kapacitet soka od bazge. Uz antocijane, bazga sadrži i flavonoide kvercetin i rutin, koji dodatno pridonose tom učinku.
+Uz antocijane, bazga sadrži i flavonoide kvercetin i rutin.
 
 Antocijana u bazgi ima toliko da se koristi kao prirodna boja (kolorant) u prehrambenoj industriji.
 
@@ -127,7 +127,7 @@ Nutritivni sastav na 100 g sirovih bobica:
 
 ### Ostali bioaktivni spojevi
 
-I cvjetovi bazge sadrže ljekovite tvari. Među njima su [flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi) (rutin i kvercetin), fenolne kiseline poput klorogenske kiseline (spoja kojeg ima i u kavi), triterpeni, steroli i eterična ulja. Zajedno daju cvijetu svojstva po kojima je poznat u narodnoj medicini: potiče znojenje (djeluje kao [dijaforetik](https://www.enciklopedija.hr/clanak/dijaforeza)) i izlučivanje mokraće (djeluje kao diuretik).
+Cvjetovi bazge sadrže [flavonoide](https://www.enciklopedija.hr/clanak/flavonoidi) (rutin i kvercetin), fenolne kiseline poput klorogenske kiseline (spoja kojeg ima i u kavi), triterpene, sterole i eterična ulja.
 
 Eterična ulja bazge sadrže fenilacetaldehid, benzaldehid i druge spojeve koji joj daju karakterističan miris.
 
@@ -137,42 +137,19 @@ Koristite samo **crnu bazgu** (*Sambucus nigra*). Hrvatski poljoprivredni portal
 
 * **ne jedite sirove plodove ni druge dijelove bazge** – svježi plodovi su blago otrovni i mogu izazvati jake probavne tegobe (povraćanje, proljev), vrtoglavicu i vrućicu. Bobice se prije jela moraju kuhati.
 * **tko ne smije koristiti bazgu** – prema Agroklubu, trudnice i djeca mlađa od 12 godina te osobe s Crohnovom bolešću (kroničnom upalom crijeva), akutnim probavnim tegobama ili alergijom na biljke iz porodice kozokrvnica. Oprez vrijedi i za dojilje. Europska agencija za lijekove (EMA) navodi da su lijekovi od cvijeta bazge namijenjeni samo odraslima i djeci starijoj od 12 godina.
-* **količina i trajanje** – prema istom izvoru, u malim količinama bazga se može koristiti do 12 tjedana.
 * **prije bilo kakve kure obavezno se posavjetujte s liječnikom.**
 
-## Znanstvena istraživanja: kako može pomoći zdravlju?
+## Znanstvena istraživanja: što se zna?
 
-### Potpora imunitetu: podrška kod gripe i prehlade
+### Prehlada i gripa
 
 Bazga se najčešće koristi kod prehlade i gripe. [Pregledni rad u znanstvenom časopisu Advances in Traditional Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/) iz 2020. obuhvatio je četiri kliničke studije u kojima je ekstrakt bobica bazge skratio trajanje prehlade i ublažio simptome poput vrućice, bolova, začepljenog nosa i kašlja.
 
-[Meta-analiza objavljena u časopisu Complementary Therapies in Medicine](https://pubmed.ncbi.nlm.nih.gov/30670267/) 2019. objedinila je rezultate randomiziranih kliničkih studija (studija u kojima se ispitanici nasumično dijele u skupine) sa 180 ispitanika. Zaključila je da dodatak bazge znatno ublažava simptome gornjih dišnih putova, poput kašlja, začepljenog nosa i grlobolje. Studije su ipak bile malene, pa te rezultate treba uzeti s oprezom.
+[Meta-analiza objavljena u časopisu Complementary Therapies in Medicine](https://pubmed.ncbi.nlm.nih.gov/30670267/) 2019. objedinila je rezultate randomiziranih kliničkih studija (studija u kojima se ispitanici nasumično dijele u skupine) sa 180 ispitanika. Zaključila je da dodatak bazge znatno ublažava simptome gornjih dišnih putova, poput kašlja, začepljenog nosa i grlobolje. Studije su ipak bile malene, a ispitivani su gotovi pripravci s ekstraktom bobica, a ne domaći sok ili sirup, pa te rezultate treba uzeti s oprezom.
 
-Kako bazga djeluje na virus, proučava se u laboratoriju. [Istraživanje na staničnim kulturama](https://www.sciencedirect.com/science/article/abs/pii/S1756464619300313) objavljeno 2019. u časopisu Journal of Functional Foods pokazalo je da bazga djeluje protiv virusa gripe na nekoliko načina: izravno ometa virus i utječe na imunosni odgovor stanica.
 
-[Ranije laboratorijsko istraživanje](https://www.sciencedirect.com/science/article/abs/pii/S0031942209002386), objavljeno 2009. u časopisu Phytochemistry, pokazalo je da se flavonoidi iz bazge vežu na čestice virusa gripe H1N1 i sprječavaju njihov ulazak u stanice. Riječ je o pokusima u epruveti (in vitro), a ne na ljudima.
 
 Neki su se pribojavali da bazga može pretjerano potaknuti imunosni sustav. [Sustavni pregled istraživanja](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026097/) objavljen 2021. u časopisu BMC Complementary Medicine and Therapies nije našao dokaze da bazga izaziva prekomjerno stvaranje citokina (signalnih molekula imunosnog sustava). Autori dodaju da su dokazi i o koristi i o mogućoj šteti zasad nesigurni.
-
-### Podrška zaštiti srca i krvnih žila
-
-[Pregledni rad u časopisu International Journal of Molecular Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787031/) iz 2026. ističe kardioprotektivni potencijal bazge, odnosno moguću zaštitu srca i krvnih žila. Pripisuje ga antioksidativnom i protuupalnom djelovanju njezinih spojeva.
-
-U [studiji na miševima](https://pubmed.ncbi.nlm.nih.gov/25758596/), objavljenoj 2015. u časopisu Food & Function, ekstrakt bazge bogat antocijanima poboljšao je pokazatelje rada HDL ("dobrog") kolesterola i smanjio nakupljanje kolesterola u aorti.
-
-[Pregled istraživanja o bobičastom voću](https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/), objavljen 2010. u časopisu Nutrition Reviews, povezuje polifenole iz bobica s manjim oksidativnim stresom i upalom te boljim pokazateljima zdravlja srca. Bazga nije bila među ispitanim vrstama, ali sadrži iste skupine spojeva. Može li bazga pomoći u održavanju zdravog krvnog tlaka i smanjiti rizik od ateroskleroze (otvrdnuća i suženja arterija), zasad nije potvrđeno istraživanjima na ljudima.
-
-### Antiupalna svojstva
-
-Bazga pokazuje i protuupalna svojstva. Prema [preglednom radu poljskih znanstvenika](https://pmc.ncbi.nlm.nih.gov/articles/PMC10489118/) u časopisu Molecules iz 2023., antocijani i drugi polifenoli iz bazge mogu smanjiti stvaranje upalnih markera (tvari koje u krvi pokazuju upalu).
-
-Kronična upala povezana je s nastankom brojnih bolesti, od bolesti srca i krvnih žila do degenerativnih bolesti. Smanjenjem upale u tijelu bazga bi mogla pridonijeti njihovu sprječavanju i ublažavanju simptoma, no to tek treba potvrditi.
-
-### Antioksidativni kapacitet
-
-Prema [preglednom radu u časopisu Journal of Functional Foods](https://www.sciencedirect.com/science/article/pii/S1756464614002400) iz 2015., antioksidativna aktivnost bazge viša je nego kod većine drugog bobičastog voća.
-
-Slobodni radikali su nestabilne molekule koje mogu oštetiti stanice i pridonijeti starenju i razvoju bolesti. Antioksidansi iz bazge, prije svega antocijani, neutraliziraju te molekule. Redovita konzumacija kuhanih proizvoda od bazge može pridonijeti zaštiti stanica, ali je za konkretne zdravstvene učinke potrebno više istraživanja na ljudima.
 
 ## Uzgoj vlastite bazge: od sadnice do berbe
 
@@ -207,7 +184,7 @@ Sok se čuva u staklenkama na hladnom mjestu, a pije se razrijeđen vodom ili mi
 
 ### Čaj od bazge
 
-Za čaj se koriste osušeni cvjetovi bazge, koji se preliju vrućom vodom. Čaj ima blagu, mirisnu aromu i tradicionalno se pije kod prehlade i gripe, a po želji se zasladi medom ili doda limun. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+Za čaj se koriste osušeni cvjetovi bazge, koji se preliju vrućom vodom. Čaj ima blagu, mirisnu aromu, a Europska agencija za lijekove priznaje ga kao tradicionalni biljni lijek kod prvih simptoma prehlade. Po želji se zasladi medom ili doda limun. Pripremu, djelovanje i moguće nuspojave opisuje članak o [čaju od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
 
 ### Pohana bazga: hrskavi cvatovi
 
@@ -247,21 +224,13 @@ Trudnice i dojilje neka se prije upotrebe pripravaka od bazge posavjetuju s lije
 
 ## Izvori
 
-- Hrvatska enciklopedija (Leksikografski zavod Miroslav Krleža) – [Flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi) i [Dijaforeza](https://www.enciklopedija.hr/clanak/dijaforeza)
+- Hrvatska enciklopedija (Leksikografski zavod Miroslav Krleža) – [Flavonoidi](https://www.enciklopedija.hr/clanak/flavonoidi)
 - Agroklub, hrvatski portal za poljoprivredu (2022.) – [Ukusne i ljekovite bobice bazge: Oprez sa svježim plodovima!](https://www.agroklub.com/hortikultura/ukusne-i-ljekovite-bobice-bazge-oprez-sa-svjezim-plodovima/79275/)
 - Europska agencija za lijekove (EMA) – [Cvijet bazge, sažetak za biljni lijek (Sambuci flos)](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos)
 - Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), SAD – [Bazga (Elderberry)](https://www.nccih.nih.gov/health/elderberry)
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Bobice bazge, sirove (Elderberries, raw)](https://fdc.nal.usda.gov/food-details/171727/nutrients)
-- da Silva i sur., laboratorijsko istraživanje (2019.) – [Antocijani soka od bazge kao prirodni sastojak za bojanje hrane (Anthocyanin Profile of Elderberry Juice)](https://pubmed.ncbi.nlm.nih.gov/31247974/), Molecules
 - Mahboubi, pregledni rad (2020.) – [Crna bazga kao alternativno liječenje prehlade i gripe (Sambucus nigra as alternative treatment for cold and flu)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7347422/), Advances in Traditional Medicine
 - Hawkins i sur., meta-analiza (2019.) – [Dodatak crne bazge ublažava simptome gornjih dišnih putova (Black elderberry supplementation effectively treats upper respiratory symptoms)](https://pubmed.ncbi.nlm.nih.gov/30670267/), Complementary Therapies in Medicine
-- Torabian i sur., laboratorijsko istraživanje (2019.) – [Djelovanje bazge protiv virusa gripe (Anti-influenza activity of elderberry)](https://www.sciencedirect.com/science/article/abs/pii/S1756464619300313), Journal of Functional Foods
-- Roschek i sur., laboratorijsko istraživanje (2009.) – [Flavonoidi bazge vežu se na virus H1N1 i sprječavaju infekciju in vitro (Elderberry flavonoids bind to and prevent H1N1 infection in vitro)](https://www.sciencedirect.com/science/article/abs/pii/S0031942209002386), Phytochemistry
 - Wieland i sur., sustavni pregled (2021.) – [Bazga za sprječavanje i liječenje virusnih bolesti dišnih putova (Elderberry for prevention and treatment of viral respiratory illnesses)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026097/), BMC Complementary Medicine and Therapies
-- Olas, pregledni rad (2026.) – [Usporedni pregled kardioprotektivnog potencijala bazge (Comparative Review of Cardioprotective Potential of Sambucus nigra)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787031/), International Journal of Molecular Sciences
-- Farrell i sur., studija na miševima (2015.) – [Ekstrakt crne bazge poboljšava pokazatelje rada HDL-a i smanjuje kolesterol u aorti (Anthocyanin-rich black elderberry extract improves markers of HDL function)](https://pubmed.ncbi.nlm.nih.gov/25758596/), Food & Function
-- Basu i sur., pregledni rad (2010.) – [Bobičasto voće i zdravlje srca (Berries: emerging impact on cardiovascular health)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/), Nutrition Reviews
-- Stępień i sur., pregledni rad (2023.) – [Protuupalna i protutumorska svojstva cvjetova i plodova bazge (Anti-Inflammatory and Anticancer Properties of Sambucus nigra L. Flowers and Fruits)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10489118/), Molecules
-- Sidor i Gramza-Michałowska, pregledni rad (2015.) – [Antioksidativna svojstva i zdravstvene koristi bazge u hrani (Advanced research on the antioxidant and health benefit of elderberry in food)](https://www.sciencedirect.com/science/article/pii/S1756464614002400), Journal of Functional Foods
 - Senica i sur., istraživanje (2017.) – [Fenoli i cijanogeni glikozidi u listovima, cvjetovima i bobicama bazge (Differences in phenolics and cyanogenic glycosides in Sambucus nigra leaves, flowers and berries)](https://pubmed.ncbi.nlm.nih.gov/27734518/), Journal of the Science of Food and Agriculture
 - Appenteng i sur., istraživanje (2021.) – [Cijanogeni glikozidi u američkoj bazgi (Cyanogenic Glycoside Analysis in American Elderberry)](https://pubmed.ncbi.nlm.nih.gov/33806603/), Molecules

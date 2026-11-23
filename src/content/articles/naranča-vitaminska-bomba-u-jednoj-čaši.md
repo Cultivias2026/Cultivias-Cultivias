@@ -84,22 +84,22 @@ Podaci u tablici potječu iz baze FoodData Central američkog Ministarstva poljo
 | Kalcij | 40 mg | 5 % |
 | Vitamin A | 11 µg | 1 % |
 
-## Kako naranča može pomoći našem zdravlju?
+## Naranča i zdravlje
 
 Glavna prednost naranče je vitamin C, koji prema zdravstvenim tvrdnjama odobrenima u Europskoj uniji pridonosi normalnoj funkciji imunosnog sustava i zaštiti stanica od oksidativnog stresa.
 
 Naranča ne sprječava prehladu i gripu. Sustavni pregled organizacije Cochrane (2013.) pokazao je da redovito uzimanje dodataka vitamina C kod većine ljudi ne smanjuje broj prehlada, a trajanje prehlade skraćuje tek malo, kod odraslih za oko 8 %.
 
-Naranča sadrži i druge biljne spojeve s antioksidativnim djelovanjem, poput flavonoida (osobito hesperidina) i karotenoida (poput beta-karotena). U malom istraživanju objavljenom u časopisu American Journal of Clinical Nutrition (2003.) dvanaest zdravih odraslih osoba pilo je 500 ml soka od naranče dnevno, dva tjedna. Razina vitamina C u krvi im je porasla, a jedan pokazatelj oksidativnog stresa se smanjio.
+Naranča sadrži i druge biljne spojeve, poput flavonoida (osobito hesperidina) i karotenoida (poput beta-karotena).
 
-Prehrana bogata voćem i povrćem povezuje se s manjim rizikom od bolesti srca i nekih vrsta raka, a naranča je jedan dio takve prehrane. Pojedinačno istraživanje sa sokom ne dokazuje da naranča sprječava kronične bolesti.
+Prehrana bogata voćem i povrćem povezuje se s manjim rizikom od bolesti srca i nekih vrsta raka, a naranča je jedan dio takve prehrane. To ne znači da naranča sama sprječava kronične bolesti.
 
-Vlakna iz naranče pomažu probavi i mogu pomoći održavanju razine kolesterola u krvi. Kalij je važan za regulaciju krvnog tlaka.
+Naranča sadrži i vlakna te kalij, koji je važan za regulaciju krvnog tlaka.
 
 * **kalij** – pridonosi održavanju normalnog krvnog tlaka
 * **vitamin C** – pridonosi normalnoj funkciji imunosnog sustava
 
-## Cijeđena naranča – broj 1 za detox
+## Cijeđena naranča i detox
 
 Čaša cijeđene naranče ujutro za mnoge je ritual za početak dana. Svježe cijeđeni sok zadržava većinu vitamina C, a kupovni sokovi i nektari mogu sadržavati dodani šećer, pa pročitajte deklaraciju.
 
@@ -151,7 +151,7 @@ Pročitajte i: [zablude o narančama](https://www.cultivias.com/vijesti/zablude-
 
 Mnogi se pitaju je li dobro jesti naranču prije spavanja. Često se piše da magnezij iz naranče pomaže opuštanju i boljem snu, no naranča ga ima malo, oko 10 mg na 100 g, pa na san ne može bitno utjecati.
 
-Neki ljudi ipak lakše zaspu nakon laganog voćnog obroka. Zbog kiselosti naranča kod nekih osoba može izazvati žgaravicu, osobito kad se legne odmah nakon jela, pa pratite kako vaše tijelo reagira.
+Zbog kiselosti naranča kod nekih osoba može izazvati žgaravicu, osobito kad se legne odmah nakon jela, pa pratite kako vaše tijelo reagira.
 
 Ako vas zanima drugo voće bogato vitaminom C, pogledajte [crni ribiz](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/), koji ga ima više od tri puta više od naranče.
 
@@ -161,7 +161,6 @@ Ako vas zanima drugo voće bogato vitaminom C, pogledajte [crni ribiz](https://w
 
 - Američko Ministarstvo poljoprivrede, baza FoodData Central – [Naranča, sirova (Oranges, raw, all commercial varieties)](https://fdc.nal.usda.gov/food-details/169097/nutrients)
 - Hemilä i Chalker, Cochrane sustavni pregled (2013.) – [Vitamin C za sprječavanje i liječenje prehlade (Vitamin C for preventing and treating the common cold)](https://pubmed.ncbi.nlm.nih.gov/23440782/)
-- Sánchez-Moreno i sur., istraživanje na ljudima (2003.) – [Sok od naranče, vitamin C i pokazatelji antioksidativnog statusa (Effect of orange juice intake on vitamin C concentrations and biomarkers of antioxidant status in humans)](https://pubmed.ncbi.nlm.nih.gov/12936929/), American Journal of Clinical Nutrition
 - Cochrane, sažetak na hrvatskom – [Uzimanje nadomjestaka folne kiseline prije začeća i u ranoj trudnoći](https://www.cochrane.org/hr/CD007950/PREG_uzimanje-nadomjestaka-folne-kiseline-prije-zaceca-i-u-ranoj-trudnoci-do-12-tog-tjedna-u-svrhu)
 - Britanska nacionalna zdravstvena služba (NHS) – [Folna kiselina u trudnoći (Pregnancy, breastfeeding and fertility while taking folic acid)](https://www.nhs.uk/medicines/folic-acid/pregnancy-breastfeeding-and-fertility-while-taking-folic-acid/)
 - Američko društvo za zaštitu životinja (ASPCA) – [Naranča: otrovnost za pse, mačke i konje (Orange)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/orange)

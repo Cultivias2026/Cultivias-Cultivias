@@ -50,35 +50,32 @@ related_articles:
   - kako-pravilno-osušiti-kamilicu-za-savršen-čaj
 ---
 
-Kamilica (*Matricaria chamomilla*) jednogodišnja je biljka iz porodice glavočika (Asteraceae), s bijelim laticama i žutim središtem cvijeta. Koristi se tisućama godina, najčešće kao čaj kod probavnih tegoba, nesanice i prehlade. Danas je jedan od najpopularnijih biljnih čajeva na svijetu. U nastavku saznajte odakle potječe njezina upotreba, kako je uzgojiti, ubrati i osušiti te kako se pravilno pripremaju čaj, inhalacija i oblozi.
+Kamilica (*Matricaria chamomilla*) jednogodišnja je biljka iz porodice glavočika (Asteraceae), s bijelim laticama i žutim središtem cvijeta. Koristi se tisućama godina, najčešće kao čaj. Danas je jedan od najpopularnijih biljnih čajeva na svijetu. U nastavku saznajte odakle potječe njezina upotreba, kako je uzgojiti, ubrati i osušiti te kako se pravilno pripremaju čaj, inhalacija i oblozi.
 
-Prema predaji, prvi zapisi o kamilici potječu iz starog Egipta, gdje je bila posvećena bogu Sunca Ra. Bila je poznata po tome što smiruje i ublažava različite tegobe.
+Prema predaji, prvi zapisi o kamilici potječu iz starog Egipta, gdje je bila posvećena bogu Sunca Ra.
 
-U antičkoj Grčkoj ljekovitost kamilice spominju Hipokrat i Dioskorid. Dioskorid ju je u djelu De Materia Medica opisao kao lijek za glavobolje, bolesti jetre i kao sredstvo za smirenje.
+U antičkoj Grčkoj ljekovitost kamilice spominju Hipokrat i Dioskorid. Dioskorid ju je opisao u djelu De Materia Medica.
 
-Koristila se kod nesanice, tjeskobe i probavnih tegoba.
 
-U Engleskoj su ljudi po podu posipali cvjetove kamilice kako bi prostorija mirisala i kako bi se osjećali smirenije.
+U Engleskoj su ljudi po podu posipali cvjetove kamilice kako bi prostorija ugodno mirisala.
 
 ## Zanimljivosti o kamilici
 
 Naziv "kamilica" dolazi od grčke riječi "chamaimelon", što znači "zemljana jabuka", jer cvjetovi mirišu na jabuku.
 
-Kamilica je jedna od biljaka koje kozmetička industrija najčešće koristi. Dodaje se šamponima, losionima i kremama zbog umirujućeg djelovanja na kožu.
+Kamilica je jedna od biljaka koje kozmetička industrija najčešće koristi. Dodaje se šamponima, losionima i kremama.
 
 ## Ljekovita svojstva
 
-Kamilica djeluje protuupalno (smanjuje upalu), antimikrobno (djeluje protiv nekih bakterija i gljivica) i blago umirujuće. [Pregledni rad u znanstvenom časopisu Molecular Medicine Reports](https://pmc.ncbi.nlm.nih.gov/articles/PMC2995283/) iz 2010. navodi da se pripravci kamilice tradicionalno koriste kod upala, grčeva mišića, nesanice, probavnih tegoba i rana.
+Europska agencija za lijekove (EMA) priznaje [tradicionalnu upotrebu kamilice](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) kod blagih probavnih tegoba, poput nadutosti i blagih grčeva, kod simptoma prehlade, kod blagih upala usne šupljine i grla te kod blagih upala kože, površinskih ranica i manjih čireva. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Lijekovi od kamilice uglavnom su namijenjeni odraslima i djeci starijoj od 12 godina.
 
-Može pomoći kod ublažavanja bolova, smanjenja upale i bolje probave.
 
-Sadrži antioksidanse, tvari koje neutraliziraju slobodne radikale (nestabilne molekule koje oštećuju stanice). Pretpostavlja se da bi to moglo smanjiti rizik od kroničnih bolesti, no za kamilicu to zasad nije dokazano istraživanjima na ljudima.
+Kamilica se pije i za opuštanje i lakši san, no za to nema dovoljno pouzdanih istraživanja na ljudima, pa učinak nije dokazan.
 
-Mnogi je koriste kod stresa i tjeskobe te za bolji san. Europska agencija za lijekove (EMA) priznaje [tradicionalnu upotrebu kamilice](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos) kod blagih probavnih tegoba, poput nadutosti i grčeva, kod prehlade, blagih upala usne šupljine i grla te kod blagih upala kože.
 
 ## List i cvijet kamilice
 
-Cvijet kamilice prepoznaje se po bijelim laticama i žutom središtu. Cijeni se zbog visokog udjela eteričnih ulja i flavonoida (biljnih spojeva s antioksidativnim djelovanjem).
+Cvijet kamilice prepoznaje se po bijelim laticama i žutom središtu. Cijeni se zbog visokog udjela eteričnih ulja i flavonoida (biljnih spojeva).
 
 Kamilica cvjeta u proljeće i ljeto, a cvjetovi se beru kad su potpuno otvoreni.
 
@@ -136,7 +133,7 @@ Uz redovito zalijevanje i njegu dat će dovoljno cvjetova za čaj i druge pripra
 
 Kamilicu berite pažljivo, kako ne biste oštetili biljke. [Cvjetovi se beru](https://www.cultivias.com/bilje/branje-kamilice-savjeti-za-uspje%C5%A1nu-berbu/) rukom ili škarama i slažu u košare ili mrežaste vrećice, kako se ne bi zgnječili.
 
-Osušite ih što prije nakon berbe, da sačuvaju ljekovite tvari.
+Osušite ih što prije nakon berbe, da sačuvaju aromu.
 
 Berba može trajati nekoliko tjedana, ovisno o vremenu i cvjetanju biljke.
 
@@ -146,7 +143,7 @@ Ubrani cvjetovi koriste se svježi ili osušeni, za čajeve, tinkture i druge pr
 
 ## Sušenje i čuvanje 
 
-[Sušenje kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/) važno je da cvjetovi sačuvaju ljekovita svojstva.
+[Sušenje kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/) važno je da cvjetovi sačuvaju aromu i ne uplijesne.
 
 Cvjetovi se suše na suhom, tamnom i prozračnom mjestu, da se ne bi pojavila plijesan.
 
@@ -156,7 +153,7 @@ Sušenje na zraku obično traje 1–2 tjedna, ovisno o vlazi zraka i temperaturi
 
 Osušenu kamilicu čuvajte u dobro zatvorenim posudama na tamnom i suhom mjestu.
 
-Tako pohranjena zadržava ljekovita svojstva do godinu dana.
+Tako pohranjena zadržava kvalitetu do godinu dana.
 
 Od osušenih cvjetova rade se i tinkture, ulja i drugi pripravci.
 
@@ -166,75 +163,63 @@ Od osušenih cvjetova rade se i tinkture, ulja i drugi pripravci.
 
 ### 1.Čaj od kamilice
 
-[Čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) jedan je od najpopularnijih biljnih čajeva, a pije se zbog umirujućeg djelovanja i kod blagih tegoba.
+[Čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/) jedan je od najpopularnijih biljnih čajeva.
 
 #### Priprema čaja:
 
 Jednu do dvije žličice osušenih cvjetova kamilice prelijte s 250 ml vruće vode, poklopite i ostavite 5 do 10 minuta.
 
-Čaj se najčešće pije kod stresa, nesanice i probavnih tegoba.
 
-Šalica čaja prije spavanja mnogima pomaže da se opuste i lakše zaspu.
 
 ### 2.Eterično ulje kamilice
 
 Eterično ulje kamilice dobiva se destilacijom cvjetova.
 
-U aromaterapiji se koristi za opuštanje, kod stresa i tjeskobe te za bolje raspoloženje.
+Koristi se u aromaterapiji i kozmetici, no za njegove učinke na raspoloženje ili kožu nema pouzdanih istraživanja na ljudima.
 
-Razrijeđeno se može nanositi i na kožu, za ublažavanje bolova i upala te kod kožnih tegoba poput ekcema i akni.
+Ne pije se, a na kožu se nanosi samo razrijeđeno.
 
 Ulje se dodaje i kremama, losionima i balzamima za njegu kože.
 
 ### 3. Tinktura od kamilice
 
-Tinktura je koncentrirani biljni ekstrakt, odnosno otopina ljekovitih tvari iz biljke.
+Tinktura je koncentrirani biljni ekstrakt, odnosno otopina tvari iz biljke.
 
-Priprema se namakanjem cvjetova kamilice u alkoholu ili glicerinu. Koncentriranija je od čaja i koristi se i na koži i za piće.
+Priprema se namakanjem cvjetova kamilice u alkoholu ili glicerinu i koncentriranija je od čaja.
 
-Uzeta na usta može pomoći kod stresa, lošeg sna i probavnih tegoba, a na koži kod rana i upala.
+Tinktura s alkoholom nije za djecu, trudnice ni osobe koje ne smiju piti alkohol.
 
 ## Inhaliranje kamilicom
 
-Inhaliranje kamilicom jednostavan je način da se ublaže simptomi prehlade, upale sinusa i alergija. Kod prehlade se tradicionalno pije i [čaj od bazge](https://www.cultivias.com/bilje/%C4%8Daj-od-bazge-ljekovitost-pravilna-priprema-i-mogu%C4%87e-nuspojave/).
+Inhalaciju parom s kamilicom EMA priznaje kao tradicionalnu upotrebu kod simptoma prehlade. Kod nje je najveća opasnost opeklina vrelom vodom.
 
 ### Postupak inhalacije:
 
 1. Zagrijte oko 1 litre vode do vrenja (100 °C) i prelijte je u veliku zdjelu.
-2. Dodajte 3–5 žlica osušenih cvjetova kamilice ili 2 do 3 kapi eteričnog ulja kamilice.
+2. Dodajte 3–5 žlica osušenih cvjetova kamilice.
 3. Nagnite glavu nad zdjelu i prekrijte se ručnikom, da para ostane ispod njega.
 4. Udišite paru 10–15 minuta, duboko dišući na nos i usta.
 5. Nakon inhalacije odmorite se nekoliko minuta.
 
 Pazite da se ne opečete vrelom vodom ili parom. Djeci ne pripremajte inhalaciju s vrelom vodom.
 
-#### Pomaže kod:
-
-* **začepljenog nosa** – topla para otvara dišne putove
-* **upale sinusa** – smanjuje upalu i olakšava disanje
-* **prehlade i alergija** – ublažava simptome
-
 ## Hladni oblozi od kamilice
 
-[Hladni oblozi od kamilice](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/) mogu smanjiti upalu, ublažiti bol i nadraženost kože.
+[Hladni oblozi od kamilice](https://www.cultivias.com/bilje/hladni-oblozi-od-kamilice-prirodno-rje%C5%A1enje-za-opu%C5%A1tanje/) stavljaju se na blago nadraženu kožu, a EMA kamilicu na koži priznaje kod blagih upala, na temelju tradicije.
 
 ### Postupak:
 
 1. Pripremite čaj tako da 2–3 žlice osušenih cvjetova kamilice prelijete s 500 ml kipuće vode, poklopite i ostavite 10–15 minuta, pa procijedite.
 2. Ostavite čaj da se ohladi na sobnu temperaturu, a zatim ga stavite u hladnjak na 30 minuta.
 3. U hladan čaj namočite čistu gazu ili pamučnu krpu.
-4. Lagano iscijedite višak tekućine i položite oblog na bolno mjesto.
+4. Lagano iscijedite višak tekućine i položite oblog na nadraženu kožu.
 5. Ostavite oblog 10–15 minuta, a zatim ga uklonite.
 
-Pomaže kod:
-
-* **boli i otekline** – hladnoća i kamilica smiruju nadraženo mjesto
-* **upale i crvenila** – smanjuje nadraženost kože
-* **manjih rana, uboda kukaca, opeklina i modrica** – kao blaga pomoć uz uobičajenu njegu
+Oblog ne stavljajte na duboke ili zagnojene rane ni na oči, a ako crvenilo ili oteklina ne prolaze, javite se liječniku.
 
 ## Kamilica za probavu i želudac
 
-Čaj od kamilice može pomoći kod [proljeva, gastritisa (upale želučane sluznice), žgaravice i drugih probavnih smetnji](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
+EMA čaj od kamilice priznaje kod blagih probavnih tegoba poput nadutosti i blagih grčeva, na temelju tradicije. Više o tome donosi članak [kamilica za probavu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
 
 Ovako se priprema čaj za probavu:
 
@@ -244,32 +229,17 @@ Postupak:
 2. Ostavite čaj da odstoji 5–10 minuta, poklopljen.
 3. Procijedite ga i pijte nakon obroka.
 
-[Pregledni rad o ljekovitom bilju i crijevnoj mikrobioti](https://www.mdpi.com/1422-0067/26/22/10875) (zajednici mikroorganizama u crijevima), objavljen 2025. u znanstvenom časopisu International Journal of Molecular Sciences, navodi da kamilica može umiriti želudac, potaknuti probavu te ublažiti nadutost i grčeve. Tome se pripisuju njezino protuupalno djelovanje i opuštanje glatkih mišića probavnog sustava (spazmolitičko djelovanje).
+Ako probavne tegobe traju dulje od tjedan dana ili se vraćaju, javite se liječniku.
 
 ## Kamilica za bebe
 
-Kamilica se tradicionalno daje bebama kod kolika (napadaja plača uzrokovanih grčevima u trbuhu), probavnih smetnji i za smirenje. U [talijanskoj kliničkoj studiji](https://pubmed.ncbi.nlm.nih.gov/16041731/) objavljenoj 2005. u časopisu Phytotherapy Research dojenčad s kolikama dobivala su tjedan dana gotov standardizirani pripravak kamilice, komorača i matičnjaka. Vrijeme plakanja u toj se skupini znatno smanjilo. Riječ je o gotovom pripravku, a ne o domaćem čaju.
+Kamilica se u narodnoj medicini daje bebama kod kolika (napadaja plača uzrokovanih grčevima u trbuhu). U [talijanskoj kliničkoj studiji](https://pubmed.ncbi.nlm.nih.gov/16041731/) objavljenoj 2005. u časopisu Phytotherapy Research dojenčad s kolikama dobivala su tjedan dana gotov standardizirani pripravak kamilice, komorača i matičnjaka. Vrijeme plakanja u toj se skupini znatno smanjilo. Riječ je o gotovom pripravku s tri biljke, a ne o domaćem čaju od kamilice.
 
 Prije nego što bebi date čaj od kamilice, imajte na umu sljedeće:
 
 * **bebe mlađe od 6 mjeseci** – Svjetska zdravstvena organizacija (WHO) [preporučuje](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding) da u prvih 6 mjeseci dobivaju samo majčino mlijeko, bez dodatne hrane i pića, pa ni vode, osim ako to nije medicinski potrebno
 * **kamilica iz rinfuze** – u [argentinskom istraživanju](https://pubmed.ncbi.nlm.nih.gov/18068252/) (International Journal of Food Microbiology, 2008.) 7,5 % uzoraka kamilice sadržavalo je spore bakterije *Clostridium botulinum*, koja kod beba mlađih od godinu dana može izazvati botulizam (teško trovanje). Spore su znatno češće bile u kamilici koja se prodaje na vagu nego u filter-vrećicama.
-* **savjet pedijatra** – starijim bebama čaj dajte samo nakon razgovora s pedijatrom
-
-Ako pedijatar odobri, ovako se priprema blagi čaj za bebe:
-
-### Postupak:
-
-1. Prelijte 1/2 žličice osušenih cvjetova kamilice s 250 ml vruće vode.
-2. Ostavite čaj da odstoji 5–10 minuta, poklopljen.
-3. Procijedite ga i ostavite da se ohladi na sobnu temperaturu.
-4. Dajte bebi nekoliko žličica čaja između obroka.
-
-#### Pomaže kod:
-
-* **kolika** – može ublažiti grčeve u trbuhu
-* **probavnih smetnji** – djeluje blago umirujuće na probavu
-* **nemira** – pomaže da se beba smiri i opusti
+* **savjet pedijatra** – starijim bebama čaj ili biljni pripravak dajte samo ako ga pedijatar preporuči, i to prema njegovoj uputi
 
 ## Štetnost i nuspojave čaja od kamilice
 
@@ -287,15 +257,13 @@ Ta je količina za većinu ljudi sigurna. Ne pretjerujte, kako biste izbjegli mo
 
 ### Za tinkturu
 
-Tinktura od kamilice najčešće se uzima 1–2 ml (oko 20–40 kapi) do tri puta dnevno, razrijeđena u vodi.
-
-Pridržavajte se uputa proizvođača i ne prelazite preporučenu količinu.
+Koristite samo gotove tinkture i držite se uputa na pakiranju.
 
 ### Za eterično ulje
 
 Eterično ulje kamilice je koncentrirano, pa ga koristite oprezno.
 
-Za inhalaciju ili nanošenje na kožu dovoljno je nekoliko kapi razrijeđenih u baznom ulju (npr. bademovom) ili vodi.
+Za nanošenje na kožu razrijedite ga u baznom ulju, npr. bademovom. Eterično ulje se ne miješa s vodom.
 
 *Nikada ne koristite eterično ulje nerazrijeđeno ili u velikim količinama bez savjeta aromaterapeuta ili liječnika.*
 
@@ -306,8 +274,6 @@ Za inhalaciju ili nanošenje na kožu dovoljno je nekoliko kapi razrijeđenih u 
 - Kraljevsko hortikulturno društvo (Royal Horticultural Society), Velika Britanija – [Kako uzgojiti kamilicu (How to Grow Chamomile)](https://www.rhs.org.uk/advice/grow-your-own/herbs/chamomile)
 - Europska agencija za lijekove (EMA) – [Cvijet kamilice, sažetak za biljni lijek (Matricariae flos)](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos)
 - Svjetska zdravstvena organizacija (WHO) – [Prehrana dojenčadi i male djece (Infant and young child feeding)](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding)
-- Srivastava i sur., pregledni rad (2010.) – [Kamilica: biljni lijek prošlosti sa svijetlom budućnošću (Chamomile: A herbal medicine of the past with bright future)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2995283/), Molecular Medicine Reports
-- Pacyga i sur., pregledni rad (2025.) – [Ljekovito bilje za zdravu crijevnu mikrobiotu (Medicinal Plants for a Healthy Gut Microbiome)](https://www.mdpi.com/1422-0067/26/22/10875), International Journal of Molecular Sciences
 - Savino i sur., randomizirana klinička studija (2005.) – [Standardizirani ekstrakt kamilice, komorača i matičnjaka kod dojenčadi s kolikama (A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis)](https://pubmed.ncbi.nlm.nih.gov/16041731/), Phytotherapy Research
 - Bianco i sur., istraživanje (2008.) – [Spore bakterije Clostridium botulinum u kamilici i dojenački botulizam (Presence of Clostridium botulinum spores in Matricaria chamomilla and its relationship with infant botulism)](https://pubmed.ncbi.nlm.nih.gov/18068252/), International Journal of Food Microbiology
 - Američko društvo za zaštitu životinja (ASPCA) – [Kamilica: otrovnost za pse, mačke i konje (Chamomile)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile)

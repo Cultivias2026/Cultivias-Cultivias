@@ -12,7 +12,7 @@ perex: >-
   i listovi.
 readTime: 10
 publishedAt: 2026-07-15
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -179,8 +179,7 @@ Eukaliptus je prilično otporan, ali na njemu se mogu pojaviti lisne uši i crve
 
 ## Miris eukaliptusa u kući
 
-Osim zelenila, eukaliptus u kuću donosi i miris. Eterično ulje iz njegovih listova sadrži 1,8-cineol, poznat i kao eukaliptol. [Pregledni rad objavljen 2024. u časopisu Inflammopharmacology](https://pmc.ncbi.nlm.nih.gov/articles/PMC11799053/) eteričnim uljima eukaliptusa pripisuje antimikrobno i protuupalno djelovanje, no ti se zaključci većinom temelje na laboratorijskim istraživanjima i pokusima na životinjama.
-
+Osim zelenila, eukaliptus u kuću donosi i miris. Eterično ulje iz njegovih listova sadrži 1,8-cineol, poznat i kao eukaliptol.
 Mnogima miris eukaliptusa u prostoriji djeluje osvježavajuće. Ipak, sama biljka u tegli ispušta vrlo malo eteričnog ulja u zrak, daleko manje od difuzera s eteričnim uljem.
 
 ### Je li eukaliptus u tegli otrovan?
@@ -226,5 +225,4 @@ Uz dobru njegu i redovito presađivanje u veće tegle eukaliptus u tegli može �
 - Kraljevsko hortikulturno društvo (RHS) – [Kako uzgajati eukaliptus (How to grow eucalyptus)](https://www.rhs.org.uk/plants/eucalyptus/growing-guide), [Rezidba eukaliptusa (Eucalyptus: pruning)](https://www.rhs.org.uk/plants/eucalyptus/pruning-guide) i [profil biljke Eucalyptus gunnii](https://www.rhs.org.uk/Plants/6888/Eucalyptus-gunnii/Details)
 - Kraljevsko hortikulturno društvo (RHS) – [Pet najčešćih vrtlarskih zabluda (Debunking the top five gardening myths)](https://www.rhs.org.uk/garden-inspiration/get-gardening/top-five-gardening-myths)
 - Sveučilište Illinois, savjetodavna služba – [Drenaža u posudama (Container Drainage Options)](https://extension.illinois.edu/container-gardens/container-drainage-options)
-- El Shiekh i sur., pregledni rad (2024.) – [Terapijska primjena eteričnih ulja eukaliptusa (Therapeutic applications of eucalyptus essential oils)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11799053/), Inflammopharmacology
 - Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) – [Eukaliptus (Eucalyptus)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus)

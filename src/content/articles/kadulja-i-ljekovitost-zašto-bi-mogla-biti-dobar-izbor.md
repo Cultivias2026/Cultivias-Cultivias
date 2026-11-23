@@ -8,7 +8,7 @@ perex: Kadulja ili žalfija (Salvia officinalis) jedna je od najpoznatijih
   njena ljekovitost?
 readTime: 7
 publishedAt: 2025-11-28
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -48,21 +48,20 @@ Rezultati laboratorijskih istraživanja i pokusa na životinjama ne mogu se izra
 
 ## Antioksidativno i protuupalno djelovanje kadulje
 
-Talijansko laboratorijsko istraživanje objavljeno 2021. godine u znanstvenom časopisu [Antioxidants](https://www.mdpi.com/2076-3921/10/2/311) ispitalo je ekstrakte listova i cvjetova kadulje s juga Italije. Ekstrakti su djelovali kao antioksidansi, odnosno neutralizirali su slobodne radikale, nestabilne molekule koje oštećuju stanice. Među djelatnim tvarima istraživači ističu ružmarinsku kiselinu, luteolin-7-glukozid i karnozol. Ružmarinsku kiselinu sadrže i druge usnače, primjerice [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/) i [majčina dušica](https://www.cultivias.com/bilje/maj%C4%8Dina-du%C5%A1ica-vodi%C4%8D-kroz-ljekovita-svojstva-i-upotrebu/).
+Kadulja sadrži ružmarinsku kiselinu, luteolin-7-glukozid i karnozol. Istraživanja njihova antioksidativnog i protuupalnog djelovanja, poput talijanskog iz 2021. objavljenog u časopisu [Antioxidants](https://www.mdpi.com/2076-3921/10/2/311), zasad su provedena samo u laboratoriju, na stanicama.
 
-U pokusima na mišjim imunosnim stanicama (makrofagima) ekstrakti su smanjili stvaranje dušikova oksida i upalnih citokina, signalnih tvari koje potiču upalu. Pritom su djelovali na NF-κB, bjelančevinu koja u stanici pokreće upalne procese. Ekstrakti su ublažili i upalu koju su u istim stanicama izazvale tvari iz stanica raka dojke. To je laboratorijski nalaz, a ne dokaz da kadulja štiti od raka ili utječe na njegov tijek.
+Takvi pokusi ne pokazuju da kadulja u ljudskom tijelu smanjuje upale ili štiti od bolesti, pa to ne možemo tvrditi.
 
-Protuupalno djelovanje u laboratoriju može objasniti zašto se kadulja tradicionalno koristi kod blažih upala grla, promuklosti i probavnih tegoba. Ispitivanja na ljudima koja bi to potvrdila zasad nema dovoljno.
 
 ## Antimikrobni učinci kadulje
 
-Brazilsko [laboratorijsko istraživanje](https://www.agd.org/docs/default-source/self-instruction-%28gendent%29/gendent_jf19_de-oliveira-s-i.pdf) objavljeno 2019. godine u stomatološkom časopisu General Dentistry ispitalo je ekstrakt kadulje na 60 uzoraka mikroorganizama iz usne šupljine. Među njima su bile bakterije *Staphylococcus aureus* i *Streptococcus mutans*, koja uzrokuje karijes, te gljivice roda *Candida*. U koncentraciji od 50 mg/ml ekstrakt je zaustavio rast svih ispitanih mikroorganizama. Pritom nije oštetio mišje makrofage u kulturi, a smanjio je stvaranje upalnih citokina IL-1β i TNF-α.
+Kadulja nije prirodni antibiotik. Pokusi u kojima je ekstrakt kadulje zaustavljao rast bakterija i gljivica iz usne šupljine rađeni su u epruveti, kao brazilsko [laboratorijsko istraživanje](https://www.agd.org/docs/default-source/self-instruction-%28gendent%29/gendent_jf19_de-oliveira-s-i.pdf) iz 2019.
 
-Takvi rezultati ne znače da je kadulja prirodni antibiotik. Ispitivana koncentracija od 50 mg/ml veća je od količine kadulje u šalici čaja, a pokus u epruveti ne pokazuje kako bi ekstrakt djelovao u ustima ili u tijelu. Kod bakterijskih infekcija kadulja ne može zamijeniti antibiotik koji propiše liječnik.
+Ispitivana koncentracija od 50 mg/ml veća je od količine kadulje u šalici čaja, a pokus u epruveti ne pokazuje kako bi ekstrakt djelovao u ustima ili u tijelu. Kod bakterijskih infekcija kadulja ne može zamijeniti antibiotik koji propiše liječnik.
 
 ## Djelovanje kadulje kod upale grla i dišnih puteva
 
-Kadulja se tradicionalno koristi kod blažih upala grla, poznatog grebanja u grlu, kašlja i promuklosti. EMA je za upale u ustima i grlu priznaje kao tradicionalni biljni lijek. Za grgljanje se tradicionalno koristi i [čaj od kamilice](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/), a kod kašlja [čaj od majčine dušice](https://www.cultivias.com/bilje/%C4%8Daj-od-maj%C4%8Dine-du%C5%A1ice-ljekovitost-djelovanje-i-pravilna-priprema/).
+EMA kadulju za upale u ustima i grlu priznaje kao tradicionalni biljni lijek, na temelju dugogodišnje upotrebe. Na ljudima je ispitan samo sprej s ekstraktom kadulje.
 
 [Kliničko ispitivanje](https://pubmed.ncbi.nlm.nih.gov/16504956/) objavljeno 2006. godine uključilo je 286 bolesnika s akutnom virusnom upalom ždrijela (faringitisom). Bilo je randomizirano i dvostruko slijepo: ispitanici su nasumično raspoređeni u skupine, a ni oni ni istraživači nisu znali tko dobiva pravi pripravak, a tko placebo. Sprej s 15 % ekstrakta kadulje ublažio je bol u grlu u prva dva sata nakon primjene bolje od placeba. Sprejevi s 5 i 30 % ekstrakta nisu obećavali bolji učinak od placeba, pa se s njima nije nastavilo. Od nuspojava su zabilježeni blaga suhoća i pečenje u grlu.
 
@@ -70,11 +69,11 @@ Rezultat je ohrabrujući, ali ima ograničenja. Mjerio se učinak u prva dva sat
 
 ## Može li kadulja pomoći kod probave?
 
-Kadulja se u narodnoj medicini tradicionalno koristi kod probavnih tegoba, a EMA je priznaje kao tradicionalni biljni lijek za blage tegobe poput žgaravice i nadutosti.
+EMA kadulju priznaje kao tradicionalni biljni lijek za blage probavne tegobe poput žgaravice i nadutosti, na temelju dugogodišnje upotrebe.
 
-Brazilsko [istraživanje](https://pubmed.ncbi.nlm.nih.gov/19481590/) objavljeno 2009. godine ispitalo je ekstrakt kadulje na štakorima. Ekstrakt je štitio želučanu sluznicu od oštećenja alkoholom, odnosno djelovao je gastroprotektivno. Smanjio je i čir izazvan octenom kiselinom te kiselost želučanog soka. U pokusima u epruveti kočio je protonsku pumpu, enzim koji stvara želučanu kiselinu i na koji djeluju i neki lijekovi protiv žgaravice. Kao moguća djelatna tvar izdvojen je karnozol.
+Na ljudima to nije ispitano. Pokusi s ekstraktom kadulje i želucem, poput brazilskog [istraživanja](https://pubmed.ncbi.nlm.nih.gov/19481590/) iz 2009., rađeni su na štakorima.
 
-Riječ je o pokusu na životinjama, pa se rezultati ne mogu izravno prenijeti na ljude. Kadulja nije zamjena za lijekove protiv žgaravice ili čira na želucu, a žgaravicu koja se često vraća treba pregledati liječnik. Za blage probavne tegobe EMA tradicionalno priznaje i druge biljke, primjerice [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/) i list [paprene metvice](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/).
+Kadulja nije zamjena za lijekove protiv žgaravice ili čira na želucu, a žgaravicu koja se često vraća treba pregledati liječnik. Za blage probavne tegobe EMA tradicionalno priznaje i druge biljke, primjerice [kamilicu](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/) i list [paprene metvice](https://www.cultivias.com/bilje/menta-sve-va%C5%BEne-informacije-o-njoj/).
 
 ## Kadulja za oralno zdravlje
 
@@ -86,9 +85,9 @@ Ispitivanje je malo i kratko, a gel se koristio kao dodatak stomatološkom zahva
 
 ## Kadulja i bore: što pokazuju istraživanja
 
-Južnokorejsko [istraživanje](https://pubmed.ncbi.nlm.nih.gov/27466023/) objavljeno 2016. godine bavilo se sklareolom, tvari izdvojenom iz kadulje koja se u kozmetici koristi kao mirisni sastojak. U laboratorijskim pokusima sklareol je štitio kožne stanice od oštećenja UVB zrakama i kočio enzime koji razgrađuju kolagen, bjelančevinu koja koži daje čvrstoću. Takvo oštećenje kože suncem naziva se fotostarenje.
+Za kadulju i bore nema pouzdanih dokaza. Jedino južnokorejsko [istraživanje](https://pubmed.ncbi.nlm.nih.gov/27466023/) iz 2016. ne odnosi se na kadulju, nego na sklareol, mirisnu tvar izdvojenu iz nje, u kozmetičkoj kremi.
 
-U kliničkom dijelu ispitivanja ispitanici su 12 tjedana nanosili kremu s 0,02 % sklareola. Nakon tog razdoblja nekoliko pokazatelja bora bilo je bolje nego u kontrolnoj skupini. Istraživanje je provela kozmetička tvrtka, a u sažetku rada nisu navedeni broj ispitanika ni veličina učinka. Ispitivana je izdvojena tvar u kremi, a ne čaj ili domaći pripravci od kadulje, pa usporedba s botoksom nije opravdana.
+Istraživanje je provela kozmetička tvrtka, a u sažetku rada nisu navedeni broj ispitanika ni veličina učinka. Iz njega se zato ne može zaključiti ništa o čaju ili domaćim pripravcima od kadulje.
 
 ## Treba li se kadulja koristiti s oprezom?
 

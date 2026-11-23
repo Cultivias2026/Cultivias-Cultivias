@@ -4,7 +4,7 @@ category: voce
 author: redakcija
 image: /images/articles/grana-ogrozda-sa-zrelim-plodovima.webp
 perex: >-
-  Ovo nekad popularno voće, bogato vitaminima i antioksidansima, posljednjih
+  Ovo nekad popularno voće, bogato vitaminom C, posljednjih
   godina polako nestaje s naših stolova. No, njegova vrijednost i ukus su
   neosporni.
 
@@ -12,7 +12,7 @@ perex: >-
   imunološkog sustava, a izvor je i vlakana, važnih za dobru probavu.
 readTime: 10
 publishedAt: 2024-10-18
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -116,30 +116,30 @@ Ogrozd sadrži topljiva i netopljiva vlakna. Netopljiva vlakna povećavaju volum
 
 Prehrana bogata vlaknima iz voća, povrća i cjelovitih žitarica povezuje se s boljom regulacijom šećera u krvi i nižim rizikom od bolesti srca, dijabetesa tipa 2 i pretilosti. Ogrozd je samo jedan dio takve prehrane, a ne lijek.
 
-## Antioksidansi i zaštita od bolesti
+## Biljni spojevi u ogrozdu
 
-Ogrozd sadrži vitamin C, male količine vitamina E i niz biljnih spojeva s antioksidativnim djelovanjem. Antioksidansi neutraliziraju slobodne radikale, nestabilne molekule koje mogu oštetiti stanice, no laboratorijska mjerenja ne znače automatski da jedenje ogrozda štiti od bolesti.
+Ogrozd sadrži vitamin C, male količine vitamina E i niz biljnih spojeva, ponajprije polifenola. Laboratorijska mjerenja njihove antioksidativne aktivnosti ne znače da jedenje ogrozda štiti od bolesti.
 
-* **flavonoli** – istraživanja ih povezuju sa zdravljem srca i krvnih žila
-* **antocijani** – pigmenti tamnijih sorti, koji se istražuju u vezi sa zdravljem očiju i starenjem
+* **flavonoli** – skupina biljnih spojeva
+* **antocijani** – pigmenti tamnijih sorti
 * **fenolne kiseline** – kavena, klorogenska, kumarinska, hidroksibenzojeva i elaginska kiselina
 * **organske kiseline** – ponajviše limunska, koja ogrozdu daje kiselkast okus
 
-## Prirodna pomoć kod alergija
+## Ogrozd i alergije
 
 Često se piše da flavonoidi iz ogrozda djeluju kao prirodni antihistaminici i ublažavaju alergije. Za tu tvrdnju nema istraživanja na ljudima koji su jeli ogrozd.
 
 Laboratorijska istraživanja pojedinih flavonoida, poput kvercetina, ne mogu se prenijeti na šaku bobica. Ogrozd zato nije zamjena za lijekove protiv alergije koje je preporučio liječnik ili ljekarnik.
 
-## Podrška kontroli šećera u krvi
+## Ogrozd i šećer u krvi
 
-Američki zdravstveni portal Healthline navodi nekoliko razloga zbog kojih bi ogrozd mogao pomoći u kontroli šećera u krvi. Vlakna usporavaju upijanje šećera u krv, pa razina šećera nakon obroka raste sporije.
+Istraživanja na ljudima koji jedu ogrozd nema, pa se ne može tvrditi da ogrozd pomaže u kontroli šećera u krvi.
 
-Ogrozd sadrži i klorogensku kiselinu, za koju laboratorijska istraživanja pokazuju da može usporiti razgradnju ugljikohidrata. Istraživanja na ljudima koji jedu ogrozd nema, pa je riječ o mogućem, a ne dokazanom učinku.
+Ideje o tome temelje se na laboratorijskim pokusima s klorogenskom kiselinom, koju ogrozd sadrži. Osobe sa šećernom bolešću neka voće uklope u svoj plan prehrane prema savjetu liječnika ili nutricionista.
 
-## Zaštita mozga i zdravlje srca
+## Ogrozd, srce i mozak
 
-Prehrana bogata voćem, osobito bobičastim, povezuje se s manjim rizikom od bolesti srca. Ogrozd tome pridonosi kalijem, vlaknima i antioksidansima, kao i drugo voće.
+Prehrana bogata voćem i povrćem povezuje se s manjim rizikom od bolesti srca, a ogrozd je dio takve prehrane kao i drugo voće. Posebnih dokaza za sam ogrozd nema.
 
 Za tvrdnje da ogrozd štiti mozak od bolesti povezanih sa starenjem ili smanjuje rizik od moždanog udara nema istraživanja na ljudima. Te se ideje temelje na laboratorijskim pokusima s pojedinim spojevima, a ne na jedenju ogrozda.
 

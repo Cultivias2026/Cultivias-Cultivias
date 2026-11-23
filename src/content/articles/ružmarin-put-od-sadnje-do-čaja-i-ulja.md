@@ -81,11 +81,11 @@ Ovisno o sorti i uvjetima, grm naraste od 30 centimetara do dva metra. Cvate sit
 
 ## Kemijski sastojci i aktivne komponente
 
-Ljekovitost ružmarina pripisuje se ponajprije fenolnim spojevima, karnozolnoj kiselini i ružmarinskoj kiselini. Karnozolnu kiselinu i od nje nastali karnozol sadrži i kadulja, kod koje se karnozolu pripisuje [zaštitno djelovanje na želudac](https://www.cultivias.com/bilje/kadulja-i-ljekovitost-za%C5%A1to-bi-mogla-biti-dobar-izbor/).
+Najvažniji spojevi u ružmarinu su fenolni spojevi, karnozolna kiselina i ružmarinska kiselina. Karnozolnu kiselinu i od nje nastali karnozol sadrži i kadulja.
 
-[Pregledni rad](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/) iranskih znanstvenika iz 2020. godine bavio se djelovanjem ružmarina na živčani sustav. Navodi da ti spojevi u laboratorijskim pokusima i na životinjama djeluju protuupalno, antimikrobno i zaštitno na živčane stanice (neuroprotektivno). Autori opisuju i učinke na raspoloženje, pamćenje i bol, ali većina dokaza potječe iz pretkliničkih istraživanja, provedenih u laboratoriju i na životinjama.
+Istraživanja tih spojeva, poput onih koje opisuje [Pregledni rad](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/) iranskih znanstvenika iz 2020. godine, provedena su uglavnom u laboratoriju i na životinjama, pa se njihovi učinci ne mogu pripisati ružmarinu kod ljudi.
 
-Ružmarin sadrži i eterično ulje. Jedan od glavnih sastojaka je 1,8-cineol (eukaliptol), koji pridonosi karakterističnom mirisu. U istraživanjima je povezan i s pamćenjem i pažnjom, no ispitivanja na ljudima su malobrojna i mala.
+Ružmarin sadrži i eterično ulje. Jedan od glavnih sastojaka je 1,8-cineol (eukaliptol), koji pridonosi karakterističnom mirisu.
 
 ### Nutritivna vrijednost svježeg ružmarina
 
@@ -118,13 +118,11 @@ Tablica prikazuje vrijednosti za 100 g svježeg ružmarina iz baze FoodData Cent
 
 Brojke na 100 g izgledaju visoke, no toliko ružmarina nitko ne pojede. Jedna žlica svježeg ružmarina teži oko 1,7 g, a čajna žličica oko 0,7 g, pa je doprinos ružmarina dnevnom unosu vitamina i minerala malen.
 
-## Čaj od ružmarina - priprema i prednosti
+## Čaj od ružmarina - priprema
 
 Čaj od ružmarina jednostavno se priprema. Jednu žličicu sušenog ružmarina ili jednu grančicu svježeg prelijte s 250 ml vruće vode koja više ne vrije. Poklopite, ostavite 5 do 10 minuta i procijedite.
 
-Ružmarin se tradicionalno pije kod probavnih smetnji, poput nadutosti i grčeva. Europska agencija za lijekove (EMA) list ružmarina priznaje kao tradicionalni biljni lijek za ublažavanje loše probave (dispepsije) i blagih grčeva u probavnom sustavu. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Kod probavnih tegoba tradicionalno se koristi i [kamilica](https://www.cultivias.com/bilje/kamilica-olak%C5%A1anje-probave-nadutosti-i-gr%C4%8Deva/).
-
-Prema pregledu portala [Healthline](https://www.healthline.com/nutrition/rosemary-tea), spojevi iz ružmarina, poput ružmarinske kiseline, u istraživanjima smanjuju upalu u probavnom sustavu i utječu na ravnotežu crijevnih bakterija. Ti rezultati potječu uglavnom iz pokusa na životinjama i u laboratoriju.
+Europska agencija za lijekove (EMA) list ružmarina priznaje kao tradicionalni biljni lijek za ublažavanje loše probave (dispepsije) i blagih grčeva u probavnom sustavu. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima.
 
 Šalica čaja nije izvor vitamina C: žličica sušenog ružmarina sadrži manje od 1 mg tog vitamina. EMA čaj od ružmarina ne preporučuje djeci mlađoj od 12 godina.
 
@@ -132,7 +130,7 @@ Prema pregledu portala [Healthline](https://www.healthline.com/nutrition/rosemar
 
 Eterično ulje ružmarina dobiva se destilacijom listova i cvjetova vodenom parom. Najpoznatija mu je primjena u aromaterapiji.
 
-Razrijeđeno ulje često se koristi za masažu bolnih mišića i zglobova. EMA ga priznaje kao tradicionalni biljni lijek za primjenu na koži, kod blagih bolova u mišićima i zglobovima te blagih tegoba s cirkulacijom u nogama. Istraživanja aromaterapije kod artritisa najčešće su provedena s mješavinama ulja. U [korejskom istraživanju](https://pubmed.ncbi.nlm.nih.gov/15778570/) iz 2005. godine na 40 bolesnika s artritisom mješavina ulja lavande, mažurana, eukaliptusa, ružmarina i paprene metvice smanjila je bol i potištenost. Ispitanici nisu bili nasumično raspoređeni u skupine, a učinak se ne može pripisati samom ružmarinu.
+Razrijeđeno ulje često se koristi za masažu bolnih mišića i zglobova. EMA ga priznaje kao tradicionalni biljni lijek za primjenu na koži, kod blagih bolova u mišićima i zglobovima te blagih tegoba s cirkulacijom u nogama. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima.
 
 Ulje ružmarina navodi se i kao prirodno sredstvo protiv komaraca, ali ga američki Centar za kontrolu i prevenciju bolesti (CDC) ne ubraja među preporučena sredstva. Pouzdaniju zaštitu daju sredstva s DEET-om, ikaridinom ili uljem [limunskog eukaliptusa](https://www.cultivias.com/bilje/limunski-eukaliptus-prirodna-za%C5%A1tita-protiv-komaraca/).
 
@@ -146,7 +144,6 @@ Najčešće se navodi [iransko ispitivanje](https://pubmed.ncbi.nlm.nih.gov/2584
 
 Riječ je o jednom ispitivanju bez skupine koja je dobivala placebo, pa se ne zna koliko bi se kosa oporavila i bez terapije. Ako vam kosa naglo ili pojačano ispada, javite se dermatologu, jer uzrok može biti i bolest ili manjak željeza.
 
-Za kućnu upotrebu možete dodati nekoliko kapi eteričnog ulja u šampon ili regenerator. Možete napraviti i vodicu za ispiranje: svježe grančice ružmarina prokuhajte u vodi, a ohlađenom vodicom isperite kosu nakon pranja. Pazite da vam ne uđe u oči.
 
 ## Mjere opreza
 
@@ -184,7 +181,7 @@ Korijenčići bi se trebali pojaviti za nekoliko tjedana. Kada narastu nekoliko 
 
 ## Čuvanje svježeg i sušenog ružmarina
 
-Kako bi ružmarin zadržao aromu i ljekovita svojstva, treba ga pravilno čuvati.
+Kako bi ružmarin zadržao aromu, treba ga pravilno čuvati.
 
 Svježe grančice u hladnjaku ostaju svježe nekoliko tjedana. Zamotajte ih u vlažan papirnati ručnik i stavite u plastičnu vrećicu.
 
@@ -232,7 +229,6 @@ U vrtu ružmarin privlači pčele i druge kukce oprašivače. Dobro podnosi suš
 - Uredba (EU) br. 1169/2011 o informiranju potrošača o hrani – [referentni unosi vitamina i minerala, Prilog XIII. (Regulation (EU) No 1169/2011)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20250401)
 - Ghasemzadeh Rahbardar i Hosseinzadeh, pregledni rad (2020.) – [Djelovanje ružmarina i njegovih sastojaka na bolesti živčanog sustava (Therapeutic effects of rosemary (Rosmarinus officinalis L.) and its active constituents on nervous system disorders)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491497/), Iranian Journal of Basic Medical Sciences
 - Panahi i sur., randomizirano usporedno ispitivanje (2015.) – [Ulje ružmarina u usporedbi s minoksidilom od 2 % kod androgene alopecije (Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial)](https://pubmed.ncbi.nlm.nih.gov/25842469/), Skinmed
-- Kim i sur., istraživanje bez nasumične raspodjele (2005.) – [Učinak aromaterapije na bol, potištenost i zadovoljstvo životom kod bolesnika s artritisom (The effects of aromatherapy on pain, depression, and life satisfaction of arthritis patients)](https://pubmed.ncbi.nlm.nih.gov/15778570/), Taehan Kanho Hakhoe Chi
 - Burkhard i sur., prikaz slučajeva i pregled literature (1999.) – [Napadaji izazvani biljkama (Plant-induced seizures: reappearance of an old problem)](https://pubmed.ncbi.nlm.nih.gov/10460442/), Journal of Neurology
 - Europska agencija za lijekove (EMA) – [List ružmarina, biljni lijek (Rosmarini folium)](https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium) i [Eterično ulje ružmarina, biljni lijek (Rosmarini aetheroleum)](https://www.ema.europa.eu/en/medicines/herbal/rosmarini-aetheroleum)
 - Američki Centar za kontrolu i prevenciju bolesti (CDC) – [Sprječavanje uboda komaraca (Preventing Mosquito Bites)](https://www.cdc.gov/mosquitoes/prevention/index.html)

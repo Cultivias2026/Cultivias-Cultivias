@@ -10,7 +10,7 @@ perex: >-
   lijekove koji djeluju na imunosni sustav, pa se tada savjetujte s liječnikom.
 readTime: 4
 publishedAt: 2024-10-15
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: true
@@ -38,7 +38,7 @@ related_articles:
 
 ## Aronija: vitamini i biljni spojevi
 
-Aronija sadrži vlakna, vitamine K i C, folat te mnogo polifenola, biljnih spojeva s antioksidativnim djelovanjem. Najpoznatiji su antocijani, pigmenti koji bobicama daju gotovo crnu boju.
+Aronija sadrži vlakna, vitamine K i C, folat te mnogo polifenola, skupine biljnih spojeva. Najpoznatiji su antocijani, pigmenti koji bobicama daju gotovo crnu boju.
 
 Vitamina C ima oko 14 mg na 100 g, znatno manje od [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) ili [naranče](https://www.cultivias.com/voce/naran%C4%8Da-vitaminska-bomba-u-jednoj-%C4%8Da%C5%A1i/). Minerala poput kalija, magnezija i željeza ima u manjim količinama, kao i većina voća.
 

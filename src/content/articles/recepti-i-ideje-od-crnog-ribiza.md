@@ -8,7 +8,7 @@ perex: >-
   mogućnosti kreativnog kuhanja i preradbe.
 
 
-  Ove tamne, aromatične bobice nisu samo izuzetno zdrave, već su i nevjerojatno svestrane u kuhinji.
+  Ove tamne, aromatične bobice vrlo su svestrane u kuhinji.
 readTime: 4
 publishedAt: 2025-07-08
 updatedAt: 2026-11-23
@@ -78,7 +78,7 @@ U nastavku pronađite tradicionalne i moderne recepte s **crnim ribizom**, uz pr
 
 
 
-**Sok od crnog ribiza** pije se svjež ili se sprema za zimu. Sadrži **vitamin C** i antioksidanse, iako se dio vitamina C kuhanjem gubi. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+**Sok od crnog ribiza** pije se svjež ili se sprema za zimu. Sadrži **vitamin C**, iako se dio kuhanjem gubi. Što se zna o ljekovitim svojstvima, pročitajte u članku [ljekovitost i zdravstvene prednosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 **Sastojci:**
 
@@ -105,7 +105,7 @@ U nastavku pronađite tradicionalne i moderne recepte s **crnim ribizom**, uz pr
 
 
 
-**Sirup od crnog ribiza** tradicionalni je način čuvanja vitamina kroz zimske mjesece. Gusti sirup razrjeđuje se vodom, a zimi se tradicionalno pije kod prehlade, iako ne liječi prehladu.
+**Sirup od crnog ribiza** tradicionalni je način da se okus bobica sačuva za zimu. Gusti sirup razrjeđuje se vodom.
 
 **Sastojci:**
 

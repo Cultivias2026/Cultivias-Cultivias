@@ -3,11 +3,11 @@ title: Kako napraviti kapi od crnog ribiza kod kuće?
 category: bilje
 author: redakcija
 image: /images/articles/kapi-crnog-ribiza-u-maloj-bočici.webp
-perex: Izrada kapi crnog ribiza kod kuće može biti jednostavan proces koji vam
-  omogućuje da iskoristite sve blagodati ove korisne biljke. 
+perex: Izrada kapi crnog ribiza kod kuće jednostavan je postupak, ali kapi
+  sadrže alkohol i nisu lijek. 
 readTime: 4
 publishedAt: 2024-07-22
-updatedAt: 2026-11-21
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -83,9 +83,7 @@ Bočice čuvajte na tamnom i hladnom mjestu, izvan dohvata djece, jer kapi sadr�
 
 #### 7. Upotreba
 
-Kapi od [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) u narodnoj se praksi uzimaju **10 do 15 kapi dnevno**, razrijeđene u vodi ili soku.
-
-Za tinkturu od bobica crnog ribiza nema istraživanja ni provjerene doze, pa je ne smatrajte lijekom. Bobice same po sebi sadrže mnogo vitamina C, a o tome što se o njihovu djelovanju zna, piše u članku o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
+Za tinkturu od bobica [crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-sve-%C5%A1to-trebate-znati-o-njemu/) nema istraživanja ni provjerene doze, pa je ne smatrajte lijekom i ne uzimajte je kao lijek. Bobice same po sebi sadrže mnogo vitamina C, a o tome što se o njihovu djelovanju zna, piše u članku o [ljekovitosti crnog ribiza](https://www.cultivias.com/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti/).
 
 ### Tko ne smije uzimati kapi s alkoholom
 

@@ -5,11 +5,11 @@ author: redakcija
 image: /images/articles/čaj-od-mente-u-šalici-s-medom-2.webp
 perex: Čaj od mente, poznat i kao čaj od peperminta ili spearminta, jedan je od
   najstarijih i najpopularnijih biljnih napitaka u svijetu. Koristi se
-  stoljećima u tradicionalnoj medicini, a moderna znanost počinje potvrđivati
-  mnoge od njegovih zdravstvenih svojstava.
+  stoljećima u tradicionalnoj medicini, a istraživanja o njegovu djelovanju
+  zasad su malobrojna i mala.
 readTime: 6
 publishedAt: 2024-09-14
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: true
 editors_pick: false
@@ -36,23 +36,17 @@ related_articles:
 
 ## Čaj od mente prije spavanja
 
-[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) bez kofeina je, pa za razliku od kave ili crnog i zelenog čaja ne ometa san. Topli napitak i večernji ritual mnogima pomažu da se opuste.
+[Čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/) bez kofeina je, pa za razliku od kave ili crnog i zelenog čaja ne ometa san kofeinom.
 
 O djelovanju čaja na san postoji tek malo istraživanja. U pilot-istraživanju objavljenom 2021. u časopisu [Journal of Pharmacy & Pharmacognosy Research](https://jppres.com/jppres/pdf/vol9/jppres20.932_9.1.49.pdf), studenti Sveučilišta Taibah u Saudijskoj Arabiji četiri su tjedna jednom dnevno pili napitak od svježe paprene metvice. U upitnicima su naveli bolji san te manje tjeskobe i stresa od studenata koji nisu pili ništa.
 
 Kvaliteta sna mjerila se upitnikom Pittsburškog indeksa kvalitete sna (PSQI). Kontrolna skupina nije dobila nikakav napitak, a rezultati se temelje na samoprocjeni, pa su takvi nalazi tek početni.
 
-Ako vam čaj od mente navečer odgovara, popijte ga pola sata do sat prije spavanja. Učinak je individualan: neke ljude miris mente opušta, a druge razbuđuje. Za večernji čaj mnogi biraju i [kamilicu](https://www.cultivias.com/bilje/%C4%8Daj-od-kamilice/).
+Ako vam čaj od mente navečer odgovara, popijte ga pola sata do sat prije spavanja. Učinak je individualan: neke ljude miris mente opušta, a druge razbuđuje.
 
 ## Čaj od mente za probavu
 
-Čaj od mente tradicionalno se pije za probavne tegobe. Europska agencija za lijekove (EMA) list paprene metvice priznaje kao tradicionalni biljni lijek za ublažavanje loše probave i nadutosti. Ta se procjena temelji na dugogodišnjoj sigurnoj primjeni, jer kliničkih ispitivanja nema dovoljno.
-
-U laboratorijskim istraživanjima menta opušta glatke mišiće probavnog sustava, pa se tradicionalno koristi kod:
-
-* **grčeva i boli u trbuhu** – opuštanje mišića može ublažiti grčeve
-* **nadutosti i plinova** – menta je karminativ, tvar koja olakšava izlazak plinova
-* **osjećaja težine nakon obroka** – mnogi zato čaj piju nakon jela
+Europska agencija za lijekove (EMA) list paprene metvice priznaje kao tradicionalni biljni lijek za ublažavanje loše probave i nadutosti. Ta se procjena temelji na dugogodišnjoj sigurnoj primjeni, jer kliničkih ispitivanja nema dovoljno.
 
 Za iritabilni kolon (sindrom iritabilnog crijeva, IBS) klinički dokazi postoje samo za ulje paprene metvice u kapsulama koje se otapaju tek u crijevima. Za čaj takvih dokaza nema, navodi Nacionalni centar za komplementarno i integrativno zdravlje (NCCIH), dio američkih Nacionalnih instituta za zdravlje.
 

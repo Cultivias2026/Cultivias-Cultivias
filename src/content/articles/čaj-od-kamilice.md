@@ -4,7 +4,7 @@ category: bilje
 author: redakcija
 image: /images/articles/čaj-od-kamilice-u-šalici.webp
 perex: Čaj od kamilice je jedan od najomiljenijih biljnih čajeva na svijetu,
-  poznat po svom blagom okusu i mogućim brojnim zdravstvenim prednostima.
+  poznat po svom blagom okusu.
 readTime: 5
 publishedAt: 2024-09-29
 updatedAt: 2026-11-23
@@ -58,27 +58,25 @@ Ako primijetite nelagodu, smanjite količinu ili prestanite piti čaj.
 >
 > ***Ako osjetite nelagodu ili nuspojave, posavjetujte se s liječnikom.***
 
-## **Umirujuće svojstvo kamilice**
+## **Kamilica, tjeskoba i san**
 
-Kamilica se tradicionalno pije za opuštanje i smanjenje napetosti, a mnogi šalicu čaja popiju prije spavanja.
+Kamilica se u narodnoj medicini pije za opuštanje, no za san i tjeskobu dokazi su slabi.
 
 Djelovanje na tjeskobu ispitivano je s ekstraktom kamilice, a ne s čajem. U [američkom randomiziranom istraživanju](https://pubmed.ncbi.nlm.nih.gov/19593179/) objavljenom 2009. u znanstvenom časopisu Journal of Clinical Psychopharmacology, 57 osoba s blagim do umjerenim generaliziranim anksioznim poremećajem (dugotrajnom, pretjeranom zabrinutošću) osam je tjedana uzimalo kapsule s ekstraktom kamilice ili placebo. Simptomi su se u skupini s kamilicom smanjili nešto više, a autori učinak opisuju kao skroman. Za ublažavanje depresije čaj od kamilice nije dokazano djelotvoran, pa ne zamjenjuje liječenje.
 
-Šalica čaja ipak može biti dio večernje rutine koja pomaže da se opustite.
 
-## **Prednosti čaja od kamilice za probavu**
+## **Čaj od kamilice i probava**
 
-Kamilica se koristi i kod probavnih tegoba. [Pregledni rad o ljekovitom bilju i crijevnoj mikrobioti](https://www.mdpi.com/1422-0067/26/22/10875), objavljen 2025. u časopisu International Journal of Molecular Sciences, navodi da kamilica može ublažiti **nadutost, grčeve i probavne smetnje**. Tome se pripisuje njezino protuupalno djelovanje.
+Europska agencija za lijekove (EMA) čaj od kamilice priznaje kod blagih probavnih tegoba, poput **nadutosti i blagih grčeva**. Ta se ocjena temelji na dugogodišnjoj upotrebi, a ne na kliničkim ispitivanjima. Ako tegobe traju dulje od tjedan dana, javite se liječniku.
 
-Kamilica opušta glatke mišiće probavnog sustava (spazmolitičko djelovanje), pa može smanjiti nelagodu nakon obroka.
 
-U narodnoj medicini smatra se i da potiče lučenje žuči, koja pomaže probavi masti, no to nije potvrđeno istraživanjima na ljudima. Kako osušiti vlastitu kamilicu za čaj, opisuje članak o [sušenju kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
+Kako osušiti vlastitu kamilicu za čaj, opisuje članak o [sušenju kamilice](https://www.cultivias.com/bilje/kako-pravilno-osu%C5%A1iti-kamilicu-za-savr%C5%A1en-%C4%8Daj/).
 
 ## **Ima li čaj od kamilice utjecaj na gubitak težine?**
 
-Čaj od kamilice ne topi kilograme, no može posredno pomoći.
+Čaj od kamilice ne topi kilograme i nema dokaza da pomaže pri mršavljenju.
 
-Ako vam pomaže da se opustite, možda ćete rjeđe jesti iz stresa. Česta je tvrdnja da kamilica „čisti tijelo od toksina”, ali za to nema dokaza, jer tu ulogu u tijelu obavljaju jetra i bubrezi.
+Česta je tvrdnja da kamilica „čisti tijelo od toksina”, ali za to nema dokaza, jer tu ulogu u tijelu obavljaju jetra i bubrezi.
 
 Ako čajem bez šećera zamijenite zaslađene napitke, unijet ćete manje kalorija.
 
@@ -90,7 +88,7 @@ Uz uravnoteženu prehranu i redovitu tjelesnu aktivnost, čaj od kamilice može 
 
 Zato ga mnogi biraju umjesto crnog čaja i kave. Bez kofeina je i [čaj od mente](https://www.cultivias.com/bilje/%C4%8Daj-od-mente--svojstva-priprema-i-zanimljivosti/).
 
-**Budući da nema kofeina**, čaj od kamilice ne ometa san, a mnogima pomaže da se prije spavanja opuste.
+**Budući da nema kofeina**, čaj od kamilice ne ometa san.
 
 ## **Moguće nuspojave i kontraindikacije čaja od kamilice**
 
@@ -109,4 +107,3 @@ Ako kamilicu želite brati sami, savjete donosi članak o [branju kamilice](http
 ## Izvori
 
 - Amsterdam i sur., randomizirano istraživanje (2009.) – [Ekstrakt kamilice kod generaliziranog anksioznog poremećaja (A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder)](https://pubmed.ncbi.nlm.nih.gov/19593179/), Journal of Clinical Psychopharmacology
-- Pacyga i sur., pregledni rad (2025.) – [Ljekovito bilje za zdravu crijevnu mikrobiotu (Medicinal Plants for a Healthy Gut Microbiome)](https://www.mdpi.com/1422-0067/26/22/10875), International Journal of Molecular Sciences

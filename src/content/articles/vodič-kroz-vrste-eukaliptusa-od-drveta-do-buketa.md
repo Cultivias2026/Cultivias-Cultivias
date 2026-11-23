@@ -7,13 +7,13 @@ perex: Eukaliptus obuhvaća preko 700 vrsta, od kojih su neke divovska stabla, a
   druge idealne za ukrasne bukete. Najpoznatije vrste uključuju Eucalyptus
   gunnii (otporan na mraz, srebrno-plavi listovi), Eucalyptus polyanthemos
   (poznat kao Populus, okrugli listovi za bukete), Eucalyptus radiata (eterično
-  ulje za dišne puteve) i Dugin eukaliptus (Eucalyptus deglupta) s jedinstvenom
+  ulje blažeg mirisa) i Dugin eukaliptus (Eucalyptus deglupta) s jedinstvenom
   višebojnom korom. Eterična ulja eukaliptusa imaju antimikrobna i repelentna
   svojstva, ali je važno znati da je eukaliptus toksičan za ljude i kućne
   ljubimce ako se ulje proguta.
 readTime: 9
 publishedAt: 2026-07-15
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -113,9 +113,8 @@ Eukaliptus se odavno koristi u narodnoj medicini, ponajviše zbog eteričnog ulj
 
 ### 1,8-cineol (eukaliptol): Glavni sastojak
 
-Najvažniji djelatni spoj u ulju većine eukaliptusa je **1,8-cineol, poznat i kao eukaliptol**. U laboratorijskim istraživanjima pokazuje antimikrobno i protuupalno djelovanje, a smatra se da pomaže razrjeđivanju sluzi.
+Najvažniji djelatni spoj u ulju većine eukaliptusa je **1,8-cineol, poznat i kao eukaliptol**.
 
-U [laboratorijskom istraživanju objavljenom 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10376866/) 1,8-cineol je oštećivao ovojnicu (membranu) bakterije MRSA, zlatnog stafilokoka otpornog na meticilin i srodne antibiotike, i izazivao u njoj oksidativni stres. Djelovao je tek u visokim koncentracijama, a riječ je o pokusu na bakterijama u laboratoriju, ne o liječenju ljudi.
 
 Europska agencija za lijekove (EMA) [eukaliptusovo ulje priznaje kao tradicionalni biljni lijek](https://www.ema.europa.eu/en/medicines/herbal/eucalypti-aetheroleum) za ublažavanje kašlja kod prehlade i lokalizirane boli u mišićima. Ta se ocjena temelji na dugotrajnoj primjeni, a ne na kliničkim ispitivanjima. Istraživanja kod bronhitisa i astme pokazala su određeno poboljšanje simptoma, ali u njima se koristio čisti 1,8-cineol, a ne ulje, pa EMA iz njih nije mogla donijeti čvrste zaključke.
 
@@ -162,7 +161,7 @@ Granice otpornosti u tablici okvirne su i ovise o starosti biljke, položaju i t
 ## Česta pitanja o vrstama eukaliptusa
 
 **Koja vrsta eukaliptusa ima najjači miris?**
-Plavi eukaliptus (*Eucalyptus globulus*) ima najjači, ljekovit miris, jer je bogat 1,8-cineolom. Limunski eukaliptus (*Corymbia citriodora*) miriše na limun. Za ukrasne svrhe *E. gunnii* i *E. polyanthemos* imaju blaži, ugodniji miris.
+Plavi eukaliptus (*Eucalyptus globulus*) ima najjači miris, jer je bogat 1,8-cineolom. Limunski eukaliptus (*Corymbia citriodora*) miriše na limun. Za ukrasne svrhe *E. gunnii* i *E. polyanthemos* imaju blaži, ugodniji miris.
 
 **Koja vrsta eukaliptusa je dobra za eterično ulje?**
 Prema EMA-i, ljekovito eukaliptusovo ulje dobiva se uglavnom od plavog eukaliptusa (*E. globulus*) te vrsta *E. polybractea* i *E. smithii*, koje su bogate 1,8-cineolom. Ulje *E. radiata* češće se koristi u aromaterapiji, jer se smatra blažim.
@@ -185,7 +184,6 @@ Eukaliptusi su vrlo raznolika skupina biljaka, od golemih stabala do grmova čij
 ## Izvori
 
 - Europska agencija za lijekove (EMA) – [Eukaliptusovo ulje, biljni lijek (Eucalypti aetheroleum)](https://www.ema.europa.eu/en/medicines/herbal/eucalypti-aetheroleum)
-- Merghni i sur., laboratorijsko istraživanje (2023.) – [1,8-cineol oštećuje membranu i izaziva oksidativni stres kod MRSA (1,8-Cineol (Eucalyptol) Disrupts Membrane Integrity and Induces Oxidative Stress in Methicillin-Resistant Staphylococcus aureus)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10376866/), Antioxidants
 - Kraljevsko hortikulturno društvo (RHS) – [profil biljke Eucalyptus gunnii](https://www.rhs.org.uk/Plants/6888/Eucalyptus-gunnii/Details) i [Rezidba eukaliptusa (Eucalyptus: pruning)](https://www.rhs.org.uk/plants/eucalyptus/pruning-guide)
 - Američko društvo za sprječavanje okrutnosti prema životinjama (ASPCA) – [Eukaliptus (Eucalyptus)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus)
 - Američki centar za kontrolu i prevenciju bolesti (CDC) – [Repelenti protiv malarije i drugih bolesti koje prenose komarci (Insect Repellents Help Prevent Malaria and Other Diseases Spread by Mosquitoes)](https://www.cdc.gov/malaria/resources/repellents.html)

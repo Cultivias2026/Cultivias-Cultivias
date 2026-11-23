@@ -72,7 +72,7 @@ Postoji nekoliko sorti: 'Autumn Gold' (poznata po zlatnoj boji u jesen), 'Pendul
 
 ## Kemijski sastojci i bioaktivni spojevi
 
-Ginko sadrži spojeve kojih nema u drugim biljkama, ginkgolide i bilobalid, koji pripadaju skupini terpenskih laktona. Bogat je i flavonoidima, koji djeluju kao antioksidansi, odnosno štite stanice od oštećenja slobodnim radikalima.
+Ginko sadrži spojeve kojih nema u drugim biljkama, ginkgolide i bilobalid, koji pripadaju skupini terpenskih laktona. Bogat je i flavonoidima.
 
 Lišće i sjemenke sadrže i ginkgolne kiseline (alkilfenole), spojeve koji mogu izazvati alergijske reakcije i djelovati otrovno, navodi [pregledni rad](https://doi.org/10.3390/molecules28103993) objavljen 2023. u časopisu Molecules. Pri proizvodnji standardiziranog ekstrakta za lijekove te se kiseline uklanjaju, a u domaćim pripravcima od lišća ostaju.
 
@@ -86,7 +86,7 @@ Europska agencija za lijekove (EMA) standardizirani ekstrakt lista ginka priznaj
 
 ## Ginko i zujanje u ušima (Tinnitus)
 
-Zujanje u ušima, odnosno tinitus, čest je problem, osobito kod starijih osoba. Ginko se tradicionalno koristi i kod ovog stanja.
+Zujanje u ušima, odnosno tinitus, čest je problem, osobito kod starijih osoba.
 
 [Cochraneov sustavni pregled](https://pmc.ncbi.nlm.nih.gov/articles/PMC9668350/) iz 2022. godine obuhvatio je 12 istraživanja s ukupno 1915 sudionika. Zaključio je da ginko u usporedbi s placebom možda ima malo ili nimalo učinka na tinitus, ali su dokazi vrlo nesigurni, jer su istraživanja bila slabe kvalitete.
 
@@ -98,11 +98,11 @@ Ginko se često spominje kao pomoć kod visokog tlaka, no istraživanja to ne po
 
 **Nikada ne zamjenjujte propisane lijekove za tlak ginkom i prije bilo kakve upotrebe ginka u medicinske svrhe posavjetujte se s liječnikom. Ginko može djelovati s lijekovima za razrjeđivanje krvi, pa je oprez itekako potreban.**
 
-## Čaj od ginka - priprema i korištenje
+## Čaj od ginka
 
-Čaj od ginka priprema se od sušenog lišća i blagog je, pomalo gorkog okusa. Obično se 1 do 2 čajne žličice sušenog lišća preliju s 250 ml vruće, ali ne kipuće vode i ostave 5 do 10 minuta, a pije se 1 do 2 šalice dnevno.
+Domaći čaj od lišća ginka ne preporučujemo.
 
-Čaj ipak nije isto što i ekstrakt iz ljekarne. Sadrži mnogo manje djelatnih tvari, a ginkgolne kiseline iz lišća ostaju u njemu. NCCIH upozorava da su ozbiljne nuspojave opisane i nakon uzimanja neprerađene biljke. Ako ginko želite koristiti kao lijek, birajte registrirani biljni lijek sa standardiziranim ekstraktom.
+Čaj nije isto što i ekstrakt iz ljekarne: ginkgolne kiseline, koje mogu izazvati alergije i djelovati otrovno, iz lišća prelaze u čaj. NCCIH upozorava da su ozbiljne nuspojave opisane i nakon uzimanja neprerađene biljke. Ako ginko želite koristiti kao lijek, birajte registrirani biljni lijek sa standardiziranim ekstraktom.
 
 ![Infografika: ginko prema Europskoj agenciji za lijekove i NCCIH-u – 240 mg ekstrakta lista dnevno u ispitivanjima kod blage demencije, samo za odrasle; nije dokazano da sprječava demenciju ili pomaže zdravim ljudima; sirove i pečene sjemenke su otrovne i ne daju se djeci; uz upozorenje da se ginko ne uzima u trudnoći, ne daje mlađima od 18 godina, uz lijekove protiv zgrušavanja uzima samo uz liječnika i prekida prije operacije](/images/articles/infografika-ginko-oprez.webp)
 
@@ -164,15 +164,15 @@ Za male vrtove dobar su izbor patuljaste sorte. One rastu sporo i dosežu visinu
 
 Ono što se naziva plodom ginka zapravo je sjemenka s mesnatim, okruglim, žutonarančastim omotačem. Iako izgleda primamljivo, ima vrlo neugodan miris, sličan užeglom maslacu, pa se ženska stabla rjeđe sade na javnim površinama.
 
-Mesnati omotač sadrži ginkgolne kiseline, koje mogu izazvati alergijski osip na koži, pa sjemenke skupljajte u rukavicama. Unutar omotača nalazi se tvrda sjemenka čija se jezgra u azijskoj kuhinji kuha ili prži i dodaje jelima.
+Mesnati omotač sadrži ginkgolne kiseline, koje mogu izazvati alergijski osip na koži, pa sjemenke skupljajte u rukavicama. Unutar omotača nalazi se tvrda sjemenka, čija se jezgra u azijskoj kuhinji kuha ili prži.
 
-**Sirove sjemenke ginka su otrovne, a ozbiljne nuspojave opisane su i nakon jedenja pečenih sjemenki**, upozorava NCCIH. Ne jedite ih u većim količinama i ne dajte ih djeci.
+**Sirove sjemenke ginka su otrovne, a ozbiljne nuspojave opisane su i nakon jedenja pečenih sjemenki**, upozorava NCCIH. Zato ih ne preporučujemo jesti, a djeci ih nikako ne dajte.
 
 ## Ginko u tradicionalnoj medicini
 
-U tradicionalnoj kineskoj medicini ginko se koristi tisućama godina. Lišće se koristilo kod problema s disanjem i cirkulacijom, a sjemenke kod kašlja i probavnih smetnji. Smatrao se biljkom koja jača "qi" (životnu energiju) i poboljšava protok krvi.
+U tradicionalnoj kineskoj medicini ginko se koristi tisućama godina, i lišće i sjemenke. Tradicionalna upotreba ipak nije dokaz djelotvornosti.
 
-Danas se ginko najčešće uzima za pamćenje i koncentraciju. S pamćenjem se povezuje i [ružmarin](https://www.cultivias.com/bilje/ru%C5%BEmarin-put-od-sadnje-do-%C4%8Daja-i-ulja/), no i za njega su dokazi kod ljudi oskudni.
+Danas se ginko najčešće uzima za pamćenje, a što o tome kažu istraživanja, opisano je u dijelu o pamćenju.
 
 ## Simbolika drveta
 

@@ -9,6 +9,7 @@ perex: Cultivias serijal Plave Zone polazi od priče koju je široj publici
   Državama.
 readTime: 5
 publishedAt: 2026-10-31
+updatedAt: 2026-11-23
 expert_reviewed: false
 featured: false
 editors_pick: false
@@ -43,8 +44,7 @@ Za Blue Zones su važni cjelovite žitarice, voće, povrće, mahunarke i orašas
 
 ## Zašto je subota važna za priču o Loma Lindi?
 
-Adventisti subotu drže kao dan odmora. Blue Zones taj tjedni predah opisuje kao vrijeme za obitelj, vjeru, prijatelje i prirodu, uz laganu šetnju. Prema njihovu iskustvu to smanjuje stres i jača društvene veze.
-
+Adventisti subotu drže kao dan odmora. Blue Zones taj tjedni predah opisuje kao vrijeme za obitelj, vjeru, prijatelje i prirodu, uz laganu šetnju.
 Vjerski dio ove priče ne treba preslikavati. Ono što se može prenijeti je ideja: tjedan s jasno zaštićenim odmorom i ljudima do kojih nam je stalo.
 
 ## Kako su kretanje i zajednica dio dana?
