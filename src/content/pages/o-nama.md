@@ -1,7 +1,7 @@
 ---
 title: O nama
 showInNav: true
-description: "Saznajte više o Cultivias timu i našoj misiji — širiti znanje o uzgoju, zdravlju i prirodi na Balkanu."
+description: "Tko stoji iza Cultiviasa i kako nastaju naši sadržaji: znanje o uzgoju, zdravlju i prirodi, uz provjerene izvore."
 noindex: false
 ---
 Bok! Sigurno se pitaš tko stoji iza ovoga bloga i portala?
@@ -20,7 +20,7 @@ A sve je počelo s prvim sadnicama rajčice, koje su ekstremno rodile!!
 
 Dalje se nastavilo odvijati samo od sebe… Ponosni sam vlasnik i njegovatelj vlastitog eko vrta u srcu Zagorja (Mihovljan). Tu, okružen zelenilom, uzgajam i brinem se za brojne biljke i proizvode o kojima čitate na ovom portalu.
 
-Moja filozofija uzgoja temelji se na dubokom poštovanju prema prirodi i održivim, ekološkim principima. Vjerujem da svaka biljka ima svoju priču i da uz pravilnu njegu može obogatiti naš život, ali prvenstveno i našu prehranu! Kako je poznati mislilac HIPOKRAT jednom rekao: *“Neka hrana bude tvoj lijek, a lijek neka bude tvoja hrana”!*
+Moja filozofija uzgoja temelji se na dubokom poštovanju prema prirodi i održivim, ekološkim principima. Vjerujem da svaka biljka ima svoju priču i da uz pravilnu njegu može obogatiti naš život, ali prvenstveno i našu prehranu! Dobro mi to opisuje izreka koja se često pripisuje Hipokratu, iako je u njegovim spisima nema: *„Neka hrana bude tvoj lijek, a lijek neka bude tvoja hrana”*.
 
 I tako se to s godinama polako nadograđivalo!
 
@@ -28,13 +28,11 @@ I tako se to s godinama polako nadograđivalo!
 
 S obzirom na moj posao, bilo je logično to pretočiti u neki online format, i tako se ustvari rodio portal Cultivias. Ideja je bila stvoriti prostor gdje mogu podijeliti svoje testirane savjete, uspjehe i informacije o tome kako nam biljke mogu biti od velike pomoći – bilo kao hrana ili svojim skrivenim sastojcima za opće zdravlje!
 
-No, kako je portal rastao, rasla je i odgovornost prema vama, čitateljima. Zbog toga sam iznimno ponosan što danas Cultivias više ne čini "samo jedna osoba". Mojim praktičnim, svakodnevnim iskustvima pridružio se vrhunski tim suradnika i stručnjaka – od iskusnih botaničara i agronoma do certificiranih nutricionista!
+No, kako je portal rastao, rasla je i odgovornost prema vama, čitateljima. Zato se u člancima ne oslanjam samo na vlastito iskustvo iz vrta: podatke provjeravam prema stručnim izvorima, poput savjetodavnih službi sveučilišta, Europske agencije za lijekove, znanstvenih istraživanja i službenih propisa, i navodim ih na kraju svakog članka.
 
-Njihova bogata ekspertiza, stručni članci i dubinsko znanje savršeno obogaćuju ovaj portal. Zahvaljujući njima, ovdje ćete pronaći ne samo moje osobne vrtlarske savjete, već i točne, znanstveno utemeljene i provjerene informacije koje donose stvarnu vrijednost vašem zdravlju i vrtu.
+Kombinirajući analitički pristup iz svijeta marketinga i ljubav prema hortikulturi, trudim se pomoći vam u vašim vrtlarskim avanturama.
 
-Kombinirajući moj analitički pristup iz svijeta marketinga, ljubav prema hortikulturi i stručno znanje našeg tima, trudimo se pomoći vam u vašim vrtlarskim avanturama.
-
-Naš zajednički cilj je da ovaj portal bude vaš pouzdan vodič i inspiracija, mjesto gdje ćete pronaći iskrene savjete ljudi koji dijele vašu strast prema zelenilu.
+Cilj mi je da ovaj portal bude vaš pouzdan vodič i inspiracija, mjesto gdje ćete pronaći iskrene savjete čovjeka koji dijeli vašu strast prema zelenilu.
 
 ## Kako nastaju naši sadržaji
 

@@ -706,8 +706,6 @@
                 name: 'author',
                 widget: 'select',
                 options: [
-                  { label: 'Ana Kovač',    value: 'ana-kovac' },
-                  { label: 'Petra Horvat', value: 'petra-horvat' },
                   { label: 'Redakcija',    value: 'redakcija' },
                 ],
               },
@@ -834,7 +832,7 @@
             summary: '{{name}} — {{title}}',
             fields: [
               { label: 'Ime i prezime',    name: 'name',      widget: 'string' },
-              { label: 'Slug',             name: 'slug',      widget: 'string', hint: 'Bez razmaka i dijakritika, npr. ana-kovac' },
+              { label: 'Slug',             name: 'slug',      widget: 'string', hint: 'Bez razmaka i dijakritika, npr. ime-prezime' },
               { label: 'Titula / zvanje',  name: 'title',     widget: 'string', hint: 'npr. Dipl. ing. agronomije' },
               {
                 label: 'Uloga', name: 'role', widget: 'select',
