@@ -1,5 +1,5 @@
 ---
-title: "Čaj od bazge: Ljekovitost, pravilna priprema i moguće nuspojave"
+title: "Čaj od bazge: ljekovitost, pravilna priprema i moguće nuspojave"
 category: bilje
 author: redakcija
 image: /images/articles/čaj-od-bazginih-cvjetova.webp
@@ -31,7 +31,7 @@ related_articles:
   - bazga-zova-sve-o-ovoj-poznatoj-biljci
   - bazgine-bobice-kalorije-u-svježem-plodu-soku-i-sirupu
   - čaj-od-majčine-dušice-ljekovitost-djelovanje-i-pravilna-priprema
-metaTitle: "Čaj od bazge: Ljekovitost, pravilna priprema i moguće nuspojave"
+metaTitle: "Čaj od bazge: ljekovitost, pravilna priprema i moguće nuspojave"
 ogImage: /images/articles/čaj-od-bazginih-cvjetova.webp
 noindex: false
 ---

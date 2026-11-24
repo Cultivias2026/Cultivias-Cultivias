@@ -1,5 +1,5 @@
 ---
-title: "Sorte ogrozda: Vodič kroz boje, vrste i hibride za vaš vrt"
+title: "Sorte ogrozda: vodič kroz boje, vrste i hibride za vaš vrt"
 category: voce
 author: redakcija
 image: /images/articles/ogrozd-sorta-hinnonmaki-red.webp
@@ -15,7 +15,7 @@ editors_pick: true
 tags:
   - ogrozd
   - uzgoj
-metaTitle: "Sorte ogrozda: Vodič kroz boje, vrste i hibride za vaš vrt"
+metaTitle: "Sorte ogrozda: vodič kroz boje, vrste i hibride za vaš vrt"
 noindex: false
 ukratko:
   naslov: Sorte ogrozda ukratko

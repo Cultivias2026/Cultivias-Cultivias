@@ -33,7 +33,7 @@ related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
-[Rajčica](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) je botanički voće, a u kuhinji povrće. Botanika voćem smatra dio biljke koji se razvija iz cvijeta i sadrži sjeme, a rajčica nastaje iz cvijeta i ima sjemenke. Kuhinja voće i povrće razlikuje prema okusu i upotrebi, pa rajčicu, koja ide u slana jela, svrstava u povrće. U nastavku saznajte koja tri botanička kriterija rajčicu čine voćem i kako je o tome presudio američki Vrhovni sud.
+[Rajčica](https://www.cultivias.com/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) je botanički voće, a u kuhinji povrće. Botanika voćem smatra dio biljke koji se razvija iz cvijeta i sadrži sjeme, a rajčica nastaje iz cvijeta i ima sjemenke. Kuhinja voće i povrće razlikuje prema okusu i upotrebi, pa rajčicu, koja ide u slana jela, svrstava u povrće. U nastavku saznajte koja tri botanička kriterija rajčicu čine voćem i kako je o tome presudio američki Vrhovni sud.
 
 ## Kako kuhinja dijeli voće i povrće
 

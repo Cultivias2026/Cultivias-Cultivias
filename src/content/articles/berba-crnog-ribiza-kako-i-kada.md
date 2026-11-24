@@ -1,5 +1,5 @@
 ---
-title: "Berba crnog ribiza: kako i kada!"
+title: "Berba crnog ribiza: kako i kada"
 category: voce
 author: redakcija
 image: /images/articles/branje-rukom-crnog-ribiza-1-.webp
@@ -17,7 +17,7 @@ editors_pick: true
 tags:
   - crni-ribiz
   - uzgoj
-metaTitle: "Berba crnog ribiza: kako i kada!"
+metaTitle: "Berba crnog ribiza: kako i kada"
 noindex: false
 ukratko:
   naslov: Berba crnog ribiza ukratko

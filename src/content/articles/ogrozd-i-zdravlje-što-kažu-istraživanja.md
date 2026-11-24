@@ -1,5 +1,5 @@
 ---
-title: Ogrozd i zdravlje! Što kažu istraživanja?
+title: "Ogrozd i zdravlje: što kažu istraživanja"
 category: voce
 author: redakcija
 image: /images/articles/zreli-plodovi-ogrozda.webp
@@ -15,7 +15,7 @@ editors_pick: true
 tags:
   - ogrozd
   - zdravlje
-metaTitle: Ogrozd i zdravlje! Što kažu istraživanja?
+metaTitle: "Ogrozd i zdravlje: što kažu istraživanja"
 ogImage: /images/articles/zreli-plodovi-ogrozda.webp
 noindex: false
 ukratko:

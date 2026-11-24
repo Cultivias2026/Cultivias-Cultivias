@@ -1,5 +1,5 @@
 ---
-title: "Uzgoj crnog ribiza: Vodič za uspješnu sadnju i njegu"
+title: "Uzgoj crnog ribiza: vodič za uspješnu sadnju i njegu"
 category: voce
 author: redakcija
 image: /images/articles/uzgoj-i-sadnja-crnog-ribizla.webp

@@ -14,20 +14,29 @@ const allArticles = (await getCollection('articles')).sort(
 const featuredArticles = allArticles.filter(a => a.data.featured);
 const heroArticle = featuredArticles[0] || allArticles[0];
 
+// Deduplikacija: isti članak ne prikazuje se dvaput u vidljivim blokovima naslovnice
+// (hero → bočne kartice → Najnovije → po kategorijama → mreža članaka).
+const shown = new Set<string>([heroArticle.id]);
+const take = (list: typeof allArticles, n: number) => {
+  const out = list.filter(a => !shown.has(a.id)).slice(0, n);
+  out.forEach(a => shown.add(a.id));
+  return out;
+};
+
 // 2 side cards (not the hero)
-const sideCards = allArticles.filter(a => a.id !== heroArticle.id).slice(0, 2);
+const sideCards = take(allArticles, 2);
 
 // Tabs data
-const latestArticles = allArticles.slice(0, 5);
+const latestArticles = take(allArticles, 5);
 const editorsPick = allArticles.filter(a => a.data.editors_pick).slice(0, 5);
 
-// Latest 6 for the article grid section
-const recentSix = allArticles.slice(0, 6);
-
-// Right panel: one article per main category (excluding hero)
+// Right panel: one article per main category
 const rightPanelArticles = (['voce', 'povrce', 'bilje'] as const)
-  .map(cat => allArticles.find(a => a.data.category === cat && a.id !== heroArticle.id))
+  .map(cat => take(allArticles.filter(a => a.data.category === cat), 1)[0])
   .filter((a): a is NonNullable<typeof a> => !!a);
+
+// Grid section: next 6 articles not shown above
+const recentSix = take(allArticles, 6);
 
 // Load hero author
 const heroAuthorEntry = await getEntry('authors', heroArticle.data.author);
@@ -60,7 +69,7 @@ function formatDate(d: string) {
 const jsonLd = await buildGraph([
   webPageNode({
     path: '/',
-    name: 'Cultivias – Voće, Povrće i Ljekovito Bilje',
+    name: 'Cultivias | Voće, povrće i ljekovito bilje',
     description: 'Cultivias.com – vaš pouzdani izvor informacija o voću, povrću i ljekovitom bilju. Stručni članci, savjeti za uzgoj i zdravlje za cijeli Balkan.',
     extra: { about: { '@id': ORG_ID } },
   }),
@@ -68,7 +77,7 @@ const jsonLd = await buildGraph([
 ---
 
 <BaseLayout
-  title="Cultivias – Voće, Povrće i Ljekovito Bilje"
+  title="Cultivias | Voće, povrće i ljekovito bilje"
   description="Cultivias.com – vaš pouzdani izvor informacija o voću, povrću i ljekovitom bilju. Stručni članci, savjeti za uzgoj i zdravlje za cijeli Balkan."
   jsonLd={jsonLd}
 >
@@ -175,7 +184,7 @@ const jsonLd = await buildGraph([
       <div class="lg:col-span-2 bg-white rounded-2xl shadow-sm p-6">
         <div class="flex items-center border-b border-bg-pale" role="tablist">
           <button class="tab-und-btn active" role="tab" data-tab="najnovije" aria-selected="true">Najnovije</button>
-          <button class="tab-und-btn" role="tab" data-tab="najcitanije" aria-selected="false">Najčitanije</button>
+          <button class="tab-und-btn" role="tab" data-tab="najcitanije" aria-selected="false">Iz arhive</button>
           <button class="tab-und-btn" role="tab" data-tab="preporuka" aria-selected="false">Preporuka urednika</button>
         </div>
 
@@ -350,7 +359,7 @@ const jsonLd = await buildGraph([
   <!-- ===== NAJNOVIJI ČLANCI ===== -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="flex items-center justify-between mb-6">
-      <h2 class="text-2xl font-bold font-heading text-dark">Najnoviji članci</h2>
+      <h2 class="text-2xl font-bold font-heading text-dark">Još novih članaka</h2>
       <a href={`${base}voce/`} class="text-sm font-semibold transition-colors" style="color: var(--color-primary);">
         Svi članci &rarr;
       </a>

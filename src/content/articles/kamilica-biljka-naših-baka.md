@@ -1,5 +1,5 @@
 ---
-title: Kamilica- biljka naših baka
+title: "Kamilica: biljka naših baka"
 category: bilje
 author: redakcija
 image: /images/articles/cvjetovi-kamilice-u-podne.webp

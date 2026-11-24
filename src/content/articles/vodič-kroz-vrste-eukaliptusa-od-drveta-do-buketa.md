@@ -1,5 +1,5 @@
 ---
-title: "Vodič kroz vrste eukaliptusa: Od drveta do buketa"
+title: "Vodič kroz vrste eukaliptusa: od drveta do buketa"
 category: bilje
 author: redakcija
 image: /images/articles/eukaliptus-listevi.webp

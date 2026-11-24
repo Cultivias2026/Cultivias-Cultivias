@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { pageTitle } from '../../lib/naslov';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { buildGraph, webPageNode, breadcrumbNode, abs } from '../../lib/schema';
 import { publishedTags, clanciLabel, buildFacets, itemAttrs, CAT_LABELS } from '../../lib/tags';
@@ -60,7 +61,7 @@ const jsonLd = await buildGraph([
 ]);
 ---
 
-<BaseLayout title={def.metaTitle} description={def.metaDescription} canonical={path} jsonLd={jsonLd} {...(coverImage ? { image: coverImage } : {})}>
+<BaseLayout title={pageTitle(def.metaTitle)} description={def.metaDescription} canonical={path} jsonLd={jsonLd} {...(coverImage ? { image: coverImage } : {})}>
   <div data-facet-scope>
   <div class="bg-white border-b border-bg-pale">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

@@ -1,5 +1,5 @@
 ---
-title: Crni ribiz- sve što trebate znati o njemu
+title: "Crni ribiz: sve što trebate znati o njemu"
 category: voce
 author: redakcija
 image: /images/articles/20240624_192501.jpg
@@ -15,7 +15,7 @@ tags:
   - crni-ribiz
   - uzgoj
   - zdravlje
-metaTitle: Crni ribiz- sve što trebate znati o njemu
+metaTitle: "Crni ribiz: sve što trebate znati o njemu"
 noindex: false
 ukratko:
   naslov: Crni ribiz ukratko

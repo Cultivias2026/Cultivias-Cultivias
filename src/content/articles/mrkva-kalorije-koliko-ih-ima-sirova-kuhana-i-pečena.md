@@ -1,5 +1,5 @@
 ---
-title: "Mrkva kalorije: Koliko ih ima sirova, kuhana i pečena? "
+title: "Mrkva i kalorije: koliko ih ima sirova, kuhana i pečena?"
 category: povrce
 author: redakcija
 image: /images/articles/ubrana-crvena-mrkva-na-tanjuru.webp
@@ -21,7 +21,7 @@ related_articles:
   - mrkva-nutritivna-vrijednost-zdravlje-i-sadnja
   - koji-su-dobri-a-koji-loši-susjedi-mrkve-u-vrtu
   - kalorije-u-rajčici-usporedba-svježe-rajčice-passate-koncentrata-i-umaka
-metaTitle: "Mrkva kalorije: Koliko ih ima sirova, kuhana i pečena? "
+metaTitle: "Mrkva i kalorije: koliko ih ima sirova, kuhana i pečena?"
 noindex: false
 ---
 

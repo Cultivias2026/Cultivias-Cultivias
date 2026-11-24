@@ -70,6 +70,7 @@ const pathname = Astro.url.pathname;
 
   <div
     id="search-overlay"
+    data-nosnippet
     class="hidden fixed inset-0 z-50 bg-dark/80 flex items-start justify-center pt-24"
     role="dialog"
     aria-modal="true"
@@ -94,8 +95,8 @@ const pathname = Astro.url.pathname;
             </svg>
           </button>
         </div>
-        <p id="search-hint" class="mt-3 text-sm text-gray-400">Počnite tipkati za pretragu...</p>
-        <p id="search-empty" class="mt-3 text-sm text-gray-400 hidden">Nema rezultata.</p>
+        <p id="search-hint" class="mt-3 text-sm text-gray-400"></p>
+        <p id="search-empty" class="mt-3 text-sm text-gray-400 hidden"></p>
         <div id="search-results" class="hidden mt-3 divide-y divide-bg-pale max-h-80 overflow-y-auto -mx-6 px-6"></div>
       </div>
     </div>
@@ -178,6 +179,9 @@ const pathname = Astro.url.pathname;
   const searchResults = document.getElementById('search-results')!;
   const searchEmpty   = document.getElementById('search-empty')!;
   const searchHint    = document.getElementById('search-hint')!;
+  // Tekstovi tražilice upisuju se tek u pregledniku, da ih Google ne prikaže u isječku stranice.
+  searchHint.textContent = 'Počnite tipkati za pretragu...';
+  searchEmpty.textContent = 'Nema rezultata.';
 
   let pagefind: any = null;
   let debounce: ReturnType<typeof setTimeout>;

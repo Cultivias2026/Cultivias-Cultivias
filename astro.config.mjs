@@ -52,7 +52,9 @@ export default defineConfig({
     '/voce/crni-ribiz-i-željezo-prirodna-podrška-vitalnosti': '/voce/crni-ribiz-i-zeljezo/',
     '/voce/crni-ribiz-ljekovitost-i-zdravstvene-prednosti': '/voce/crni-ribiz-i-zdravlje/',
     '/povrce/mrkva-kompletan-vodič-o-zdravstvenim-prednostima-sadnji-i-nutritivnoj-vrijednosti': '/povrce/mrkva-nutritivna-vrijednost-zdravlje-i-sadnja/',
-    '/bilje/sve-što-trebate-znati-o-rajčici-od-sadnje-do-zdravstvenih-benefita': '/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/',
+    '/bilje/sve-što-trebate-znati-o-rajčici-od-sadnje-do-zdravstvenih-benefita': '/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/',
+    // 24. 11. 2026.: članak o rajčici premješten iz kategorije Bilje u Povrće (nalaz SEO audita).
+    '/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti': '/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/',
     '/bilje/limunski-eukaliptus-prirodna-zaštita-protiv-komaraca': '/bilje/limunski-eukaliptus-i-komarci/',
     '/voce/ogrozd--zaboravljeno-supervoće': '/voce/ogrozd-zaboravljeno-voce/',
     '/voce/naranča-vitaminska-bomba-u-jednoj-čaši': '/voce/naranca-nutritivna-vrijednost-vrste-i-uzgoj/',

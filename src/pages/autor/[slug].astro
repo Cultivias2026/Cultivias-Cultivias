@@ -8,7 +8,11 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 
 export async function getStaticPaths() {
   const authors = await getCollection('authors');
-  return authors.map(author => ({
+  // Stranica autora gradi se samo ako autor ima barem jedan objavljen članak
+  // (prazne arhive autora su tanak sadržaj; nalaz SEO audita, 24. 11. 2026.).
+  const articles = await getCollection('articles');
+  const withArticles = authors.filter(a => articles.some(x => x.data.author === a.data.slug));
+  return withArticles.map(author => ({
     params: { slug: author.data.slug },
     props: { author },
   }));

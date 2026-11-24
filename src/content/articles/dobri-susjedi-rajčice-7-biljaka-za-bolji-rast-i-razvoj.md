@@ -1,5 +1,5 @@
 ---
-title: Dobri susjedi rajčice- 7 biljaka za bolji rast i razvoj!
+title: "Dobri susjedi rajčice: 7 biljaka za bolji rast i razvoj"
 category: povrce
 author: redakcija
 image: /images/articles/zrioba-rajčice-od-zelene-do-crvene-.webp
@@ -29,7 +29,7 @@ related_articles:
   - sorte-paradajza-kompletan-vodič-kroz-determinantne-indeterminantne-i-druge-vrste
 ---
 
-Biljke posađene uz rajčicu mogu odbijati štetnike, čuvati vlagu u tlu ili jednostavno ne smetati njezinu rastu, a neke joj štete jer dijele iste bolesti. Takvo planiranje vrta zove se združena sadnja. Većina preporuka temelji se na iskustvu vrtlara, a samo je dio potvrđen istraživanjima. Cjelovit pregled uzgoja i njege donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/).
+Biljke posađene uz rajčicu mogu odbijati štetnike, čuvati vlagu u tlu ili jednostavno ne smetati njezinu rastu, a neke joj štete jer dijele iste bolesti. Takvo planiranje vrta zove se združena sadnja. Većina preporuka temelji se na iskustvu vrtlara, a samo je dio potvrđen istraživanjima. Cjelovit pregled uzgoja i njege donosi članak [sve što trebate znati o rajčici](https://www.cultivias.com/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/).
 
 U nastavku saznajte uz koje biljke se preporučuje [sadnja rajčice](https://www.cultivias.com/povrce/vodi%C4%8D-za-sadnju-raj%C4%8Dice-sve-%C5%A1to-trebate-znati-za-obilan-urod/), a koje je bolje držati podalje.
 

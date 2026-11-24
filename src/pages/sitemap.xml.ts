@@ -91,8 +91,10 @@ export const GET: APIRoute = async () => {
   // (pojmovnik: 23. 11. 2026. dodana detaljnija objašnjenja i stručni izvori).
   const staticEntries: Entry[] = [{ path: '/pojmovnik/', lastmod: '2026-11-23' }];
 
-  // Stranice autora (bez lastmod iz istog razloga).
-  const authorEntries: Entry[] = authors.map(a => ({ path: `/autor/${a.data.slug}/` }));
+  // Stranice autora (bez lastmod iz istog razloga); samo autori s barem jednim člankom.
+  const authorEntries: Entry[] = authors
+    .filter(a => articles.some(x => x.data.author === a.data.slug))
+    .map(a => ({ path: `/autor/${a.data.slug}/` }));
 
   // Stranice tema (/tema/<oznaka>/): samo oznake s dovoljno indeksabilnih članaka (minArticles).
   // lastmod = najnoviji datum članaka koje stranica prikazuje.

@@ -1,5 +1,5 @@
 ---
-title: 5 mjesta, 5 načina život! Kako su plave zone postale globalni fenomen!
+title: "5 mjesta, 5 načina života: kako su plave zone postale globalni fenomen"
 category: vijesti
 author: redakcija
 image: /images/articles/karta_plave_zone_karta_svijeta.webp

@@ -1,6 +1,6 @@
 ---
 title: "Sve što trebate znati o rajčici: od sadnje do prehrambene vrijednosti"
-category: bilje
+category: povrce
 author: redakcija
 image: /images/articles/zrele-crvene-rajčice.webp
 perex: Rajčica, popularno poznata i kao paradajz ili pomidor, nezaobilazan je

@@ -1,5 +1,5 @@
 ---
-title: "Zablude o narančama: Zašto boja kore ne jamči zrelost ploda"
+title: "Zablude o narančama: zašto boja kore ne jamči zrelost ploda"
 category: vijesti
 author: redakcija
 image: /images/articles/naranača-plod.webp

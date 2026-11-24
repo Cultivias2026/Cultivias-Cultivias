@@ -1,5 +1,5 @@
 ---
-title: "Eukaliptus kao sobna biljka: Vodič za uzgoj i njegu u tegli"
+title: "Eukaliptus kao sobna biljka: vodič za uzgoj i njegu u tegli"
 category: bilje
 author: redakcija
 image: /images/articles/eukaliptus-u-tegli.webp

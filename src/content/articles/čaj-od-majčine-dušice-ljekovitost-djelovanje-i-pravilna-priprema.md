@@ -1,5 +1,5 @@
 ---
-title: "Čaj od majčine dušice: Ljekovitost, djelovanje i pravilna priprema"
+title: "Čaj od majčine dušice: ljekovitost, djelovanje i pravilna priprema"
 category: bilje
 author: redakcija
 image: /images/articles/čaj-od-majčine-dušice.webp

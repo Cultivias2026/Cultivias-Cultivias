@@ -1,5 +1,5 @@
 ---
-title: "Nuspojave soka od aronije: Što trebate znati prije konzumacije"
+title: "Nuspojave soka od aronije: što trebate znati prije konzumacije"
 category: voce
 author: redakcija
 image: /images/articles/sok-od-aronije-u-staklenoj-boci.webp

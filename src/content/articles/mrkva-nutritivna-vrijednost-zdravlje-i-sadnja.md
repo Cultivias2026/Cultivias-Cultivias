@@ -100,7 +100,7 @@ Narančasta mrkva najpoznatija je i najčešća, a mrkve drugih boja sadrže dru
 
 ### Crvena mrkva – likopen
 
-Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) i lubenicu. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
+Crvena mrkva boju duguje likopenu, istom pigmentu koji boji [rajčicu](https://www.cultivias.com/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) i lubenicu. Slatkastog je okusa, a tradicionalno se uzgaja u Aziji; poznata je japanska sorta Kintoki.
 
 
 ### Žuta mrkva – lutein

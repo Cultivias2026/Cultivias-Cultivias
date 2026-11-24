@@ -1,5 +1,5 @@
 ---
-title: "Orezivanje ogrozda: Kada i kako pravilno orezati grm za veći urod?"
+title: "Orezivanje ogrozda: kada i kako pravilno orezati grm za veći urod?"
 category: voce
 author: redakcija
 image: /images/articles/orezivanje-ogrozda.webp
@@ -21,7 +21,7 @@ editors_pick: true
 tags:
   - ogrozd
   - uzgoj
-metaTitle: "Orezivanje ogrozda: Kada i kako pravilno orezati grm za veći urod?"
+metaTitle: "Orezivanje ogrozda: kada i kako pravilno orezati grm za veći urod?"
 noindex: false
 ukratko:
   naslov: Orezivanje ogrozda ukratko

@@ -1,5 +1,5 @@
 ---
-title: "Biljke protiv komaraca! Mit ili stvarna pomoć? "
+title: "Biljke protiv komaraca: mit ili stvarna pomoć?"
 category: vijesti
 author: redakcija
 image: /images/articles/pomažu-li-biljke-kod-komaraca.webp

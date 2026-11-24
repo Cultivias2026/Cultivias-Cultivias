@@ -1,5 +1,5 @@
 ---
-title: "Vodič za berbu i sušenje mente: Od svježeg lista do čaja"
+title: "Vodič za berbu i sušenje mente: od svježeg lista do čaja"
 category: bilje
 author: redakcija
 image: /images/articles/sušeni-čaj-od-mente-u-šalici-u-filteru-spreman-za-prelijevanje-vodom.webp

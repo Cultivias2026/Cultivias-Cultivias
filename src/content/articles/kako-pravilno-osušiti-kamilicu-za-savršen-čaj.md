@@ -1,5 +1,5 @@
 ---
-title: Kako pravilno osušiti kamilicu za savršen čaj!
+title: "Kako pravilno osušiti kamilicu za savršen čaj"
 category: bilje
 author: redakcija
 image: /images/articles/sušenje-svježe-ubranog-cvijeta-kamilice-na-kartonu.webp
@@ -14,7 +14,7 @@ editors_pick: false
 tags:
   - kamilica
   - cajevi
-metaTitle: Kako pravilno osušiti kamilicu za savršen čaj!
+metaTitle: "Kako pravilno osušiti kamilicu za savršen čaj"
 noindex: false
 ukratko:
   naslov: Sušenje kamilice ukratko

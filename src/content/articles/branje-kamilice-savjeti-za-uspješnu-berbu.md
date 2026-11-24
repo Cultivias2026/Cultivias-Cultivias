@@ -1,5 +1,5 @@
 ---
-title: Branje kamilice- savjeti za uspješnu berbu!
+title: "Branje kamilice: savjeti za uspješnu berbu"
 category: bilje
 author: redakcija
 image: /images/articles/branje-kamilice-ubrani-cjvetovi-u-zdjelici.webp
@@ -15,7 +15,7 @@ tags:
   - kamilica
   - uzgoj
   - cajevi
-metaTitle: Branje kamilice- savjeti za uspješnu berbu!
+metaTitle: "Branje kamilice: savjeti za uspješnu berbu"
 noindex: false
 ukratko:
   naslov: Branje kamilice ukratko

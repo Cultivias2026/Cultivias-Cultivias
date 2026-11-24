@@ -1,5 +1,5 @@
 ---
-title: Menta! Sve važne informacije o njoj!
+title: "Menta: sve važne informacije o njoj"
 category: bilje
 author: redakcija
 image: /images/articles/zelena-menta.webp

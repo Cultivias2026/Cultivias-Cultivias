@@ -36,7 +36,7 @@ related_articles:
   - dobri-susjedi-rajčice-7-biljaka-za-bolji-rast-i-razvoj
 ---
 
-[Rajčica](https://www.cultivias.com/bilje/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) (paradajz) jedna je od najpopularnijih povrtnih kultura, a u svijetu postoji više od 10.000 sorti. [Sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) razlikuju se po veličini, obliku, boji, okusu i namjeni, a ne uspijevaju sve jednako dobro u našim klimatskim uvjetima. U nastavku saznajte po čemu se prepoznaje ukusna sorta i koje se kod nas najčešće izdvajaju okusom.
+[Rajčica](https://www.cultivias.com/povrce/sve-o-rajcici-od-sadnje-do-prehrambene-vrijednosti/) (paradajz) jedna je od najpopularnijih povrtnih kultura, a u svijetu postoji više od 10.000 sorti. [Sorte rajčice](https://www.cultivias.com/povrce/sorte-paradajza-kompletan-vodi%C4%8D-kroz-determinantne-indeterminantne-i-druge-vrste/) razlikuju se po veličini, obliku, boji, okusu i namjeni, a ne uspijevaju sve jednako dobro u našim klimatskim uvjetima. U nastavku saznajte po čemu se prepoznaje ukusna sorta i koje se kod nas najčešće izdvajaju okusom.
 
 ## Što čini sortu “najukusnijom”?
 
